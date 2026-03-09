@@ -108,7 +108,7 @@ height:120px;
 display:block;
 }
 
-/* ONDA HERO (INDEX) */
+/* ONDA HERO */
 
 .wave-hero{
 position:absolute;
@@ -208,7 +208,7 @@ text-align:left;
 
 display:flex;
 flex-direction:column;
-height:100%;
+justify-content:space-between;
 }
 
 .curso-card h3{
@@ -231,7 +231,8 @@ border-radius:6px;
 text-decoration:none;
 font-weight:bold;
 
-margin-top:auto;
+margin-top:20px;
+width:auto;
 align-self:flex-start;
 }
 
@@ -274,7 +275,7 @@ box-shadow:0 10px 25px rgba(0,0,0,0.08);
 
 display:flex;
 flex-direction:column;
-height:100%;
+justify-content:space-between;
 }
 
 .cert-card h3{
@@ -294,9 +295,7 @@ padding:12px 25px;
 border-radius:6px;
 text-decoration:none;
 font-weight:bold;
-
-margin-top:auto;
-align-self:flex-start;
+margin-top:20px;
 }
 
 .cert-btn:hover{
@@ -360,7 +359,7 @@ cursor:pointer;
 background:#2f6cc3;
 }
 
-/* DROPDOWN CURSOS */
+/* DROPDOWN */
 
 .menu-dropdown{
 position:relative;
@@ -395,7 +394,7 @@ background:#f4f6f9;
 display:block;
 }
 
-/* SEÇÃO AUTOR */
+/* AUTOR */
 
 .autor{
 padding:120px;
