@@ -359,41 +359,6 @@ cursor:pointer;
 background:#2f6cc3;
 }
 
-/* DROPDOWN */
-
-.menu-dropdown{
-position:relative;
-display:inline-block;
-}
-
-.dropdown{
-position:absolute;
-top:100%;
-left:0;
-background:white;
-min-width:200px;
-border-radius:8px;
-box-shadow:0 10px 25px rgba(0,0,0,0.15);
-display:none;
-padding:10px 0;
-}
-
-.dropdown a{
-display:block;
-padding:12px 20px;
-color:#163a63;
-text-decoration:none;
-font-weight:500;
-}
-
-.dropdown a:hover{
-background:#f4f6f9;
-}
-
-.menu-dropdown:hover .dropdown{
-display:block;
-}
-
 /* AUTOR */
 
 .autor{
@@ -448,6 +413,16 @@ position:relative;
 
 @media (max-width:768px){
 
+body{
+background:linear-gradient(
+180deg,
+#163a63 0%,
+#2f6cc3 40%,
+#5f9df5 70%,
+#ffffff 100%
+);
+}
+
 header{
 padding:20px;
 justify-content:center;
@@ -474,10 +449,6 @@ flex-direction:column;
 text-align:center;
 }
 
-.hero-text{
-max-width:100%;
-}
-
 .hero-text h1{
 font-size:34px;
 }
@@ -487,7 +458,6 @@ font-size:18px;
 }
 
 .hero-buttons{
-display:flex;
 flex-direction:column;
 gap:15px;
 align-items:center;
@@ -511,10 +481,6 @@ padding:80px 20px;
 flex-direction:column;
 text-align:center;
 gap:40px;
-}
-
-.sobre-texto{
-max-width:100%;
 }
 
 .sobre-texto h1{
@@ -566,10 +532,6 @@ padding:80px 20px;
 flex-direction:column;
 text-align:center;
 gap:40px;
-}
-
-.autor-texto{
-max-width:100%;
 }
 
 .autor-texto h2{
