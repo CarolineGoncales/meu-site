@@ -197,7 +197,7 @@ grid-template-columns:repeat(2,1fr);
 gap:40px;
 }
 
-/* CORRIGIDO PARA ALINHAR BOTÕES */
+/* CARD CURSOS */
 
 .curso-card{
 background:white;
@@ -230,7 +230,9 @@ padding:12px 25px;
 border-radius:6px;
 text-decoration:none;
 font-weight:bold;
+
 margin-top:auto;
+align-self:flex-start;
 }
 
 .curso-btn:hover{
@@ -294,6 +296,7 @@ text-decoration:none;
 font-weight:bold;
 
 margin-top:auto;
+align-self:flex-start;
 }
 
 .cert-btn:hover{
