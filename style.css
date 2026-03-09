@@ -442,35 +442,164 @@ margin-top:-40px;
 position:relative;
 }
 
-.glow-logo img{
-animation:glow 2s ease-in-out infinite alternate;
+/* ============================= */
+/* MOBILE RESPONSIVO */
+/* ============================= */
+
+@media (max-width:768px){
+
+header{
+padding:20px;
+justify-content:center;
 }
 
-@keyframes glow{
-from{
-filter:drop-shadow(0 0 5px rgba(255,255,255,0.3));
-}
-to{
-filter:drop-shadow(0 0 20px rgba(255,255,255,0.8));
-}
+nav{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:10px;
 }
 
-.logo-animado{
-animation: energiaLogo 3s infinite alternate;
+nav a{
+margin-left:0;
+font-size:14px;
 }
 
-@keyframes energiaLogo{
-
-0%{
-filter: drop-shadow(0 0 0px #3aa6ff);
+.hero{
+padding:80px 20px 120px 20px;
 }
 
-50%{
-filter: drop-shadow(0 0 15px #3aa6ff);
+.hero-container{
+flex-direction:column;
+text-align:center;
 }
 
-100%{
-filter: drop-shadow(0 0 30px #8dd3ff);
+.hero-text{
+max-width:100%;
+}
+
+.hero-text h1{
+font-size:34px;
+}
+
+.hero-text p{
+font-size:18px;
+}
+
+.hero-buttons{
+display:flex;
+flex-direction:column;
+gap:15px;
+align-items:center;
+}
+
+.hero-buttons a{
+width:220px;
+margin-right:0;
+}
+
+.hero-image img{
+width:220px;
+margin-top:40px;
+}
+
+.sobre{
+padding:80px 20px;
+}
+
+.sobre-container{
+flex-direction:column;
+text-align:center;
+gap:40px;
+}
+
+.sobre-texto{
+max-width:100%;
+}
+
+.sobre-texto h1{
+font-size:32px;
+}
+
+.sobre-texto p{
+font-size:16px;
+text-align:left;
+}
+
+.sobre-imagem img{
+width:220px;
+}
+
+.cursos{
+padding:80px 20px;
+}
+
+.cursos h1{
+font-size:32px;
+}
+
+.cursos h2{
+font-size:26px;
+}
+
+.cursos-grid{
+grid-template-columns:1fr;
+}
+
+.certificacao{
+padding:80px 20px 40px 20px;
+}
+
+.certificacao h1{
+font-size:32px;
+}
+
+.cert-grid{
+grid-template-columns:1fr;
+}
+
+.autor{
+padding:80px 20px;
+}
+
+.autor-container{
+flex-direction:column;
+text-align:center;
+gap:40px;
+}
+
+.autor-texto{
+max-width:100%;
+}
+
+.autor-texto h2{
+font-size:28px;
+}
+
+.autor-texto p{
+font-size:16px;
+text-align:left;
+}
+
+.autor-foto img{
+width:200px;
+}
+
+.contato{
+padding:80px 20px 120px 20px;
+}
+
+.contato h1{
+font-size:32px;
+}
+
+.contato-form input,
+.contato-form textarea{
+width:100%;
+}
+
+.copyright{
+margin-top:40px;
 }
 
 }
