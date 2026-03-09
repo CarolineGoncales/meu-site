@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="UTF-8">
+<title>Contato - CPG Technology Consulting</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="sobre.html">Sobre</a>
+<a href="cursos.html">Cursos</a>
+<a href="certificacao.html">Certificação</a>
+<a href="contato.html">Contato</a>
+</nav>
+
+</header>
+
+
+<section class="contato">
+
+<h1>Entre em Contato</h1>
+
+<p class="contato-sub">
+Tem dúvidas sobre cursos ou certificações? Fale conosco.
+</p>
+
+
+<div class="contato-container">
+
+<form id="formContato" class="contato-form">
+
+<input type="text" id="nome" placeholder="Seu nome" required>
+
+<input type="email" id="email" placeholder="Seu e-mail" required>
+
+<textarea id="mensagem" placeholder="Sua mensagem" required></textarea>
+
+<button type="submit">Enviar mensagem</button>
+
+</form>
+
+</div>
+
+</section>
+
+
+<div class="wave">
+<svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+<path d="M0,60 C240,120 480,0 720,60 C960,120 1200,0 1440,60 L1440,120 L0,120 Z" fill="#ffffff"></path>
+</svg>
+
+<p class="copyright">
+© 2026 CPG Technology Consulting — Todos os direitos reservados
+</p> 
+</div>
+
+
+<!-- EMAILJS -->
+
+<script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+
+<script>
+
+(function(){
+emailjs.init("jjCZK1jHx4tRtfUiS");
+})();
+
+document.getElementById("formContato").addEventListener("submit", function(event) {
+
+event.preventDefault();
+
+emailjs.send("service_g4z931k","template_qjuhtw9",{
+name: document.getElementById("nome").value,
+email: document.getElementById("email").value,
+message: document.getElementById("mensagem").value
+})
+.then(function() {
+
+alert("Mensagem enviada com sucesso!");
+document.getElementById("formContato").reset();
+
+}, function(error) {
+
+alert("Erro ao enviar. Tente novamente.");
+
+});
+
+});
+
+</script>
+
+</body>
+</html>
