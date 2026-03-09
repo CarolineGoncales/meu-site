@@ -197,12 +197,18 @@ grid-template-columns:repeat(2,1fr);
 gap:40px;
 }
 
+/* CORRIGIDO PARA ALINHAR BOTÕES */
+
 .curso-card{
 background:white;
 padding:40px;
 border-radius:12px;
 box-shadow:0 10px 25px rgba(0,0,0,0.08);
 text-align:left;
+
+display:flex;
+flex-direction:column;
+justify-content:space-between;
 }
 
 .curso-card h3{
@@ -224,6 +230,7 @@ padding:12px 25px;
 border-radius:6px;
 text-decoration:none;
 font-weight:bold;
+margin-top:auto;
 }
 
 .curso-btn:hover{
@@ -351,8 +358,6 @@ position:relative;
 display:inline-block;
 }
 
-/* MENU */
-
 .dropdown{
 position:absolute;
 top:100%;
@@ -365,8 +370,6 @@ display:none;
 padding:10px 0;
 }
 
-/* ITENS */
-
 .dropdown a{
 display:block;
 padding:12px 20px;
@@ -375,13 +378,9 @@ text-decoration:none;
 font-weight:500;
 }
 
-/* HOVER */
-
 .dropdown a:hover{
 background:#f4f6f9;
 }
-
-/* MOSTRAR MENU */
 
 .menu-dropdown:hover .dropdown{
 display:block;
@@ -425,17 +424,6 @@ line-height:1.6;
 margin-bottom:15px;
 text-align: justify;
 }
-
-footer{
-background:#0f2f52;
-color:white;
-text-align:center;
-padding:30px 20px;
-font-size:14px;
-letter-spacing:1px;
-opacity:0.9;
-}
-
 
 .copyright{
 text-align:center;
