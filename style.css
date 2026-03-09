@@ -417,14 +417,16 @@ body{
 background:linear-gradient(
 180deg,
 #163a63 0%,
-#2f6cc3 40%,
+#2f6cc3 35%,
 #5f9df5 70%,
 #ffffff 100%
 );
 }
 
+/* HEADER */
+
 header{
-padding:20px;
+padding:18px 15px;
 justify-content:center;
 }
 
@@ -432,13 +434,15 @@ nav{
 display:flex;
 flex-wrap:wrap;
 justify-content:center;
-gap:10px;
+gap:14px;
 }
 
 nav a{
 margin-left:0;
 font-size:14px;
 }
+
+/* HERO */
 
 .hero{
 padding:80px 20px 120px 20px;
@@ -449,29 +453,43 @@ flex-direction:column;
 text-align:center;
 }
 
+.hero-text{
+max-width:100%;
+}
+
 .hero-text h1{
 font-size:34px;
+line-height:1.25;
 }
 
 .hero-text p{
 font-size:18px;
 }
 
+/* BOTÕES HERO */
+
 .hero-buttons{
+display:flex;
 flex-direction:column;
-gap:15px;
 align-items:center;
+gap:20px;
+margin-top:30px;
 }
 
 .hero-buttons a{
-width:220px;
+width:240px;
+text-align:center;
 margin-right:0;
 }
+
+/* IMAGEM */
 
 .hero-image img{
 width:220px;
 margin-top:40px;
 }
+
+/* SOBRE */
 
 .sobre{
 padding:80px 20px;
@@ -481,6 +499,10 @@ padding:80px 20px;
 flex-direction:column;
 text-align:center;
 gap:40px;
+}
+
+.sobre-texto{
+max-width:100%;
 }
 
 .sobre-texto h1{
@@ -496,6 +518,8 @@ text-align:left;
 width:220px;
 }
 
+/* CURSOS */
+
 .cursos{
 padding:80px 20px;
 }
@@ -510,7 +534,10 @@ font-size:26px;
 
 .cursos-grid{
 grid-template-columns:1fr;
+gap:30px;
 }
+
+/* CERTIFICACAO */
 
 .certificacao{
 padding:80px 20px 40px 20px;
@@ -522,7 +549,10 @@ font-size:32px;
 
 .cert-grid{
 grid-template-columns:1fr;
+gap:30px;
 }
+
+/* AUTOR */
 
 .autor{
 padding:80px 20px;
@@ -532,6 +562,10 @@ padding:80px 20px;
 flex-direction:column;
 text-align:center;
 gap:40px;
+}
+
+.autor-texto{
+max-width:100%;
 }
 
 .autor-texto h2{
@@ -547,6 +581,8 @@ text-align:left;
 width:200px;
 }
 
+/* CONTATO */
+
 .contato{
 padding:80px 20px 120px 20px;
 }
@@ -560,8 +596,20 @@ font-size:32px;
 width:100%;
 }
 
+/* FOOTER */
+
 .copyright{
 margin-top:40px;
+}
+
+/* DESATIVA DROPDOWN NO MOBILE */
+
+.dropdown{
+display:none !important;
+}
+
+.menu-dropdown:hover .dropdown{
+display:none !important;
 }
 
 }
