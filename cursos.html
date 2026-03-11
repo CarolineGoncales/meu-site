@@ -33,7 +33,7 @@ background:white;
 padding:40px;
 border-radius:10px;
 text-align:center;
-max-width:400px;
+max-width:700px;
 box-shadow:0 10px 30px rgba(0,0,0,0.25);
 }
 
@@ -44,7 +44,12 @@ margin-bottom:15px;
 
 .modal-content p{
 color:#444;
-margin-bottom:25px;
+margin-bottom:20px;
+}
+
+.modal-content ul{
+text-align:left;
+margin-bottom:20px;
 }
 
 .modal-content button{
@@ -73,25 +78,7 @@ background:#2f6cc3;
 
 <a href="index.html">Home</a>
 <a href="sobre.html">Sobre</a>
-
-<div class="menu-dropdown">
-
 <a href="cursos.html">Cursos</a>
-
-<div class="dropdown">
-
-<a href="cursos.html#gratuitos">
-📘 Cursos<br>Gratuitos
-</a>
-
-<a href="cursos.html#pagos">
-💼 Cursos<br>Pagos
-</a>
-
-</div>
-
-</div>
-
 <a href="certificacao.html">Certificação</a>
 <a href="contato.html">Contato</a>
 
@@ -123,7 +110,7 @@ Aprenda os princípios essenciais da gestão de projetos, planejamento,
 controle de cronograma, gestão de riscos e acompanhamento de entregas.
 </p>
 
-<a href="#" class="curso-btn" onclick="abrirPopup()">Acessar Curso</a>
+<a href="#" class="curso-btn" onclick="abrirExplicacao()">Acessar Curso</a>
 
 </div>
 
@@ -209,7 +196,71 @@ redes neurais profundas e bibliotecas modernas de machine learning.
 </section>
 
 
-<!-- POPUP -->
+
+<!-- POPUP EXPLICAÇÃO TÉCNICA -->
+
+<div id="popupExplicacao" class="modal">
+
+<div class="modal-content">
+
+<h3>Fundamentos de Gestão de Projetos</h3>
+
+<p><strong>Antes de começar:</strong></p>
+
+<p>Como usamos exemplos simples no vídeo, vale uma anotação oficial:</p>
+
+<ul>
+<li><strong>Projeto</strong> → cria algo específico</li>
+<li><strong>Programa</strong> → organiza vários projetos relacionados</li>
+<li><strong>Portfólio</strong> → reúne projetos e programas alinhados à estratégia da organização</li>
+</ul>
+
+<p><strong>Exemplo:</strong></p>
+
+<ul>
+<li><strong>Portfólio:</strong> estratégia digital da empresa</li>
+<li><strong>Programa:</strong> transformação digital</li>
+<li><strong>Projetos:</strong></li>
+<li>• criar aplicativo</li>
+<li>• implementar CRM</li>
+<li>• novo site</li>
+<li>• automação de marketing</li>
+</ul>
+
+<button onclick="abrirCurso()">Assistir aula</button>
+
+</div>
+
+</div>
+
+
+
+<!-- POPUP VIDEO -->
+
+<div id="popupCurso" class="modal">
+
+<div class="modal-content" style="max-width:900px;">
+
+<h3>Fundamentos de Gestão de Projetos</h3>
+
+<iframe width="100%" height="450"
+src="https://www.youtube.com/embed/vnjrFh5Eh4A"
+title="YouTube video player"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+<br><br>
+
+<button onclick="fecharCurso()">Fechar</button>
+
+</div>
+
+</div>
+
+
+
+<!-- POPUP EM BREVE -->
 
 <div id="popup" class="modal">
 
@@ -228,7 +279,27 @@ Este curso ainda está sendo preparado e será liberado em breve.
 </div>
 
 
+
 <script>
+
+function abrirExplicacao(){
+document.getElementById("popupExplicacao").style.display="flex";
+}
+
+function abrirCurso(){
+document.getElementById("popupExplicacao").style.display="none";
+document.getElementById("popupCurso").style.display="flex";
+}
+
+function fecharCurso(){
+
+let popup = document.getElementById("popupCurso");
+popup.style.display="none";
+
+let iframe = popup.querySelector("iframe");
+iframe.src = iframe.src;
+
+}
 
 function abrirPopup(){
 document.getElementById("popup").style.display="flex";
@@ -239,6 +310,7 @@ document.getElementById("popup").style.display="none";
 }
 
 </script>
+
 
 
 <div class="wave">
@@ -254,4 +326,4 @@ document.getElementById("popup").style.display="none";
 </div>
 
 </body>
-</html>
+
