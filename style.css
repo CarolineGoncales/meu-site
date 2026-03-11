@@ -613,3 +613,14 @@ display:none !important;
 }
 
 }
+
+@media (max-width:768px){
+
+.contato{
+padding:80px 20px 160px 20px;
+min-height:100vh;
+box-sizing:border-box;
+}
+
+}
+
