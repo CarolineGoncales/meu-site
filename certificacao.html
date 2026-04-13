@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Certificação - CPG Technology Consulting</title>
+
+<meta name="description" content="Certificações profissionais da CPG Technology Consulting em Governança de Dados, Análise de Dados e Business Intelligence.">
+
+<link rel="icon" type="image/png" href="favicon-32x32.png">
+
+<link rel="stylesheet" href="style.css">
+
+
+<!-- OPEN GRAPH (WHATSAPP / LINKEDIN) -->
+
+<meta property="og:title" content="Certificação - CPG Technology Consulting">
+<meta property="og:description" content="Valide seus conhecimentos com as certificações da CPG Technology Consulting.">
+<meta property="og:image" content="logo.png">
+<meta property="og:type" content="website">
+
+
+<style>
+
+/* POPUP */
+
+.modal{
+display:none;
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:rgba(0,0,0,0.5);
+justify-content:center;
+align-items:center;
+z-index:999;
+}
+
+.modal-content{
+background:white;
+padding:40px;
+border-radius:10px;
+text-align:center;
+max-width:400px;
+box-shadow:0 10px 30px rgba(0,0,0,0.25);
+}
+
+.modal-content h3{
+color:#163a63;
+margin-bottom:15px;
+}
+
+.modal-content p{
+color:#444;
+margin-bottom:25px;
+}
+
+.modal-content button{
+background:#163a63;
+color:white;
+border:none;
+padding:12px 25px;
+border-radius:6px;
+cursor:pointer;
+}
+
+.modal-content button:hover{
+background:#2f6cc3;
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+<header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="sobre.html">Sobre</a>
+<a href="cursos.html">Cursos</a>
+<a href="certificacao.html">Certificação</a>
+<a href="contato.html">Contato</a>
+</nav>
+
+</header>
+
+
+<section class="certificacao">
+
+<h1>Certificação CPG</h1>
+
+<p class="certificacao-sub">
+Valide seus conhecimentos através das certificações da CPG Technology Consulting.
+</p>
+
+
+<div class="cert-grid">
+
+
+<div class="cert-card">
+
+<h3>Certificação em Governança de Dados</h3>
+
+<p>
+Avaliação para validar conhecimentos em práticas de governança,
+gestão e organização de dados.
+</p>
+
+<a href="javascript:void(0)" class="cert-btn" onclick="abrirPopup()">
+Realizar Prova
+</a>
+
+</div>
+
+
+<div class="cert-card">
+
+<h3>Certificação em Análise de Dados</h3>
+
+<p>
+Comprove sua capacidade de interpretar dados e gerar insights
+para apoio à tomada de decisão.
+</p>
+
+<a href="javascript:void(0)" class="cert-btn" onclick="abrirPopup()">
+Realizar Prova
+</a>
+
+</div>
+
+
+<div class="cert-card">
+
+<h3>Certificação em Business Intelligence</h3>
+
+<p>
+Valide seus conhecimentos em ferramentas de BI e análise
+estratégica de informações.
+</p>
+
+<a href="javascript:void(0)" class="cert-btn" onclick="abrirPopup()">
+Realizar Prova
+</a>
+
+</div>
+
+
+</div>
+
+</section>
+
+
+
+<!-- POPUP -->
+
+<div id="popup" class="modal">
+
+<div class="modal-content">
+
+<h3>🚧 Conteúdo em breve</h3>
+
+<p>
+As certificações ainda estão sendo preparadas e serão liberadas em breve.
+</p>
+
+<button onclick="fecharPopup()">OK</button>
+
+</div>
+
+</div>
+
+
+
+<script>
+
+function abrirPopup(){
+document.getElementById("popup").style.display="flex";
+}
+
+function fecharPopup(){
+document.getElementById("popup").style.display="none";
+}
+
+window.onclick = function(event){
+let popup = document.getElementById("popup");
+if(event.target === popup){
+popup.style.display="none";
+}
+}
+
+</script>
+
+
+
+<div class="wave">
+
+<svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+
+<path d="M0,60 C240,120 480,0 720,60 C960,120 1200,0 1440,60 L1440,120 L0,120 Z" fill="#ffffff"></path>
+
+</svg>
+
+<p class="copyright">
+© 2026 CPG Technology Consulting — Todos os direitos reservados
+</p>
+
+</div>
+
+</body>
+
+</html>
