@@ -552,3 +552,159 @@ grid-template-columns:1fr;
   color: #4FC3F7;
   font-weight: 600;
 }
+
+@media (max-width:768px){
+
+/* HERO */
+.hero{
+  padding:60px 20px 100px 20px;
+}
+
+.hero-container{
+  flex-direction:column;
+  text-align:center;
+  gap:30px;
+}
+
+.hero-text{
+  max-width:100%;
+}
+
+.hero-text h1{
+  font-size:28px;
+  line-height:1.3;
+}
+
+.hero-text p{
+  font-size:16px;
+}
+
+/* BOTÕES */
+.hero-buttons{
+  display:flex;
+  flex-direction:column;
+  gap:15px;
+  align-items:center;
+}
+
+.hero-buttons a{
+  width:100%;
+  max-width:260px;
+  text-align:center;
+}
+
+/* LOGO */
+.hero-image img{
+  width:200px;
+  margin-top:10px;
+}
+
+/* SOBRE */
+.sobre{
+  padding:80px 20px;
+}
+
+.sobre-container{
+  flex-direction:column;
+  gap:40px;
+  text-align:center;
+}
+
+.sobre-texto{
+  max-width:100%;
+}
+
+.sobre-texto h1{
+  font-size:28px;
+}
+
+.sobre-texto p{
+  font-size:16px;
+  text-align:left;
+}
+
+.sobre-imagem img{
+  width:220px;
+}
+
+/* CURSOS */
+.cursos{
+  padding:80px 20px;
+}
+
+.cursos h1{
+  font-size:28px;
+}
+
+.cursos h2{
+  font-size:22px;
+}
+
+.cursos-sub{
+  font-size:16px;
+}
+
+/* CERTIFICAÇÃO */
+.certificacao{
+  padding:80px 20px 20px 20px;
+}
+
+.certificacao h1{
+  font-size:28px;
+}
+
+.certificacao-sub{
+  font-size:16px;
+}
+
+/* CONTATO */
+.contato{
+  padding:80px 20px 120px 20px;
+}
+
+.contato h1{
+  font-size:28px;
+}
+
+.contato-sub{
+  font-size:16px;
+}
+
+/* AUTOR */
+.autor{
+  padding:80px 20px;
+}
+
+.autor-container{
+  flex-direction:column;
+  gap:40px;
+  text-align:center;
+}
+
+.autor-foto img{
+  width:200px;
+}
+
+.autor-texto h2{
+  font-size:26px;
+}
+
+.autor-texto p{
+  font-size:16px;
+  text-align:left;
+}
+
+/* FOOTER */
+.footer{
+  padding:30px 15px;
+}
+
+.footer h3{
+  font-size:18px;
+}
+
+.footer p{
+  font-size:14px;
+}
+
+}
