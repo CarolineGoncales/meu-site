@@ -452,40 +452,43 @@ text-align: justify;
 /* FOOTER */
 
 .footer{
-background:#0f172a;
-color:#fff;
-padding:40px 20px;
-text-align:center;
-margin-top:60px;
+  background:#0f172a;
+  color:#fff;
+  padding:20px 15px; /* ↓ diminui bastante */
+  text-align:center;
+  margin-top:30px; /* ↓ menos espaço acima */
 }
 
 .footer h3{
-margin-bottom:10px;
-font-size:22px;
+  margin-bottom:6px; /* ↓ mais compacto */
+  font-size:18px;   /* ↓ mais equilibrado */
 }
 
 .footer p{
-color:#cbd5e1;
-margin-bottom:15px;
+  color:#cbd5e1;
+  margin-bottom:8px; /* ↓ menos espaço entre textos */
+  font-size:14px;
 }
 
 .footer-links{
-margin-bottom:20px;
+  margin-bottom:10px; /* ↓ reduz espaço */
 }
 
 .footer-links a{
-color:#94a3b8;
-margin:0 10px;
-text-decoration:none;
+  color:#94a3b8;
+  margin:0 8px;
+  text-decoration:none;
+  font-size:14px;
 }
 
 .footer-links a:hover{
-color:#fff;
+  color:#fff;
 }
 
 .footer-copy{
-font-size:12px;
-color:#64748b;
+  font-size:11px;
+  color:#64748b;
+  margin-top:5px;
 }
 
 /* MOBILE */
@@ -707,4 +710,109 @@ grid-template-columns:1fr;
   font-size:14px;
 }
 
+}
+
+.faixa-logos {
+  background: white;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.faixa-logos img {
+  height: 40px;
+  object-fit: contain;
+}
+
+.faixa-logos {
+  background: white;
+  overflow: hidden;
+  padding: 20px 0;
+  position: relative;
+}
+
+.logos-track {
+  display: flex;
+  gap: 60px;
+  animation: scroll 150s linear infinite;
+}
+
+.logo-item img {
+  height: 40px;
+  cursor: pointer;
+}
+
+/* movimento */
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+/* pausa ao passar o mouse */
+.faixa-logos:hover .logos-track {
+  animation-play-state: paused;
+}
+
+/*pop up imagens */
+.popup {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+  justify-content: center;
+  align-items: center;
+}
+
+.popup-content {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+}
+
+.fechar {
+  float: right;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.faixa-logos {
+  overflow: hidden;
+  background: white;
+  padding: 20px 0;
+}
+
+.logos {
+  display: flex;
+  gap: 60px;
+  animation: scroll 20s linear infinite;
+}
+
+.logos img {
+  height: 40px;
+}
+
+/* ANIMAÇÃO */
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.faixa-logos {
+  margin-top: 0;
+  padding: 10px 0; /* diminui se quiser mais colado */
 }

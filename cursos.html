@@ -114,7 +114,7 @@ Aprenda os primeiros passos em Python na prática: variáveis, entrada de dados,
 condições e lógica de programação para iniciar na área de tecnologia.
 </p>
 
-<a href="#" class="curso-btn" onclick="abrirExplicacaoPython(); return false;">
+<a href="#" class="curso-btn" onclick="abrirCursoUdemy(); return false;">
 Acessar Curso
 </a>
 
@@ -134,7 +134,7 @@ Acessar Curso
 Aprenda os conceitos básicos de containers, criação de imagens e execução
 de aplicações com Docker.
 </p>
-<a href="#" class="curso-btn" onclick="abrirPopup(); return false;">Acessar Curso</a>
+<a href="#" class="curso-btn" onclick="abrirCursoUdemy(); return false;">Acessar Curso</a>
 </div>
 
 <div class="curso-card">
@@ -160,6 +160,17 @@ Aprenda gestão de projetos na prática, com aplicação real, metodologias áge
 e tradicionais, além de material completo para estudo.
 </p>
 <a href="#" class="curso-btn" onclick="abrirOpcoesCurso(); return false;">Acessar Curso</a>
+</div>
+
+<div class="curso-card">
+  <h3>Python do Zero ao Prático + Apostila</h3>
+  <p>
+  Aprenda programação do zero com Python, desenvolvendo lógica, estruturas
+  condicionais, loops e validações, com material de apoio completo.
+  </p>
+  <a href="#" class="curso-btn" onclick="abrirCursoUdemy(); return false;">
+    Acessar Curso
+  </a>
 </div>
 
 <div class="curso-card">
@@ -311,27 +322,55 @@ allowfullscreen>
 
 <!-- CURSO PAGO -->
 
+<div id="popupUdemy" class="modal">
+  <div class="modal-content">
+    
+    <h3>Python do Zero ao Prático</h3>
+
+    <p>
+    Curso completo para iniciantes, com foco em prática real. 
+    Você aprenderá lógica de programação, estruturas de decisão, loops,
+    validações e construção de programas aplicáveis ao dia a dia.
+    </p>
+
+    <ul>
+      <li>✔ Lógica de programação</li>
+      <li>✔ Estruturas condicionais (if/else)</li>
+      <li>✔ Laços de repetição</li>
+      <li>✔ Validação de dados</li>
+      <li>✔ Apostila de apoio</li>
+    </ul>
+
+    <a href="https://www.udemy.com/course/seu-primeiro-projeto-python-apostila/?referralCode=380680137B278313A6C7" target="_blank">
+      <button>Acessar pela Udemy</button>
+    </a>
+
+    <br><br>
+
+    <button onclick="fecharCursoUdemy()">Fechar</button>
+
+  </div>
+</div>
+
+
 <div id="popupOpcoes" class="modal">
-<div class="modal-content">
-<h3>🔥 Escolha sua forma de acesso</h3>
+  <div class="modal-content">
+    <h3>🔥 Escolha sua forma de acesso</h3>
 
-<a href="https://www.udemy.com/course/gestao-de-projetos-sem-complicacao-apostila/?referralCode=E05920285687DB5791F9" target="_blank">
-<button style="margin-bottom:10px; width:100%;">Acessar pela Udemy</button>
-</a>
+    <a href="https://www.udemy.com/course/gestao-de-projetos-sem-complicacao-apostila/?referralCode=E05920285687DB5791F9" target="_blank">
+      <button style="margin-bottom:10px; width:100%;">Acessar pela Udemy</button>
+    </a>
 
-<a href="https://go.hotmart.com/Y105307672G?dp=1" target="_blank">
-<button style="width:100%;">Acessar pela Hotmart</button>
-</a>
+    <a href="https://go.hotmart.com/Y105307672G?dp=1" target="_blank">
+      <button style="width:100%;">Acessar pela Hotmart</button>
+    </a>
 
-<br><br>
+    <br><br>
 
-<button onclick="fecharOpcoes()">Fechar</button>
+    <button onclick="fecharOpcoes()">Fechar</button>
+  </div>
 </div>
-</div>
-
-
 <script>
-
 // ===== PROJETOS =====
 
 function abrirExplicacao(){
@@ -401,7 +440,16 @@ function fecharOpcoes(){
 document.getElementById("popupOpcoes").style.display="none";
 }
 
+function abrirCursoUdemy(){
+  document.getElementById("popupUdemy").style.display="flex";
+}
+
+function fecharCursoUdemy(){
+  document.getElementById("popupUdemy").style.display="none";
+}
+
 </script>
+
 
 
 <!-- ✅ NOVO FOOTER -->
