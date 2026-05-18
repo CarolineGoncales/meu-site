@@ -972,3 +972,46 @@ grid-template-columns:1fr;
 
     z-index:0;
 }
+
+#voiceButton{
+
+position:fixed;
+
+top:90px;
+
+right:20px;
+
+z-index:99999;
+
+display:none;
+
+align-items:center;
+
+justify-content:center;
+
+padding:12px 18px;
+
+border:none;
+
+border-radius:14px;
+
+background:#58B6FF;
+
+color:#001122;
+
+font-weight:700;
+
+cursor:pointer;
+
+box-shadow:
+0 0 20px rgba(88,182,255,0.5);
+
+transition:0.3s;
+
+}
+
+#voiceButton:hover{
+
+transform:scale(1.05);
+
+}

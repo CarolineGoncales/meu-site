@@ -95,7 +95,8 @@
 
       <!-- IA -->
 
-      <div class="play-card">
+      <div class="play-card ai-card"
+      onclick="openAiPopup()">
 
         <h3>IA Interativa</h3>
 
@@ -184,6 +185,23 @@
     </div>
 
 </div>
+<script>
+
+function openAiPopup(){
+
+    document.getElementById("aiPopup")
+    .style.display = "flex";
+}
+
+function closeAiPopup(){
+
+    document.getElementById("aiPopup")
+    .style.display = "none";
+}
+
+</script>  
+
+<script src="scripts.js"></script>
 
 </body>
 

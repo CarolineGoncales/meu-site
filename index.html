@@ -15,7 +15,11 @@
 
 </head>
 
-<body>
+<body
+
+data-voice="Maravilha. Nós estamos na página principal. Aqui temos informaçõs: sobre a CPG, cursos, certificação, contato e CPG Play. Para onde você deseja ir? Diga apenas o nome, por exemplo: cursos."
+
+>
 
 <header>
 
@@ -507,6 +511,26 @@ function fecharPlayPopup() {
 }
 
 </script>
+
+<!-- ========================================= -->
+<!-- ACESSIBILIDADE POR VOZ -->
+<!-- ========================================= -->
+
+<button id="voiceButton">
+
+🔊 Ativar voz
+
+</button>
+
+<audio id="apresentacaoAudio">
+
+<source
+src="audio/apresentacaovoz.m4a"
+type="audio/mp4">
+
+</audio>
+
+<script src="scripts.js"></script>
 
 </body>
 </html>

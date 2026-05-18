@@ -44,10 +44,22 @@ body{
 }
 
 .sidebar{
+
     width:240px;
-    background:#161B22;
-    border-right:1px solid #30363D;
-    padding:30px 20px;
+
+    background:#0B1220;
+
+    border-right:
+    1px solid rgba(255,255,255,0.05);
+
+    padding:20px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:18px;
+
     box-sizing:border-box;
 }
 
@@ -64,7 +76,9 @@ body{
 
 .back-btn{
 
-    display:inline-flex;
+    display:flex;
+
+    justify-content:center;
 
     align-items:center;
 
@@ -327,12 +341,13 @@ body{
 
 .language-switch{
 
-    position:relative;
+    display:flex;
 
-    top:auto;
-    left:auto;
+    gap:8px;
 
-    margin-bottom:14px;
+    align-items:center;
+
+    flex-wrap:wrap;
 }
 
 .status-bar{
@@ -465,6 +480,18 @@ type="video/mp4">
 
 <div class="sidebar">
 
+<div class="language-switch">
+
+<button onclick="setLanguage('en')" class="lang-btn">
+EN
+</button>
+
+<button onclick="setLanguage('pt')" class="lang-btn">
+PT-BR
+</button>
+
+</div>    
+
 <a href="../play.html" class="back-btn">
 
 ← Return to CPG Play
@@ -586,7 +613,7 @@ CPG Engineering Sandbox initialized...
 
 <!-- LANGUAGE SWITCH -->
 
-<div style="position:fixed;top:20px;left:20px;z-index:999;display:flex;gap:10px;">
+<div class="language-switch">
 
 <button onclick="setLanguage('en')" class="lang-btn">
 EN
@@ -989,6 +1016,8 @@ document.getElementById("xpDisplay")
 loadChallenge(0);
 
 </script>
+
+<script src="../scripts.js"></script>
 
 </body>
 </html>
