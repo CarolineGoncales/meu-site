@@ -310,15 +310,47 @@ body{
 }
 @media(max-width:768px){
 
+    .sidebar{
+
+    width:100%;
+
+    overflow-x:auto;
+
+    display:flex;
+
+    gap:12px;
+
+    padding:14px;
+
+    flex-direction:row;
+}
+
+.language-switch{
+
+    position:relative;
+
+    top:auto;
+    left:auto;
+
+    margin-bottom:14px;
+}
+
+.status-bar{
+
+    margin-top:10px;
+}
+
+.tab{
+
+    min-width:max-content;
+}
+
     .sandbox{
         flex-direction:column;
         height:auto;
         min-height:100vh;
     }
 
-    .sidebar{
-        display:none;
-    }
 
     .topbar{
         padding:0 14px;
