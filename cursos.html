@@ -9,11 +9,15 @@
 <title>Cursos - CPG</title>
 
 <link rel="icon" type="image/png" href="favicon-32x32.png">
+
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="play.css">
 
 <style>
 
-/* POPUP */
+/* ========================================= */
+/* POPUPS */
+/* ========================================= */
 
 .modal{
 display:none;
@@ -59,6 +63,7 @@ border:none;
 padding:12px 25px;
 border-radius:6px;
 cursor:pointer;
+transition:0.3s;
 }
 
 .modal-content button:hover{
@@ -69,19 +74,33 @@ background:#2f6cc3;
 
 </head>
 
-
 <body>
 
+<!-- ========================================= -->
+<!-- HEADER -->
+<!-- ========================================= -->
+
 <header>
+
 <nav>
+
 <a href="index.html">Home</a>
 <a href="sobre.html">Sobre</a>
 <a href="cursos.html">Cursos</a>
 <a href="certificacao.html">Certificação</a>
 <a href="contato.html">Contato</a>
+
+<a href="javascript:void(0)" class="play-btn" onclick="abrirPlayPopup()">
+CPG Play
+</a>
+
 </nav>
+
 </header>
 
+<!-- ========================================= -->
+<!-- CURSOS -->
+<!-- ========================================= -->
 
 <section class="cursos">
 
@@ -91,18 +110,27 @@ background:#2f6cc3;
 Capacitação profissional em tecnologia, dados e governança.
 </p>
 
+<!-- ========================================= -->
+<!-- CURSOS GRATUITOS -->
+<!-- ========================================= -->
 
 <h2 id="gratuitos">Cursos Gratuitos</h2>
 
 <div class="cursos-grid">
 
 <div class="curso-card">
+
 <h3>Fundamentos de Gestão de Projetos</h3>
+
 <p>
 Aprenda os princípios essenciais da gestão de projetos, planejamento,
 controle de cronograma, gestão de riscos e acompanhamento de entregas.
 </p>
-<a href="#" class="curso-btn" onclick="abrirExplicacao(); return false;">Acessar Curso</a>
+
+<a href="javascript:void(0)" class="curso-btn" onclick="abrirExplicacao()">
+Acessar Curso
+</a>
+
 </div>
 
 <div class="curso-card">
@@ -114,88 +142,132 @@ Aprenda os primeiros passos em Python na prática: variáveis, entrada de dados,
 condições e lógica de programação para iniciar na área de tecnologia.
 </p>
 
-<a href="javascript:void(0);" class="curso-btn" onclick="abrirExplicacaoPython()">
+<a href="javascript:void(0)" class="curso-btn" onclick="abrirExplicacaoPython()">
 Acessar Curso
 </a>
 
 </div>
 
 <div class="curso-card">
+
 <h3>Fundamentos de Terraform</h3>
+
 <p>
 ❌ Esse conteúdo foi licenciado pela Alura. Reprodução não permitida em outras plataformas.
 </p>
-<a href="#" class="curso-btn" onclick="abrirPopup(); return false;">Acessar Curso</a>
+
+<a href="javascript:void(0)" class="curso-btn" onclick="abrirPopup()">
+Acessar Curso
+</a>
+
 </div>
 
 <div class="curso-card">
+
 <h3>(EM BREVE) Fundamentos de Docker</h3>
+
 <p>
 Aprenda os conceitos básicos de containers, criação de imagens e execução
 de aplicações com Docker.
 </p>
-<a href="#" class="curso-btn" onclick="abrirPopup(); return false;">Acessar Curso</a>
+
+<a href="javascript:void(0)" class="curso-btn" onclick="abrirPopup()">
+Acessar Curso
+</a>
+
 </div>
 
 <div class="curso-card">
+
 <h3>(EM BREVE) Fundamentos de Inteligência Artificial</h3>
+
 <p>
 Conheça os princípios da inteligência artificial, machine learning
 e como essas tecnologias estão transformando o mercado.
 </p>
-<a href="#" class="curso-btn" onclick="abrirPopup(); return false;">Acessar Curso</a>
-</div>
+
+<a href="javascript:void(0)" class="curso-btn" onclick="abrirPopup()">
+Acessar Curso
+</a>
 
 </div>
 
+</div>
+
+<!-- ========================================= -->
+<!-- CURSOS PAGOS -->
+<!-- ========================================= -->
 
 <h2 id="pagos">Cursos Pagos</h2>
 
 <div class="cursos-grid">
 
 <div class="curso-card">
+
 <h3>Gestão de Projetos Sem Complicação + Apostila</h3>
+
 <p>
 Aprenda gestão de projetos na prática, com aplicação real, metodologias ágeis
 e tradicionais, além de material completo para estudo.
 </p>
-<a href="#" class="curso-btn" onclick="abrirOpcoesCurso(); return false;">Acessar Curso</a>
+
+<a href="javascript:void(0)" class="curso-btn" onclick="abrirOpcoesCurso()">
+Acessar Curso
+</a>
+
 </div>
 
 <div class="curso-card">
-  <h3>Python do Zero ao Prático + Apostila</h3>
-  <p>
-  Aprenda programação do zero com Python, desenvolvendo lógica, estruturas
-  condicionais, loops e validações, com material de apoio completo.
-  </p>
-  <a href="#" class="curso-btn" onclick="abrirCursoUdemy(); return false;">
-    Acessar Curso
-  </a>
+
+<h3>Python do Zero ao Prático + Apostila</h3>
+
+<p>
+Aprenda programação do zero com Python, desenvolvendo lógica, estruturas
+condicionais, loops e validações, com material de apoio completo.
+</p>
+
+<a href="javascript:void(0)" class="curso-btn" onclick="abrirCursoUdemy()">
+Acessar Curso
+</a>
+
 </div>
 
 <div class="curso-card">
+
 <h3>Terraform do Básico ao Avançado</h3>
+
 <p>
 ❌ Esse conteúdo foi licenciado pela Alura. Reprodução não permitida em outras plataformas.
 </p>
-<a href="#" class="curso-btn" onclick="abrirPopup(); return false;">Acessar Curso</a>
+
+<a href="javascript:void(0)" class="curso-btn" onclick="abrirPopup()">
+Acessar Curso
+</a>
+
 </div>
 
 <div class="curso-card">
+
 <h3>(EM BREVE) Deep Learning com Python</h3>
+
 <p>
 Aprenda a construir modelos de inteligência artificial utilizando Python,
 redes neurais profundas e bibliotecas modernas de machine learning.
 </p>
-<a href="#" class="curso-btn" onclick="abrirPopup(); return false;">Acessar Curso</a>
+
+<a href="javascript:void(0)" class="curso-btn" onclick="abrirPopup()">
+Acessar Curso
+</a>
+
 </div>
 
 </div>
 
 </section>
 
-
-<!-- POPUP EXPLICAÇÃO COMPLETO -->
+<!-- ========================================= -->
+<!-- POPUP EXPLICAÇÃO PROJETOS -->
+<!-- ========================================= -->
 
 <div id="popupExplicacao" class="modal">
 
@@ -205,7 +277,9 @@ redes neurais profundas e bibliotecas modernas de machine learning.
 
 <p><strong>Antes de começar:</strong></p>
 
-<p>Como usamos exemplos simples no vídeo, vale uma anotação oficial:</p>
+<p>
+Como usamos exemplos simples no vídeo, vale uma anotação oficial:
+</p>
 
 <ul>
 <li><strong>Projeto</strong> → cria algo específico</li>
@@ -225,13 +299,23 @@ redes neurais profundas e bibliotecas modernas de machine learning.
 <li>• automação de marketing</li>
 </ul>
 
-<button onclick="abrirCurso()">Assistir aula</button>
+<button onclick="abrirCurso()">
+Assistir aula
+</button>
+
 <br><br>
-<button onclick="fecharPopupExplicacao()">Fechar</button>
+
+<button onclick="fecharPopupExplicacao()">
+Fechar
+</button>
 
 </div>
 
 </div>
+
+<!-- ========================================= -->
+<!-- POPUP PYTHON -->
+<!-- ========================================= -->
 
 <div id="popupExplicacaoPython" class="modal">
 
@@ -241,8 +325,10 @@ redes neurais profundas e bibliotecas modernas de machine learning.
 
 <p><strong>Antes de começar:</strong></p>
 
-<p>Python é uma linguagem de programação de alto nível, muito utilizada em automação,
-análise de dados, desenvolvimento web e inteligência artificial.</p>
+<p>
+Python é uma linguagem de programação de alto nível, muito utilizada em automação,
+análise de dados, desenvolvimento web e inteligência artificial.
+</p>
 
 <ul>
 <li><strong>Variáveis</strong> → armazenam informações</li>
@@ -254,23 +340,28 @@ análise de dados, desenvolvimento web e inteligência artificial.</p>
 <p><strong>Exemplo simples:</strong></p>
 
 <ul>
-<li> Receber nome do usuário</li>
-<li> Validar idade</li>
-<li> Exibir mensagem personalizada</li>
+<li>Receber nome do usuário</li>
+<li>Validar idade</li>
+<li>Exibir mensagem personalizada</li>
 </ul>
 
-<button onclick="abrirCursoPython()">Assistir aula</button>
+<button onclick="abrirCursoPython()">
+Assistir aula
+</button>
 
 <br><br>
 
-<button onclick="fecharPopupPython()">Fechar</button>
+<button onclick="fecharPopupPython()">
+Fechar
+</button>
 
 </div>
 
 </div>
 
-
-<!-- VIDEO -->
+<!-- ========================================= -->
+<!-- VIDEO PROJETOS -->
+<!-- ========================================= -->
 
 <div id="popupCurso" class="modal">
 
@@ -285,11 +376,17 @@ allowfullscreen>
 
 <br><br>
 
-<button onclick="fecharCurso()">Fechar</button>
+<button onclick="fecharCurso()">
+Fechar
+</button>
 
 </div>
 
 </div>
+
+<!-- ========================================= -->
+<!-- VIDEO PYTHON -->
+<!-- ========================================= -->
 
 <div id="popupCursoPython" class="modal">
 
@@ -304,159 +401,275 @@ allowfullscreen>
 
 <br><br>
 
-<button onclick="fecharCursoPython()">Fechar</button>
+<button onclick="fecharCursoPython()">
+Fechar
+</button>
 
 </div>
 
-</div> 
-<!-- EM BREVE -->
+</div>
+
+<!-- ========================================= -->
+<!-- POPUP EM BREVE -->
+<!-- ========================================= -->
 
 <div id="popup" class="modal">
+
 <div class="modal-content">
+
 <h3>🚧 Conteúdo em breve</h3>
-<p>Este curso ainda está sendo preparado e será liberado em breve.</p>
-<button onclick="fecharPopup()">OK</button>
-</div>
+
+<p>
+Este curso ainda está sendo preparado e será liberado em breve.
+</p>
+
+<button onclick="fecharPopup()">
+OK
+</button>
+
 </div>
 
+</div>
 
-<!-- CURSO PAGO -->
+<!-- ========================================= -->
+<!-- CURSO UDEMY -->
+<!-- ========================================= -->
 
 <div id="popupUdemy" class="modal">
-  <div class="modal-content">
-    
-    <h3>🔥 Escolha sua forma de acesso</h3>
 
-    <a href="https://www.udemy.com/course/seu-primeiro-projeto-python-apostila/?referralCode=380680137B278313A6C7" target="_blank">
-      <button>Acessar pela Udemy</button>
-    </a>
+<div class="modal-content">
 
-    <br><br>
+<h3>🔥 Escolha sua forma de acesso</h3>
 
-    <button onclick="fecharCursoUdemy()">Fechar</button>
+<a href="https://www.udemy.com/course/seu-primeiro-projeto-python-apostila/?referralCode=380680137B278313A6C7" target="_blank">
 
-  </div>
+<button>
+Acessar pela Udemy
+</button>
+
+</a>
+
+<br><br>
+
+<button onclick="fecharCursoUdemy()">
+Fechar
+</button>
+
 </div>
 
+</div>
+
+<!-- ========================================= -->
+<!-- CURSO HOTMART/UDEMY -->
+<!-- ========================================= -->
 
 <div id="popupOpcoes" class="modal">
-  <div class="modal-content">
-    <h3>🔥 Escolha sua forma de acesso</h3>
 
-    <a href="https://www.udemy.com/course/gestao-de-projetos-sem-complicacao-apostila/?referralCode=E05920285687DB5791F9" target="_blank">
-      <button style="margin-bottom:10px; width:100%;">Acessar pela Udemy</button>
-    </a>
+<div class="modal-content">
 
-    <a href="https://go.hotmart.com/Y105307672G?dp=1" target="_blank">
-      <button style="width:100%;">Acessar pela Hotmart</button>
-    </a>
+<h3>🔥 Escolha sua forma de acesso</h3>
 
-    <br><br>
+<a href="https://www.udemy.com/course/gestao-de-projetos-sem-complicacao-apostila/?referralCode=E05920285687DB5791F9" target="_blank">
 
-    <button onclick="fecharOpcoes()">Fechar</button>
-  </div>
+<button style="margin-bottom:10px; width:100%;">
+Acessar pela Udemy
+</button>
+
+</a>
+
+<a href="https://go.hotmart.com/Y105307672G?dp=1" target="_blank">
+
+<button style="width:100%;">
+Acessar pela Hotmart
+</button>
+
+</a>
+
+<br><br>
+
+<button onclick="fecharOpcoes()">
+Fechar
+</button>
+
 </div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- FOOTER -->
+<!-- ========================================= -->
+
+<footer class="footer">
+
+<div class="footer-content">
+
+<h3>CPG</h3>
+
+<p>
+Capacitação profissional em tecnologia, dados e projetos.
+</p>
+
+<div class="footer-links">
+
+<a href="index.html">Home</a>
+<a href="cursos.html">Cursos</a>
+<a href="certificacao.html">Certificação</a>
+<a href="contato.html">Contato</a>
+
+<a href="javascript:void(0)" class="play-btn" onclick="abrirPlayPopup()">
+CPG Play
+</a>
+
+</div>
+
+<p class="footer-copy">
+© 2026 CPG - Todos os direitos reservados
+</p>
+
+<p class="footer-copy">
+CNPJ: 65.223.812/0001-41
+</p>
+
+</div>
+
+</footer>
+
+<!-- ========================================= -->
+<!-- POPUP CPG PLAY -->
+<!-- ========================================= -->
+
+<div id="playPopup" class="play-popup">
+
+<div class="play-popup-content">
+
+<div class="play-glow"></div>
+
+<h2>⚡ CPG PLAY</h2>
+
+<p>
+Você está prestes a entrar em outro universo.
+</p>
+
+<span>
+Uma experiência interativa criada para explorar tecnologia,
+desafios, criatividade e inovação.
+</span>
+
+<div class="play-buttons">
+
+<a href="play.html" class="enter-play">
+Entrar
+</a>
+
+<button onclick="fecharPlayPopup()" class="cancel-play">
+Cancelar
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- SCRIPTS -->
+<!-- ========================================= -->
+
 <script>
-// ===== PROJETOS =====
+
+/* ===== PROJETOS ===== */
 
 function abrirExplicacao(){
-document.getElementById("popupExplicacao").style.display="flex";
+document.getElementById("popupExplicacao").style.display = "flex";
 }
 
 function fecharPopupExplicacao(){
-document.getElementById("popupExplicacao").style.display="none";
+document.getElementById("popupExplicacao").style.display = "none";
 }
 
 function abrirCurso(){
-document.getElementById("popupExplicacao").style.display="none";
-document.getElementById("popupCurso").style.display="flex";
+document.getElementById("popupExplicacao").style.display = "none";
+document.getElementById("popupCurso").style.display = "flex";
 }
 
 function fecharCurso(){
+
 let popup = document.getElementById("popupCurso");
-popup.style.display="none";
+
+popup.style.display = "none";
 
 let iframe = popup.querySelector("iframe");
+
 if(iframe) iframe.src = iframe.src;
+
 }
 
-
-// ===== PYTHON =====
+/* ===== PYTHON ===== */
 
 function abrirExplicacaoPython(){
-document.getElementById("popupExplicacaoPython").style.display="flex";
+document.getElementById("popupExplicacaoPython").style.display = "flex";
 }
 
 function fecharPopupPython(){
-document.getElementById("popupExplicacaoPython").style.display="none";
+document.getElementById("popupExplicacaoPython").style.display = "none";
 }
 
 function abrirCursoPython(){
-document.getElementById("popupExplicacaoPython").style.display="none";
-document.getElementById("popupCursoPython").style.display="flex";
+document.getElementById("popupExplicacaoPython").style.display = "none";
+document.getElementById("popupCursoPython").style.display = "flex";
 }
 
 function fecharCursoPython(){
+
 let popup = document.getElementById("popupCursoPython");
-popup.style.display="none";
+
+popup.style.display = "none";
 
 let iframe = popup.querySelector("iframe");
+
 if(iframe) iframe.src = iframe.src;
+
 }
 
-
-// ===== POPUP GENÉRICO =====
+/* ===== POPUP GENÉRICO ===== */
 
 function abrirPopup(){
-document.getElementById("popup").style.display="flex";
+document.getElementById("popup").style.display = "flex";
 }
 
 function fecharPopup(){
-document.getElementById("popup").style.display="none";
+document.getElementById("popup").style.display = "none";
 }
 
-
-// ===== CURSO PAGO =====
+/* ===== CURSOS PAGOS ===== */
 
 function abrirOpcoesCurso(){
-document.getElementById("popupOpcoes").style.display="flex";
+document.getElementById("popupOpcoes").style.display = "flex";
 }
 
 function fecharOpcoes(){
-document.getElementById("popupOpcoes").style.display="none";
+document.getElementById("popupOpcoes").style.display = "none";
 }
 
 function abrirCursoUdemy(){
-  document.getElementById("popupUdemy").style.display="flex";
+document.getElementById("popupUdemy").style.display = "flex";
 }
 
 function fecharCursoUdemy(){
-  document.getElementById("popupUdemy").style.display="none";
+document.getElementById("popupUdemy").style.display = "none";
+}
+
+/* ===== POPUP CPG PLAY ===== */
+
+function abrirPlayPopup() {
+document.getElementById("playPopup").style.display = "flex";
+}
+
+function fecharPlayPopup() {
+document.getElementById("playPopup").style.display = "none";
 }
 
 </script>
-
-
-
-<!-- ✅ NOVO FOOTER -->
-
-<footer class="footer">
-  <div class="footer-content">
-    
-    <h3>CPG</h3>
-    <p>Capacitação profissional em tecnologia, dados e projetos.</p>
-
-    <div class="footer-links">
-      <a href="index.html">Home</a>
-      <a href="cursos.html">Cursos</a>
-      <a href="certificacao.html">Certificação</a>
-      <a href="contato.html">Contato</a>
-    </div>
-
-    <p class="footer-copy">© 2026 CPG - Todos os direitos reservados</p>
-    <p class="footer-copy">CNPJ: 65.223.812/0001-41 </p>
-  </div>
-</footer>
 
 </body>
 </html>

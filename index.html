@@ -11,6 +11,7 @@
 <link rel="icon" type="image/png" href="favicon-32x32.png">
 
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="play.css">
 
 </head>
 
@@ -24,6 +25,9 @@
 <a href="cursos.html">Cursos</a>
 <a href="certificacao.html">Certificação</a>
 <a href="contato.html">Contato</a>
+<a href="#" class="play-btn" onclick="abrirPlayPopup()">
+  CPG Play
+</a>
 </nav>
 
 </header>
@@ -56,7 +60,7 @@
 
 </section>
 
-<! Portfolio -->
+<!-- Portfolio -->
 
 <div class="faixa-logos">
   <div class="logos-track">
@@ -438,6 +442,10 @@
       <a href="cursos.html">Cursos</a>
       <a href="certificacao.html">Certificação</a>
       <a href="contato.html">Contato</a>
+      <a href="javascript:void(0)" class="play-btn" onclick="abrirPlayPopup()">
+  CPG Play
+</a>
+
     </div>
 
     <p class="footer-copy">© 2026 CPG - Todos os direitos reservados</p>
@@ -453,26 +461,51 @@
   </div>
 </div>
 
+<!-- POPUP CPG PLAY -->
+
+<div id="playPopup" class="play-popup">
+
+  <div class="play-popup-content">
+
+    <div class="play-glow"></div>
+
+    <h2>⚡ CPG PLAY</h2>
+
+    <p>
+      Você está prestes a entrar em outro universo.
+    </p>
+
+    <span>
+      Uma experiência interativa criada para explorar tecnologia,
+      desafios, criatividade e inovação.
+    </span>
+
+    <div class="play-buttons">
+
+      <a href="play.html" class="enter-play">
+        Entrar
+      </a>
+
+      <button onclick="fecharPlayPopup()" class="cancel-play">
+        Cancelar
+      </button>
+
+    </div>
+
+  </div>
+
+</div>
+
 <script>
-function abrirPopup(nome) {
-  document.getElementById("popupLogo").style.display = "flex";
-  document.getElementById("tituloPopup").innerText = nome;
 
-  let textos = {
-    "Uniasselvi": "Atuação como professora conteudista em projeto educacional de larga escala, responsável pela curadoria, validação técnica e estruturação de conteúdos avançados em Infraestrutura como Código (IaC). Participação direta na construção de disciplinas completas, incluindo definição de abordagem didática, revisão conceitual, desenvolvimento de materiais e validação de avaliações, contribuindo para a formação de profissionais preparados para ambientes reais de tecnologia e computação em nuvem.",
-    "Alura": "Atuação estratégica na criação e condução de conteúdo técnico em Infraestrutura como Código (Terraform), transformando conceitos de cloud e DevOps em experiências de aprendizado aplicáveis ao mercado. Instrutora responsável pela estruturação de materiais utilizados em uma das maiores plataformas de educação em tecnologia do Brasil, elevando o nível técnico de profissionais e acelerando sua entrada em ambientes reais de produção.",
-    "Udemy": "Criação e publicação de cursos autorais em tecnologia, com foco na formação prática de profissionais. Desenvolvimento de conteúdos estruturados em programação e temas técnicos, aliados à produção de materiais didáticos complementares (apostilas), promovendo aprendizado aplicado e evolução contínua.",
-    "Hotmart": "Estruturação e comercialização de produtos educacionais digitais na área de tecnologia. Atuação completa desde a concepção até a entrega do conteúdo, incluindo a criação de materiais de apoio (apostilas), com abordagem prática voltada à aplicação real e desenvolvimento contínuo de competências.",
-    "Gonçales": "Este projeto representa a origem de tudo. Através de uma demanda real, surgiu a necessidade de organizar, estruturar e pensar soluções que fossem além do operacional. Foi aqui que a tecnologia deixou de ser apenas interesse e passou a ser direção, marcando o início da minha jornada no desenvolvimento de software e na área de tecnologia.",
-  
-  };
-
-  document.getElementById("textoPopup").innerText = textos[nome];
+function abrirPlayPopup() {
+  document.getElementById("playPopup").style.display = "flex";
 }
 
-function fecharPopup() {
-  document.getElementById("popupLogo").style.display = "none";
+function fecharPlayPopup() {
+  document.getElementById("playPopup").style.display = "none";
 }
+
 </script>
 
 </body>

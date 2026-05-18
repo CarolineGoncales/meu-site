@@ -1,0 +1,2619 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Logic & Cloud Labs - CPG Play</title>
+
+<link rel="stylesheet" href="../play.css">
+
+<style>
+
+/* ========================================= */
+/* BODY */
+/* ========================================= */
+
+body{
+
+    margin:0;
+    background:#020617;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    overflow-x:hidden;
+}
+
+/* ========================================= */
+/* VIDEO */
+/* ========================================= */
+
+.bg-video{
+
+    position:fixed;
+    inset:0;
+
+    width:100%;
+    height:100%;
+
+    object-fit:cover;
+
+    opacity:0.08;
+
+    z-index:-3;
+}
+
+/* ========================================= */
+/* OVERLAY */
+/* ========================================= */
+
+.overlay{
+
+    position:fixed;
+    inset:0;
+
+    background:
+      rgba(2,6,23,0.88);
+
+    z-index:-2;
+}
+
+/* ========================================= */
+/* PAGE */
+/* ========================================= */
+
+.labs-page{
+
+    position:relative;
+
+    z-index:2;
+
+    padding:80px 20px;
+}
+
+/* ========================================= */
+/* LANGUAGE */
+/* ========================================= */
+
+.language-switch{
+
+    display:flex;
+
+    gap:14px;
+
+    margin-bottom:40px;
+}
+
+.language-switch button{
+
+    background:
+      rgba(15,23,42,0.72);
+
+    border:
+      1px solid rgba(79,195,247,0.18);
+
+    color:#4FC3F7;
+
+    padding:12px 20px;
+
+    border-radius:12px;
+
+    cursor:pointer;
+
+    transition:0.3s;
+
+    font-weight:bold;
+}
+
+.language-switch button:hover{
+
+    background:
+      rgba(79,195,247,0.12);
+
+    transform:translateY(-2px);
+}
+
+/* ========================================= */
+/* HERO */
+/* ========================================= */
+
+.labs-hero{
+
+    max-width:1200px;
+
+    margin:auto;
+
+    margin-bottom:80px;
+}
+
+.labs-hero h1{
+
+    font-size:64px;
+
+    color:#4FC3F7;
+
+    margin-bottom:20px;
+
+    text-shadow:
+      0 0 12px rgba(79,195,247,0.4);
+}
+
+.labs-hero p{
+
+    max-width:900px;
+
+    line-height:1.9;
+
+    color:#cbd5e1;
+
+    font-size:18px;
+}
+
+/* ========================================= */
+/* INCIDENT */
+/* ========================================= */
+
+.incident{
+
+    max-width:1200px;
+
+    margin:auto;
+
+    background:
+      rgba(15,23,42,0.72);
+
+    border:
+      1px solid rgba(79,195,247,0.12);
+
+    border-radius:28px;
+
+    padding:50px;
+
+    margin-bottom:50px;
+
+    backdrop-filter:blur(14px);
+}
+
+/* ========================================= */
+/* TOP */
+/* ========================================= */
+
+.incident-top{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    flex-wrap:wrap;
+
+    gap:20px;
+
+    margin-bottom:35px;
+}
+
+.incident-title h2{
+
+    color:#4FC3F7;
+
+    margin-bottom:12px;
+
+    font-size:38px;
+}
+
+.badge{
+
+    display:inline-flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    padding:10px 18px;
+
+    border-radius:999px;
+
+    font-size:14px;
+
+    font-weight:bold;
+}
+
+.critical{
+
+    background:
+      rgba(255,77,77,0.12);
+
+    color:#ff8080;
+
+    border:
+      1px solid rgba(255,77,77,0.3);
+}
+
+/* ========================================= */
+/* TEXT */
+/* ========================================= */
+
+.incident p{
+
+    color:#cbd5e1;
+
+    line-height:1.9;
+
+    font-size:17px;
+
+    margin-bottom:25px;
+}
+
+/* ========================================= */
+/* TERMINAL */
+/* ========================================= */
+
+.fake-terminal{
+
+    background:black;
+
+    border-radius:18px;
+
+    padding:30px;
+
+    font-family:monospace;
+
+    color:#7CFF7C;
+
+    margin-top:35px;
+
+    line-height:2;
+
+    overflow:auto;
+
+    border:
+      1px solid rgba(79,195,247,0.15);
+}
+
+/* ========================================= */
+/* LOG */
+/* ========================================= */
+
+.log-error{
+
+    color:#ff8080;
+}
+
+.log-warning{
+
+    color:#ffd966;
+}
+
+.log-info{
+
+    color:#7CFF7C;
+}
+
+/* ========================================= */
+/* TASKS */
+/* ========================================= */
+
+.tasks{
+
+    margin-top:40px;
+}
+
+.tasks h3{
+
+    color:#4FC3F7;
+
+    margin-bottom:25px;
+}
+
+.task{
+
+    margin-bottom:18px;
+
+    padding:18px;
+
+    background:
+      rgba(255,255,255,0.03);
+
+    border-radius:14px;
+
+    border:
+      1px solid rgba(255,255,255,0.05);
+
+    color:#cbd5e1;
+
+    line-height:1.8;
+}
+
+/* ========================================= */
+/* INTERACTIVE LAB */
+/* ========================================= */
+
+.interactive-lab{
+
+    margin-top:50px;
+
+    padding:35px;
+
+    background:
+      rgba(255,255,255,0.03);
+
+    border:
+      1px solid rgba(79,195,247,0.12);
+
+    border-radius:20px;
+}
+
+.interactive-lab h3{
+
+    color:#4FC3F7;
+
+    margin-bottom:20px;
+}
+
+.interactive-lab p{
+
+    margin-bottom:20px;
+}
+
+.interactive-lab select{
+
+    width:100%;
+
+    padding:16px;
+
+    background:#0f172a;
+
+    color:white;
+
+    border-radius:12px;
+
+    border:
+      1px solid rgba(79,195,247,0.2);
+
+    margin-bottom:20px;
+}
+
+/* ========================================= */
+/* BUTTON */
+/* ========================================= */
+
+.submit-btn{
+
+    margin-top:10px;
+
+    background:
+      linear-gradient(
+        135deg,
+        #4FC3F7,
+        #2196F3
+      );
+
+    border:none;
+
+    color:#020617;
+
+    padding:14px 24px;
+
+    border-radius:12px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+    transition:0.3s;
+}
+
+.submit-btn:hover{
+
+    transform:translateY(-2px);
+
+    box-shadow:
+      0 0 25px rgba(79,195,247,0.35);
+}
+
+/* ========================================= */
+/* RESULT */
+/* ========================================= */
+
+#resultBox{
+
+    margin-top:25px;
+
+    padding:22px;
+
+    border-radius:14px;
+
+    display:none;
+
+    line-height:1.8;
+}
+
+.success{
+
+    background:
+      rgba(124,255,124,0.08);
+
+    border:
+      1px solid rgba(124,255,124,0.3);
+
+    color:#7CFF7C;
+}
+
+.error{
+
+    background:
+      rgba(255,77,77,0.08);
+
+    border:
+      1px solid rgba(255,77,77,0.3);
+
+    color:#ff8080;
+}
+
+/* ========================================= */
+/* BACK BUTTON */
+/* ========================================= */
+
+.back-button{
+
+    display:flex;
+
+    justify-content:center;
+
+    margin-top:70px;
+}
+
+.back-button a{
+
+    padding:16px 34px;
+
+    background:#4FC3F7;
+
+    color:#020617;
+
+    text-decoration:none;
+
+    border-radius:14px;
+
+    font-weight:bold;
+
+    transition:0.3s;
+}
+
+.back-button a:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:
+      0 0 30px rgba(79,195,247,0.35);
+}
+
+/* ========================================= */
+/* MOBILE */
+/* ========================================= */
+
+@media(max-width:768px){
+
+    .labs-page{
+
+    padding:40px 14px;
+    }
+
+    .labs-hero h1{
+
+    font-size:34px;
+
+    line-height:1.2;
+}
+
+  
+    .incident{
+
+    padding:22px;
+
+    border-radius:22px;
+}
+
+
+    .labs-hero p{
+
+    font-size:15px;
+
+    line-height:1.8;
+}
+.fake-terminal{
+
+    padding:18px;
+
+    font-size:12px;
+
+    line-height:1.8;
+
+    overflow-x:auto;
+}
+
+.interactive-lab select{
+
+    font-size:14px;
+
+    padding:14px;
+}
+.lab-submit{
+
+    width:100%;
+} 
+.language-switch{
+
+    gap:10px;
+
+    margin-bottom:30px;
+}
+
+.language-switch button{
+
+    padding:10px 14px;
+
+    font-size:12px;
+}
+.incident-title h2{
+
+    font-size:28px;
+
+    line-height:1.3;
+} 
+.incident-top{
+
+    align-items:flex-start;
+}
+}
+
+/* ========================================= */
+/* LAB BUTTON */
+/* ========================================= */
+
+.lab-submit{
+
+    margin-top:20px;
+
+    padding:12px 22px;
+
+    border:none;
+
+    border-radius:12px;
+
+    cursor:pointer;
+
+    font-weight:bold;
+
+    background:
+      linear-gradient(
+        135deg,
+        #4FC3F7,
+        #2196F3
+      );
+
+    color:#020617;
+
+    transition:0.3s;
+
+    width:auto;
+
+    display:inline-block;
+}
+
+.lab-submit:hover{
+
+    transform:translateY(-2px);
+
+    box-shadow:
+      0 0 25px rgba(79,195,247,0.35);
+}
+
+.lab-submit:hover{
+
+    transform:translateY(-2px);
+
+    box-shadow:
+      0 0 25px rgba(79,195,247,0.35);
+}
+
+/* ========================================= */
+/* RESULT */
+/* ========================================= */
+
+.lab-result{
+
+    margin-top:20px;
+
+    padding:18px;
+
+    border-radius:14px;
+
+    display:none;
+
+    line-height:1.8;
+}
+
+.lab-success{
+
+    background:
+      rgba(124,255,124,0.08);
+
+    border:
+      1px solid rgba(124,255,124,0.3);
+
+    color:#7CFF7C;
+}
+
+.lab-error{
+
+    background:
+      rgba(255,77,77,0.08);
+
+    border:
+      1px solid rgba(255,77,77,0.3);
+
+    color:#ff8080;
+}
+</style>
+
+</head>
+
+<body>
+
+<!-- VIDEO -->
+
+<video autoplay muted loop playsinline class="bg-video">
+
+<source
+src="../video/mixkit-exploring-the-cosmos-32910-hd-ready.mp4"
+type="video/mp4">
+
+</video>
+
+<!-- OVERLAY -->
+
+<div class="overlay"></div>
+
+<!-- PAGE -->
+
+<section class="labs-page">
+
+<div class="labs-hero">
+
+<!-- LANGUAGE -->
+
+<div class="language-switch">
+
+<button onclick="setLanguage('en')">
+EN
+</button>
+
+<button onclick="setLanguage('pt')">
+PT-BR
+</button>
+
+</div>
+
+<!-- TITLE -->
+
+<h1
+class="translate"
+data-en="Logic & Cloud Labs"
+data-pt="Laboratórios de Lógica e Cloud">
+
+Logic & Cloud Labs
+
+</h1>
+
+<!-- HERO -->
+
+<p
+class="translate"
+
+data-en="Real-world engineering scenarios focused on infrastructure, cloud computing, debugging and incident response. Analyze logs, investigate failures, identify root causes and restore systems under pressure."
+
+data-pt="Cenários reais de engenharia focados em infraestrutura, computação em nuvem, debugging e resposta a incidentes. Analise logs, investigue falhas, identifique causas raiz e restaure sistemas sob pressão.">
+
+Real-world engineering scenarios focused on infrastructure, cloud computing, debugging and incident response.
+
+</p>
+
+</div>
+
+<!-- INCIDENT -->
+
+<div class="incident">
+
+<div class="incident-top">
+
+<div class="incident-title">
+
+<h2
+class="translate"
+
+data-en="Incident 01 — API Gateway Failure"
+
+data-pt="Incidente 01 — Falha no API Gateway">
+
+Incident 01 — API Gateway Failure
+
+</h2>
+
+</div>
+
+<div class="badge critical">
+CRITICAL
+</div>
+
+</div>
+
+<!-- TEXT -->
+
+<p
+class="translate"
+
+data-en="At 02:14 UTC, monitoring systems detected a spike in failed requests across the production environment. Users reported login failures, timeouts and intermittent HTTP 500 errors."
+
+data-pt="Às 02:14 UTC, os sistemas detectaram aumento nas falhas de requisições. Usuários relataram falhas de login, timeouts e erros HTTP 500 intermitentes.">
+
+At 02:14 UTC, monitoring systems detected a spike in failed requests.
+
+</p>
+
+<!-- TERMINAL -->
+
+<div class="fake-terminal">
+
+<div class="log-info">
+[02:14:22] API Gateway online.
+</div>
+
+<div class="log-warning">
+[02:14:31] High latency detected on auth-service.
+</div>
+
+<div class="log-warning">
+[02:14:37] Retry threshold exceeded.
+</div>
+
+<div class="log-error">
+[02:14:44] JWT validation failed.
+</div>
+
+<div class="log-error">
+[02:14:48] Database timeout after 3000ms.
+</div>
+
+<div class="log-warning">
+[02:14:55] Worker queue saturation detected.
+</div>
+
+<div class="log-error">
+[02:15:03] HTTP 500 returned to client.
+</div>
+
+<div class="log-info">
+[02:15:11] Automatic recovery attempt started.
+</div>
+
+</div>
+
+<!-- TASKS -->
+
+<div class="tasks">
+
+<h3
+class="translate"
+
+data-en="Engineering Tasks"
+
+data-pt="Desafios de Engenharia">
+
+Engineering Tasks
+
+</h3>
+
+<div
+class="task translate"
+
+data-en="Identify which service appears to be failing first and explain why it may be impacting the entire platform."
+
+data-pt="Identifique qual serviço aparenta falhar primeiro e explique por que ele pode estar impactando toda a plataforma.">
+
+Identify which service appears to be failing first.
+
+</div>
+
+<div
+class="task translate"
+
+data-en="Analyze the relationship between JWT validation failures and database timeout escalation."
+
+data-pt="Analise a relação entre falhas de validação JWT e o aumento dos timeouts no banco de dados.">
+
+Analyze the relationship between JWT validation failures.
+
+</div>
+
+<div
+class="task translate"
+
+data-en="Explain what worker queue saturation means in distributed systems environments."
+
+data-pt="Explique o que significa saturação de fila de workers em ambientes distribuídos.">
+
+Explain worker queue saturation.
+
+</div>
+
+<div
+class="task translate"
+
+data-en="Suggest at least 3 engineering actions that could reduce incident impact in future deployments."
+
+data-pt="Sugira pelo menos 3 ações de engenharia que poderiam reduzir o impacto desse incidente em futuras implantações.">
+
+Suggest engineering actions to reduce incident impact.
+
+</div>
+
+<!-- INTERACTIVE LAB -->
+
+<div class="interactive-lab">
+
+<h3
+class="translate"
+
+data-en="Incident Resolution"
+
+data-pt="Resolução do Incidente">
+
+Incident Resolution
+
+</h3>
+
+<p
+class="translate"
+
+data-en="What is the MOST probable root cause of the incident?"
+
+data-pt="Qual é a causa raiz MAIS provável do incidente?">
+
+What is the MOST probable root cause of the incident?
+
+</p>
+
+<select id="answerSelect">
+
+<option
+class="translate"
+value=""
+
+data-en="Select an option"
+
+data-pt="Selecione uma opção">
+
+Select an option
+
+</option>
+
+<option
+class="translate"
+value="wrong1"
+
+data-en="API Gateway offline"
+
+data-pt="API Gateway offline">
+
+API Gateway offline
+
+</option>
+
+<option
+class="translate"
+value="correct"
+data-correct="true"
+
+data-en="Authentication service overload + database timeout"
+
+data-pt="Sobrecarga no serviço de autenticação + timeout no banco">
+
+Authentication service overload + database timeout
+
+</option>
+
+<option
+class="translate"
+value="wrong2"
+
+data-en="Frontend CSS failure"
+
+data-pt="Falha de CSS no frontend">
+
+Frontend CSS failure
+
+</option>
+
+<option
+class="translate"
+value="wrong3"
+
+data-en="Cloud region deleted"
+
+data-pt="Região cloud removida">
+
+Cloud region deleted
+
+</option>
+
+</select>
+<!-- ========================================= -->
+<!-- BUTTON + VALIDATION -->
+<!-- COLE ISSO ABAIXO DE TODOS OS </select> -->
+<!-- ========================================= -->
+
+<button
+class="lab-submit translate"
+
+data-en="Submit Resolution"
+data-pt="Enviar Resolução"
+
+onclick="validateLab(this)">
+
+Submit Resolution
+
+</button>
+
+<div class="lab-result"></div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- INCIDENT 07 -->
+<!-- ========================================= -->
+
+<div class="incident">
+
+<div class="incident-top">
+
+<div class="incident-title">
+
+<h2
+class="translate"
+
+data-en="Incident 07 — Kubernetes Node Failure"
+
+data-pt="Incidente 07 — Falha em Node Kubernetes">
+
+Incident 07 — Kubernetes Node Failure
+
+</h2>
+
+</div>
+
+<div class="badge critical">
+HIGH
+</div>
+
+</div>
+
+<p
+class="translate"
+
+data-en="Several workloads became unavailable after one cluster node stopped responding."
+
+data-pt="Diversos workloads ficaram indisponíveis após um node do cluster parar de responder.">
+
+Several workloads became unavailable after one cluster node stopped responding.
+
+</p>
+
+<div class="fake-terminal">
+
+<div class="log-error">
+Node status: NotReady
+</div>
+
+<div class="log-warning">
+Pods unavailable
+</div>
+
+<div class="log-warning">
+Scheduler waiting for resources
+</div>
+
+</div>
+
+<div class="interactive-lab">
+
+<h3
+class="translate"
+
+data-en="Infrastructure Investigation"
+
+data-pt="Investigação de Infraestrutura">
+
+Infrastructure Investigation
+
+</h3>
+
+<p
+class="translate"
+
+data-en="What is the infrastructure impact?"
+
+data-pt="Qual é o impacto na infraestrutura?">
+
+What is the infrastructure impact?
+
+</p>
+
+<select>
+
+<option
+class="translate"
+
+data-en="Select an option"
+
+data-pt="Selecione uma opção">
+
+Select an option
+
+</option>
+
+<option
+class="translate"
+data-correct="true"
+
+data-en="Workloads cannot be scheduled correctly"
+
+data-pt="Os workloads não podem ser distribuídos corretamente">
+
+Workloads cannot be scheduled correctly
+
+</option>
+
+<option
+class="translate"
+
+data-en="Broken CSS variables"
+
+data-pt="Variáveis CSS quebradas">
+
+Broken CSS variables
+
+</option>
+
+<option
+class="translate"
+
+data-en="Frontend image corruption"
+
+data-pt="Corrupção de imagens do frontend">
+
+Frontend image corruption
+
+</option>
+
+<option
+class="translate"
+
+data-en="Typography rendering issue"
+
+data-pt="Problema na renderização da tipografia">
+
+Typography rendering issue
+
+</option>
+
+</select>
+<!-- ========================================= -->
+<!-- BUTTON + VALIDATION -->
+<!-- COLE ISSO ABAIXO DE TODOS OS </select> -->
+<!-- ========================================= -->
+
+<button
+class="lab-submit translate"
+
+data-en="Submit Resolution"
+data-pt="Enviar Resolução"
+
+onclick="validateLab(this)">
+
+Submit Resolution
+
+</button>
+
+<div class="lab-result"></div>
+
+</div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- CODE ANALYSIS 06 -->
+<!-- ========================================= -->
+
+<div class="incident">
+
+<div class="incident-top">
+
+<div class="incident-title">
+
+<h2
+class="translate"
+
+data-en="Code Investigation — SQL Injection"
+
+data-pt="Investigação de Código — SQL Injection">
+
+Code Investigation — SQL Injection
+
+</h2>
+
+</div>
+
+<div class="badge critical">
+CRITICAL
+</div>
+
+</div>
+
+<p
+class="translate"
+
+data-en="Analyze the following backend authentication code."
+
+data-pt="Analise o seguinte código de autenticação backend.">
+
+Analyze the following backend authentication code.
+
+</p>
+
+<div class="fake-terminal">
+
+<pre>
+
+const query =
+"SELECT * FROM users
+WHERE email = '" + email + "'
+AND password = '" + password + "'";
+
+</pre>
+
+</div>
+
+<div class="interactive-lab">
+
+<h3
+class="translate"
+
+data-en="Security Analysis"
+
+data-pt="Análise de Segurança">
+
+Security Analysis
+
+</h3>
+
+<p
+class="translate"
+
+data-en="What is the MOST critical vulnerability?"
+
+data-pt="Qual é a vulnerabilidade MAIS crítica?">
+
+What is the MOST critical vulnerability?
+
+</p>
+
+<select>
+
+<option
+class="translate"
+
+data-en="Select an option"
+
+data-pt="Selecione uma opção">
+
+Select an option
+
+</option>
+
+<option
+class="translate"
+data-correct="true"
+
+data-en="SQL Injection vulnerability"
+
+data-pt="Vulnerabilidade de SQL Injection">
+
+SQL Injection vulnerability
+
+</option>
+
+<option
+class="translate"
+
+data-en="Broken CSS syntax"
+
+data-pt="Sintaxe CSS quebrada">
+
+Broken CSS syntax
+
+</option>
+
+<option
+class="translate"
+
+data-en="Cloud DNS corruption"
+
+data-pt="Corrupção de DNS cloud">
+
+Cloud DNS corruption
+
+</option>
+
+<option
+class="translate"
+
+data-en="Frontend image rendering issue"
+
+data-pt="Problema na renderização de imagens do frontend">
+
+Frontend image rendering issue
+
+</option>
+
+</select>
+<!-- ========================================= -->
+<!-- BUTTON + VALIDATION -->
+<!-- COLE ISSO ABAIXO DE TODOS OS </select> -->
+<!-- ========================================= -->
+
+<button
+class="lab-submit translate"
+
+data-en="Submit Resolution"
+data-pt="Enviar Resolução"
+
+onclick="validateLab(this)">
+
+Submit Resolution
+
+</button>
+
+<div class="lab-result"></div>
+
+</div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- CODE ANALYSIS 07 -->
+<!-- ========================================= -->
+
+<div class="incident">
+
+<div class="incident-top">
+
+<div class="incident-title">
+
+<h2
+class="translate"
+
+data-en="Code Investigation — Memory Leak"
+
+data-pt="Investigação de Código — Vazamento de Memória">
+
+Code Investigation — Memory Leak
+
+</h2>
+
+</div>
+
+<div class="badge critical">
+HIGH
+</div>
+
+</div>
+
+<p
+class="translate"
+
+data-en="Production memory usage increases continuously over time."
+
+data-pt="O uso de memória em produção aumenta continuamente ao longo do tempo.">
+
+Production memory usage increases continuously over time.
+
+</p>
+
+<div class="fake-terminal">
+
+<pre>
+
+const cache = [];
+
+app.get("/data", async () => {
+
+   const result = await fetchData();
+
+   cache.push(result);
+
+   return result;
+
+});
+
+</pre>
+
+</div>
+
+<div class="interactive-lab">
+
+<h3
+class="translate"
+
+data-en="Backend Analysis"
+
+data-pt="Análise Backend">
+
+Backend Analysis
+
+</h3>
+
+<p
+class="translate"
+
+data-en="What issue is MOST likely happening?"
+
+data-pt="Qual problema MAIS provavelmente está acontecendo?">
+
+What issue is MOST likely happening?
+
+</p>
+
+<select>
+
+<option
+class="translate"
+
+data-en="Select an option"
+
+data-pt="Selecione uma opção">
+
+Select an option
+
+</option>
+
+<option
+class="translate"
+data-correct="true"
+
+data-en="Memory leak caused by uncontrolled cache growth"
+
+data-pt="Vazamento de memória causado por crescimento descontrolado do cache">
+
+Memory leak caused by uncontrolled cache growth
+
+</option>
+
+<option
+class="translate"
+
+data-en="Frontend animation issue"
+
+data-pt="Problema de animação do frontend">
+
+Frontend animation issue
+
+</option>
+
+<option
+class="translate"
+
+data-en="Broken SVG file"
+
+data-pt="Arquivo SVG quebrado">
+
+Broken SVG file
+
+</option>
+
+<option
+class="translate"
+
+data-en="Typography loading issue"
+
+data-pt="Problema no carregamento da tipografia">
+
+Typography loading issue
+
+</option>
+
+</select>
+<!-- ========================================= -->
+<!-- BUTTON + VALIDATION -->
+<!-- COLE ISSO ABAIXO DE TODOS OS </select> -->
+<!-- ========================================= -->
+
+<button
+class="lab-submit translate"
+
+data-en="Submit Resolution"
+data-pt="Enviar Resolução"
+
+onclick="validateLab(this)">
+
+Submit Resolution
+
+</button>
+
+<div class="lab-result"></div>
+
+</div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- CODE ANALYSIS 08 -->
+<!-- ========================================= -->
+
+<div class="incident">
+
+<div class="incident-top">
+
+<div class="incident-title">
+
+<h2
+class="translate"
+
+data-en="Code Investigation — Exposed Secret"
+
+data-pt="Investigação de Código — Segredo Exposto">
+
+Code Investigation — Exposed Secret
+
+</h2>
+
+</div>
+
+<div class="badge critical">
+CRITICAL
+</div>
+
+</div>
+
+<p
+class="translate"
+
+data-en="A Git repository containing credentials became public."
+
+data-pt="Um repositório Git contendo credenciais tornou-se público.">
+
+A Git repository containing credentials became public.
+
+</p>
+
+<div class="fake-terminal">
+
+<pre>
+
+const AWS_SECRET_KEY =
+"AKIAXXXXXXXXXXXXX";
+
+</pre>
+
+</div>
+
+<div class="interactive-lab">
+
+<h3
+class="translate"
+
+data-en="Cloud Security Investigation"
+
+data-pt="Investigação de Segurança Cloud">
+
+Cloud Security Investigation
+
+</h3>
+
+<p
+class="translate"
+
+data-en="What is the MOST severe issue?"
+
+data-pt="Qual é o problema MAIS grave?">
+
+What is the MOST severe issue?
+
+</p>
+
+<select>
+
+<option
+class="translate"
+
+data-en="Select an option"
+
+data-pt="Selecione uma opção">
+
+Select an option
+
+</option>
+
+<option
+class="translate"
+data-correct="true"
+
+data-en="Hardcoded cloud credentials"
+
+data-pt="Credenciais cloud expostas diretamente no código">
+
+Hardcoded cloud credentials
+
+</option>
+
+<option
+class="translate"
+
+data-en="Broken typography"
+
+data-pt="Tipografia quebrada">
+
+Broken typography
+
+</option>
+
+<option
+class="translate"
+
+data-en="CSS rendering issue"
+
+data-pt="Problema de renderização CSS">
+
+CSS rendering issue
+
+</option>
+
+<option
+class="translate"
+
+data-en="Image optimization failure"
+
+data-pt="Falha de otimização de imagens">
+
+Image optimization failure
+
+</option>
+
+</select>
+<!-- ========================================= -->
+<!-- BUTTON + VALIDATION -->
+<!-- COLE ISSO ABAIXO DE TODOS OS </select> -->
+<!-- ========================================= -->
+
+<button
+class="lab-submit translate"
+
+data-en="Submit Resolution"
+data-pt="Enviar Resolução"
+
+onclick="validateLab(this)">
+
+Submit Resolution
+
+</button>
+
+<div class="lab-result"></div>
+
+</div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- INCIDENT 09 -->
+<!-- ========================================= -->
+
+<div class="incident">
+
+<div class="incident-top">
+
+<div class="incident-title">
+
+<h2
+class="translate"
+
+data-en="Incident 09 — Redis Queue Saturation"
+
+data-pt="Incidente 09 — Saturação da Fila Redis">
+
+Incident 09 — Redis Queue Saturation
+
+</h2>
+
+</div>
+
+<div class="badge critical">
+HIGH
+</div>
+
+</div>
+
+<p
+class="translate"
+
+data-en="Background jobs are delayed and message processing time increased drastically."
+
+data-pt="Jobs em background estão atrasados e o tempo de processamento das mensagens aumentou drasticamente.">
+
+Background jobs are delayed and message processing time increased drastically.
+
+</p>
+
+<div class="fake-terminal">
+
+<div class="log-warning">
+Redis latency exceeded threshold
+</div>
+
+<div class="log-warning">
+Worker queue backlog increasing
+</div>
+
+<div class="log-error">
+Processing delay: 4800ms
+</div>
+
+</div>
+
+<div class="interactive-lab">
+
+<h3
+class="translate"
+
+data-en="Queue Investigation"
+
+data-pt="Investigação da Fila">
+
+Queue Investigation
+
+</h3>
+
+<p
+class="translate"
+
+data-en="What infrastructure issue is MOST likely occurring?"
+
+data-pt="Qual problema de infraestrutura MAIS provavelmente está acontecendo?">
+
+What infrastructure issue is MOST likely occurring?
+
+</p>
+
+<select>
+
+<option
+class="translate"
+
+data-en="Select an option"
+
+data-pt="Selecione uma opção">
+
+Select an option
+
+</option>
+
+<option
+class="translate"
+data-correct="true"
+
+data-en="Queue saturation and processing bottleneck"
+
+data-pt="Saturação da fila e gargalo de processamento">
+
+Queue saturation and processing bottleneck
+
+</option>
+
+<option
+class="translate"
+
+data-en="Broken frontend animation"
+
+data-pt="Animação do frontend quebrada">
+
+Broken frontend animation
+
+</option>
+
+<option
+class="translate"
+
+data-en="Typography rendering issue"
+
+data-pt="Problema de renderização da tipografia">
+
+Typography rendering issue
+
+</option>
+
+<option
+class="translate"
+
+data-en="Invalid SVG icon"
+
+data-pt="Ícone SVG inválido">
+
+Invalid SVG icon
+
+</option>
+
+</select>
+<!-- ========================================= -->
+<!-- BUTTON + VALIDATION -->
+<!-- COLE ISSO ABAIXO DE TODOS OS </select> -->
+<!-- ========================================= -->
+
+<button
+class="lab-submit translate"
+
+data-en="Submit Resolution"
+data-pt="Enviar Resolução"
+
+onclick="validateLab(this)">
+
+Submit Resolution
+
+</button>
+
+<div class="lab-result"></div>
+</div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- INCIDENT 10 -->
+<!-- ========================================= -->
+
+<div class="incident">
+
+<div class="incident-top">
+
+<div class="incident-title">
+
+<h2
+class="translate"
+
+data-en="Incident 10 — PostgreSQL Replication Lag"
+
+data-pt="Incidente 10 — Atraso na Replicação PostgreSQL">
+
+Incident 10 — PostgreSQL Replication Lag
+
+</h2>
+
+</div>
+
+<div class="badge critical">
+CRITICAL
+</div>
+
+</div>
+
+<p
+class="translate"
+
+data-en="Users report outdated account information after recent transactions."
+
+data-pt="Usuários relatam informações desatualizadas após transações recentes.">
+
+Users report outdated account information after recent transactions.
+
+</p>
+
+<div class="fake-terminal">
+
+<div class="log-warning">
+Replication lag exceeded 60 seconds
+</div>
+
+<div class="log-warning">
+Replica node delayed
+</div>
+
+<div class="log-error">
+Read replica outdated
+</div>
+
+</div>
+
+<div class="interactive-lab">
+
+<h3
+class="translate"
+
+data-en="Database Investigation"
+
+data-pt="Investigação do Banco de Dados">
+
+Database Investigation
+
+</h3>
+
+<p
+class="translate"
+
+data-en="What platform risk is MOST likely happening?"
+
+data-pt="Qual risco da plataforma MAIS provavelmente está acontecendo?">
+
+What platform risk is MOST likely happening?
+
+</p>
+
+<select>
+
+<option
+class="translate"
+
+data-en="Select an option"
+
+data-pt="Selecione uma opção">
+
+Select an option
+
+</option>
+
+<option
+class="translate"
+data-correct="true"
+
+data-en="Stale reads and inconsistent data"
+
+data-pt="Leituras desatualizadas e dados inconsistentes">
+
+Stale reads and inconsistent data
+
+</option>
+
+<option
+class="translate"
+
+data-en="Broken CSS variables"
+
+data-pt="Variáveis CSS quebradas">
+
+Broken CSS variables
+
+</option>
+
+<option
+class="translate"
+
+data-en="Image compression issue"
+
+data-pt="Problema de compressão de imagem">
+
+Image compression issue
+
+</option>
+
+<option
+class="translate"
+
+data-en="Frontend overflow issue"
+
+data-pt="Problema de overflow no frontend">
+
+Frontend overflow issue
+
+</option>
+
+</select>
+<!-- ========================================= -->
+<!-- BUTTON + VALIDATION -->
+<!-- COLE ISSO ABAIXO DE TODOS OS </select> -->
+<!-- ========================================= -->
+
+<button
+class="lab-submit translate"
+
+data-en="Submit Resolution"
+data-pt="Enviar Resolução"
+
+onclick="validateLab(this)">
+
+Submit Resolution
+
+</button>
+
+<div class="lab-result"></div>
+
+</div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- CODE ANALYSIS 09 -->
+<!-- ========================================= -->
+
+<div class="incident">
+
+<div class="incident-top">
+
+<div class="incident-title">
+
+<h2
+class="translate"
+
+data-en="Code Investigation — Missing Error Handling"
+
+data-pt="Investigação de Código — Tratamento de Erro Ausente">
+
+Code Investigation — Missing Error Handling
+
+</h2>
+
+</div>
+
+<div class="badge critical">
+HIGH
+</div>
+
+</div>
+
+<p
+class="translate"
+
+data-en="Production API crashes during unexpected database failures."
+
+data-pt="A API em produção falha durante erros inesperados do banco de dados.">
+
+Production API crashes during unexpected database failures.
+
+</p>
+
+<div class="fake-terminal">
+
+<pre>
+
+app.get("/users", async (req,res) => {
+
+   const users =
+   await database.getUsers();
+
+   res.send(users);
+
+});
+
+</pre>
+
+</div>
+
+<div class="interactive-lab">
+
+<h3
+class="translate"
+
+data-en="Backend Stability Analysis"
+
+data-pt="Análise de Estabilidade Backend">
+
+Backend Stability Analysis
+
+</h3>
+
+<p
+class="translate"
+
+data-en="What engineering issue exists in this code?"
+
+data-pt="Qual problema de engenharia existe neste código?">
+
+What engineering issue exists in this code?
+
+</p>
+
+<select>
+
+<option
+class="translate"
+
+data-en="Select an option"
+
+data-pt="Selecione uma opção">
+
+Select an option
+
+</option>
+
+<option
+class="translate"
+data-correct="true"
+
+data-en="Missing try/catch error handling"
+
+data-pt="Ausência de tratamento de erro com try/catch">
+
+Missing try/catch error handling
+
+</option>
+
+<option
+class="translate"
+
+data-en="Typography issue"
+
+data-pt="Problema de tipografia">
+
+Typography issue
+
+</option>
+
+<option
+class="translate"
+
+data-en="Frontend spacing problem"
+
+data-pt="Problema de espaçamento do frontend">
+
+Frontend spacing problem
+
+</option>
+
+<option
+class="translate"
+
+data-en="Broken SVG rendering"
+
+data-pt="Renderização SVG quebrada">
+
+Broken SVG rendering
+
+</option>
+
+</select>
+<!-- ========================================= -->
+<!-- BUTTON + VALIDATION -->
+<!-- COLE ISSO ABAIXO DE TODOS OS </select> -->
+<!-- ========================================= -->
+
+<button
+class="lab-submit translate"
+
+data-en="Submit Resolution"
+data-pt="Enviar Resolução"
+
+onclick="validateLab(this)">
+
+Submit Resolution
+
+</button>
+
+<div class="lab-result"></div>
+
+</div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- CODE ANALYSIS 10 -->
+<!-- ========================================= -->
+
+<div class="incident">
+
+<div class="incident-top">
+
+<div class="incident-title">
+
+<h2
+class="translate"
+
+data-en="Code Investigation — Blocking Operation"
+
+data-pt="Investigação de Código — Operação Bloqueante">
+
+Code Investigation — Blocking Operation
+
+</h2>
+
+</div>
+
+<div class="badge critical">
+HIGH
+</div>
+
+</div>
+
+<p
+class="translate"
+
+data-en="The API becomes extremely slow under high traffic."
+
+data-pt="A API torna-se extremamente lenta sob alto tráfego.">
+
+The API becomes extremely slow under high traffic.
+
+</p>
+
+<div class="fake-terminal">
+
+<pre>
+
+app.get("/report", (req,res) => {
+
+   const file =
+   fs.readFileSync("huge-report.csv");
+
+   res.send(file);
+
+});
+
+</pre>
+
+</div>
+
+<div class="interactive-lab">
+
+<h3
+class="translate"
+
+data-en="Performance Analysis"
+
+data-pt="Análise de Performance">
+
+Performance Analysis
+
+</h3>
+
+<p
+class="translate"
+
+data-en="What is the MOST probable issue?"
+
+data-pt="Qual é o problema MAIS provável?">
+
+What is the MOST probable issue?
+
+</p>
+
+<select>
+
+<option
+class="translate"
+
+data-en="Select an option"
+
+data-pt="Selecione uma opção">
+
+Select an option
+
+</option>
+
+<option
+class="translate"
+data-correct="true"
+
+data-en="Blocking synchronous operation"
+
+data-pt="Operação síncrona bloqueante">
+
+Blocking synchronous operation
+
+</option>
+
+<option
+class="translate"
+
+data-en="Broken frontend color"
+
+data-pt="Cor do frontend quebrada">
+
+Broken frontend color
+
+</option>
+
+<option
+class="translate"
+
+data-en="Invalid image format"
+
+data-pt="Formato de imagem inválido">
+
+Invalid image format
+
+</option>
+
+<option
+class="translate"
+
+data-en="Broken typography"
+
+data-pt="Tipografia quebrada">
+
+Broken typography
+
+</option>
+
+</select>
+<!-- ========================================= -->
+<!-- BUTTON + VALIDATION -->
+<!-- COLE ISSO ABAIXO DE TODOS OS </select> -->
+<!-- ========================================= -->
+
+<button
+class="lab-submit translate"
+
+data-en="Submit Resolution"
+data-pt="Enviar Resolução"
+
+onclick="validateLab(this)">
+
+Submit Resolution
+
+</button>
+
+<div class="lab-result"></div>
+</div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- INCIDENT 11 -->
+<!-- ========================================= -->
+
+<div class="incident">
+
+<div class="incident-top">
+
+<div class="incident-title">
+
+<h2
+class="translate"
+
+data-en="Incident 11 — TLS Certificate Expired"
+
+data-pt="Incidente 11 — Certificado TLS Expirado">
+
+Incident 11 — TLS Certificate Expired
+
+</h2>
+
+</div>
+
+<div class="badge critical">
+MEDIUM
+</div>
+
+</div>
+
+<p
+class="translate"
+
+data-en="Users cannot establish secure HTTPS connections to the platform."
+
+data-pt="Usuários não conseguem estabelecer conexões HTTPS seguras com a plataforma.">
+
+Users cannot establish secure HTTPS connections to the platform.
+
+</p>
+
+<div class="fake-terminal">
+
+<div class="log-error">
+NET::ERR_CERT_DATE_INVALID
+</div>
+
+<div class="log-warning">
+TLS certificate expired
+</div>
+
+<div class="log-warning">
+Secure connection rejected
+</div>
+
+</div>
+
+<div class="interactive-lab">
+
+<h3
+class="translate"
+
+data-en="Security Investigation"
+
+data-pt="Investigação de Segurança">
+
+Security Investigation
+
+</h3>
+
+<p
+class="translate"
+
+data-en="What impact does this MOST likely create?"
+
+data-pt="Qual impacto isso MAIS provavelmente gera?">
+
+What impact does this MOST likely create?
+
+</p>
+
+<select>
+
+<option
+class="translate"
+
+data-en="Select an option"
+
+data-pt="Selecione uma opção">
+
+Select an option
+
+</option>
+
+<option
+class="translate"
+data-correct="true"
+
+data-en="Secure connections become invalid"
+
+data-pt="Conexões seguras tornam-se inválidas">
+
+Secure connections become invalid
+
+</option>
+
+<option
+class="translate"
+
+data-en="Broken SVG icon"
+
+data-pt="Ícone SVG quebrado">
+
+Broken SVG icon
+
+</option>
+
+<option
+class="translate"
+
+data-en="Frontend cache issue"
+
+data-pt="Problema de cache do frontend">
+
+Frontend cache issue
+
+</option>
+
+<option
+class="translate"
+
+data-en="Typography rendering problem"
+
+data-pt="Problema de renderização da tipografia">
+
+Typography rendering problem
+
+</option>
+
+</select>
+<!-- ========================================= -->
+<!-- BUTTON + VALIDATION -->
+<!-- COLE ISSO ABAIXO DE TODOS OS </select> -->
+<!-- ========================================= -->
+
+<button
+class="lab-submit translate"
+
+data-en="Submit Resolution"
+data-pt="Enviar Resolução"
+
+onclick="validateLab(this)">
+
+Submit Resolution
+
+</button>
+
+<div class="lab-result"></div>
+
+</div>
+
+</div>
+
+<!-- BUTTON -->
+
+<div class="back-button">
+
+<a href="../play.html">
+Return to CPG Play
+</a>
+
+</div>
+
+</section>
+
+<!-- SCRIPT -->
+
+<script>
+
+function setLanguage(lang){
+
+    const elements =
+    document.querySelectorAll('.translate');
+
+    elements.forEach(element => {
+
+        if(lang === 'pt'){
+
+            element.innerHTML =
+            element.getAttribute('data-pt');
+        }
+
+        else{
+
+            element.innerHTML =
+            element.getAttribute('data-en');
+        }
+
+    });
+
+}
+
+/* ========================================= */
+/* VALIDATE */
+/* ========================================= */
+
+function validateAnswer(){
+
+    const answer =
+    document.getElementById("answerSelect").value;
+
+    const resultBox =
+    document.getElementById("resultBox");
+
+    resultBox.style.display = "block";
+
+    if(answer === "correct"){
+
+        resultBox.className = "success";
+
+        resultBox.innerHTML = `
+
+        <strong>Resolution Accepted</strong>
+
+        <br><br>
+
+        Excellent analysis.
+
+        <br><br>
+
+        Root cause identified:
+        authentication service overload combined
+        with database timeout escalation.
+
+        <br><br>
+
+        Engineering Impact:
+        <br>
+        • JWT instability
+        <br>
+        • Queue saturation
+        <br>
+        • Cascading backend failures
+        <br>
+        • HTTP 500 responses
+
+        <br><br>
+
+        +100 XP
+        <br>
+        Incident resolved successfully.
+
+        `;
+
+    }
+
+    else{
+
+        resultBox.className = "error";
+
+        resultBox.innerHTML = `
+
+        <strong>Resolution Failed</strong>
+
+        <br><br>
+
+        Your investigation did not identify
+        the most probable root cause.
+
+        <br><br>
+
+        Reanalyze:
+        <br>
+        • JWT failures
+        <br>
+        • auth-service latency
+        <br>
+        • worker saturation
+        <br>
+        • database timeout
+
+        `;
+
+    }
+
+}
+
+function validateLab(button){
+
+    const lab =
+    button.parentElement;
+
+    const select =
+    lab.querySelector("select");
+
+    const result =
+    lab.querySelector(".lab-result");
+
+    const selectedOption =
+    select.options[select.selectedIndex];
+
+    const isCorrect =
+    selectedOption.dataset.correct === "true";
+
+    result.style.display = "block";
+
+    if(isCorrect){
+
+        result.className =
+        "lab-result lab-success";
+
+        result.innerHTML = `
+
+        <strong>Resolution Accepted</strong>
+
+        <br><br>
+
+        Excellent engineering analysis.
+
+        <br><br>
+
+        Root cause identified successfully.
+
+        <br><br>
+
+        +100 XP
+
+        `;
+
+    }
+
+    else{
+
+        result.className =
+        "lab-result lab-error";
+
+        result.innerHTML = `
+
+        <strong>Resolution Failed</strong>
+
+        <br><br>
+
+        Reanalyze the logs and infrastructure behavior.
+
+        `;
+
+    }
+
+}
+
+</script>
+
+
+</body>
+</html>

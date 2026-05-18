@@ -1,0 +1,1542 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>CPG Terminal</title>
+
+<link rel="stylesheet" href="../play.css">
+
+<style>
+
+/* ========================================= */
+/* BODY */
+/* ========================================= */
+
+body{
+
+    margin:0;
+
+    background:#020617;
+
+    color:white;
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    overflow-x:hidden;
+}
+
+/* ========================================= */
+/* VIDEO */
+/* ========================================= */
+
+.bg-video{
+
+    position:fixed;
+    inset:0;
+
+    width:100%;
+    height:100%;
+
+    object-fit:cover;
+
+    opacity:0.12;
+
+    z-index:-3;
+}
+
+/* ========================================= */
+/* OVERLAY */
+/* ========================================= */
+
+.overlay{
+
+    position:fixed;
+    inset:0;
+
+    background:
+      rgba(2,6,23,0.82);
+
+    z-index:-2;
+}
+
+/* ========================================= */
+/* TERMINAL WRAPPER */
+/* ========================================= */
+
+.terminal-wrapper{
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+    align-items:center;
+
+    padding:40px;
+}
+
+/* ========================================= */
+/* TERMINAL */
+/* ========================================= */
+
+.terminal{
+
+    width:100%;
+    max-width:1300px;
+
+    height:760px;
+
+    background:
+      rgba(0,0,0,0.82);
+
+    border:
+      1px solid rgba(79,195,247,0.18);
+
+    border-radius:20px;
+
+    overflow:hidden;
+
+    backdrop-filter:blur(8px);
+
+    box-shadow:
+      0 0 40px rgba(79,195,247,0.12);
+}
+
+/* ========================================= */
+/* TOP BAR */
+/* ========================================= */
+
+.terminal-top{
+
+    height:55px;
+
+    display:flex;
+
+    align-items:center;
+
+    gap:10px;
+
+    padding:0 20px;
+
+    background:
+      rgba(255,255,255,0.03);
+
+    border-bottom:
+      1px solid rgba(255,255,255,0.05);
+}
+
+.dot{
+
+    width:12px;
+    height:12px;
+
+    border-radius:50%;
+}
+
+.red{ background:#ff5f56; }
+.yellow{ background:#ffbd2e; }
+.green{ background:#27c93f; }
+
+/* ========================================= */
+/* CONTENT */
+/* ========================================= */
+
+.terminal-content{
+
+    display:flex;
+
+    height:calc(100% - 55px);
+}
+
+/* ========================================= */
+/* LEFT */
+/* ========================================= */
+
+.left{
+
+    flex:1;
+
+    padding:40px;
+
+    font-family:monospace;
+
+    color:#7CFF7C;
+
+    display:flex;
+
+    flex-direction:column;
+
+    overflow:hidden;
+}
+
+.left h1{
+
+    color:#4FC3F7;
+
+    margin-bottom:20px;
+
+    font-size:48px;
+}
+
+/* ========================================= */
+/* TERMINAL OUTPUT */
+/* ========================================= */
+
+#terminalOutput{
+
+    flex:1;
+
+    overflow-y:auto;
+
+    line-height:2;
+
+    padding-right:10px;
+}
+
+/* ========================================= */
+/* INPUT */
+/* ========================================= */
+
+.input-line{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:10px;
+
+    margin-top:20px;
+
+    flex-shrink:0;
+}
+
+.prompt{
+
+    color:#7CFF7C;
+}
+
+#terminalInput{
+
+    flex:1;
+
+    background:transparent;
+
+    border:none;
+
+    outline:none;
+
+    color:#7CFF7C;
+
+    font-size:18px;
+
+    font-family:monospace;
+}
+
+/* ========================================= */
+/* RIGHT PANEL */
+/* ========================================= */
+
+.right{
+
+    width:320px;
+
+    border-left:
+      1px solid rgba(255,255,255,0.05);
+
+    padding:40px;
+
+    font-family:monospace;
+
+    color:#cbd5e1;
+
+    flex-shrink:0;
+}
+
+.right h3{
+
+    color:#4FC3F7;
+
+    margin-bottom:20px;
+}
+
+.panel{
+
+    margin-bottom:50px;
+
+    line-height:2;
+}
+
+/* ========================================= */
+/* CURSOR */
+/* ========================================= */
+
+.cursor{
+
+    animation:blink 1s infinite;
+}
+
+@keyframes blink{
+
+    0%{
+        opacity:1;
+    }
+
+    50%{
+        opacity:0;
+    }
+
+    100%{
+        opacity:1;
+    }
+
+}
+
+/* ========================================= */
+/* SHAKE EFFECT */
+/* ========================================= */
+
+.shake{
+
+    animation:shake 0.4s;
+}
+
+@keyframes shake{
+
+    0%{
+        transform:translate(0);
+    }
+
+    20%{
+        transform:translate(-4px, 2px);
+    }
+
+    40%{
+        transform:translate(4px, -2px);
+    }
+
+    60%{
+        transform:translate(-3px, 1px);
+    }
+
+    80%{
+        transform:translate(3px, -1px);
+    }
+
+    100%{
+        transform:translate(0);
+    }
+
+}
+
+/* ========================================= */
+/* GLOW FLASH */
+/* ========================================= */
+
+.glow-flash{
+
+    animation:glowFlash 1s;
+}
+
+@keyframes glowFlash{
+
+    0%{
+
+        box-shadow:
+          0 0 0 rgba(79,195,247,0);
+    }
+
+    50%{
+
+        box-shadow:
+          0 0 40px rgba(79,195,247,0.7),
+          0 0 120px rgba(79,195,247,0.4);
+    }
+
+    100%{
+
+        box-shadow:
+          0 0 0 rgba(79,195,247,0);
+    }
+
+}
+
+/* ========================================= */
+/* WARNING TEXT */
+/* ========================================= */
+
+.warning{
+
+    color:#ff4d4d;
+
+    animation:warningBlink 1s infinite;
+}
+
+@keyframes warningBlink{
+
+    0%{
+        opacity:1;
+    }
+
+    50%{
+        opacity:0.4;
+    }
+
+    100%{
+        opacity:1;
+    }
+
+}
+
+/* ========================================= */
+/* ALERT BOX */
+/* ========================================= */
+
+.alert-box{
+
+    margin-top:20px;
+
+    padding:15px;
+
+    border:
+      1px solid rgba(255,77,77,0.4);
+
+    background:
+      rgba(255,77,77,0.08);
+
+    border-radius:10px;
+
+    color:#ff8080;
+} 
+
+@media(max-width:768px){
+
+    .terminal-wrapper{
+
+        padding:14px;
+
+        align-items:flex-start;
+    }
+
+    .terminal{
+
+        height:auto;
+
+        min-height:100vh;
+
+        border-radius:18px;
+    }
+
+    .terminal-content{
+
+        flex-direction:column;
+    }
+
+    .left{
+
+        padding:20px;
+    }
+
+    .left h1{
+
+        font-size:32px;
+
+        margin-bottom:18px;
+    }
+
+    #terminalOutput{
+
+        min-height:320px;
+
+        font-size:13px;
+
+        line-height:1.8;
+    }
+
+    .input-line{
+
+        margin-top:16px;
+
+        gap:8px;
+
+        flex-wrap:wrap;
+    }
+
+    .prompt{
+
+        font-size:12px;
+    }
+
+    #terminalInput{
+
+        font-size:16px;
+
+        min-width:0;
+    }
+
+    .right{
+
+        width:auto;
+
+        border-left:none;
+
+        border-top:
+        1px solid rgba(255,255,255,0.05);
+
+        padding:20px;
+    }
+
+    .panel{
+
+        margin-bottom:30px;
+    }
+
+    .terminal-top{
+
+        padding:0 14px;
+    }
+
+    .dot{
+
+        width:10px;
+        height:10px;
+    }
+
+} 
+</style>
+
+</head>
+
+<body>
+
+<!-- ========================================= -->
+<!-- VIDEO -->
+<!-- ========================================= -->
+
+<video autoplay muted loop playsinline class="bg-video">
+
+<source
+src="../video/mixkit-exploring-the-cosmos-32910-hd-ready.mp4"
+type="video/mp4">
+
+</video>
+
+<!-- ========================================= -->
+<!-- OVERLAY -->
+<!-- ========================================= -->
+
+<div class="overlay"></div>
+
+<!-- ========================================= -->
+<!-- TERMINAL -->
+<!-- ========================================= -->
+
+<div class="terminal-wrapper">
+
+<div class="terminal">
+
+<!-- TOP -->
+
+<div class="terminal-top">
+
+<div class="dot red" onclick="fecharTerminal()"></div>
+
+<div class="dot yellow" onclick="minimizarTerminal()"></div>
+
+<div class="dot green" onclick="expandirTerminal()"></div>
+
+</div>
+
+<!-- CONTENT -->
+
+<div class="terminal-content">
+
+<!-- LEFT -->
+
+<div class="left">
+
+<h1>CPG TERMINAL</h1>
+
+<div id="terminalOutput">
+
+<div>[OK] Initializing system...</div>
+<div>[OK] Loading kernel modules...</div>
+<div>[OK] Connecting to secure cloud...</div>
+<div>[OK] Establishing encrypted channel...</div>
+<div>[OK] AI core online.</div>
+<div>[OK] System ready.</div>
+
+<br>
+
+<div>
+Welcome to CPG Terminal.
+</div>
+
+<div>
+Type 'help' to see available commands.
+</div>
+
+</div>
+
+<!-- INPUT -->
+
+<div class="input-line">
+
+<div class="prompt">
+cpg@terminal:~$
+</div>
+
+<input
+type="text"
+id="terminalInput"
+autocomplete="off">
+
+<div class="cursor">█</div>
+
+</div>
+
+</div>
+
+<!-- RIGHT -->
+
+<div class="right">
+
+<div class="panel">
+
+<h3>SYSTEM STATUS</h3>
+
+<div>User: cpg_user</div>
+<div>Level: 1</div>
+<div id="xpDisplay">XP: 0 / 100</div>
+<div id="rankDisplay">Rank: Initiate</div>
+<div>Core: Online</div>
+
+</div>
+
+<div class="panel">
+
+<h3>QUICK COMMANDS</h3>
+
+<div>help</div>
+<div>status</div>
+<div>missions</div>
+<div>about</div>
+<div>clear</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- SCRIPT -->
+<!-- ========================================= -->
+
+<!-- ========================================= -->
+<!-- SCRIPT TERMINAL EVOLUÍDO -->
+<!-- ========================================= -->
+
+<script>
+
+/* ========================================= */
+/* ELEMENTOS */
+/* ========================================= */
+
+const input =
+document.getElementById("terminalInput");
+
+const output =
+document.getElementById("terminalOutput");
+
+const xpDisplay =
+document.getElementById("xpDisplay");
+
+const rankDisplay =
+document.getElementById("rankDisplay");
+
+/* ========================================= */
+/* SISTEMA */
+/* ========================================= */
+
+let xp = 0;
+
+let logged = false;
+
+let networkScanned = false;
+
+let nodeDecrypted = false;
+
+let aiUnlocked = false;
+
+let secretProtocol = false;
+
+/* ========================================= */
+/* AUTO FOCUS */
+/* ========================================= */
+
+input.focus();
+
+/* ========================================= */
+/* BOOT */
+/* ========================================= */
+
+output.innerHTML = "";
+
+const bootLines = [
+
+"[OK] Initializing kernel...",
+"[OK] Loading security modules...",
+"[OK] Connecting cloud nodes...",
+"[OK] Establishing encrypted channel...",
+"[OK] AI monitoring active...",
+"[OK] System ready.",
+"",
+"Welcome to CPG Terminal.",
+"",
+"WARNING:",
+"Unauthorized access is prohibited.",
+"",
+"Authenticate access:",
+"login cpg_admin"
+
+];
+
+let bootIndex = 0;
+
+function bootSequence(){
+
+    if(bootIndex < bootLines.length){
+
+        createLine(bootLines[bootIndex]);
+
+        bootIndex++;
+
+        setTimeout(bootSequence, 350);
+    }
+
+}
+
+bootSequence();
+
+/* ========================================= */
+/* ENTER */
+/* ========================================= */
+
+input.addEventListener("keydown", function(e){
+
+    if(e.key === "Enter"){
+
+        const command =
+        input.value.trim().toLowerCase();
+
+        createLine(
+          "cpg@terminal:~$ " + command
+        );
+
+        processCommand(command);
+
+        input.value = "";
+    }
+
+});
+
+/* ========================================= */
+/* CREATE LINE */
+/* ========================================= */
+
+function createLine(text){
+
+    const div =
+    document.createElement("div");
+
+    div.style.marginTop = "8px";
+
+    div.textContent = text;
+
+    output.appendChild(div);
+
+    output.scrollTop =
+    output.scrollHeight;
+}
+
+/* ========================================= */
+/* SHAKE TERMINAL */
+/* ========================================= */
+
+function shakeTerminal(){
+
+    const terminal =
+    document.querySelector(".terminal");
+
+    terminal.classList.add("shake");
+
+    setTimeout(() => {
+
+        terminal.classList.remove("shake");
+
+    }, 400);
+
+}
+
+/* ========================================= */
+/* GLOW FLASH */
+/* ========================================= */
+
+function glowFlash(){
+
+    const terminal =
+    document.querySelector(".terminal");
+
+    terminal.classList.add("glow-flash");
+
+    setTimeout(() => {
+
+        terminal.classList.remove("glow-flash");
+
+    }, 1000);
+
+}
+
+/* ========================================= */
+/* ALERT */
+/* ========================================= */
+
+function createAlert(text){
+
+    const div =
+    document.createElement("div");
+
+    div.classList.add("alert-box");
+
+    div.innerHTML =
+    "<span class='warning'>WARNING:</span><br><br>" + text;
+
+    output.appendChild(div);
+
+}
+
+/* ========================================= */
+/* XP */
+/* ========================================= */
+
+function addXP(value){
+
+    xp += value;
+
+    createLine("");
+    createLine("[XP +" + value + "]");
+
+    xpDisplay.innerText =
+    "XP: " + xp + " / 500";
+
+    /* RANKS */
+
+    if(xp >= 50){
+
+        rankDisplay.innerText =
+        "Rank: Operator";
+    }
+
+    if(xp >= 150){
+
+        rankDisplay.innerText =
+        "Rank: Cyber Specialist";
+    }
+
+    if(xp >= 300){
+
+        rankDisplay.innerText =
+        "Rank: Neural Commander";
+    }
+
+}
+
+/* ========================================= */
+/* COMMANDS */
+/* ========================================= */
+
+function processCommand(command){
+
+/* ========================================= */
+/* HELP */
+/* ========================================= */
+
+if(command === "help"){
+
+    createLine("");
+    createLine("[AVAILABLE COMMANDS]");
+    createLine("");
+
+    createLine("help");
+    createLine("status");
+    createLine("missions");
+    createLine("about");
+    createLine("clear");
+    createLine("whoami");
+    createLine("ls");
+    createLine("system_info");
+    createLine("ping");
+    createLine("trace");
+
+    if(logged){
+
+        createLine("");
+        createLine("[ADMIN COMMANDS]");
+        createLine("");
+
+        createLine("scan network");
+        createLine("access logs");
+        createLine("show users");
+        createLine("security_scan");
+    }
+
+    if(networkScanned){
+
+        createLine("");
+        createLine("[NETWORK COMMANDS]");
+        createLine("");
+
+        createLine("connect node_01");
+        createLine("decrypt node_03");
+    }
+
+    if(nodeDecrypted){
+
+        createLine("");
+        createLine("[AI COMMANDS]");
+        createLine("");
+
+        createLine("ai_status");
+        createLine("neural_link");
+    }
+
+    if(aiUnlocked){
+
+        createLine("");
+        createLine("[CLASSIFIED]");
+        createLine("");
+
+        createLine("protocol omega");
+        createLine("satellite uplink");
+    }
+
+    createLine("");
+    createLine("[HINT]");
+
+    if(!logged){
+
+        createLine("Authenticate administrator access.");
+    }
+
+    else if(!networkScanned){
+
+        createLine("Try scanning the network.");
+    }
+
+    else if(!nodeDecrypted){
+
+        createLine("Encrypted node detected.");
+    }
+
+    else if(!aiUnlocked){
+
+        createLine("AI core waiting activation.");
+    }
+
+    else{
+
+        createLine("Some protocols remain hidden.");
+    }
+
+}
+
+/* ========================================= */
+/* LOGIN */
+/* ========================================= */
+
+else if(command === "login cpg_admin"){
+
+    if(logged){
+
+        createLine("");
+        createLine("Already authenticated.");
+    }
+
+    else{
+
+        logged = true;
+
+        createLine("");
+        createLine("[OK] Authentication successful.");
+        createLine("Administrator access granted.");
+        createLine("");
+        createLine("New commands unlocked.");
+
+        addXP(25);
+    }
+
+}
+
+/* ========================================= */
+/* STATUS */
+/* ========================================= */
+
+else if(command === "status"){
+
+    createLine("");
+    createLine("[SYSTEM STATUS]");
+    createLine("");
+
+    createLine("Core: ONLINE");
+    createLine("Cloud: CONNECTED");
+    createLine("Security: ACTIVE");
+
+    if(logged){
+
+        createLine("Access Level: ADMIN");
+    }
+
+    else{
+
+        createLine("Access Level: GUEST");
+    }
+
+}
+
+/* ========================================= */
+/* MISSIONS */
+/* ========================================= */
+
+else if(command === "missions"){
+
+    createLine("");
+    createLine("[MISSION CENTER]");
+    createLine("");
+
+    if(!logged){
+
+        createLine("MISSION 01");
+        createLine("Authenticate terminal access.");
+        createLine("");
+        createLine("Hint:");
+        createLine("login cpg_admin");
+    }
+
+    else if(!networkScanned){
+
+        createLine("MISSION 02");
+        createLine("Scan secure network.");
+        createLine("");
+        createLine("Hint:");
+        createLine("scan network");
+    }
+
+    else if(!nodeDecrypted){
+
+        createLine("MISSION 03");
+        createLine("Decrypt hidden node.");
+        createLine("");
+        createLine("Hint:");
+        createLine("decrypt node_03");
+    }
+
+    else if(!aiUnlocked){
+
+        createLine("MISSION 04");
+        createLine("Unlock AI core.");
+        createLine("");
+        createLine("Hint:");
+        createLine("ai_status");
+    }
+
+    else if(!secretProtocol){
+
+        createLine("MISSION 05");
+        createLine("Find classified protocol.");
+        createLine("");
+        createLine("Hint:");
+        createLine("Some commands are hidden.");
+    }
+
+    else{
+
+        createLine("ALL MISSIONS COMPLETED.");
+    }
+
+}
+
+/* ========================================= */
+/* SCAN NETWORK */
+/* ========================================= */
+
+else if(command === "scan network"){
+
+    if(!logged){
+
+        createLine("");
+        createLine("ACCESS DENIED");
+    }
+
+    else if(networkScanned){
+
+        createLine("");
+        createLine("Network already scanned.");
+    }
+
+    else{
+
+        networkScanned = true;
+
+        createLine("");
+        createLine("Scanning network...");
+        createLine("");
+        createLine("Node 01: ONLINE");
+        createLine("Node 02: ONLINE");
+        createLine("Node 03: ENCRYPTED");
+        createLine("");
+        createLine("WARNING:");
+        createLine("Unknown encrypted node detected.");
+
+        addXP(50);
+    }
+
+}
+
+/* ========================================= */
+/* DECRYPT */
+/* ========================================= */
+
+else if(command === "decrypt node_03"){
+
+    if(!networkScanned){
+
+        createLine("");
+        createLine("Encrypted node not found.");
+    }
+
+    else if(nodeDecrypted){
+
+        createLine("");
+        createLine("Node already decrypted.");
+    }
+
+    else{
+
+        nodeDecrypted = true;
+
+        createLine("");
+        createLine("Decrypting node_03...");
+        createLine("");
+        createLine("[##########]");
+        createLine("");
+        createLine("Decryption complete.");
+        createLine("");
+        createLine("Hidden AI protocols found.");
+
+        addXP(75);
+    }
+
+}
+
+/* ========================================= */
+/* AI STATUS */
+/* ========================================= */
+
+else if(command === "ai_status"){
+
+    if(!nodeDecrypted){
+
+        createLine("");
+        createLine("AI CORE LOCKED");
+    }
+
+    else if(aiUnlocked){
+
+        createLine("");
+        createLine("AI already connected.");
+    }
+
+    else{
+
+        aiUnlocked = true;
+
+        createLine("");
+        createLine("[AI CORE STATUS]");
+        createLine("");
+
+        createLine("Neural modules: ACTIVE");
+        createLine("Machine learning: ONLINE");
+        createLine("Cloud sync: ACTIVE");
+        createLine("");
+        createLine("AI RESPONSE:");
+        createLine("\"Connection established.\"");
+        createLine("\"Awaiting instructions.\"");
+
+        addXP(100);
+    }
+
+}
+
+/* ========================================= */
+/* SECRET PROTOCOL */
+/* ========================================= */
+
+else if(command === "protocol omega"){
+
+    if(!aiUnlocked){
+
+        createLine("");
+        createLine("Unknown command.");
+    }
+
+    else if(secretProtocol){
+
+        createLine("");
+        createLine("Protocol already activated.");
+    }
+
+    else{
+
+        secretProtocol = true;
+
+        shakeTerminal();
+
+        glowFlash(); 
+
+        createLine("");
+        createLine("[CLASSIFIED ACCESS]");
+        createLine("");
+        createLine("Protocol Omega activated.");
+        createLine("");
+        createLine("WARNING:");
+        createLine("Experimental AI systems detected.");
+        createLine("");
+        createLine("Secure neural link established.");
+        createAlert("Experimental AI activity detected.");
+        addXP(200);
+    }
+
+}
+/* ========================================= */
+/* WHOAMI */
+/* ========================================= */
+
+else if(command === "whoami"){
+
+    createLine("");
+    createLine("cpg_user");
+}
+
+/* ========================================= */
+/* LS */
+/* ========================================= */
+
+else if(command === "ls"){
+
+    createLine("");
+    createLine("documents/");
+    createLine("secure_nodes/");
+    createLine("ai_core/");
+    createLine("encrypted_logs/");
+}
+
+/* ========================================= */
+/* SYSTEM INFO */
+/* ========================================= */
+
+else if(command === "system_info"){
+
+    createLine("");
+    createLine("[SYSTEM INFORMATION]");
+    createLine("");
+    createLine("Kernel: CPG OS v4.2");
+    createLine("Security Layer: ACTIVE");
+    createLine("Neural Interface: ENABLED");
+}
+
+/* ========================================= */
+/* PING */
+/* ========================================= */
+
+else if(command === "ping"){
+
+    createLine("");
+    createLine("Pinging secure servers...");
+    createLine("Response received.");
+    createLine("Latency: 12ms");
+}
+
+/* ========================================= */
+/* TRACE */
+/* ========================================= */
+
+else if(command === "trace"){
+
+    createLine("");
+    createLine("Tracing encrypted route...");
+    createLine("Proxy layers detected.");
+    createLine("Secure tunnel active.");
+}
+
+/* ========================================= */
+/* ACCESS LOGS */
+/* ========================================= */
+
+else if(command === "access logs"){
+
+    if(!logged){
+
+        createLine("");
+        createLine("ACCESS DENIED");
+    }
+
+    else{
+
+        createLine("");
+        createLine("[SYSTEM LOGS]");
+        createLine("");
+        createLine("22:14 - Neural scan completed");
+        createLine("22:17 - Unknown AI signature");
+        createLine("22:21 - Node encryption detected");
+    }
+
+}
+
+/* ========================================= */
+/* SHOW USERS */
+/* ========================================= */
+
+else if(command === "show users"){
+
+    if(!logged){
+
+        createLine("");
+        createLine("Permission denied.");
+    }
+
+    else{
+
+        createLine("");
+        createLine("[CONNECTED USERS]");
+        createLine("");
+        createLine("cpg_admin");
+        createLine("neural_operator");
+        createLine("ghost_node");
+    }
+
+}
+
+/* ========================================= */
+/* SECURITY SCAN */
+/* ========================================= */
+
+else if(command === "security_scan"){
+
+    if(!logged){
+
+        createLine("");
+        createLine("Permission denied.");
+    }
+
+    else{
+
+        createLine("");
+        createLine("Running security scan...");
+        createLine("");
+        createLine("Threats detected: 0");
+        createLine("Firewall: ACTIVE");
+        createLine("Neural defense: ACTIVE");
+
+        addXP(25);
+    }
+
+}
+
+/* ========================================= */
+/* CONNECT NODE */
+/* ========================================= */
+
+else if(command === "connect node_01"){
+
+    if(!networkScanned){
+
+        createLine("");
+        createLine("Node unavailable.");
+    }
+
+    else{
+
+        createLine("");
+        createLine("Connecting node_01...");
+        createLine("Secure node connected.");
+
+        addXP(25);
+    }
+
+}
+
+/* ========================================= */
+/* NEURAL LINK */
+/* ========================================= */
+
+else if(command === "neural_link"){
+
+    if(!nodeDecrypted){
+
+        createLine("");
+        createLine("Neural systems locked.");
+    }
+
+    else{
+
+        createLine("");
+        createLine("Establishing neural link...");
+        createLine("");
+        createLine("Connection successful.");
+        createLine("AI synchronization active.");
+
+        addXP(50);
+    }
+
+}
+
+/* ========================================= */
+/* SATELLITE */
+/* ========================================= */
+
+else if(command === "satellite uplink"){
+
+    if(!aiUnlocked){
+
+        createLine("");
+        createLine("Satellite access denied.");
+    }
+
+    else{
+
+        createLine("");
+        createLine("Connecting orbital satellites...");
+        createLine("");
+        createLine("Satellite uplink stable.");
+        createLine("Signal strength: 98%");
+
+        addXP(75);
+    }
+
+}
+
+/* ========================================= */
+/* OPEN VAULT */
+/* ========================================= */
+
+else if(command === "open vault"){
+
+    createLine("");
+    createLine("Vault locked.");
+    createLine("Biometric authentication required.");
+}
+/* ========================================= */
+/* ABOUT */
+/* ========================================= */
+
+else if(command === "about"){
+
+    createLine("");
+    createLine("CPG PLAY TERMINAL");
+    createLine("Cyber training simulator.");
+    createLine("Built with HTML, CSS and JavaScript.");
+}
+
+/* ========================================= */
+/* CLEAR */
+/* ========================================= */
+
+else if(command === "clear"){
+
+    output.innerHTML = "";
+}
+
+/* ========================================= */
+/* EMPTY */
+/* ========================================= */
+
+else if(command === ""){
+
+    createLine("");
+}
+
+/* ========================================= */
+/* INVALID */
+/* ========================================= */
+
+else{
+
+    createLine("");
+    createLine("Command not found.");
+    createLine("Type 'help'.");
+
+}
+
+}
+
+/* ========================================= */
+/* FECHAR TERMINAL */
+/* ========================================= */
+
+function fecharTerminal(){
+
+    window.location.href =
+    "../play.html";
+}
+
+/* ========================================= */
+/* MINIMIZAR */
+/* ========================================= */
+
+function minimizarTerminal(){
+
+    const terminal =
+    document.querySelector(".terminal");
+
+    terminal.style.transform =
+    "scale(0.96)";
+
+    terminal.style.opacity =
+    "0.7";
+
+    setTimeout(() => {
+
+        terminal.style.transform =
+        "scale(1)";
+
+        terminal.style.opacity =
+        "1";
+
+    }, 300);
+
+}
+
+/* ========================================= */
+/* EXPANDIR */
+/* ========================================= */
+
+function expandirTerminal(){
+
+    const terminal =
+    document.querySelector(".terminal");
+
+    glowFlash();
+
+}
+
+</script>
+</body>
+</html>

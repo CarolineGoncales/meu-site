@@ -1,0 +1,417 @@
+/* ========================================= */
+/* PLAY PAGE */
+/* ========================================= */
+
+.play-page{
+  margin:0;
+  overflow-x:hidden;
+  background:#020617;
+  font-family:Arial, Helvetica, sans-serif;
+  color:white;
+}
+
+/* FUNDO */
+
+.play-background{
+  position:fixed;
+  width:100%;
+  height:100%;
+  background:
+    radial-gradient(circle at top, rgba(79,195,247,0.12), transparent 40%),
+    radial-gradient(circle at bottom, rgba(59,130,246,0.12), transparent 40%),
+    #020617;
+  overflow:hidden;
+  z-index:0;
+}
+
+/* PARTÍCULAS */
+
+.play-background::before{
+  content:"";
+  position:absolute;
+  width:200%;
+  height:200%;
+  background:
+    radial-gradient(circle,#4FC3F7 1px, transparent 1px);
+
+  background-size:45px 45px;
+  opacity:0.08;
+
+  animation:particlesMove 18s linear infinite;
+}
+
+@keyframes particlesMove{
+
+  from{
+    transform:translateY(0);
+  }
+
+  to{
+    transform:translateY(-200px);
+  }
+
+}
+
+/* HERO */
+
+.play-hero{
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  padding:80px 20px;
+  position:relative;
+  z-index:2;
+}
+
+.play-content{
+  text-align:center;
+  max-width:1200px;
+}
+
+/* TITULO */
+
+.play-content h1{
+  font-size:72px;
+  margin-bottom:20px;
+  color:#4FC3F7;
+
+  text-shadow:
+    0 0 10px #4FC3F7,
+    0 0 40px rgba(79,195,247,0.4);
+}
+
+/* TEXTO */
+
+.play-content p{
+  font-size:24px;
+  margin-bottom:20px;
+}
+
+.play-content span{
+  display:block;
+  max-width:700px;
+  margin:auto;
+  line-height:1.8;
+  color:#cbd5e1;
+  margin-bottom:60px;
+}
+
+/* CARDS */
+
+
+.play-cards{
+
+  display:grid;
+
+  grid-template-columns:
+    repeat(auto-fit,minmax(320px,1fr));
+
+  gap:30px;
+
+  max-width:900px;
+
+  margin:auto;
+
+  margin-top:60px;
+}
+
+.play-card{
+
+  background:
+    rgba(15,23,42,0.72);
+
+  border:
+    1px solid rgba(79,195,247,0.12);
+
+  border-radius:24px;
+
+  padding:40px 30px;
+
+  backdrop-filter:blur(14px);
+
+  transition:0.4s;
+
+  text-align:center;
+
+  min-height:220px;
+
+  display:flex;
+
+  flex-direction:column;
+
+  justify-content:center;
+
+  text-decoration:none;
+
+  color:white;
+
+  position:relative;
+
+  overflow:hidden;
+}
+
+.play-card:hover{
+
+  transform:
+    translateY(-10px)
+    scale(1.02);
+
+  box-shadow:
+    0 0 30px rgba(79,195,247,0.25),
+    0 0 80px rgba(79,195,247,0.12);
+}
+
+.play-card h3{
+
+  color:#4FC3F7;
+
+  margin-bottom:18px;
+
+  font-size:28px;
+
+  text-shadow:
+    0 0 12px rgba(79,195,247,0.35);
+}
+
+.play-card p{
+
+  color:#cbd5e1;
+
+  font-size:17px;
+
+  line-height:1.8;
+}
+
+/* BOTÃO */
+
+.voltar-home{
+  display:inline-block;
+  margin-top:50px;
+
+  padding:15px 30px;
+
+  background:#4FC3F7;
+  color:#020617;
+
+  text-decoration:none;
+  border-radius:12px;
+
+  font-weight:bold;
+
+  transition:0.3s;
+}
+
+.voltar-home:hover{
+  transform:translateY(-4px);
+
+  box-shadow:
+    0 0 20px rgba(79,195,247,0.5);
+}
+
+/* MOBILE */
+
+@media(max-width:768px){
+
+  .play-content h1{
+    font-size:48px;
+  }
+
+  .play-content p{
+    font-size:20px;
+  }
+
+}
+
+/* ========================================= */
+/* VIDEO BACKGROUND */
+/* ========================================= */
+
+.bg-video{
+
+    position:fixed;
+    inset:0;
+
+    width:100%;
+    height:100%;
+
+    object-fit:cover;
+
+    z-index:-3;
+
+    opacity:0.35;
+}
+
+/* ========================================= */
+/* FUNDO / PARTÍCULAS */
+/* ========================================= */
+
+.play-background{
+
+    position:fixed;
+
+    width:100%;
+    height:100%;
+
+    background:
+      radial-gradient(circle at top,
+      rgba(79,195,247,0.12),
+      transparent 40%),
+
+      radial-gradient(circle at bottom,
+      rgba(59,130,246,0.12),
+      transparent 40%);
+
+    overflow:hidden;
+
+    z-index:-2;
+}
+
+/* PARTÍCULAS */
+
+.play-background::before{
+
+    content:"";
+
+    position:absolute;
+
+    width:200%;
+    height:200%;
+
+    background:
+      radial-gradient(circle,#4FC3F7 1px, transparent 1px);
+
+    background-size:45px 45px;
+
+    opacity:0.08;
+
+    animation:particlesMove 18s linear infinite;
+}
+
+@keyframes particlesMove{
+
+    from{
+        transform:translateY(0);
+    }
+
+    to{
+        transform:translateY(-200px);
+    }
+
+}
+
+/* ========================================= */
+/* FOGUETES */
+/* ========================================= */
+
+.rocket{
+
+    position:fixed;
+
+    font-size:40px;
+
+    z-index:-1;
+
+    pointer-events:none;
+
+    opacity:0.7;
+
+    filter:
+      drop-shadow(0 0 10px #4FC3F7)
+      drop-shadow(0 0 30px #4FC3F7);
+
+    animation-timing-function:linear;
+    animation-iteration-count:infinite;
+}
+
+/* ROCKET 1 */
+
+.rocket1{
+
+    left:-10%;
+    top:20%;
+
+    animation:rocketMove1 18s infinite;
+}
+
+/* ROCKET 2 */
+
+.rocket2{
+
+    left:-15%;
+    top:60%;
+
+    animation:rocketMove2 25s infinite;
+}
+
+/* ROCKET 3 */
+
+.rocket3{
+
+    left:-20%;
+    top:80%;
+
+    animation:rocketMove3 30s infinite;
+}
+
+/* ANIMAÇÕES */
+
+@keyframes rocketMove1{
+
+    from{
+
+        transform:
+          translateX(0)
+          translateY(0)
+          rotate(20deg);
+    }
+
+    to{
+
+        transform:
+          translateX(140vw)
+          translateY(-40vh)
+          rotate(20deg);
+    }
+
+}
+
+@keyframes rocketMove2{
+
+    from{
+
+        transform:
+          translateX(0)
+          translateY(0)
+          rotate(10deg);
+    }
+
+    to{
+
+        transform:
+          translateX(150vw)
+          translateY(-20vh)
+          rotate(10deg);
+    }
+
+}
+
+@keyframes rocketMove3{
+
+    from{
+
+        transform:
+          translateX(0)
+          translateY(0)
+          rotate(-5deg);
+    }
+
+    to{
+
+        transform:
+          translateX(160vw)
+          translateY(-60vh)
+          rotate(-5deg);
+    }
+
+}

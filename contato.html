@@ -9,11 +9,15 @@
 <title>Contato - CPG Technology Consulting</title>
 
 <link rel="icon" type="image/png" href="favicon-32x32.png">
+
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="play.css">
 
 <style>
 
+/* ========================================= */
 /* POPUP */
+/* ========================================= */
 
 .modal{
 display:none;
@@ -54,6 +58,7 @@ border:none;
 padding:12px 25px;
 border-radius:6px;
 cursor:pointer;
+transition:0.3s;
 }
 
 .modal-content button:hover{
@@ -66,17 +71,31 @@ background:#2f6cc3;
 
 <body>
 
+<!-- ========================================= -->
+<!-- HEADER -->
+<!-- ========================================= -->
+
 <header>
 
 <nav>
+
 <a href="index.html">Home</a>
 <a href="sobre.html">Sobre</a>
 <a href="cursos.html">Cursos</a>
 <a href="certificacao.html">Certificação</a>
 <a href="contato.html">Contato</a>
+
+<a href="javascript:void(0)" class="play-btn" onclick="abrirPlayPopup()">
+CPG Play
+</a>
+
 </nav>
 
 </header>
+
+<!-- ========================================= -->
+<!-- CONTATO -->
+<!-- ========================================= -->
 
 <section class="contato">
 
@@ -96,7 +115,9 @@ Tem dúvidas sobre cursos ou certificações? Fale conosco.
 
 <textarea id="mensagem" placeholder="Sua mensagem" required></textarea>
 
-<button type="submit">Enviar mensagem</button>
+<button type="submit">
+Enviar mensagem
+</button>
 
 </form>
 
@@ -104,7 +125,9 @@ Tem dúvidas sobre cursos ou certificações? Fale conosco.
 
 </section>
 
+<!-- ========================================= -->
 <!-- POPUP SUCESSO -->
+<!-- ========================================= -->
 
 <div id="popupSucesso" class="modal">
 
@@ -117,42 +140,135 @@ Mensagem enviada com sucesso.<br>
 Em breve entraremos em contato.
 </p>
 
-<button onclick="fecharPopupSucesso()">OK</button>
+<button onclick="fecharPopupSucesso()">
+OK
+</button>
 
 </div>
 
 </div>
 
+<!-- ========================================= -->
+<!-- FOOTER -->
+<!-- ========================================= -->
+
+<footer class="footer">
+
+<div class="footer-content">
+
+<h3>CPG</h3>
+
+<p>
+Capacitação profissional em tecnologia, dados e projetos.
+</p>
+
+<div class="footer-links">
+
+<a href="index.html">Home</a>
+<a href="cursos.html">Cursos</a>
+<a href="certificacao.html">Certificação</a>
+<a href="contato.html">Contato</a>
+
+<a href="javascript:void(0)" class="play-btn" onclick="abrirPlayPopup()">
+CPG Play
+</a>
+
+</div>
+
+<p class="footer-copy">
+© 2026 CPG - Todos os direitos reservados
+</p>
+
+<p class="footer-copy">
+CNPJ: 65.223.812/0001-41
+</p>
+
+</div>
+
+</footer>
+
+<!-- ========================================= -->
+<!-- POPUP CPG PLAY -->
+<!-- ========================================= -->
+
+<div id="playPopup" class="play-popup">
+
+<div class="play-popup-content">
+
+<div class="play-glow"></div>
+
+<h2>⚡ CPG PLAY</h2>
+
+<p>
+Você está prestes a entrar em outro universo.
+</p>
+
+<span>
+Uma experiência interativa criada para explorar tecnologia,
+desafios, criatividade e inovação.
+</span>
+
+<div class="play-buttons">
+
+<a href="play.html" class="enter-play">
+Entrar
+</a>
+
+<button onclick="fecharPlayPopup()" class="cancel-play">
+Cancelar
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- ========================================= -->
 <!-- EMAILJS -->
+<!-- ========================================= -->
 
 <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
 
+<!-- ========================================= -->
+<!-- SCRIPTS -->
+<!-- ========================================= -->
+
 <script>
+
+/* EMAILJS */
 
 (function(){
 emailjs.init("jjCZK1jHx4tRtfUiS");
 })();
 
+/* POPUP SUCESSO */
+
 function abrirPopupSucesso(){
-document.getElementById("popupSucesso").style.display="flex";
+document.getElementById("popupSucesso").style.display = "flex";
 }
 
 function fecharPopupSucesso(){
-document.getElementById("popupSucesso").style.display="none";
+document.getElementById("popupSucesso").style.display = "none";
 }
+
+/* ENVIO FORMULÁRIO */
 
 document.getElementById("formContato").addEventListener("submit", function(event) {
 
 event.preventDefault();
 
 emailjs.send("service_g4z931k","template_qjuhtw9",{
+
 name: document.getElementById("nome").value,
 email: document.getElementById("email").value,
 message: document.getElementById("mensagem").value
+
 })
 .then(function() {
 
 abrirPopupSucesso();
+
 document.getElementById("formContato").reset();
 
 }, function(error) {
@@ -163,27 +279,17 @@ alert("Erro ao enviar. Tente novamente.");
 
 });
 
+/* POPUP CPG PLAY */
+
+function abrirPlayPopup() {
+document.getElementById("playPopup").style.display = "flex";
+}
+
+function fecharPlayPopup() {
+document.getElementById("playPopup").style.display = "none";
+}
+
 </script>
-
-<!-- ✅ NOVO FOOTER -->
-
-<footer class="footer">
-  <div class="footer-content">
-    
-    <h3>CPG</h3>
-    <p>Capacitação profissional em tecnologia, dados e projetos.</p>
-
-    <div class="footer-links">
-      <a href="index.html">Home</a>
-      <a href="cursos.html">Cursos</a>
-      <a href="certificacao.html">Certificação</a>
-      <a href="contato.html">Contato</a>
-    </div>
-
-    <p class="footer-copy">© 2026 CPG - Todos os direitos reservados</p>
-    <p class="footer-copy">CNPJ: 65.223.812/0001-41 </p>
-  </div>
-</footer>
 
 </body>
 </html>

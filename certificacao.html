@@ -13,8 +13,9 @@
 <link rel="icon" type="image/png" href="favicon-32x32.png">
 
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="play.css">
 
-<!-- OPEN GRAPH (WHATSAPP / LINKEDIN) -->
+<!-- OPEN GRAPH -->
 
 <meta property="og:title" content="Certificação - CPG Technology Consulting">
 <meta property="og:description" content="Valide seus conhecimentos com as certificações da CPG Technology Consulting.">
@@ -23,7 +24,9 @@
 
 <style>
 
-/* POPUP */
+/* ========================================= */
+/* POPUP CERTIFICAÇÃO */
+/* ========================================= */
 
 .modal{
 display:none;
@@ -64,6 +67,7 @@ border:none;
 padding:12px 25px;
 border-radius:6px;
 cursor:pointer;
+transition:0.3s;
 }
 
 .modal-content button:hover{
@@ -76,6 +80,10 @@ background:#2f6cc3;
 
 <body>
 
+<!-- ========================================= -->
+<!-- HEADER -->
+<!-- ========================================= -->
+
 <header>
 
 <nav>
@@ -84,9 +92,18 @@ background:#2f6cc3;
 <a href="cursos.html">Cursos</a>
 <a href="certificacao.html">Certificação</a>
 <a href="contato.html">Contato</a>
+
+<a href="javascript:void(0)" class="play-btn" onclick="abrirPlayPopup()">
+CPG Play
+</a>
+
 </nav>
 
 </header>
+
+<!-- ========================================= -->
+<!-- CERTIFICAÇÃO -->
+<!-- ========================================= -->
 
 <section class="certificacao">
 
@@ -99,43 +116,57 @@ Valide seus conhecimentos através das certificações da CPG Technology Consult
 <div class="cert-grid">
 
 <div class="cert-card">
+
 <h3>Certificação em Governança de Dados</h3>
+
 <p>
 Avaliação para validar conhecimentos em práticas de governança,
 gestão e organização de dados.
 </p>
+
 <a href="javascript:void(0)" class="cert-btn" onclick="abrirPopup()">
 Realizar Prova
 </a>
+
 </div>
 
 <div class="cert-card">
+
 <h3>Certificação em Análise de Dados</h3>
+
 <p>
 Comprove sua capacidade de interpretar dados e gerar insights
 para apoio à tomada de decisão.
 </p>
+
 <a href="javascript:void(0)" class="cert-btn" onclick="abrirPopup()">
 Realizar Prova
 </a>
+
 </div>
 
 <div class="cert-card">
+
 <h3>Certificação em Business Intelligence</h3>
+
 <p>
 Valide seus conhecimentos em ferramentas de BI e análise
 estratégica de informações.
 </p>
+
 <a href="javascript:void(0)" class="cert-btn" onclick="abrirPopup()">
 Realizar Prova
 </a>
+
 </div>
 
 </div>
 
 </section>
 
-<!-- POPUP -->
+<!-- ========================================= -->
+<!-- POPUP CERTIFICAÇÃO -->
+<!-- ========================================= -->
 
 <div id="popup" class="modal">
 
@@ -153,44 +184,119 @@ As certificações ainda estão sendo preparadas e serão liberadas em breve.
 
 </div>
 
+<!-- ========================================= -->
+<!-- FOOTER -->
+<!-- ========================================= -->
+
+<footer class="footer">
+
+<div class="footer-content">
+
+<h3>CPG</h3>
+
+<p>
+Capacitação profissional em tecnologia, dados e projetos.
+</p>
+
+<div class="footer-links">
+
+<a href="index.html">Home</a>
+<a href="cursos.html">Cursos</a>
+<a href="certificacao.html">Certificação</a>
+<a href="contato.html">Contato</a>
+
+<a href="javascript:void(0)" class="play-btn" onclick="abrirPlayPopup()">
+CPG Play
+</a>
+
+</div>
+
+<p class="footer-copy">
+© 2026 CPG - Todos os direitos reservados
+</p>
+
+<p class="footer-copy">
+CNPJ: 65.223.812/0001-41
+</p>
+
+</div>
+
+</footer>
+
+<!-- ========================================= -->
+<!-- POPUP CPG PLAY -->
+<!-- ========================================= -->
+
+<div id="playPopup" class="play-popup">
+
+<div class="play-popup-content">
+
+<div class="play-glow"></div>
+
+<h2>⚡ CPG PLAY</h2>
+
+<p>
+Você está prestes a entrar em outro universo.
+</p>
+
+<span>
+Uma experiência interativa criada para explorar tecnologia,
+desafios, criatividade e inovação.
+</span>
+
+<div class="play-buttons">
+
+<a href="play.html" class="enter-play">
+Entrar
+</a>
+
+<button onclick="fecharPlayPopup()" class="cancel-play">
+Cancelar
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- ========================================= -->
+<!-- SCRIPTS -->
+<!-- ========================================= -->
+
 <script>
 
+/* POPUP CERTIFICAÇÃO */
+
 function abrirPopup(){
-document.getElementById("popup").style.display="flex";
+document.getElementById("popup").style.display = "flex";
 }
 
 function fecharPopup(){
-document.getElementById("popup").style.display="none";
+document.getElementById("popup").style.display = "none";
 }
 
 window.onclick = function(event){
+
 let popup = document.getElementById("popup");
+
 if(event.target === popup){
-popup.style.display="none";
+popup.style.display = "none";
 }
+
+}
+
+/* POPUP CPG PLAY */
+
+function abrirPlayPopup() {
+document.getElementById("playPopup").style.display = "flex";
+}
+
+function fecharPlayPopup() {
+document.getElementById("playPopup").style.display = "none";
 }
 
 </script>
-
-<!-- ✅ NOVO FOOTER -->
-
-<footer class="footer">
-  <div class="footer-content">
-    
-    <h3>CPG</h3>
-    <p>Capacitação profissional em tecnologia, dados e projetos.</p>
-
-    <div class="footer-links">
-      <a href="index.html">Home</a>
-      <a href="cursos.html">Cursos</a>
-      <a href="certificacao.html">Certificação</a>
-      <a href="contato.html">Contato</a>
-    </div>
-
-    <p class="footer-copy">© 2026 CPG - Todos os direitos reservados</p>
-    <p class="footer-copy">CNPJ: 65.223.812/0001-41 </p>
-  </div>
-</footer>
 
 </body>
 </html>
