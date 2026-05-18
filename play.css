@@ -415,3 +415,105 @@
     }
 
 }
+
+/* ========================================= */
+/* AI POPUP */
+/* ========================================= */
+
+.ai-popup{
+
+    position:fixed;
+
+    inset:0;
+
+    background:rgba(0,0,0,0.75);
+
+    backdrop-filter:blur(8px);
+
+    display:none;
+
+    align-items:center;
+
+    justify-content:center;
+
+    z-index:9999;
+
+    padding:20px;
+}
+
+.ai-popup-content{
+
+    width:100%;
+
+    max-width:600px;
+
+    background:#07111F;
+
+    border:1px solid rgba(88,182,255,0.2);
+
+    border-radius:28px;
+
+    padding:40px;
+
+    position:relative;
+
+    box-shadow:
+    0 0 40px rgba(88,182,255,0.15);
+}
+
+.ai-popup-content h2{
+
+    color:#58B6FF;
+
+    margin-bottom:20px;
+}
+
+.ai-popup-content p{
+
+    color:#D6E7FF;
+
+    line-height:1.8;
+}
+
+.ai-popup-content ul{
+
+    margin-top:20px;
+
+    padding-left:20px;
+
+    line-height:2;
+}
+
+.ai-status{
+
+    margin-top:30px;
+
+    padding:16px;
+
+    border-radius:14px;
+
+    background:rgba(88,182,255,0.08);
+
+    border:1px solid rgba(88,182,255,0.2);
+
+    color:#58B6FF;
+
+    font-weight:bold;
+
+    text-align:center;
+}
+
+.close-popup{
+
+    position:absolute;
+
+    top:18px;
+
+    right:20px;
+
+    cursor:pointer;
+
+    font-size:22px;
+
+    color:#58B6FF;
+}
