@@ -144,11 +144,35 @@ if(audio){
 
 audio.addEventListener("ended", () => {
 
+const isMobile =
+/Android|iPhone|iPad|iPod/i
+.test(navigator.userAgent);
+
+
+// MOBILE
+
+if(isMobile){
+
+setTimeout(() => {
+
+    iniciarReconhecimento();
+
+}, 3500);
+
+}
+
+
+// DESKTOP
+
+else{
+
 setTimeout(() => {
 
     iniciarReconhecimento();
 
 }, 2000);
+
+}
 
 });
 
