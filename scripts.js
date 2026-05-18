@@ -181,10 +181,6 @@ setTimeout(() => {
 
 
 
-// =========================================
-// BOTÃO MANUAL
-// =========================================
-
 if(voiceButton){
 
 voiceButton.addEventListener(
@@ -207,6 +203,12 @@ voiceButton.style.display =
 "none";
 
 iniciarReconhecimento();
+
+setTimeout(() => {
+
+audio.play();
+
+}, 500);
 
 }
 
@@ -234,9 +236,7 @@ iniciarReconhecimento();
 
 );
 
-
 }
-
 
 // =========================================
 // LEITURA DA PÁGINA
@@ -387,12 +387,6 @@ window.location.href =
 
 }
 
-
-
-if(
-texto.includes("play") ||
-texto.includes("c p g play")
-)
 
 if(
 texto.includes("play") ||
