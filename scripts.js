@@ -192,6 +192,31 @@ voiceButton.addEventListener(
 
 () => {
 
+const isMobile =
+/Android|iPhone|iPad|iPod/i
+.test(navigator.userAgent);
+
+
+// =========================================
+// MOBILE
+// =========================================
+
+if(isMobile){
+
+voiceButton.style.display =
+"none";
+
+iniciarReconhecimento();
+
+}
+
+
+// =========================================
+// DESKTOP
+// =========================================
+
+else{
+
 audio.play();
 
 voiceButton.style.display =
@@ -205,11 +230,12 @@ iniciarReconhecimento();
 
 }
 
-);
-
 }
 
+);
 
+
+}
 
 
 // =========================================
