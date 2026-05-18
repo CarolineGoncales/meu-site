@@ -155,9 +155,10 @@ if(isMobile){
 
 setTimeout(() => {
 
-    iniciarReconhecimento();
+voiceButton.style.display =
+"flex";
 
-}, 3500);
+}, 1000);
 
 }
 
