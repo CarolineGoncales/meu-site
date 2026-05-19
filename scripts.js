@@ -203,13 +203,24 @@ if(isMobile){
 voiceButton.style.display =
 "none";
 
-iniciarReconhecimento();
+navigator.mediaDevices
+.getUserMedia({ audio:true })
+
+.then(() => {
 
 setTimeout(() => {
 
-audio.play();
+    iniciarReconhecimento();
 
 }, 500);
+
+})
+
+.catch((error) => {
+
+console.log(error);
+
+});
 
 }
 
