@@ -487,3 +487,68 @@
 
     color:#58B6FF;
 }
+
+/* BOTÃO DE TIRO MOBILE */
+
+#shootBtn{
+
+    position:fixed;
+
+    bottom:25px;
+
+    right:20px;
+
+    width:85px;
+
+    height:85px;
+
+    border:none;
+
+    border-radius:50%;
+
+    background:#58B6FF;
+
+    color:white;
+
+    font-size:34px;
+
+    font-weight:bold;
+
+    z-index:99999;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    cursor:pointer;
+
+    box-shadow:
+    0 0 15px rgba(88,182,255,0.8),
+    0 0 30px rgba(88,182,255,0.5);
+
+    transition:0.2s;
+
+    user-select:none;
+
+    -webkit-tap-highlight-color:transparent;
+}
+
+#shootBtn:active{
+
+    transform:scale(0.92);
+
+}
+
+/* ESCONDER NO DESKTOP */
+
+@media(min-width:769px){
+
+    #shootBtn{
+
+        display:none;
+
+    }
+
+}
