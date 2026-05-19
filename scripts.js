@@ -81,7 +81,7 @@ function fecharCursoUdemy(){
 // =========================================
 // ACESSIBILIDADE GLOBAL CPG
 // =========================================
-
+/*
 const audio =
 document.getElementById(
 "apresentacaoAudio"
@@ -572,4 +572,4 @@ fecharPlayPopup();
 
 };
 
-}
+} */

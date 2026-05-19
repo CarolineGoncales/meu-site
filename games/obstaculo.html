@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>CPG Runner</title>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+overflow:hidden;
+background:#050816;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+canvas{
+display:block;
+background:
+linear-gradient(
+180deg,
+#081120 0%,
+#02050d 100%
+);
+}
+
+.ui{
+
+position:fixed;
+
+top:20px;
+left:20px;
+
+color:white;
+
+font-size:22px;
+
+z-index:10;
+
+}
+
+.game-over{
+
+position:fixed;
+
+top:50%;
+left:50%;
+
+transform:
+translate(-50%, -50%);
+
+text-align:center;
+
+color:white;
+
+display:none;
+
+z-index:20;
+
+}
+
+.game-over h1{
+
+font-size:60px;
+
+margin-bottom:20px;
+
+}
+
+.game-over button{
+
+padding:15px 30px;
+
+font-size:18px;
+
+border:none;
+
+border-radius:10px;
+
+cursor:pointer;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="ui">
+
+⏱️ Tempo:
+<span id="time">0</span>s
+
+</div>
+
+<div class="game-over"
+id="gameOver">
+
+<h1>GAME OVER</h1>
+
+<button onclick="restartGame()">
+
+Jogar novamente
+
+</button>
+
+</div>
+
+<canvas id="game"></canvas>
+
+<script>
+
+const canvas =
+document.getElementById("game");
+
+const ctx =
+canvas.getContext("2d");
+
+canvas.width =
+window.innerWidth;
+
+canvas.height =
+window.innerHeight;
+
+const timeEl =
+document.getElementById("time");
+
+const gameOverScreen =
+document.getElementById("gameOver");
+
+let gameRunning = true;
+
+let time = 0;
+
+setInterval(() => {
+
+if(gameRunning){
+
+time++;
+
+timeEl.innerText = time;
+
+}
+
+},1000);
+
+const gravity = 0.7;
+
+class Player{
+
+constructor(){
+
+this.width = 60;
+this.height = 60;
+
+this.x = 150;
+
+this.y =
+canvas.height - 180;
+
+this.velocityY = 0;
+
+this.jumping = false;
+
+}
+
+jump(){
+
+if(!this.jumping){
+
+this.velocityY = -16;
+
+this.jumping = true;
+
+}
+
+}
+
+update(){
+
+this.velocityY += gravity;
+
+this.y += this.velocityY;
+
+const ground =
+canvas.height - 120;
+
+if(this.y > ground){
+
+this.y = ground;
+
+this.velocityY = 0;
+
+this.jumping = false;
+
+}
+
+}
+
+draw(){
+
+ctx.fillStyle = "#00d9ff";
+
+ctx.fillRect(
+this.x,
+this.y,
+this.width,
+this.height
+);
+
+ctx.fillStyle = "#00ffff";
+
+ctx.fillRect(
+this.x + 10,
+this.y + 10,
+15,
+15
+);
+
+ctx.fillRect(
+this.x + 35,
+this.y + 10,
+15,
+15
+);
+
+}
+
+}
+
+class Obstacle{
+
+constructor(){
+
+this.width = 50;
+this.height = 80;
+
+this.x = canvas.width;
+
+this.y =
+canvas.height - 120;
+
+this.speed = 8;
+
+}
+
+update(){
+
+this.x -= this.speed;
+
+}
+
+draw(){
+
+ctx.fillStyle = "#ff3c6f";
+
+ctx.fillRect(
+this.x,
+this.y,
+this.width,
+this.height
+);
+
+}
+
+}
+
+const player =
+new Player();
+
+const obstacles = [];
+
+function spawnObstacle(){
+
+if(gameRunning){
+
+obstacles.push(
+new Obstacle()
+);
+
+}
+
+}
+
+setInterval(
+spawnObstacle,
+1800
+);
+
+window.addEventListener(
+"keydown",
+
+(e)=>{
+
+if(
+e.code === "Space" ||
+e.code === "ArrowUp"
+){
+
+player.jump();
+
+}
+
+}
+
+);
+
+window.addEventListener(
+"touchstart",
+
+()=>{
+
+player.jump();
+
+}
+
+);
+
+function collision(a,b){
+
+return(
+
+a.x < b.x + b.width &&
+a.x + a.width > b.x &&
+a.y < b.y + b.height &&
+a.y + a.height > b.y
+
+);
+
+}
+
+function drawBackground(){
+
+ctx.fillStyle = "#0b1220";
+
+ctx.fillRect(
+0,
+canvas.height - 60,
+canvas.width,
+60
+);
+
+for(let i=0;i<100;i++){
+
+ctx.fillStyle = "white";
+
+ctx.fillRect(
+
+Math.random() * canvas.width,
+Math.random() * canvas.height,
+
+2,
+2
+
+);
+
+}
+
+}
+
+function update(){
+
+player.update();
+
+obstacles.forEach(
+(obstacle, index)=>{
+
+obstacle.update();
+
+if(
+collision(player, obstacle)
+){
+
+endGame();
+
+}
+
+if(
+obstacle.x + obstacle.width < 0
+){
+
+obstacles.splice(index,1);
+
+}
+
+}
+
+);
+
+}
+
+function draw(){
+
+ctx.clearRect(
+0,
+0,
+canvas.width,
+canvas.height
+);
+
+drawBackground();
+
+player.draw();
+
+obstacles.forEach(
+(obstacle)=>{
+
+obstacle.draw();
+
+}
+);
+
+}
+
+function gameLoop(){
+
+if(!gameRunning){
+return;
+}
+
+update();
+
+draw();
+
+requestAnimationFrame(
+gameLoop
+);
+
+}
+
+function endGame(){
+
+gameRunning = false;
+
+gameOverScreen.style.display =
+"block";
+
+}
+
+function restartGame(){
+
+window.location.reload();
+
+}
+
+gameLoop();
+
+window.addEventListener(
+"resize",
+
+()=>{
+
+canvas.width =
+window.innerWidth;
+
+canvas.height =
+window.innerHeight;
+
+}
+
+);
+
+</script>
+
+</body>
+
+</html>

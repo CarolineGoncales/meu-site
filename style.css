@@ -973,7 +973,7 @@ grid-template-columns:1fr;
     z-index:0;
 }
 
-#voiceButton{
+/*#voiceButton{
 
 position:fixed;
 
@@ -1014,4 +1014,4 @@ transition:0.3s;
 
 transform:scale(1.05);
 
-}
+}*/
