@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Estude Comigo - CPG Technology Consulting</title>
+
+<meta name="description" content="Biblioteca de estudos exclusiva da CPG Technology Consulting.">
+
+<link rel="icon" type="image/png" href="favicon-32x32.png">
+
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="play.css">
+
+
+<style>
+
+
+.estude{
+
+padding:70px 10%;
+text-align:center;
+
+}
+
+
+.estude h1{
+
+color:white;
+font-size:40px;
+margin-bottom:15px;
+
+}
+
+
+.estude-sub{
+
+color:white;
+font-size:18px;
+margin-bottom:40px;
+
+}
+
+
+
+.estude-grid{
+
+display:flex;
+justify-content:center;
+
+}
+
+
+
+.estude-card{
+
+background:white;
+padding:35px;
+border-radius:15px;
+box-shadow:0 10px 25px rgba(0,0,0,0.10);
+max-width:350px;
+
+}
+
+
+
+.estude-card h3{
+
+color:#163a63;
+font-size:22px;
+
+}
+
+
+
+.estude-card p{
+
+color:#555;
+line-height:1.6;
+
+}
+
+
+
+.estude-btn{
+
+display:inline-block;
+margin-top:20px;
+background:#163a63;
+color:white;
+padding:12px 25px;
+border-radius:6px;
+text-decoration:none;
+
+}
+
+
+
+.estude-btn:hover{
+
+background:#2f6cc3;
+
+}
+
+
+
+/* POPUP ASSINATURA */
+
+
+.modal{
+
+display:none;
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:rgba(0,0,0,.6);
+justify-content:center;
+align-items:center;
+z-index:999;
+
+}
+
+
+
+.modal-content{
+
+background:white;
+padding:40px;
+border-radius:15px;
+max-width:450px;
+text-align:center;
+
+}
+
+
+
+.modal-content h2{
+
+color:#163a63;
+
+}
+
+
+
+.modal-content p{
+
+color:#444;
+line-height:1.6;
+
+}
+
+
+
+.assinar{
+
+display:inline-block;
+margin-top:20px;
+background:#00a650;
+color:white;
+padding:15px 30px;
+border-radius:8px;
+text-decoration:none;
+font-weight:bold;
+
+}
+
+
+
+.fechar{
+
+margin-top:15px;
+background:#163a63;
+color:white;
+padding:7px 16px;
+font-size:13px;
+border:none;
+border-radius:6px;
+cursor:pointer;
+
+}
+
+
+
+</style>
+
+
+</head>
+
+
+
+<body>
+
+
+
+<header>
+
+
+<nav>
+
+
+<a href="index.html">Home</a>
+
+<a href="sobre.html">Sobre</a>
+
+<a href="cursos.html">Cursos</a>
+
+<a href="certificacao.html">Certificação</a>
+
+<a href="estude-comigo.html">Estude Comigo</a>
+
+<a href="contato.html">Contato</a>
+
+
+<a href="javascript:void(0)" class="play-btn" onclick="abrirPlayPopup()">
+
+CPG Play
+
+</a>
+
+
+</nav>
+
+
+</header>
+
+
+
+
+<section class="estude">
+
+
+<h1>
+📚 Estude Comigo
+</h1>
+
+
+
+<p class="estude-sub">
+
+Uma área exclusiva com materiais de estudo,
+apostilas e conteúdos preparados pela CPG.
+
+</p>
+
+
+
+
+<div class="estude-grid">
+
+
+
+<div class="estude-card">
+
+
+<h3>
+📖 Biblioteca de Estudos
+</h3>
+
+
+
+<p>
+
+Acesse apostilas, resumos e materiais exclusivos
+para sua evolução profissional.
+
+</p>
+
+
+
+<a href="javascript:void(0)" onclick="abrirAssinatura()" class="estude-btn">
+
+Acessar Biblioteca
+
+</a>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</section>
+
+
+
+
+
+
+<!-- POPUP ASSINATURA -->
+
+
+<div id="assinaturaPopup" class="modal">
+
+
+
+<div class="modal-content">
+
+
+<h2>
+
+🚀 Estude Comigo CPG
+
+</h2>
+
+
+
+<p>
+
+Tenha acesso a uma biblioteca exclusiva de estudos,
+apostilas, resumos e materiais complementares.
+
+<br><br>
+
+
+<strong>
+
+Assinatura por apenas R$ 9,99/mês.
+
+</strong>
+
+
+</p>
+
+
+
+
+<a href="https://mpago.la/1MhWmz3" class="assinar">
+
+Quero ser assinante
+
+</a>
+
+
+
+<br>
+
+
+<button onclick="fecharAssinatura()" class="fechar">
+
+Agora não
+
+</button>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<footer class="footer">
+
+
+<div class="footer-content">
+
+
+<h3>
+
+CPG
+
+</h3>
+
+
+
+<p>
+
+Capacitação profissional em tecnologia, dados e projetos.
+
+</p>
+
+
+
+<div class="footer-links">
+
+
+<a href="index.html">Home</a>
+
+<a href="cursos.html">Cursos</a>
+
+<a href="certificacao.html">Certificação</a>
+
+<a href="estude-comigo.html">Estude Comigo</a>
+
+<a href="contato.html">Contato</a>
+
+
+
+</div>
+
+
+
+<p class="footer-copy">
+
+© 2026 CPG - Todos os direitos reservados
+
+</p>
+
+
+<p class="footer-copy">
+
+CNPJ: 65.223.812/0001-41
+
+</p>
+
+
+
+</div>
+
+
+</footer>
+
+
+
+
+
+
+<script src="scripts.js"></script>
+
+
+
+<script>
+
+
+function abrirAssinatura(){
+
+document.getElementById("assinaturaPopup").style.display="flex";
+
+}
+
+
+
+function fecharAssinatura(){
+
+document.getElementById("assinaturaPopup").style.display="none";
+
+}
+
+
+
+function abrirPlayPopup(){
+
+document.getElementById("playPopup").style.display="flex";
+
+}
+
+
+
+function fecharPlayPopup(){
+
+document.getElementById("playPopup").style.display="none";
+
+}
+
+
+
+</script>
+
+
+
+</body>
+
+
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Login - Estude Comigo CPG</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<section class="login">
+
+<div class="login-box">
+
+
+<h1>
+📚 Estude Comigo CPG
+</h1>
+
+
+<p>
+Área exclusiva para assinantes.
+</p>
+
+
+<input 
+id="email"
+type="email"
+placeholder="Seu e-mail">
+
+
+<input
+id="senha"
+type="password"
+placeholder="Sua senha">
+
+
+<button onclick="login()">
+Entrar
+</button>
+
+
+<p id="mensagem"></p>
+
+
+</div>
+
+
+</section>
+
+
+
+<script>
+
+
+async function login(){
+
+
+let email =
+document.getElementById("email").value;
+
+
+let senha =
+document.getElementById("senha").value;
+
+
+
+let resposta =
+await fetch(
+`http://127.0.0.1:8000/login?email=${email}&senha=${senha}`,
+{
+method:"POST"
+}
+);
+
+
+
+let dados =
+await resposta.json();
+
+
+
+if(dados.mensagem){
+
+
+localStorage.setItem(
+"usuario",
+dados.usuario
+);
+
+
+window.location.href =
+"biblioteca.html";
+
+
+}
+
+else{
+
+
+document.getElementById("mensagem").innerHTML =
+dados.erro;
+
+
+}
+
+
+}
+
+
+</script>
+
+
+</body>
+
+</html>
