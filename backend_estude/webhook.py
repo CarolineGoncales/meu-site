@@ -2,11 +2,9 @@ from fastapi import APIRouter, Request, Depends
 from sqlalchemy.orm import Session
 
 from database import SessionLocal
-from models import Assinante
 
 
 router = APIRouter()
-
 
 
 def get_db():
@@ -27,12 +25,20 @@ async def webhook(
     db: Session = Depends(get_db)
 ):
 
-    dados = await request.json()
+    try:
+        dados = await request.json()
+
+    except Exception:
+
+        dados = {}
+
+
 
     print("Webhook recebido:")
     print(dados)
 
 
     return {
-        "status": "recebido"
+        "status": "recebido",
+        "dados": dados
     }
