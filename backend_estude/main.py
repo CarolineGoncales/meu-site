@@ -177,10 +177,10 @@ def assinatura(
         "checkout": assinatura_mp["init_point"]
     }
     
-    @app.post("/criar-root")
+@app.post("/criar-root")
 def criar_root(
     db: Session = Depends(get_db)
-):
+    ):
 
     usuario_existente = db.query(Assinante).filter(
         Assinante.email == "SEU_EMAIL_AQUI"
@@ -198,7 +198,7 @@ def criar_root(
 
         nome="Caroline Admin",
 
-        email="caroline_perez@live.com",
+        email="caroline_perez1@live.com",
 
         senha=criar_hash_senha("123456"),
 
