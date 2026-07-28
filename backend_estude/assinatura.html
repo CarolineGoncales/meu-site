@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Assinatura - Estude Comigo CPG</title>
+
+<link rel="stylesheet" href="style.css">
+
+
+<style>
+
+.assinatura{
+
+min-height:100vh;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+padding:40px;
+
+}
+
+
+.assinatura-box{
+
+background:white;
+
+max-width:450px;
+
+width:100%;
+
+padding:40px;
+
+border-radius:18px;
+
+box-shadow:0 10px 30px rgba(0,0,0,.2);
+
+text-align:center;
+
+}
+
+
+.assinatura-box h1{
+
+color:#163a63;
+
+}
+
+
+.assinatura-box p{
+
+color:#555;
+
+line-height:1.6;
+
+}
+
+
+.valor{
+
+font-size:28px;
+
+font-weight:bold;
+
+color:#00a650;
+
+margin:20px;
+
+}
+
+
+button{
+
+width:100%;
+
+padding:15px;
+
+background:#00a650;
+
+color:white;
+
+border:none;
+
+border-radius:8px;
+
+font-size:16px;
+
+font-weight:bold;
+
+cursor:pointer;
+
+}
+
+
+button:hover{
+
+background:#008f45;
+
+}
+
+
+#mensagem{
+
+margin-top:20px;
+
+color:#d62828;
+
+}
+
+
+.voltar{
+
+display:block;
+
+margin-top:20px;
+
+color:#163a63;
+
+text-decoration:none;
+
+}
+
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<section class="assinatura">
+
+
+<div class="assinatura-box">
+
+
+<h1>
+🚀 Estude Comigo CPG
+</h1>
+
+
+<p>
+
+Tenha acesso à biblioteca exclusiva de estudos,
+apostilas e materiais preparados pela CPG.
+
+</p>
+
+
+<div class="valor">
+
+R$ 9,99/mês
+
+</div>
+
+
+<button onclick="assinar()">
+
+Assinar agora
+
+</button>
+
+
+<p id="mensagem"></p>
+
+
+<a href="aluno.html" class="voltar">
+
+← Voltar
+
+</a>
+
+
+</div>
+
+
+</section>
+
+
+
+
+<script>
+
+
+async function assinar(){
+
+
+const email = localStorage.getItem("email");
+
+
+
+if(!email){
+
+
+document.getElementById("mensagem").innerHTML =
+"Usuário não encontrado. Faça o cadastro novamente.";
+
+
+return;
+
+}
+
+
+
+const resposta = await fetch(
+
+`https://cpg-estude-backend.onrender.com/criar-assinatura?email=${encodeURIComponent(email)}`,
+
+{
+
+method:"POST"
+
+}
+
+);
+
+
+
+const dados = await resposta.json();
+
+
+
+if(dados.checkout){
+
+
+window.location.href = dados.checkout;
+
+
+}
+
+else{
+
+
+document.getElementById("mensagem").innerHTML =
+dados.erro || "Erro ao criar assinatura.";
+
+}
+
+
+}
+
+
+</script>
+
+
+</body>
+
+</html>

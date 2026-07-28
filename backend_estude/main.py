@@ -8,9 +8,18 @@ from auth import criar_hash_senha
 
 from assinaturas import criar_assinatura
 from webhook import router as webhook_router
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(
     title="CPG Estude Comigo"
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 app.include_router(webhook_router)

@@ -10,114 +10,227 @@
 
 <link rel="stylesheet" href="style.css">
 
+<style>
+
+.login{
+
+min-height:100vh;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+padding:40px;
+
+}
+
+.login-box{
+
+background:white;
+
+width:100%;
+
+max-width:420px;
+
+padding:40px;
+
+border-radius:18px;
+
+box-shadow:0 10px 30px rgba(0,0,0,.2);
+
+text-align:center;
+
+}
+
+.login-box h1{
+
+color:#163a63;
+
+margin-bottom:10px;
+
+}
+
+.login-box p{
+
+color:#555;
+
+margin-bottom:25px;
+
+}
+
+.login-box input{
+
+width:100%;
+
+padding:15px;
+
+margin-bottom:18px;
+
+border:1px solid #ddd;
+
+border-radius:8px;
+
+font-size:16px;
+
+box-sizing:border-box;
+
+}
+
+.login-box button{
+
+width:100%;
+
+padding:15px;
+
+background:#163a63;
+
+color:white;
+
+border:none;
+
+border-radius:8px;
+
+font-size:16px;
+
+font-weight:bold;
+
+cursor:pointer;
+
+transition:.3s;
+
+}
+
+.login-box button:hover{
+
+background:#2f6cc3;
+
+}
+
+#mensagem{
+
+margin-top:20px;
+
+font-weight:bold;
+
+color:#d62828;
+
+}
+
+.criar-conta{
+
+display:block;
+
+margin-top:20px;
+
+color:#163a63;
+
+text-decoration:none;
+
+font-weight:bold;
+
+}
+
+.criar-conta:hover{
+
+text-decoration:underline;
+
+}
+
+.voltar{
+
+display:block;
+
+margin-top:15px;
+
+color:#666;
+
+text-decoration:none;
+
+}
+
+</style>
+
 </head>
 
-
 <body>
-
 
 <section class="login">
 
 <div class="login-box">
 
+<h1>📚 Estude Comigo CPG</h1>
 
-<h1>
-📚 Estude Comigo CPG
-</h1>
+<p>Área exclusiva para assinantes.</p>
 
-
-<p>
-Área exclusiva para assinantes.
-</p>
-
-
-<input 
+<input
 id="email"
 type="email"
 placeholder="Seu e-mail">
-
 
 <input
 id="senha"
 type="password"
 placeholder="Sua senha">
 
-
 <button onclick="login()">
 Entrar
 </button>
 
-
 <p id="mensagem"></p>
 
+<a href="cadastro.html" class="criar-conta">
+Criar conta / Assinar
+</a>
+
+<a href="index.html" class="voltar">
+← Voltar ao site
+</a>
 
 </div>
 
-
 </section>
-
-
 
 <script>
 
-
 async function login(){
 
+const email = document.getElementById("email").value;
 
-let email =
-document.getElementById("email").value;
+const senha = document.getElementById("senha").value;
 
+const resposta = await fetch(
 
-let senha =
-document.getElementById("senha").value;
+`https://cpg-estude-backend.onrender.com/login?email=${encodeURIComponent(email)}&senha=${encodeURIComponent(senha)}`,
 
-
-
-let resposta =
-await fetch(
-`http://127.0.0.1:8000/login?email=${email}&senha=${senha}`,
 {
 method:"POST"
 }
+
 );
 
-
-
-let dados =
-await resposta.json();
-
-
+const dados = await resposta.json();
 
 if(dados.mensagem){
 
+localStorage.setItem("usuario",dados.usuario);
+localStorage.setItem("email",dados.email);
+localStorage.setItem("status",dados.status);
+localStorage.setItem("status_pagamento",dados.status_pagamento);
+localStorage.setItem("plano",dados.plano);
 
-localStorage.setItem(
-"usuario",
-dados.usuario
-);
+window.location.href="aluno.html";
 
+}else{
 
-window.location.href =
-"biblioteca.html";
-
-
-}
-
-else{
-
-
-document.getElementById("mensagem").innerHTML =
-dados.erro;
-
+document.getElementById("mensagem").innerHTML=dados.erro;
 
 }
 
-
 }
-
 
 </script>
-
 
 </body>
 

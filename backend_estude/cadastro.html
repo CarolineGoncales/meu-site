@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Cadastro - Estude Comigo CPG</title>
+
+<link rel="stylesheet" href="style.css">
+
+<style>
+
+.cadastro{
+
+min-height:100vh;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+padding:40px;
+
+}
+
+.cadastro-box{
+
+background:white;
+
+width:100%;
+
+max-width:450px;
+
+padding:40px;
+
+border-radius:18px;
+
+box-shadow:0 10px 30px rgba(0,0,0,.2);
+
+text-align:center;
+
+}
+
+.cadastro-box h1{
+
+color:#163a63;
+
+margin-bottom:10px;
+
+}
+
+.cadastro-box p{
+
+color:#555;
+
+margin-bottom:25px;
+
+}
+
+.cadastro-box input{
+
+width:100%;
+
+padding:15px;
+
+margin-bottom:18px;
+
+border:1px solid #ddd;
+
+border-radius:8px;
+
+font-size:16px;
+
+box-sizing:border-box;
+
+}
+
+.cadastro-box button{
+
+width:100%;
+
+padding:15px;
+
+background:#163a63;
+
+color:white;
+
+border:none;
+
+border-radius:8px;
+
+font-size:16px;
+
+font-weight:bold;
+
+cursor:pointer;
+
+transition:.3s;
+
+}
+
+.cadastro-box button:hover{
+
+background:#2f6cc3;
+
+}
+
+#mensagem{
+
+margin-top:20px;
+
+font-weight:bold;
+
+color:#d62828;
+
+}
+
+.voltar{
+
+display:block;
+
+margin-top:20px;
+
+text-decoration:none;
+
+color:#163a63;
+
+font-weight:bold;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<section class="cadastro">
+
+<div class="cadastro-box">
+
+<h1>📚 Criar Conta</h1>
+
+<p>Cadastre-se para acessar o CPG Estude Comigo.</p>
+
+<input
+id="nome"
+type="text"
+placeholder="Seu nome">
+
+<input
+id="email"
+type="email"
+placeholder="Seu e-mail">
+
+<input
+id="senha"
+type="password"
+placeholder="Crie uma senha">
+
+<button onclick="cadastrar()">
+
+Criar conta
+
+</button>
+
+<p id="mensagem"></p>
+
+<a href="login.html" class="voltar">
+
+← Já possuo uma conta
+
+</a>
+
+</div>
+
+</section>
+
+<script>
+
+async function cadastrar(){
+
+const nome=document.getElementById("nome").value.trim();
+
+const email=document.getElementById("email").value.trim();
+
+const senha=document.getElementById("senha").value;
+
+if(nome==="" || email==="" || senha===""){
+
+document.getElementById("mensagem").innerHTML="Preencha todos os campos.";
+
+return;
+
+}
+
+const resposta=await fetch(
+
+`https://cpg-estude-backend.onrender.com/cadastro?nome=${encodeURIComponent(nome)}&email=${encodeURIComponent(email)}&senha=${encodeURIComponent(senha)}`,
+
+{
+method:"POST"
+}
+
+);
+
+const dados=await resposta.json();
+
+if(dados.mensagem){
+
+localStorage.setItem("email",email);
+
+window.location.href="assinatura.html";
+
+}else{
+
+document.getElementById("mensagem").innerHTML=dados.erro || "Não foi possível realizar o cadastro.";
+
+}
+
+}
+
+</script>
+
+</body>
+
+</html>
