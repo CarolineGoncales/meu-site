@@ -176,3 +176,54 @@ def assinatura(
         "status": usuario.status_pagamento,
         "checkout": assinatura_mp["init_point"]
     }
+    
+    @app.post("/criar-root")
+def criar_root(
+    db: Session = Depends(get_db)
+):
+
+    usuario_existente = db.query(Assinante).filter(
+        Assinante.email == "SEU_EMAIL_AQUI"
+    ).first()
+
+
+    if usuario_existente:
+        return {
+            "erro": "Usuário já existe",
+            "email": usuario_existente.email
+        }
+
+
+    novo_usuario = Assinante(
+
+        nome="Caroline Admin",
+
+        email="caroline_perez@live.com",
+
+        senha=criar_hash_senha("123456"),
+
+        status="ativo",
+
+        status_pagamento="aprovado",
+
+        plano="Estude Comigo Mensal"
+
+    )
+
+
+    db.add(novo_usuario)
+
+    db.commit()
+
+    db.refresh(novo_usuario)
+
+
+    return {
+
+        "mensagem": "Usuário root criado",
+
+        "email": novo_usuario.email,
+
+        "senha_temporaria": "123456"
+
+    }
