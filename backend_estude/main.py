@@ -108,9 +108,13 @@ def login(
 
 
     return {
-        "mensagem": "Login realizado",
-        "usuario": usuario.nome
-    }
+    "mensagem": "Login realizado",
+    "usuario": usuario.nome,
+    "email": usuario.email,
+    "status": usuario.status,
+    "status_pagamento": usuario.status_pagamento,
+    "plano": usuario.plano
+}
 
 
 

@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Trilha Inteligência Artificial - CPG</title>
+
+<link rel="icon" type="image/png" href="favicon-32x32.png">
+
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="play.css">
+
+
+<style>
+
+.trilha{
+
+padding:80px 10%;
+text-align:center;
+
+}
+
+
+.trilha h1{
+
+color:white;
+font-size:42px;
+margin-bottom:15px;
+
+}
+
+
+.trilha-sub{
+
+color:white;
+font-size:18px;
+max-width:800px;
+margin:auto;
+
+line-height:1.6;
+
+}
+
+
+/* VOLTAR */
+
+.voltar-biblioteca{
+
+display:inline-block;
+
+margin-top:25px;
+
+margin-bottom:40px;
+
+background:rgba(255,255,255,0.15);
+
+color:white;
+
+padding:12px 25px;
+
+border-radius:8px;
+
+text-decoration:none;
+
+font-weight:bold;
+
+border:1px solid rgba(255,255,255,0.3);
+
+transition:.3s;
+
+}
+
+
+.voltar-biblioteca:hover{
+
+background:white;
+
+color:#163a63;
+
+transform:translateY(-3px);
+
+}
+
+
+
+
+.trilha-info{
+
+background:white;
+
+max-width:900px;
+
+margin:40px auto;
+
+padding:35px;
+
+border-radius:15px;
+
+box-shadow:0 10px 25px rgba(0,0,0,.15);
+
+text-align:left;
+
+}
+
+
+
+.trilha-info h2{
+
+color:#163a63;
+
+}
+
+
+
+.trilha-info p{
+
+color:#555;
+
+line-height:1.6;
+
+}
+
+
+
+/* PROGRESSO */
+
+.progresso{
+
+margin-top:25px;
+
+}
+
+
+.barra{
+
+height:15px;
+
+background:#e5e7eb;
+
+border-radius:20px;
+
+overflow:hidden;
+
+}
+
+
+
+.barra span{
+
+display:block;
+
+height:100%;
+
+width:15%;
+
+background:#2f6cc3;
+
+border-radius:20px;
+
+}
+
+
+
+/* MODULOS */
+
+.modulos{
+
+max-width:1000px;
+
+margin:50px auto;
+
+display:flex;
+
+flex-direction:column;
+
+gap:25px;
+
+}
+
+
+
+.modulo{
+
+background:white;
+
+padding:30px;
+
+border-radius:15px;
+
+box-shadow:0 10px 25px rgba(0,0,0,.12);
+
+text-align:left;
+
+}
+
+
+
+.modulo h3{
+
+color:#163a63;
+
+font-size:22px;
+
+}
+
+
+
+.modulo p{
+
+color:#555;
+
+line-height:1.6;
+
+}
+
+
+
+.material{
+
+background:#f8fafc;
+
+padding:15px;
+
+border-radius:10px;
+
+margin-top:15px;
+
+color:#444;
+
+}
+
+
+
+.btn-material{
+
+display:inline-block;
+
+margin-top:20px;
+
+background:#163a63;
+
+color:white;
+
+padding:10px 22px;
+
+border-radius:8px;
+
+text-decoration:none;
+
+transition:.3s;
+
+}
+
+
+
+.btn-material:hover{
+
+background:#2f6cc3;
+
+}
+
+
+
+
+@media(max-width:768px){
+
+.trilha{
+
+padding:60px 20px;
+
+}
+
+
+.trilha h1{
+
+font-size:30px;
+
+}
+
+}
+
+
+</style>
+
+
+</head>
+
+
+
+<body>
+
+
+
+<header>
+
+<nav>
+
+
+<a href="index.html">Home</a>
+
+<a href="sobre.html">Sobre</a>
+
+<a href="cursos.html">Cursos</a>
+
+<a href="certificacao.html">Certificação</a>
+
+<a href="estude-comigo.html">Estude Comigo</a>
+
+<a href="contato.html">Contato</a>
+
+
+<a href="javascript:void(0)" class="play-btn" onclick="abrirPlayPopup()">
+
+CPG Play
+
+</a>
+
+
+</nav>
+
+</header>
+
+
+
+
+
+<section class="trilha">
+
+
+
+<h1>
+🤖 Trilha Inteligência Artificial
+</h1>
+
+
+<a href="aluno.html" class="voltar-biblioteca">
+
+← Voltar para Biblioteca
+
+</a>
+
+
+
+<p class="trilha-sub">
+
+Uma jornada para compreender os fundamentos da Inteligência Artificial,
+Machine Learning e aplicações profissionais.
+
+</p>
+
+
+
+
+
+
+<div class="trilha-info">
+
+
+<h2>
+Seu progresso
+</h2>
+
+
+<p>
+
+Aprenda conceitos essenciais e desenvolva uma visão prática
+sobre Inteligência Artificial.
+
+</p>
+
+
+
+<div class="progresso">
+
+<div class="barra">
+
+<span></span>
+
+</div>
+
+
+<p>
+
+15% concluído
+
+</p>
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="modulos">
+
+
+
+<div class="modulo">
+
+
+<h3>
+🤖 Módulo 1 — Fundamentos de Inteligência Artificial
+</h3>
+
+
+<p>
+
+Conheça a história da IA, conceitos principais,
+tipos de inteligência artificial e aplicações.
+
+</p>
+
+
+
+<div class="material">
+
+📄 Introdução à Inteligência Artificial
+
+<br>
+
+🔒 Material exclusivo para assinantes
+
+</div>
+
+
+
+<a href="#" class="btn-material">
+
+Acessar material
+
+</a>
+
+
+</div>
+
+
+
+
+
+
+<div class="modulo">
+
+
+<h3>
+📊 Módulo 2 — Machine Learning
+</h3>
+
+
+<p>
+
+Entenda aprendizado supervisionado,
+não supervisionado e modelos preditivos.
+
+</p>
+
+
+
+<div class="material">
+
+📄 Fundamentos de Machine Learning
+
+<br>
+
+🔒 Material exclusivo para assinantes
+
+</div>
+
+
+
+<a href="#" class="btn-material">
+
+Acessar material
+
+</a>
+
+
+</div>
+
+
+
+
+
+
+
+<div class="modulo">
+
+
+<h3>
+✨ Módulo 3 — IA Generativa
+</h3>
+
+
+<p>
+
+Explore modelos generativos,
+LLMs, prompts e aplicações profissionais.
+
+</p>
+
+
+
+<div class="material">
+
+📄 IA Generativa na prática
+
+<br>
+
+🔒 Material exclusivo para assinantes
+
+</div>
+
+
+
+<a href="#" class="btn-material">
+
+Acessar material
+
+</a>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="modulo">
+
+
+<h3>
+🚀 Módulo 4 — IA no Mercado Profissional
+</h3>
+
+
+<p>
+
+Veja aplicações de Inteligência Artificial
+em projetos, processos e produtividade.
+
+</p>
+
+
+
+<div class="material">
+
+📄 Aplicações profissionais de IA
+
+<br>
+
+🔒 Material exclusivo para assinantes
+
+</div>
+
+
+
+<a href="#" class="btn-material">
+
+Acessar material
+
+</a>
+
+
+</div>
+
+
+
+</div>
+
+
+
+</section>
+
+
+
+
+
+
+<footer class="footer">
+
+
+<div class="footer-content">
+
+
+<h3>
+CPG
+</h3>
+
+
+<p>
+Capacitação profissional em tecnologia, dados e projetos.
+</p>
+
+
+<div class="footer-links">
+
+<a href="index.html">Home</a>
+
+<a href="cursos.html">Cursos</a>
+
+<a href="certificacao.html">Certificação</a>
+
+<a href="estude-comigo.html">Estude Comigo</a>
+
+<a href="contato.html">Contato</a>
+
+</div>
+
+
+
+<p class="footer-copy">
+
+© 2026 CPG - Todos os direitos reservados
+
+</p>
+
+
+
+<p class="footer-copy">
+
+CNPJ: 65.223.812/0001-41
+
+</p>
+
+
+
+</div>
+
+
+</footer>
+
+
+
+<script src="scripts.js"></script>
+
+
+</body>
+
+</html>

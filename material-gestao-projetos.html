@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Gestão de Projetos - CPG Estude Comigo</title>
+
+<link rel="icon" type="image/png" href="favicon-32x32.png">
+
+<link rel="stylesheet" href="style.css">
+
+
+<style>
+
+
+.material-pagina{
+
+padding:80px 10%;
+
+text-align:center;
+
+}
+
+
+
+.material-pagina h1{
+
+color:white;
+
+font-size:40px;
+
+margin-bottom:15px;
+
+}
+
+
+
+.material-sub{
+
+color:white;
+
+font-size:18px;
+
+margin-bottom:40px;
+
+}
+
+
+
+/* BOTÃO VOLTAR */
+
+.voltar{
+
+display:inline-block;
+
+background:rgba(255,255,255,.15);
+
+color:white;
+
+padding:12px 25px;
+
+border-radius:8px;
+
+text-decoration:none;
+
+font-weight:bold;
+
+margin-bottom:40px;
+
+border:1px solid rgba(255,255,255,.3);
+
+}
+
+
+
+.voltar:hover{
+
+background:white;
+
+color:#163a63;
+
+}
+
+
+
+/* AREA PDF */
+
+.pdf-container{
+
+max-width:900px;
+
+margin:auto;
+
+background:white;
+
+padding:30px;
+
+border-radius:15px;
+
+box-shadow:0 10px 30px rgba(0,0,0,.2);
+
+}
+
+
+
+/* VISUALIZADOR */
+
+#pdf-viewer canvas{
+
+max-width:100%;
+
+border-radius:10px;
+
+box-shadow:0 5px 15px rgba(0,0,0,.15);
+
+}
+
+
+
+/* CONTROLES */
+
+.pdf-controls{
+
+margin-top:25px;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+gap:20px;
+
+}
+
+
+
+.pdf-controls button{
+
+background:#163a63;
+
+color:white;
+
+border:none;
+
+padding:12px 22px;
+
+border-radius:8px;
+
+font-weight:bold;
+
+cursor:pointer;
+
+}
+
+
+
+.pdf-controls button:hover{
+
+background:#2f6cc3;
+
+}
+
+
+
+#pagina-atual{
+
+color:#163a63;
+
+font-weight:bold;
+
+}
+
+
+
+/* BLOQUEIOS BASICOS */
+
+body{
+
+user-select:none;
+
+}
+
+
+
+</style>
+
+
+</head>
+
+
+
+<body>
+
+
+
+<header>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="estude-comigo.html">Estude Comigo</a>
+
+<a href="aluno.html">Biblioteca</a>
+
+</nav>
+
+</header>
+
+
+
+
+
+<section class="material-pagina">
+
+
+
+<a href="trilha-projetos.html" class="voltar">
+
+← Voltar para Trilha de Projetos
+
+</a>
+
+
+
+<h1>
+
+📘 Gestão de Projetos
+
+</h1>
+
+
+
+<p class="material-sub">
+
+Apostila exclusiva da CPG Estude Comigo.
+
+Fundamentos, processos e conceitos essenciais
+para evolução profissional em projetos.
+
+</p>
+
+
+
+
+
+<div class="pdf-container">
+
+
+<div id="pdf-viewer">
+
+Carregando material...
+
+</div>
+
+
+
+<div class="pdf-controls">
+
+
+<button onclick="paginaAnterior()">
+
+⬅ Anterior
+
+</button>
+
+
+
+<span id="pagina-atual">
+
+Página carregando...
+
+</span>
+
+
+
+<button onclick="proximaPagina()">
+
+Próxima ➡
+
+</button>
+
+
+</div>
+
+
+</div>
+
+
+
+
+</section>
+
+
+
+
+
+<footer class="footer">
+
+
+<div class="footer-content">
+
+
+<h3>
+CPG
+</h3>
+
+
+<p>
+Capacitação profissional em tecnologia, dados e projetos.
+</p>
+
+
+<p class="footer-copy">
+© 2026 CPG - Todos os direitos reservados
+</p>
+
+
+</div>
+
+
+</footer>
+
+
+
+
+
+<script type="module">
+
+
+import * as pdfjsLib from './pdfjs/build/pdf.mjs';
+
+
+const url = './materiais/gestao-projetos.pdf';
+
+
+
+let pdfDoc = null;
+
+let paginaAtual = 1;
+
+let totalPaginas = 0;
+
+
+
+const viewer = document.getElementById("pdf-viewer");
+
+
+
+
+pdfjsLib.GlobalWorkerOptions.workerSrc = './pdfjs/build/pdf.worker.mjs';
+
+
+
+
+pdfjsLib.getDocument({
+    url: url
+}).promise.then(function(pdf){
+
+pdfDoc = pdf;
+
+totalPaginas = pdf.numPages;
+
+
+mostrarPagina(paginaAtual);
+
+
+}).catch(function(error){
+
+
+viewer.innerHTML = "Erro ao carregar material.";
+
+console.error(error);
+
+
+});
+
+
+
+
+
+
+function mostrarPagina(numero){
+
+
+
+pdfDoc.getPage(numero).then(function(page){
+
+
+
+const escala = 1.5;
+
+
+const viewport = page.getViewport({
+
+scale: escala
+
+});
+
+
+
+const canvas = document.createElement("canvas");
+
+
+const contexto = canvas.getContext("2d");
+
+
+
+canvas.height = viewport.height;
+
+canvas.width = viewport.width;
+
+
+
+viewer.innerHTML="";
+
+
+viewer.appendChild(canvas);
+
+
+
+
+page.render({
+
+canvasContext: contexto,
+
+viewport: viewport
+
+
+});
+
+
+
+document.getElementById("pagina-atual").innerHTML =
+
+"Página " + numero + " de " + totalPaginas;
+
+
+
+});
+
+}
+
+
+
+
+window.proximaPagina = function(){
+
+
+if(paginaAtual < totalPaginas){
+
+paginaAtual++;
+
+mostrarPagina(paginaAtual);
+
+}
+
+
+}
+
+
+
+window.paginaAnterior = function(){
+
+
+if(paginaAtual > 1){
+
+paginaAtual--;
+
+mostrarPagina(paginaAtual);
+
+}
+
+
+}
+
+
+
+</script>
+
+
+
+
+
+
+<script>
+
+
+// bloqueia botão direito
+
+document.addEventListener("contextmenu", function(e){
+
+e.preventDefault();
+
+});
+
+
+
+// bloqueia atalhos comuns
+
+document.addEventListener("keydown", function(e){
+
+
+if(
+
+e.ctrlKey &&
+
+(
+
+e.key==="s" ||
+
+e.key==="u" ||
+
+e.key==="p"
+
+)
+
+){
+
+e.preventDefault();
+
+}
+
+
+});
+
+
+
+</script>
+
+
+
+</body>
+
+</html>
