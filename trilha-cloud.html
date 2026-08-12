@@ -295,7 +295,90 @@ font-size:30px;
 
 }
 
+/* ===========================
+   POPUP LOGOUT
+=========================== */
 
+.modal{
+
+display:none;
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:rgba(0,0,0,.65);
+justify-content:center;
+align-items:center;
+z-index:9999;
+
+}
+
+.modal-content{
+
+background:white;
+padding:40px;
+width:90%;
+max-width:450px;
+border-radius:18px;
+text-align:center;
+box-shadow:0 10px 30px rgba(0,0,0,.25);
+
+}
+
+.modal-content h2{
+
+color:#163a63;
+margin-bottom:20px;
+
+}
+
+.modal-content p{
+
+color:#555;
+line-height:1.7;
+
+}
+
+.btn-popup{
+
+display:inline-block;
+margin:12px 8px 0;
+padding:12px 28px;
+border-radius:8px;
+text-decoration:none;
+font-weight:bold;
+cursor:pointer;
+border:none;
+transition:.3s;
+
+}
+
+.btn-cancelar{
+
+background:#163a63;
+color:white;
+
+}
+
+.btn-cancelar:hover{
+
+background:#2f6cc3;
+
+}
+
+.btn-sair{
+
+background:#c62828;
+color:white;
+
+}
+
+.btn-sair:hover{
+
+background:#a31616;
+
+}
 
 </style>
 
@@ -314,26 +397,15 @@ font-size:30px;
 
 <nav>
 
+<a href="aluno.html">📚 Biblioteca</a>
 
-<a href="index.html">Home</a>
+<a href="certificados.html">🏆 Meus Certificados</a>
 
-<a href="sobre.html">Sobre</a>
+<a href="javascript:void(0)" onclick="abrirLogout()">
 
-<a href="cursos.html">Cursos</a>
-
-<a href="certificacao.html">Certificação</a>
-
-<a href="estude-comigo.html">Estude Comigo</a>
-
-<a href="contato.html">Contato</a>
-
-
-<a href="javascript:void(0)" class="play-btn" onclick="abrirPlayPopup">
-
-CPG Play
+🚪 Sair
 
 </a>
-
 
 </nav>
 
@@ -649,15 +721,15 @@ Capacitação profissional em tecnologia, dados e projetos.
 <div class="footer-links">
 
 
-<a href="index.html">Home</a>
+<a href="aluno.html">📚 Biblioteca</a>
 
-<a href="cursos.html">Cursos</a>
+<a href="certificados.html">🏆 Meus Certificados</a>
 
-<a href="certificacao.html">Certificação</a>
+<a href="javascript:void(0)" onclick="abrirLogout()">
 
-<a href="estude-comigo.html">Estude Comigo</a>
+🚪 Sair
 
-<a href="contato.html">Contato</a>
+</a>
 
 
 </div>
@@ -688,6 +760,74 @@ CNPJ: 65.223.812/0001-41
 
 <script src="scripts.js"></script>
 
+<!-- POPUP LOGOUT -->
+
+<div id="logoutPopup" class="modal">
+
+    <div class="modal-content">
+
+        <h2>
+
+            🚪 Sair da Área do Aluno
+
+        </h2>
+
+        <p>
+
+            Tem certeza que deseja encerrar sua sessão?
+
+            <br><br>
+
+            Você retornará para o site da
+            <strong>CPG Technology Consulting</strong>.
+
+        </p>
+
+        <button class="btn-popup btn-cancelar"
+                onclick="fecharLogout()">
+
+            Cancelar
+
+        </button>
+
+        <button class="btn-popup btn-sair"
+                onclick="logout()">
+
+            Sim, sair
+
+        </button>
+
+    </div>
+
+</div>
+
+<script>
+
+function abrirLogout(){
+
+    document.getElementById("logoutPopup").style.display = "flex";
+
+}
+
+function fecharLogout(){
+
+    document.getElementById("logoutPopup").style.display = "none";
+
+}
+
+function logout(){
+
+    localStorage.removeItem("usuario");
+    localStorage.removeItem("email");
+    localStorage.removeItem("status");
+    localStorage.removeItem("status_pagamento");
+    localStorage.removeItem("plano");
+
+    window.location.replace("index.html");
+
+}
+
+</script>
 
 </body>
 

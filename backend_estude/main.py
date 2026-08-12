@@ -177,6 +177,72 @@ def assinatura(
         "checkout": assinatura_mp["init_point"]
     }
     
+@app.get("/certificado")
+def certificado(
+    email: str,
+    trilha: str,
+    db: Session = Depends(get_db)
+):
+
+    usuario = db.query(Assinante).filter(
+        Assinante.email == email
+    ).first()
+
+    if not usuario:
+        return {
+            "erro": "Usuário não encontrado"
+        }
+
+    certificados = {
+
+        "python":{
+            "nome":"TRILHA PYTHON",
+            "horas":60,
+            "codigo":"PY"
+        },
+
+        "projetos":{
+            "nome":"TRILHA ANALISTA DE PROJETOS",
+            "horas":80,
+            "codigo":"GP"
+        },
+
+        "ia":{
+            "nome":"TRILHA INTELIGÊNCIA ARTIFICIAL",
+            "horas":70,
+            "codigo":"IA"
+        },
+
+        "cloud":{
+            "nome":"TRILHA CLOUD & DEVOPS",
+            "horas":80,
+            "codigo":"CL"
+        }
+
+    }
+
+    if trilha not in certificados:
+
+        return {
+            "erro":"Trilha inválida"
+        }
+
+    dados = certificados[trilha]
+
+    return {
+
+        "aluno": usuario.nome,
+
+        "trilha": dados["nome"],
+
+        "horas": dados["horas"],
+
+        "codigo": f'CPG-{dados["codigo"]}-{usuario.id:05d}',
+
+        "data": "12 de Agosto de 2026"
+
+    }    
+    
 @app.post("/criar-root")
 def criar_root(
     db: Session = Depends(get_db)

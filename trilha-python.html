@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Trilha Analista de Projetos - CPG</title>
+<title>Trilha Python - CPG</title>
 
 <link rel="icon" type="image/png" href="favicon-32x32.png">
 
@@ -33,19 +33,19 @@ margin-bottom:15px;
 }
 
 
-
 .trilha-sub{
 
 color:white;
 font-size:18px;
 max-width:800px;
 margin:auto;
+
 line-height:1.6;
 
 }
 
 
-/* BOTÃO VOLTAR */
+/* VOLTAR */
 
 .voltar-biblioteca{
 
@@ -87,9 +87,6 @@ transform:translateY(-3px);
 
 
 
-/* CARD INFORMAÇÃO */
-
-
 .trilha-info{
 
 background:white;
@@ -128,9 +125,7 @@ line-height:1.6;
 
 
 
-
 /* PROGRESSO */
-
 
 .progresso{
 
@@ -152,13 +147,14 @@ overflow:hidden;
 }
 
 
+
 .barra span{
 
 display:block;
 
 height:100%;
 
-width:25%;
+width:15%;
 
 background:#2f6cc3;
 
@@ -168,9 +164,7 @@ border-radius:20px;
 
 
 
-
 /* MODULOS */
-
 
 .modulos{
 
@@ -188,7 +182,6 @@ gap:25px;
 
 
 
-
 .modulo{
 
 background:white;
@@ -202,7 +195,6 @@ box-shadow:0 10px 25px rgba(0,0,0,.12);
 text-align:left;
 
 }
-
 
 
 
@@ -269,6 +261,7 @@ transition:.3s;
 background:#2f6cc3;
 
 }
+
 
 
 
@@ -374,6 +367,15 @@ background:#a31616;
 
 }
 
+.status-concluido{
+
+color:#00a650;
+font-size:13px;
+font-weight:bold;
+margin-left:8px;
+
+}
+
 </style>
 
 
@@ -389,7 +391,6 @@ background:#a31616;
 
 <nav>
 
-
 <a href="aluno.html">📚 Biblioteca</a>
 
 <a href="certificados.html">🏆 Meus Certificados</a>
@@ -400,7 +401,6 @@ background:#a31616;
 
 </a>
 
-
 </nav>
 
 </header>
@@ -408,11 +408,13 @@ background:#a31616;
 
 
 
+
 <section class="trilha">
 
 
+
 <h1>
-🎯 Trilha Analista de Projetos
+🐍 Trilha Python
 </h1>
 
 
@@ -426,10 +428,13 @@ background:#a31616;
 
 <p class="trilha-sub">
 
-Uma jornada completa para desenvolver conhecimentos em gerenciamento de projetos,
-metodologias ágeis e preparação para certificações profissionais.
+Uma jornada completa para aprender Python, desde os conceitos
+fundamentais até aplicações profissionais, automação,
+Cloud Computing e Inteligência Artificial.
 
 </p>
+
+
 
 
 
@@ -444,7 +449,8 @@ Seu progresso
 
 <p>
 
-Continue sua evolução. Complete os módulos e acompanhe seu desenvolvimento.
+Aprenda Python do zero até aplicações profissionais,
+desenvolvendo uma base sólida para o mercado de tecnologia.
 
 </p>
 
@@ -452,16 +458,16 @@ Continue sua evolução. Complete os módulos e acompanhe seu desenvolvimento.
 
 <div class="progresso">
 
-
 <div class="barra">
 
-<span></span>
+    <span id="barra-python"></span>
 
 </div>
 
+<p id="texto-progresso-python">
 
-<p>
-25% concluído
+0% concluído
+
 </p>
 
 
@@ -469,6 +475,7 @@ Continue sua evolução. Complete os módulos e acompanhe seu desenvolvimento.
 
 
 </div>
+
 
 
 
@@ -478,175 +485,207 @@ Continue sua evolução. Complete os módulos e acompanhe seu desenvolvimento.
 
 <div class="modulos">
 
+    <div class="modulo">
+
+        <h3>
+            🐍 Módulo 1 — Fundamentos de Python
+        </h3>
+
+        <p>
+            Conheça a linguagem Python, sua história, principais características,
+            preparação do ambiente de desenvolvimento, variáveis e tipos de dados.
+        </p>
+
+        <div class="material">
+
+            📘 Fundamentos de Python
+
+            <span id="status-python-1"></span>
+
+            <br>
+
+            🔒 Material exclusivo para assinantes
+
+        </div>
+
+        <a href="material-python-1.html" class="btn-material">
+
+            Acessar Apostila
+
+        </a>
+
+    </div>
 
 
-<div class="modulo">
+
+    <div class="modulo">
+
+        <h3>
+            💡 Módulo 2 — Lógica de Programação com Python
+        </h3>
+
+        <p>
+            Aprenda a desenvolver programas utilizando estruturas condicionais,
+            operadores, entrada e saída de dados e lógica de programação.
+        </p>
+
+        <div class="material">
+
+            📘 Lógica de Programação com Python
+
+            <span id="status-python-2"></span>
+
+            <br>
+
+            🔒 Material exclusivo para assinantes
+
+        </div>
+
+        <a href="material-python-2.html" class="btn-material">
+
+            Acessar Apostila
+
+        </a>
+
+    </div>
 
 
-<h3>
-📘 Módulo 1 — Fundamentos de Projetos
-</h3>
+
+    <div class="modulo">
+
+        <h3>
+            🔄 Módulo 3 — Repetições e Estruturas de Dados
+        </h3>
+
+        <p>
+            Aprenda a utilizar laços de repetição, listas, tuplas,
+            dicionários e conjuntos para criar aplicações mais completas.
+        </p>
+
+        <div class="material">
+
+            📘 Repetições e Estruturas de Dados
+
+            <span id="status-python-3"></span>
+
+            <br>
+
+            🔒 Material exclusivo para assinantes
+
+        </div>
+
+        <a href="material-python-3.html" class="btn-material">
+
+            Acessar Apostila
+
+        </a>
+
+    </div>
 
 
-<p>
 
-Conheça os principais conceitos de gerenciamento de projetos,
-ciclo de vida, áreas de conhecimento e boas práticas.
+    <div class="modulo">
 
-</p>
+        <h3>
+            ⚙️ Módulo 4 — Funções, Módulos e Organização de Código
+        </h3>
+
+        <p>
+            Escreva programas mais organizados utilizando funções,
+            módulos, bibliotecas e tratamento de erros.
+        </p>
+
+        <div class="material">
+
+            📘 Funções, Módulos e Organização de Código
+
+            <span id="status-python-4"></span>
+
+            <br>
+
+            🔒 Material exclusivo para assinantes
+
+        </div>
+
+        <a href="material-python-4.html" class="btn-material">
+
+            Acessar Apostila
+
+        </a>
+
+    </div>
 
 
 
-<div class="material">
+    <div class="modulo">
 
-📄 Introdução ao Gerenciamento de Projetos
+        <h3>
+            🚀 Módulo 5 — Python para Aplicações Reais
+        </h3>
 
-<br>
+        <p>
+            Descubra como utilizar Python em aplicações práticas,
+            manipulação de arquivos, APIs, JSON e desenvolvimento
+            de soluções para o mercado.
+        </p>
 
-🔒 Material exclusivo para assinantes
+        <div class="material">
+
+            📘 Python para Aplicações Reais
+
+            <span id="status-python-5"></span>
+
+            <br>
+
+            🔒 Material exclusivo para assinantes
+
+        </div>
+
+        <a href="material-python-5.html" class="btn-material">
+
+            Acessar Apostila
+
+        </a>
+
+    </div>
+
+
+
+    <div class="modulo">
+
+        <h3>
+            💼 Módulo 6 — Python Profissional
+        </h3>
+
+        <p>
+            Prepare-se para o mercado utilizando boas práticas,
+            Git, ambientes virtuais, automação, Cloud Computing
+            e Inteligência Artificial com Python.
+        </p>
+
+        <div class="material">
+
+            📘📘 Python Profissional
+
+            <span id="status-python-6"></span>
+
+            <br>
+
+            🔒 Material exclusivo para assinantes
+
+        </div>
+
+        <a href="material-python-6.html" class="btn-material">
+
+            Acessar Apostila
+
+        </a>
+
+    </div>
 
 </div>
 
 
-<a href="#" class="btn-material">
-
-Acessar material
-
-</a>
-
-
-</div>
-
-
-
-
-
-
-<div class="modulo">
-
-
-<h3>
-📗 Módulo 2 — Scrum
-</h3>
-
-
-<p>
-
-Aprenda metodologia ágil, papéis,
-eventos, artefatos e aplicação prática.
-
-</p>
-
-
-
-<div class="material">
-
-📄 Scrum Fundamentals
-
-<br>
-
-🔒 Material exclusivo para assinantes
-
-</div>
-
-
-<a href="#" class="btn-material">
-
-Acessar material
-
-</a>
-
-
-</div>
-
-
-
-
-
-
-<div class="modulo">
-
-
-<h3>
-📙 Módulo 3 — PMBOK 7
-</h3>
-
-
-<p>
-
-Explore princípios, domínios de desempenho
-e conceitos fundamentais do PMI.
-
-</p>
-
-
-
-<div class="material">
-
-📄 Fundamentos PMBOK
-
-<br>
-
-🔒 Material exclusivo para assinantes
-
-</div>
-
-
-<a href="#" class="btn-material">
-
-Acessar material
-
-</a>
-
-
-</div>
-
-
-
-
-
-
-
-<div class="modulo">
-
-
-<h3>
-🏆 Módulo 4 — Preparação CAPM
-</h3>
-
-
-<p>
-
-Organize seus estudos para a certificação CAPM
-com conteúdos e exercícios.
-
-</p>
-
-
-
-<div class="material">
-
-📄 Preparação CAPM CPG
-
-<br>
-
-🔒 Material exclusivo para assinantes
-
-</div>
-
-
-<a href="#" class="btn-material">
-
-Acessar material
-
-</a>
-
-
-</div>
-
-
-
-</div>
 
 
 </section>
@@ -674,7 +713,6 @@ Capacitação profissional em tecnologia, dados e projetos.
 
 <div class="footer-links">
 
-
 <a href="aluno.html">📚 Biblioteca</a>
 
 <a href="certificados.html">🏆 Meus Certificados</a>
@@ -685,8 +723,8 @@ Capacitação profissional em tecnologia, dados e projetos.
 
 </a>
 
-
 </div>
+
 
 
 <p class="footer-copy">
@@ -696,11 +734,13 @@ Capacitação profissional em tecnologia, dados e projetos.
 </p>
 
 
+
 <p class="footer-copy">
 
 CNPJ: 65.223.812/0001-41
 
 </p>
+
 
 
 </div>
@@ -710,8 +750,32 @@ CNPJ: 65.223.812/0001-41
 
 
 
-
 <script src="scripts.js"></script>
+
+<script src="progresso.js"></script>
+
+<script>
+
+for(let i=1;i<=6;i++){
+
+    if(apostilaConcluida("python", i)){
+
+        document.getElementById("status-python-"+i).innerHTML =
+        '<span class="status-concluido">✔ Concluído</span>';
+
+    }
+
+}
+
+const percentual = calcularProgresso("python", 6);
+
+document.getElementById("barra-python").style.width =
+percentual + "%";
+
+document.getElementById("texto-progresso-python").innerHTML =
+percentual + "% concluído";
+</script>
+
 
 <!-- POPUP LOGOUT -->
 

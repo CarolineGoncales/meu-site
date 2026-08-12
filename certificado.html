@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Certificado CPG</title>
+
+<link rel="stylesheet" href="style.css">
+
+<style>
+
+body{
+
+margin:0;
+padding:0;
+background:#eef2f7;
+font-family:Arial, Helvetica, sans-serif;
+
+}
+
+
+
+.certificado{
+
+width:277mm;
+height:190mm;
+
+margin:15px auto;
+
+background:white;
+
+box-shadow: inset 0 0 0 4mm #163a63;
+
+padding:8mm;
+
+box-sizing:border-box;
+
+position:relative;
+
+overflow:hidden;
+
+}
+
+.logo{
+
+text-align:center;
+font-size:34px;
+font-weight:bold;
+color:#163a63;
+
+}
+
+.sub{
+
+text-align:center;
+color:#666;
+margin-top:8px;
+letter-spacing:3px;
+
+}
+
+h1{
+
+text-align:center;
+margin-top:25px;
+font-size:48px;
+color:#163a63;
+letter-spacing:3px;
+
+}
+
+.texto{
+
+margin-top:25px;
+
+text-align:center;
+
+font-size:15px;
+
+line-height:1.8;
+
+color:#444;
+
+}
+
+.nome{
+
+margin-top:18px;
+
+font-size:42px;
+
+font-weight:bold;
+
+color:#163a63;
+
+text-align:center;
+
+}
+
+.curso{
+
+margin-top:20px;
+
+font-size:28px;
+
+font-weight:bold;
+
+text-align:center;
+
+color:#222;
+
+}
+
+.info{
+
+margin-top:30px;
+
+display:flex;
+
+justify-content:center;
+
+gap:0px;
+
+font-size:18px;
+
+color:#555;
+
+text-align:center;
+
+}
+
+.assinatura{
+
+margin-top:10px;
+
+display:flex;
+
+justify-content:space-around;
+
+align-items:center;
+
+padding:0 60px;
+
+}
+
+.ass{
+
+text-align:center;
+
+width:320px;
+
+}
+
+.linha{
+
+border-top:1px solid #444;
+
+margin-bottom:10px;
+
+}
+
+.ass strong{
+
+color:#163a63;
+
+font-size:18px;
+
+}
+
+.qrcode{
+
+width:140px;
+
+height:140px;
+
+margin:0 auto;
+
+border:2px dashed #999;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+font-size:10px;
+
+color:#777;
+
+}
+
+.codigo{
+
+margin-top:10px;
+
+font-size:10px;
+
+line-height:1.6;
+
+color:#555;
+
+text-align:center;
+
+}
+
+#btnPDF{
+
+background:#163a63;
+color:white;
+border:none;
+padding:15px 35px;
+font-size:18px;
+font-weight:bold;
+border-radius:8px;
+cursor:pointer;
+transition:.3s;
+
+}
+
+#btnPDF:hover{
+
+background:#24518d;
+
+}
+
+.rodape{
+
+position:absolute;
+
+left:70px;
+
+right:70px;
+
+bottom:25px;
+
+text-align:center;
+
+font-size:10px;
+
+color:#777;
+
+line-height:1.6;
+
+}
+
+@page{
+
+size:A4 landscape;
+
+margin:0;
+
+}
+
+@media print{
+
+body{
+
+background:white;
+
+margin:0;
+
+}
+
+#btnPDF{
+
+display:none;
+
+}
+
+.certificado{
+
+margin:0;
+
+page-break-after:avoid;
+
+page-break-inside:avoid;
+
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div style="text-align:center; margin:30px 0;">
+
+    <button onclick="baixarPDF()" id="btnPDF">
+
+        📄 Baixar Certificado em PDF
+
+    </button>
+
+</div>
+
+<div class="certificado">
+
+<div class="logo">
+
+CPG Technology Consulting
+
+</div>
+
+<div class="sub">
+
+CERTIFICADO PROFISSIONAL
+
+</div>
+
+
+<div class="texto">
+
+Certificamos que
+
+</div>
+
+<div class="nome">
+
+<span id="nomeAluno"></span>
+
+</div>
+
+<div class="texto">
+
+concluiu com êxito a
+
+</div>
+
+<div class="curso">
+
+<span id="nomeTrilha"></span>
+
+</div>
+
+<div class="texto">
+
+com carga horária de
+
+<strong><span id="horas"></span> horas</strong>
+
+incluindo atividades práticas,
+exercícios e avaliações.
+
+</div>
+
+<div class="info">
+
+<div>
+
+<b>Data de conclusão</b>
+
+<br>
+
+<span id="data"></span>
+
+</div>
+
+<div>
+</div>
+
+</div>
+
+<div class="assinatura">
+
+<div class="ass">
+
+<div class="linha"></div>
+
+<strong>
+
+Caroline Perez Goncales
+
+</strong>
+
+<br>
+
+Fundadora e Diretora
+
+<br>
+
+CPG Technology Consulting
+
+</div>
+
+<div style="width:240px; text-align:center;">
+
+<div class="qrcode">
+
+QR CODE
+
+</div>
+
+<div class="codigo">
+
+<strong>Validação Digital</strong>
+
+<br>
+
+Escaneie o QR Code
+
+ou acesse:
+
+<br>
+
+<b>cpgtech.com.br/validar</b>
+<br>
+
+Código:
+
+<b><span id="codigo"></span></b>
+
+</div>
+
+</div>
+
+</div>
+
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<script src="progresso.js"></script>
+<script>
+
+// ===============================
+// PREENCHIMENTO AUTOMÁTICO
+// ===============================
+
+const email = localStorage.getItem("email");
+
+// Por enquanto vamos testar sempre a trilha Python
+const trilha = "python";
+
+fetch(`https://cpg-estude-backend.onrender.com/certificado?email=${encodeURIComponent(email)}&trilha=${trilha}`)
+.then(res => res.json())
+.then(dados => {
+
+    document.getElementById("nomeAluno").innerHTML = dados.aluno;
+
+    document.getElementById("nomeTrilha").innerHTML = dados.trilha;
+
+    document.getElementById("horas").innerHTML = dados.horas;
+
+    document.getElementById("data").innerHTML = dados.data;
+
+    document.getElementById("codigo").innerHTML = dados.codigo;
+
+});
+
+function baixarPDF(){
+
+    const botao = document.getElementById("btnPDF");
+
+    botao.style.display="none";
+
+    const elemento = document.querySelector(".certificado");
+
+    html2pdf().set({
+
+       margin:[0,0,0,0],
+
+        filename:"Certificado-CPG.pdf",
+
+        image:{type:"jpeg",quality:1},
+
+        html2canvas:{
+         scale:2,
+         useCORS:true,
+         scrollX:0,
+         scrollY:0
+    },
+
+        jsPDF:{
+
+          unit:"mm",
+
+          format:"a4",
+
+          orientation:"landscape"
+
+}
+
+    }).from(elemento).save().then(function(){
+
+        botao.style.display="inline-block";
+
+    });
+
+}
+
+</script>
+
+</body>
+
+</html>
