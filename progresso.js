@@ -1,107 +1,89 @@
+const CPG_API_URL = "https://cpg-estude-backend.onrender.com";
+const CPG_TRILHAS = ["python", "ia", "cloud", "projetos"];
+const CPG_TOTAL_APOSTILAS = 6;
 
+function obterEmailSessao() {
+    return localStorage.getItem("email");
+}
 
-// =======================================
-// PROGRESSO
-// =======================================
+function encerrarSessao() {
+    ["usuario", "email", "status", "status_pagamento", "plano"].forEach((chave) =>
+        localStorage.removeItem(chave)
+    );
+}
 
-function registrarConclusao(trilha, apostila){
+function exigirSessao() {
+    if (!obterEmailSessao() || localStorage.getItem("status") !== "ativo") {
+        window.location.replace("login.html");
+        return false;
+    }
+    return true;
+}
 
-    const chave = `progresso_${trilha}`;
-
-    let progresso = JSON.parse(localStorage.getItem(chave)) || [];
-
-    if(!progresso.includes(apostila)){
-
-        progresso.push(apostila);
-
-        progresso.sort((a,b)=>a-b);
-
-        localStorage.setItem(chave, JSON.stringify(progresso));
-
+async function respostaJson(resposta) {
+    let dados;
+    try {
+        dados = await resposta.json();
+    } catch (_) {
+        throw new Error("A API retornou uma resposta inválida.");
     }
 
-}
-
-function obterProgresso(trilha){
-
-    const chave = `progresso_${trilha}`;
-
-    return JSON.parse(localStorage.getItem(chave)) || [];
-
-}
-
-function calcularProgresso(trilha,total){
-
-    return Math.round((obterProgresso(trilha).length/total)*100);
-
-}
-
-function trilhaConcluida(trilha,total){
-
-    return obterProgresso(trilha).length>=total;
-
-}
-
-function apostilaConcluida(trilha, apostila){
-
-    return obterProgresso(trilha).includes(apostila);
-
-}
-
-function progressoGeral(){
-
-    let concluidas = 0;
-
-    if(trilhaConcluida("python",6)) concluidas++;
-
-    if(trilhaConcluida("ia",6)) concluidas++;
-
-    if(trilhaConcluida("projetos",6)) concluidas++;
-
-    if(trilhaConcluida("cloud",6)) concluidas++;
-
-    return{
-
-        concluidas: concluidas,
-
-        porcentagem: Math.round((concluidas/4)*100)
-
-    };
-
-}
-
-const CERTIFICADOS = {
-
-    python:{
-        nome:"TRILHA PYTHON",
-        horas:60,
-        codigo:"PY"
-    },
-
-    projetos:{
-        nome:"TRILHA ANALISTA DE PROJETOS",
-        horas:80,
-        codigo:"GP"
-    },
-
-    ia:{
-        nome:"TRILHA INTELIGÊNCIA ARTIFICIAL",
-        horas:70,
-        codigo:"IA"
-    },
-
-    cloud:{
-        nome:"TRILHA CLOUD & DEVOPS",
-        horas:80,
-        codigo:"CL"
+    if (!resposta.ok || dados.erro) {
+        throw new Error(dados.erro || "Não foi possível consultar a API.");
     }
+    return dados;
+}
 
+async function obterProgresso(trilha) {
+    const email = obterEmailSessao();
+    if (!email) throw new Error("Sessão não encontrada.");
+
+    const resposta = await fetch(
+        `${CPG_API_URL}/progresso?email=${encodeURIComponent(email)}&trilha=${encodeURIComponent(trilha)}`
+    );
+    const dados = await respostaJson(resposta);
+    return Array.isArray(dados.apostilas) ? dados.apostilas : [];
+}
+
+async function concluirApostila(trilha, apostila) {
+    const email = obterEmailSessao();
+    if (!email) throw new Error("Sessão não encontrada.");
+
+    const corpo = new URLSearchParams({ email, trilha, apostila: String(apostila) });
+    const resposta = await fetch(`${CPG_API_URL}/concluir-apostila`, {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: corpo.toString()
+    });
+    return respostaJson(resposta);
+}
+
+async function progressoGeral() {
+    const progressos = await Promise.all(CPG_TRILHAS.map(obterProgresso));
+    const concluidas = progressos.filter((apostilas) => apostilas.length >= CPG_TOTAL_APOSTILAS).length;
+    return { concluidas, porcentagem: Math.round((concluidas / CPG_TRILHAS.length) * 100) };
+}
+
+async function renderizarProgressoTrilha(trilha) {
+    const apostilas = await obterProgresso(trilha);
+    const percentual = Math.round((apostilas.length / CPG_TOTAL_APOSTILAS) * 100);
+    const barra = document.querySelector(".trilha-info .barra span");
+    const texto = document.querySelector(".trilha-info .progresso p");
+    if (barra) barra.style.width = `${percentual}%`;
+    if (texto) texto.textContent = `${percentual}% concluído (${apostilas.length}/${CPG_TOTAL_APOSTILAS} apostilas)`;
+    return apostilas;
+}
+
+window.CPG = {
+    apiUrl: CPG_API_URL,
+    trilhas: CPG_TRILHAS,
+    totalApostilas: CPG_TOTAL_APOSTILAS,
+    obterEmailSessao,
+    encerrarSessao,
+    exigirSessao,
+    respostaJson,
+    obterProgresso,
+    concluirApostila,
+    progressoGeral,
+    renderizarProgressoTrilha
 };
-
-function gerarCodigo(prefixo){
-
-    return "CPG-" +
-           prefixo + "-" +
-           Date.now().toString().slice(-8);
-
-}

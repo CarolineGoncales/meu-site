@@ -393,7 +393,7 @@ margin-left:8px;
 
 <a href="aluno.html">📚 Biblioteca</a>
 
-<a href="certificados.html">🏆 Meus Certificados</a>
+<a href="meus-certificados.html">🏆 Meus Certificados</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 
@@ -715,7 +715,7 @@ Capacitação profissional em tecnologia, dados e projetos.
 
 <a href="aluno.html">📚 Biblioteca</a>
 
-<a href="certificados.html">🏆 Meus Certificados</a>
+<a href="meus-certificados.html">🏆 Meus Certificados</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 
@@ -753,27 +753,19 @@ CNPJ: 65.223.812/0001-41
 <script src="scripts.js"></script>
 
 <script src="progresso.js"></script>
-
 <script>
-
-for(let i=1;i<=6;i++){
-
-    if(apostilaConcluida("python", i)){
-
-        document.getElementById("status-python-"+i).innerHTML =
-        '<span class="status-concluido">✔ Concluído</span>';
-
+document.addEventListener("DOMContentLoaded", async () => {
+    if (!CPG.exigirSessao()) return;
+    try {
+        const apostilas = await CPG.renderizarProgressoTrilha("python");
+        apostilas.forEach((numero) => {
+            const status = document.getElementById("status-python-" + numero);
+            if (status) status.innerHTML = '<span class="status-concluido">✔ Concluído</span>';
+        });
+    } catch (e) {
+        document.getElementById("texto-progresso-python").textContent = "Não foi possível carregar o progresso.";
     }
-
-}
-
-const percentual = calcularProgresso("python", 6);
-
-document.getElementById("barra-python").style.width =
-percentual + "%";
-
-document.getElementById("texto-progresso-python").innerHTML =
-percentual + "% concluído";
+});
 </script>
 
 

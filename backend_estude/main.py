@@ -1,6 +1,7 @@
 from auth import criar_hash_senha, verificar_senha
 from fastapi import FastAPI, Depends, Form
 from sqlalchemy.orm import Session
+from sqlalchemy.exc import IntegrityError
 
 from database import engine, Base, SessionLocal
 from models import Assinante, Progresso
@@ -54,9 +55,9 @@ def inicio():
 
 @app.post("/cadastro")
 def cadastro(
-    nome: str,
-    email: str,
-    senha: str,
+    nome: str = Form(...),
+    email: str = Form(...),
+    senha: str = Form(...),
     db: Session = Depends(get_db)
 ):
 
@@ -69,7 +70,11 @@ def cadastro(
 
     db.add(novo_assinante)
 
-    db.commit()
+    try:
+        db.commit()
+    except IntegrityError:
+        db.rollback()
+        return {"erro": "Já existe uma conta cadastrada com este e-mail"}
 
     db.refresh(novo_assinante)
 
@@ -82,8 +87,8 @@ def cadastro(
 
 @app.post("/login")
 def login(
-    email: str,
-    senha: str,
+    email: str = Form(...),
+    senha: str = Form(...),
     db: Session = Depends(get_db)
 ):
 
@@ -129,7 +134,7 @@ def login(
 
 @app.post("/criar-assinatura")
 def assinatura(
-    email: str,
+    email: str = Form(...),
     db: Session = Depends(get_db)
 ):
 
@@ -217,6 +222,12 @@ def certificado(
             "nome":"TRILHA CLOUD & DEVOPS",
             "horas":80,
             "codigo":"CL"
+        },
+
+        "geral":{
+            "nome":"CERTIFICAÇÃO PROFISSIONAL CPG",
+            "horas":290,
+            "codigo":"PRO"
         }
 
     }
@@ -228,6 +239,28 @@ def certificado(
         }
 
     dados = certificados[trilha]
+
+    if trilha == "geral":
+        trilhas_concluidas = 0
+        for nome_trilha in ("python", "ia", "cloud", "projetos"):
+            total = db.query(Progresso).filter(
+                Progresso.assinante_id == usuario.id,
+                Progresso.trilha == nome_trilha,
+                Progresso.concluido == True
+            ).count()
+            if total >= 6:
+                trilhas_concluidas += 1
+
+        if trilhas_concluidas < 4:
+            return {"erro":"Certificação profissional ainda não liberada"}
+
+        return {
+            "aluno": usuario.nome,
+            "trilha": dados["nome"],
+            "horas": dados["horas"],
+            "codigo": f'CPG-{dados["codigo"]}-{usuario.id:05d}',
+            "data": datetime.now().strftime("%d/%m/%Y")
+        }
 
     concluidas = db.query(Progresso).filter(
 
@@ -346,56 +379,5 @@ def progresso(
     return {
 
         "apostilas":[item.apostila for item in progresso]
-
-    } 
-    
-@app.post("/criar-root")
-def criar_root(
-    db: Session = Depends(get_db)
-    ):
-
-    usuario_existente = db.query(Assinante).filter(
-        Assinante.email == "SEU_EMAIL_AQUI"
-    ).first()
-
-
-    if usuario_existente:
-        return {
-            "erro": "Usuário já existe",
-            "email": usuario_existente.email
-        }
-
-
-    novo_usuario = Assinante(
-
-        nome="Caroline Admin",
-
-        email="caroline_perez1@live.com",
-
-        senha=criar_hash_senha("123456"),
-
-        status="ativo",
-
-        status_pagamento="aprovado",
-
-        plano="Estude Comigo Mensal"
-
-    )
-
-
-    db.add(novo_usuario)
-
-    db.commit()
-
-    db.refresh(novo_usuario)
-
-
-    return {
-
-        "mensagem": "Usuário root criado",
-
-        "email": novo_usuario.email,
-
-        "senha_temporaria": "123456"
 
     }

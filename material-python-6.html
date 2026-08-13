@@ -313,7 +313,7 @@ cursor:default;
 
 <a href="aluno.html">📚 Biblioteca</a>
 
-<a href="certificados.html">🏆 Meus Certificados</a>
+<a href="meus-certificados.html">🏆 Meus Certificados</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 
@@ -577,28 +577,6 @@ if(numero === totalPaginas){
 
     conclusao.style.display = "block";
 
-    const email = localStorage.getItem("email");
-
-    fetch(
-        `https://cpg-estude-backend.onrender.com/progresso?email=${encodeURIComponent(email)}&trilha=${window.trilha}`
-    )
-    .then(res => res.json())
-    .then(dados => {
-
-        if(dados.apostilas.includes(window.apostila)){
-
-            botao.innerHTML = "✔ Apostila concluída";
-            botao.disabled = true;
-
-        }else{
-
-            botao.innerHTML = "✔ Concluir Apostila";
-            botao.disabled = false;
-
-        }
-
-    });
-
 }else{
 
     conclusao.style.display = "none";
@@ -741,52 +719,6 @@ e.preventDefault();
 
 <script>
 
-document.getElementById("btnConclusao").addEventListener("click", async function(){
-
-    const botao = this;
-
-    const email = localStorage.getItem("email");
-
-    try{
-
-        const resposta = await fetch(
-            "https://cpg-estude-backend.onrender.com/concluir-apostila",
-            {
-                method:"POST",
-                headers:{
-                    "Content-Type":"application/x-www-form-urlencoded"
-                },
-                body:
-                    "email=" + encodeURIComponent(email) +
-                    "&trilha=" + encodeURIComponent(window.trilha) +
-                    "&apostila=" + encodeURIComponent(window.apostila)
-            }
-        );
-
-        const dados = await resposta.json();
-
-        if(dados.erro){
-
-            alert(dados.erro);
-
-            return;
-
-        }
-
-        botao.innerHTML = "✔ Apostila concluída";
-
-        botao.disabled = true;
-
-    }catch(e){
-
-        alert("Erro ao registrar conclusão.");
-
-        console.error(e);
-
-    }
-
-});
-
 function abrirLogout(){
 
     document.getElementById("logoutPopup").style.display = "flex";
@@ -812,7 +744,7 @@ function logout(){
 }
 
 </script>
-
+<script src="material-progresso.js"></script>
 </body>
 
 </html>

@@ -35,3 +35,7 @@ def criar_assinatura(
 
 
     return resposta
+
+
+def consultar_assinatura(assinatura_id):
+    return sdk.preapproval().get(assinatura_id)

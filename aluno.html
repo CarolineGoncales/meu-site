@@ -624,7 +624,9 @@ CNPJ: 65.223.812/0001-41
 
 async function carregarProgresso(){
 
-    const geral = await progressoGeral();
+    if (!CPG.exigirSessao()) return;
+
+    const geral = await CPG.progressoGeral();
 
     document.getElementById("barra-geral").style.width =
         geral.porcentagem + "%";
@@ -634,9 +636,11 @@ async function carregarProgresso(){
 
 }
 
-carregarProgresso();
+carregarProgresso().catch(() => {
+    document.getElementById("texto-geral").textContent = "Não foi possível carregar o progresso.";
+});
 
-document.getElementById("nomeUsuario").innerHTML =
+document.getElementById("nomeUsuario").textContent =
     "Olá, " + localStorage.getItem("usuario") + " 👋";
 
 </script>

@@ -427,23 +427,26 @@ Código:
 // PREENCHIMENTO AUTOMÁTICO
 // ===============================
 
-const email = localStorage.getItem("email");
-
 const trilha = new URLSearchParams(window.location.search).get("trilha");
 
-fetch(`https://cpg-estude-backend.onrender.com/certificado?email=${encodeURIComponent(email)}&trilha=${trilha}`)
-.then(res => res.json())
-.then(dados => {
+async function carregarCertificado() {
+    if (!CPG.exigirSessao()) return;
+    if (!CPG.trilhas.includes(trilha) && trilha !== "geral") {
+        throw new Error("Certificado inválido.");
+    }
 
-    document.getElementById("nomeAluno").innerHTML = dados.aluno;
+    const resposta = await fetch(`${CPG.apiUrl}/certificado?email=${encodeURIComponent(CPG.obterEmailSessao())}&trilha=${encodeURIComponent(trilha)}`);
+    const dados = await CPG.respostaJson(resposta);
 
-    document.getElementById("nomeTrilha").innerHTML = dados.trilha;
+    document.getElementById("nomeAluno").textContent = dados.aluno;
 
-    document.getElementById("horas").innerHTML = dados.horas;
+    document.getElementById("nomeTrilha").textContent = dados.trilha;
 
-    document.getElementById("data").innerHTML = dados.data;
+    document.getElementById("horas").textContent = dados.horas;
 
-    document.getElementById("codigo").innerHTML = dados.codigo;
+    document.getElementById("data").textContent = dados.data;
+
+    document.getElementById("codigo").textContent = dados.codigo;
 
     document.getElementById("qrcode").src =
     "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=" +
@@ -451,6 +454,13 @@ fetch(`https://cpg-estude-backend.onrender.com/certificado?email=${encodeURIComp
     "https://cpgtech.com.br/validar.html?codigo=" + dados.codigo
 );
 
+}
+
+carregarCertificado().catch((erro) => {
+    document.querySelector(".certificado").innerHTML = '<p id="erroCertificado" style="padding:40px;text-align:center"></p>';
+    document.getElementById("erroCertificado").textContent = erro.message;
+    const botao = document.getElementById("btnPDF");
+    if (botao) botao.style.display = "none";
 });
 
 function baixarPDF(){

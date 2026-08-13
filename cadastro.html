@@ -197,14 +197,14 @@ return;
 
 }
 
+try {
 const resposta=await fetch(
-
-`https://cpg-estude-backend.onrender.com/cadastro?nome=${encodeURIComponent(nome)}&email=${encodeURIComponent(email)}&senha=${encodeURIComponent(senha)}`,
-
+"https://cpg-estude-backend.onrender.com/cadastro",
 {
-method:"POST"
+method:"POST",
+headers:{"Content-Type":"application/x-www-form-urlencoded"},
+body:new URLSearchParams({nome,email,senha}).toString()
 }
-
 );
 
 const dados=await resposta.json();
@@ -217,7 +217,13 @@ window.location.href="assinatura.html";
 
 }else{
 
-document.getElementById("mensagem").innerHTML=dados.erro || "Não foi possível realizar o cadastro.";
+document.getElementById("mensagem").textContent=dados.erro || "Não foi possível realizar o cadastro.";
+
+}
+
+}catch(_){
+
+document.getElementById("mensagem").textContent="Não foi possível conectar ao servidor. Tente novamente.";
 
 }
 

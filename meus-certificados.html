@@ -373,7 +373,7 @@ CNPJ: 65.223.812/0001-41
 
 async function carregarCertificados(){
 
-    const email = localStorage.getItem("email");
+    if (!CPG.exigirSessao()) return;
 
     const trilhas = [
 
@@ -399,13 +399,8 @@ async function carregarCertificados(){
 
         try{
 
-            const resposta = await fetch(
-                `https://cpg-estude-backend.onrender.com/progresso?email=${encodeURIComponent(email)}&trilha=${nome}`
-            );
-
-            const dados = await resposta.json();
-
-            const total = dados.apostilas.length;
+            const apostilas = await CPG.obterProgresso(nome);
+            const total = apostilas.length;
 
             if(total >= 6){
 

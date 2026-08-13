@@ -385,7 +385,7 @@ background:#a31616;
 
 <a href="aluno.html">📚 Biblioteca</a>
 
-<a href="certificados.html">🏆 Meus Certificados</a>
+<a href="meus-certificados.html">🏆 Meus Certificados</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 
@@ -697,7 +697,7 @@ Capacitação profissional em tecnologia, dados e projetos.
 
 <a href="aluno.html">📚 Biblioteca</a>
 
-<a href="certificados.html">🏆 Meus Certificados</a>
+<a href="meus-certificados.html">🏆 Meus Certificados</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 
@@ -735,6 +735,13 @@ CNPJ: 65.223.812/0001-41
 
 
 <script src="scripts.js"></script>
+<script src="progresso.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", async () => {
+    if (!CPG.exigirSessao()) return;
+    try { await CPG.renderizarProgressoTrilha("ia"); } catch (_) {}
+});
+</script>
 
 <!-- POPUP LOGOUT -->
 

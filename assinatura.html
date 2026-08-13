@@ -210,13 +210,17 @@ return;
 
 
 
+try{
+
 const resposta = await fetch(
 
-`https://cpg-estude-backend.onrender.com/criar-assinatura?email=${encodeURIComponent(email)}`,
+"https://cpg-estude-backend.onrender.com/criar-assinatura",
 
 {
 
-method:"POST"
+method:"POST",
+headers:{"Content-Type":"application/x-www-form-urlencoded"},
+body:new URLSearchParams({email}).toString()
 
 }
 
@@ -239,8 +243,15 @@ window.location.href = dados.checkout;
 else{
 
 
-document.getElementById("mensagem").innerHTML =
+document.getElementById("mensagem").textContent =
 dados.erro || "Erro ao criar assinatura.";
+
+}
+
+}catch(_){
+
+document.getElementById("mensagem").textContent =
+"Não foi possível conectar ao servidor. Tente novamente.";
 
 }
 

@@ -392,7 +392,7 @@ background:#a31616;
 
 <a href="aluno.html">📚 Biblioteca</a>
 
-<a href="certificados.html">🏆 Meus Certificados</a>
+<a href="meus-certificados.html">🏆 Meus Certificados</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 
@@ -508,11 +508,7 @@ ciclo de vida, áreas de conhecimento e boas práticas.
 </div>
 
 
-<a href="#" class="btn-material">
-
-Acessar material
-
-</a>
+<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
 
 
 </div>
@@ -550,11 +546,7 @@ eventos, artefatos e aplicação prática.
 </div>
 
 
-<a href="#" class="btn-material">
-
-Acessar material
-
-</a>
+<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
 
 
 </div>
@@ -592,11 +584,7 @@ e conceitos fundamentais do PMI.
 </div>
 
 
-<a href="#" class="btn-material">
-
-Acessar material
-
-</a>
+<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
 
 
 </div>
@@ -635,11 +623,7 @@ com conteúdos e exercícios.
 </div>
 
 
-<a href="#" class="btn-material">
-
-Acessar material
-
-</a>
+<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
 
 
 </div>
@@ -677,7 +661,7 @@ Capacitação profissional em tecnologia, dados e projetos.
 
 <a href="aluno.html">📚 Biblioteca</a>
 
-<a href="certificados.html">🏆 Meus Certificados</a>
+<a href="meus-certificados.html">🏆 Meus Certificados</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 
@@ -712,6 +696,13 @@ CNPJ: 65.223.812/0001-41
 
 
 <script src="scripts.js"></script>
+<script src="progresso.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", async () => {
+    if (!CPG.exigirSessao()) return;
+    try { await CPG.renderizarProgressoTrilha("projetos"); } catch (_) {}
+});
+</script>
 
 <!-- POPUP LOGOUT -->
 
