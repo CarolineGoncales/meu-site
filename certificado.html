@@ -389,11 +389,7 @@ CPG Technology Consulting
 
 <div style="width:240px; text-align:center;">
 
-<div class="qrcode">
-
-QR CODE
-
-</div>
+<img id="qrcode" class="qrcode">
 
 <div class="codigo">
 
@@ -433,8 +429,7 @@ Código:
 
 const email = localStorage.getItem("email");
 
-// Por enquanto vamos testar sempre a trilha Python
-const trilha = "python";
+const trilha = new URLSearchParams(window.location.search).get("trilha");
 
 fetch(`https://cpg-estude-backend.onrender.com/certificado?email=${encodeURIComponent(email)}&trilha=${trilha}`)
 .then(res => res.json())
@@ -449,6 +444,12 @@ fetch(`https://cpg-estude-backend.onrender.com/certificado?email=${encodeURIComp
     document.getElementById("data").innerHTML = dados.data;
 
     document.getElementById("codigo").innerHTML = dados.codigo;
+
+    document.getElementById("qrcode").src =
+    "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=" +
+    encodeURIComponent(
+    "https://cpgtech.com.br/validar.html?codigo=" + dados.codigo
+);
 
 });
 

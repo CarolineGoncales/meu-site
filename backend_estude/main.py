@@ -1,14 +1,14 @@
 from auth import criar_hash_senha, verificar_senha
-from fastapi import FastAPI, Depends
+from fastapi import FastAPI, Depends, Form
 from sqlalchemy.orm import Session
 
 from database import engine, Base, SessionLocal
-from models import Assinante
-from auth import criar_hash_senha
+from models import Assinante, Progresso
 
 from assinaturas import criar_assinatura
 from webhook import router as webhook_router
 from fastapi.middleware.cors import CORSMiddleware
+from datetime import datetime
 
 app = FastAPI(
     title="CPG Estude Comigo"
@@ -229,6 +229,24 @@ def certificado(
 
     dados = certificados[trilha]
 
+    concluidas = db.query(Progresso).filter(
+
+        Progresso.assinante_id == usuario.id,
+
+        Progresso.trilha == trilha,
+
+        Progresso.concluido == True
+
+    ).count()
+
+    if concluidas < 6:
+
+        return {
+
+            "erro":"Trilha ainda não concluída"
+
+        }
+
     return {
 
         "aluno": usuario.nome,
@@ -239,9 +257,97 @@ def certificado(
 
         "codigo": f'CPG-{dados["codigo"]}-{usuario.id:05d}',
 
-        "data": "12 de Agosto de 2026"
+        "data": datetime.now().strftime("%d/%m/%Y")
 
-    }    
+    }
+ 
+@app.post("/concluir-apostila")
+def concluir_apostila(
+    email: str = Form(...),
+    trilha: str = Form(...),
+    apostila: int = Form(...),
+    db: Session = Depends(get_db)
+):
+
+    usuario = db.query(Assinante).filter(
+        Assinante.email == email
+    ).first()
+
+    if not usuario:
+        return {
+            "erro":"Usuário não encontrado"
+        }
+
+    progresso = db.query(Progresso).filter(
+
+        Progresso.assinante_id == usuario.id,
+
+        Progresso.trilha == trilha,
+
+        Progresso.apostila == apostila
+
+    ).first()
+
+    if progresso:
+
+        progresso.concluido = True
+
+    else:
+
+        progresso = Progresso(
+
+            assinante_id = usuario.id,
+
+            trilha = trilha,
+
+            apostila = apostila,
+
+            concluido = True
+
+        )
+
+        db.add(progresso)
+
+    db.commit()
+
+    return {
+
+        "mensagem":"Apostila concluída"
+
+    } 
+ 
+@app.get("/progresso")
+def progresso(
+    email: str,
+    trilha: str,
+    db: Session = Depends(get_db)
+):
+
+    usuario = db.query(Assinante).filter(
+        Assinante.email == email
+    ).first()
+
+    if not usuario:
+
+        return {
+            "erro":"Usuário não encontrado"
+        }
+
+    progresso = db.query(Progresso).filter(
+
+        Progresso.assinante_id == usuario.id,
+
+        Progresso.trilha == trilha,
+
+        Progresso.concluido == True
+
+    ).all()
+
+    return {
+
+        "apostilas":[item.apostila for item in progresso]
+
+    } 
     
 @app.post("/criar-root")
 def criar_root(

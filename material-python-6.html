@@ -577,17 +577,27 @@ if(numero === totalPaginas){
 
     conclusao.style.display = "block";
 
-    if(apostilaConcluida(window.trilha, window.apostila)){
+    const email = localStorage.getItem("email");
 
-        botao.innerHTML = "✔ Apostila concluída";
-        botao.disabled = true;
+    fetch(
+        `https://cpg-estude-backend.onrender.com/progresso?email=${encodeURIComponent(email)}&trilha=${window.trilha}`
+    )
+    .then(res => res.json())
+    .then(dados => {
 
-    }else{
+        if(dados.apostilas.includes(window.apostila)){
 
-        botao.innerHTML = "✔ Concluir Apostila";
-        botao.disabled = false;
+            botao.innerHTML = "✔ Apostila concluída";
+            botao.disabled = true;
 
-    }
+        }else{
+
+            botao.innerHTML = "✔ Concluir Apostila";
+            botao.disabled = false;
+
+        }
+
+    });
 
 }else{
 
@@ -731,15 +741,51 @@ e.preventDefault();
 
 <script>
 
-document.getElementById("btnConclusao").addEventListener("click", function(){
+document.getElementById("btnConclusao").addEventListener("click", async function(){
 
-    registrarConclusao(window.trilha, window.apostila);
+    const botao = this;
 
-    this.innerHTML = "✔ Apostila concluída";
+    const email = localStorage.getItem("email");
 
-    this.disabled = true;
+    try{
 
-});    
+        const resposta = await fetch(
+            "https://cpg-estude-backend.onrender.com/concluir-apostila",
+            {
+                method:"POST",
+                headers:{
+                    "Content-Type":"application/x-www-form-urlencoded"
+                },
+                body:
+                    "email=" + encodeURIComponent(email) +
+                    "&trilha=" + encodeURIComponent(window.trilha) +
+                    "&apostila=" + encodeURIComponent(window.apostila)
+            }
+        );
+
+        const dados = await resposta.json();
+
+        if(dados.erro){
+
+            alert(dados.erro);
+
+            return;
+
+        }
+
+        botao.innerHTML = "✔ Apostila concluída";
+
+        botao.disabled = true;
+
+    }catch(e){
+
+        alert("Erro ao registrar conclusão.");
+
+        console.error(e);
+
+    }
+
+});
 
 function abrirLogout(){
 

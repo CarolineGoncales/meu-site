@@ -350,7 +350,7 @@ background:#a31616;
 
 <a href="aluno.html">📚 Biblioteca</a>
 
-<a href="certificados.html">🏆 Meus Certificados</a>
+<a href="meus-certificados.html">🏆 Meus Certificados</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 🚪 Sair
@@ -381,9 +381,9 @@ Sua biblioteca de conhecimento e evolução profissional.
 <div class="perfil-aluno">
 
 
-<h2>
+<h2 id="nomeUsuario">
 
-Olá, Caroline 👋
+Olá 👋
 
 </h2>
 
@@ -585,7 +585,7 @@ Capacitação profissional em tecnologia, dados e projetos.
 
 <a href="aluno.html">📚 Biblioteca</a>
 
-<a href="certificados.html">🏆 Meus Certificados</a>
+<a href="meus-certificados.html">🏆 Meus Certificados</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 🚪 Sair
@@ -622,13 +622,22 @@ CNPJ: 65.223.812/0001-41
 
 <script>
 
-const geral = progressoGeral();
+async function carregarProgresso(){
 
-document.getElementById("barra-geral").style.width =
-geral.porcentagem + "%";
+    const geral = await progressoGeral();
 
-document.getElementById("texto-geral").innerHTML =
-geral.concluidas + " de 4 trilhas concluídas";
+    document.getElementById("barra-geral").style.width =
+        geral.porcentagem + "%";
+
+    document.getElementById("texto-geral").innerHTML =
+        geral.concluidas + " de 4 trilhas concluídas";
+
+}
+
+carregarProgresso();
+
+document.getElementById("nomeUsuario").innerHTML =
+    "Olá, " + localStorage.getItem("usuario") + " 👋";
 
 </script>
 

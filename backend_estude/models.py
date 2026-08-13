@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String
+from sqlalchemy import Column, Integer, String, Boolean, ForeignKey
 from database import Base
 
 
@@ -80,3 +80,39 @@ class Assinante(Base):
         String,
         nullable=True
     )
+    
+class Progresso(Base):
+
+    __tablename__ = "progresso"
+
+
+    id = Column(
+        Integer,
+        primary_key=True,
+        index=True
+    )
+
+
+    assinante_id = Column(
+        Integer,
+        ForeignKey("assinantes.id"),
+        nullable=False
+    )
+
+
+    trilha = Column(
+        String,
+        nullable=False
+    )
+
+
+    apostila = Column(
+        Integer,
+        nullable=False
+    )
+
+
+    concluido = Column(
+        Boolean,
+        default=False
+    )    
