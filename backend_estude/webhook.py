@@ -90,35 +90,44 @@ async def webhook(
 
 
     # Se não encontrou pelo ID,
-    # tenta localizar pelo e-mail salvo
-    # em external_reference no Mercado Pago.
+    # tenta localizar pelo e-mail.
+    #
+    # O e-mail pode estar em external_reference
+    # ou em payer_email.
 
     if not usuario:
 
-        email = assinatura.get(
-            "external_reference"
+        email = (
+            assinatura.get("external_reference")
+            or assinatura.get("payer_email")
         )
 
 
         if email:
 
-            usuario = db.query(
+            email = email.strip().lower()
+
+
+            usuarios = db.query(
                 Assinante
-            ).filter(
-
-                Assinante.email == email
-
-            ).first()
+            ).all()
 
 
-            # Encontrou o usuário pelo e-mail.
-            # Vincula a assinatura a ele.
+            for candidato in usuarios:
 
-            if usuario:
+                if (
+                    candidato.email
+                    and candidato.email.strip().lower()
+                    == email
+                ):
 
-                usuario.assinatura_id = str(
-                    assinatura_id
-                )
+                    usuario = candidato
+
+                    usuario.assinatura_id = str(
+                        assinatura_id
+                    )
+
+                    break
 
 
     # Se ainda não encontrou o usuário,
