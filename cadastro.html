@@ -78,6 +78,24 @@ box-sizing:border-box;
 
 }
 
+.observacao{
+
+display:block;
+
+text-align:left;
+
+font-size:12px;
+
+color:#777;
+
+margin-top:-10px;
+
+margin-bottom:18px;
+
+line-height:1.4;
+
+}
+
 .cadastro-box button{
 
 width:100%;
@@ -146,20 +164,98 @@ font-weight:bold;
 
 <p>Cadastre-se para acessar o CPG Estude Comigo.</p>
 
+
 <input
 id="nome"
 type="text"
-placeholder="Seu nome">
+placeholder="Nome completo"
+autocomplete="name">
+
+<small class="observacao">
+
+* Atente-se ao nome completo. Ele será inserido em seu certificado.
+
+</small>
+
+
+<input
+id="cpf"
+type="text"
+placeholder="CPF"
+maxlength="14"
+inputmode="numeric"
+autocomplete="off">
+
+
+<input
+id="cep"
+type="text"
+placeholder="CEP"
+maxlength="9"
+inputmode="numeric"
+autocomplete="postal-code">
+
+<input
+id="rua"
+type="text"
+placeholder="Rua"
+autocomplete="street-address"
+readonly>
+
+<input
+id="numero"
+type="text"
+placeholder="Número"
+autocomplete="address-line2">
+
+<input
+id="bairro"
+type="text"
+placeholder="Bairro"
+autocomplete="address-level3"
+readonly>
+
+<input
+id="cidade"
+type="text"
+placeholder="Cidade"
+autocomplete="address-level2"
+readonly>
+
+<input
+id="estado"
+type="text"
+placeholder="Estado / UF"
+maxlength="2"
+autocomplete="address-level1"
+readonly>
+
+<input
+id="complemento"
+type="text"
+placeholder="Complemento (opcional)"
+autocomplete="address-line2">
+
+
+<small class="observacao">
+
+* Endereço completo é para informações fiscais e emissão de NF.
+
+</small>
+
 
 <input
 id="email"
 type="email"
-placeholder="Seu e-mail">
+placeholder="Seu e-mail"
+autocomplete="email">
 
 <input
 id="senha"
 type="password"
-placeholder="Crie uma senha">
+placeholder="Crie uma senha"
+autocomplete="new-password">
+
 
 <button onclick="cadastrar()">
 
@@ -179,51 +275,258 @@ Criar conta
 
 </section>
 
+
 <script>
 
-async function cadastrar(){
+const mensagem = document.getElementById("mensagem");
 
-const nome=document.getElementById("nome").value.trim();
 
-const email=document.getElementById("email").value.trim();
+document.getElementById("cpf").addEventListener(
+"input",
+function(){
 
-const senha=document.getElementById("senha").value;
+let valor = this.value.replace(/\D/g,"");
 
-if(nome==="" || email==="" || senha===""){
+valor = valor.substring(0,11);
 
-document.getElementById("mensagem").innerHTML="Preencha todos os campos.";
+valor = valor.replace(
+/(\d{3})(\d)/,
+"$1.$2"
+);
+
+valor = valor.replace(
+/(\d{3})(\d)/,
+"$1.$2"
+);
+
+valor = valor.replace(
+/(\d{3})(\d{1,2})$/,
+"$1-$2"
+);
+
+this.value = valor;
+
+}
+);
+
+
+document.getElementById("cep").addEventListener(
+"input",
+function(){
+
+let valor = this.value.replace(/\D/g,"");
+
+valor = valor.substring(0,8);
+
+if(valor.length > 5){
+
+valor =
+valor.substring(0,5)
++
+"-"
++
+valor.substring(5);
+
+}
+
+this.value = valor;
+
+}
+);
+
+
+document.getElementById("cep").addEventListener(
+"blur",
+async function(){
+
+const cep = this.value.replace(/\D/g,"");
+
+if(cep.length !== 8){
 
 return;
 
 }
 
-try {
-const resposta=await fetch(
-"https://cpg-estude-backend.onrender.com/cadastro",
-{
-method:"POST",
-headers:{"Content-Type":"application/x-www-form-urlencoded"},
-body:new URLSearchParams({nome,email,senha}).toString()
-}
+mensagem.textContent = "Consultando CEP...";
+
+try{
+
+const resposta = await fetch(
+`https://viacep.com.br/ws/${cep}/json/`
 );
 
-const dados=await resposta.json();
+const dados = await resposta.json();
 
-if(dados.mensagem){
+if(dados.erro){
 
-localStorage.setItem("email",email);
+mensagem.textContent = "CEP não encontrado.";
 
-window.location.href="assinatura.html";
-
-}else{
-
-document.getElementById("mensagem").textContent=dados.erro || "Não foi possível realizar o cadastro.";
+return;
 
 }
+
+document.getElementById("rua").value =
+dados.logradouro || "";
+
+document.getElementById("bairro").value =
+dados.bairro || "";
+
+document.getElementById("cidade").value =
+dados.localidade || "";
+
+document.getElementById("estado").value =
+dados.uf || "";
+
+mensagem.textContent = "";
+
+document.getElementById("numero").focus();
 
 }catch(_){
 
-document.getElementById("mensagem").textContent="Não foi possível conectar ao servidor. Tente novamente.";
+mensagem.textContent =
+"Não foi possível consultar o CEP.";
+
+}
+
+}
+);
+
+
+async function cadastrar(){
+
+const nome =
+document.getElementById("nome").value.trim();
+
+const cpf =
+document.getElementById("cpf").value.trim();
+
+const cep =
+document.getElementById("cep").value.trim();
+
+const rua =
+document.getElementById("rua").value.trim();
+
+const numero =
+document.getElementById("numero").value.trim();
+
+const bairro =
+document.getElementById("bairro").value.trim();
+
+const cidade =
+document.getElementById("cidade").value.trim();
+
+const estado =
+document.getElementById("estado").value.trim();
+
+const complemento =
+document.getElementById("complemento").value.trim();
+
+const email =
+document.getElementById("email").value.trim();
+
+const senha =
+document.getElementById("senha").value;
+
+
+if(
+nome === "" ||
+cpf === "" ||
+cep === "" ||
+rua === "" ||
+numero === "" ||
+bairro === "" ||
+cidade === "" ||
+estado === "" ||
+email === "" ||
+senha === ""
+){
+
+mensagem.textContent =
+"Preencha todos os campos obrigatórios.";
+
+return;
+
+}
+
+
+if(cpf.replace(/\D/g,"").length !== 11){
+
+mensagem.textContent =
+"Digite um CPF válido.";
+
+return;
+
+}
+
+
+if(cep.replace(/\D/g,"").length !== 8){
+
+mensagem.textContent =
+"Digite um CEP válido.";
+
+return;
+
+}
+
+
+try{
+
+const resposta = await fetch(
+"https://cpg-estude-backend.onrender.com/cadastro",
+{
+method:"POST",
+
+headers:{
+"Content-Type":
+"application/x-www-form-urlencoded"
+},
+
+body:new URLSearchParams({
+
+nome,
+cpf,
+cep,
+rua,
+numero,
+bairro,
+cidade,
+estado,
+complemento,
+email,
+senha
+
+}).toString()
+
+}
+);
+
+
+const dados = await resposta.json();
+
+
+if(dados.mensagem){
+
+localStorage.setItem(
+"email",
+email
+);
+
+window.location.href =
+"assinatura.html";
+
+}else{
+
+mensagem.textContent =
+dados.erro ||
+"Não foi possível realizar o cadastro.";
+
+}
+
+
+}catch(_){
+
+mensagem.textContent =
+"Não foi possível conectar ao servidor. Tente novamente.";
 
 }
 

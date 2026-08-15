@@ -6,19 +6,56 @@ class Assinante(Base):
 
     __tablename__ = "assinantes"
 
-
     id = Column(
         Integer,
         primary_key=True,
         index=True
     )
 
-
     nome = Column(
         String,
         nullable=False
     )
 
+    cpf = Column(
+        String,
+        nullable=True
+    )
+
+    cep = Column(
+        String,
+        nullable=True
+    )
+
+    rua = Column(
+        String,
+        nullable=True
+    )
+
+    numero = Column(
+        String,
+        nullable=True
+    )
+
+    bairro = Column(
+        String,
+        nullable=True
+    )
+
+    cidade = Column(
+        String,
+        nullable=True
+    )
+
+    estado = Column(
+        String,
+        nullable=True
+    )
+
+    complemento = Column(
+        String,
+        nullable=True
+    )
 
     email = Column(
         String,
@@ -27,64 +64,55 @@ class Assinante(Base):
         nullable=False
     )
 
-
     senha = Column(
         String,
         nullable=False
     )
-
 
     status = Column(
         String,
         default="pendente"
     )
 
-
     status_pagamento = Column(
         String,
         default="pendente"
     )
-
 
     mercado_pago_id = Column(
         String,
         nullable=True
     )
 
-
     assinatura_id = Column(
         String,
         nullable=True
     )
-
 
     plano = Column(
         String,
         default="Estude Comigo Mensal"
     )
 
-
     data_inicio = Column(
         String,
         nullable=True
     )
-
 
     proximo_pagamento = Column(
         String,
         nullable=True
     )
 
-
     ultimo_pagamento = Column(
         String,
         nullable=True
     )
-    
+
+
 class Progresso(Base):
 
     __tablename__ = "progresso"
-
 
     id = Column(
         Integer,
@@ -92,27 +120,23 @@ class Progresso(Base):
         index=True
     )
 
-
     assinante_id = Column(
         Integer,
         ForeignKey("assinantes.id"),
         nullable=False
     )
 
-
     trilha = Column(
         String,
         nullable=False
     )
-
 
     apostila = Column(
         Integer,
         nullable=False
     )
 
-
     concluido = Column(
         Boolean,
         default=False
-    )    
+    )
