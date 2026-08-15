@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>Validação de Certificado - CPG</title>
+
+<link rel="stylesheet" href="style.css">
+
+<style>
+
+body{
+
+    margin:0;
+    padding:0;
+
+    min-height:100vh;
+
+    background:#eef2f7;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+
+.validacao-container{
+
+    width:100%;
+
+    max-width:650px;
+
+    padding:30px;
+
+    box-sizing:border-box;
+
+}
+
+
+.validacao-box{
+
+    background:white;
+
+    border-radius:20px;
+
+    padding:45px 40px;
+
+    box-shadow:
+        0 10px 35px rgba(0,0,0,.15);
+
+    text-align:center;
+
+}
+
+
+.logo{
+
+    font-size:30px;
+
+    font-weight:bold;
+
+    color:#163a63;
+
+    margin-bottom:8px;
+
+}
+
+
+.subtitulo{
+
+    color:#666;
+
+    letter-spacing:2px;
+
+    font-size:13px;
+
+    margin-bottom:30px;
+
+}
+
+
+.icone{
+
+    width:80px;
+
+    height:80px;
+
+    margin:0 auto 20px;
+
+    border-radius:50%;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    font-size:42px;
+
+    background:#e8f7ee;
+
+}
+
+
+.titulo{
+
+    color:#163a63;
+
+    font-size:30px;
+
+    margin:10px 0;
+
+}
+
+
+.mensagem{
+
+    color:#555;
+
+    line-height:1.6;
+
+    font-size:15px;
+
+}
+
+
+.dados{
+
+    margin-top:30px;
+
+    padding:25px;
+
+    background:#f7f9fc;
+
+    border-radius:12px;
+
+    text-align:left;
+
+}
+
+
+.dado{
+
+    padding:12px 0;
+
+    border-bottom:1px solid #e1e5eb;
+
+}
+
+
+.dado:last-child{
+
+    border-bottom:none;
+
+}
+
+
+.dado strong{
+
+    display:block;
+
+    color:#163a63;
+
+    font-size:13px;
+
+    margin-bottom:4px;
+
+}
+
+
+.dado span{
+
+    color:#333;
+
+    font-size:16px;
+
+}
+
+
+.codigo{
+
+    margin-top:25px;
+
+    padding:15px;
+
+    background:#eef2f7;
+
+    border-radius:8px;
+
+    font-family:monospace;
+
+    font-size:14px;
+
+    color:#333;
+
+    word-break:break-all;
+
+}
+
+
+.rodape{
+
+    margin-top:25px;
+
+    color:#777;
+
+    font-size:12px;
+
+    line-height:1.6;
+
+}
+
+
+.erro .icone{
+
+    background:#fdecec;
+
+}
+
+
+.erro .titulo{
+
+    color:#b42318;
+
+}
+
+
+.carregando .icone{
+
+    background:#eef2f7;
+
+}
+
+
+#resultado{
+
+    display:none;
+
+}
+
+
+#carregando{
+
+    display:block;
+
+}
+
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="validacao-container">
+
+
+<div class="validacao-box">
+
+
+<div class="logo">
+
+CPG Technology Consulting
+
+</div>
+
+
+<div class="subtitulo">
+
+VALIDAÇÃO DIGITAL DE CERTIFICADO
+
+</div>
+
+
+
+<!-- ========================= -->
+<!-- CARREGANDO -->
+<!-- ========================= -->
+
+<div id="carregando">
+
+
+<div class="icone">
+
+⏳
+
+</div>
+
+
+<h1 class="titulo">
+
+Validando certificado...
+
+</h1>
+
+
+<p class="mensagem">
+
+Aguarde enquanto verificamos a autenticidade
+do certificado.
+
+</p>
+
+
+</div>
+
+
+
+<!-- ========================= -->
+<!-- CERTIFICADO VÁLIDO -->
+<!-- ========================= -->
+
+<div id="resultado">
+
+
+<div class="icone">
+
+✓
+
+</div>
+
+
+<h1 class="titulo">
+
+CERTIFICADO VÁLIDO
+
+</h1>
+
+
+<p class="mensagem">
+
+Este certificado foi localizado e validado
+com sucesso no sistema da CPG Technology Consulting.
+
+</p>
+
+
+
+<div class="dados">
+
+
+<div class="dado">
+
+<strong>ALUNO</strong>
+
+<span id="aluno"></span>
+
+</div>
+
+
+<div class="dado">
+
+<strong>CPF</strong>
+
+<span id="cpf"></span>
+
+</div>
+
+
+<div class="dado">
+
+<strong>CERTIFICAÇÃO</strong>
+
+<span id="trilha"></span>
+
+</div>
+
+
+<div class="dado">
+
+<strong>CARGA HORÁRIA</strong>
+
+<span>
+<span id="horas"></span> horas
+</span>
+
+</div>
+
+
+<div class="dado">
+
+<strong>DATA DE CONCLUSÃO</strong>
+
+<span id="data"></span>
+
+</div>
+
+
+</div>
+
+
+<div class="codigo">
+
+<strong>Código de validação</strong>
+
+<br><br>
+
+<span id="codigo"></span>
+
+</div>
+
+
+<div class="rodape">
+
+Este certificado possui validação digital.
+<br>
+
+A autenticidade pode ser verificada
+por meio deste endereço eletrônico.
+
+</div>
+
+
+</div>
+
+
+
+<!-- ========================= -->
+<!-- CERTIFICADO INVÁLIDO -->
+<!-- ========================= -->
+
+<div id="erro" class="erro" style="display:none;">
+
+
+<div class="icone">
+
+✕
+
+</div>
+
+
+<h1 class="titulo">
+
+CERTIFICADO NÃO ENCONTRADO
+
+</h1>
+
+
+<p class="mensagem" id="mensagemErro">
+
+Não foi possível localizar um certificado
+com o código informado.
+
+</p>
+
+
+<div class="rodape">
+
+Verifique se o código informado está correto
+ou entre em contato com a CPG Technology Consulting.
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+<script>
+
+
+// ======================================
+// CONFIGURAÇÃO
+// ======================================
+
+const API_URL =
+"https://cpg-estude-backend.onrender.com";
+
+
+
+// ======================================
+// ELEMENTOS
+// ======================================
+
+const carregando =
+document.getElementById("carregando");
+
+const resultado =
+document.getElementById("resultado");
+
+const erro =
+document.getElementById("erro");
+
+
+
+// ======================================
+// MOSTRAR ERRO
+// ======================================
+
+function mostrarErro(mensagem){
+
+    carregando.style.display = "none";
+
+    resultado.style.display = "none";
+
+    erro.style.display = "block";
+
+    document.getElementById(
+        "mensagemErro"
+    ).textContent = mensagem;
+
+}
+
+
+
+// ======================================
+// VALIDAR CERTIFICADO
+// ======================================
+
+async function validarCertificado(){
+
+    const parametros =
+        new URLSearchParams(
+            window.location.search
+        );
+
+
+    const codigo =
+        parametros.get("codigo");
+
+
+    // ----------------------------------
+    // Verifica se recebeu código
+    // ----------------------------------
+
+    if(!codigo){
+
+        mostrarErro(
+            "Nenhum código de validação foi informado."
+        );
+
+        return;
+
+    }
+
+
+    try{
+
+
+        // ----------------------------------
+        // Consulta o backend
+        // ----------------------------------
+
+        const resposta = await fetch(
+
+            `${API_URL}/validar-certificado?codigo=${encodeURIComponent(codigo)}`
+
+        );
+
+
+        const dados =
+            await resposta.json();
+
+
+
+        // ----------------------------------
+        // Backend informou erro
+        // ----------------------------------
+
+        if(!resposta.ok || dados.erro){
+
+            mostrarErro(
+
+                dados.erro ||
+                "Certificado não encontrado."
+
+            );
+
+            return;
+
+        }
+
+
+
+        // ----------------------------------
+        // Preenche os dados
+        // ----------------------------------
+
+        document.getElementById(
+            "aluno"
+        ).textContent =
+            dados.aluno || "";
+
+
+        document.getElementById(
+            "cpf"
+        ).textContent =
+            dados.cpf || "";
+
+
+        document.getElementById(
+            "trilha"
+        ).textContent =
+            dados.trilha || "";
+
+
+        document.getElementById(
+            "horas"
+        ).textContent =
+            dados.horas || "";
+
+
+        document.getElementById(
+            "data"
+        ).textContent =
+            dados.data || "";
+
+
+        document.getElementById(
+            "codigo"
+        ).textContent =
+            dados.codigo || codigo;
+
+
+
+        // ----------------------------------
+        // Mostra certificado
+        // ----------------------------------
+
+        carregando.style.display =
+            "none";
+
+        erro.style.display =
+            "none";
+
+        resultado.style.display =
+            "block";
+
+
+    }catch(e){
+
+        mostrarErro(
+
+            "Não foi possível conectar ao servidor para validar o certificado."
+
+        );
+
+    }
+
+}
+
+
+
+// ======================================
+// INICIA VALIDAÇÃO
+// ======================================
+
+validarCertificado();
+
+
+</script>
+
+
+</body>
+
+</html>

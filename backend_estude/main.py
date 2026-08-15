@@ -438,6 +438,197 @@ def certificado(
 
     }
 
+@app.get("/validar-certificado")
+def validar_certificado(
+    codigo: str,
+    db: Session = Depends(get_db)
+):
+
+    # ===============================
+    # CÓDIGO DEVE TER O FORMATO:
+    # CPG-PY-00001
+    # CPG-GP-00001
+    # CPG-IA-00001
+    # CPG-CL-00001
+    # CPG-PRO-00001
+    # ===============================
+
+    partes = codigo.split("-")
+
+    if len(partes) != 3:
+
+        return {
+            "erro": "Código de certificado inválido"
+        }
+
+
+    prefixo = partes[0]
+
+    codigo_trilha = partes[1]
+
+    try:
+
+        usuario_id = int(partes[2])
+
+    except ValueError:
+
+        return {
+            "erro": "Código de certificado inválido"
+        }
+
+
+    if prefixo != "CPG":
+
+        return {
+            "erro": "Código de certificado inválido"
+        }
+
+
+    # ===============================
+    # RELAÇÃO DOS CÓDIGOS
+    # ===============================
+
+    trilhas = {
+
+        "PY": {
+            "nome": "TRILHA PYTHON",
+            "horas": 60,
+            "trilha": "python"
+        },
+
+        "GP": {
+            "nome": "TRILHA ANALISTA DE PROJETOS",
+            "horas": 80,
+            "trilha": "projetos"
+        },
+
+        "IA": {
+            "nome": "TRILHA INTELIGÊNCIA ARTIFICIAL",
+            "horas": 70,
+            "trilha": "ia"
+        },
+
+        "CL": {
+            "nome": "TRILHA CLOUD & DEVOPS",
+            "horas": 80,
+            "trilha": "cloud"
+        },
+
+        "PRO": {
+            "nome": "CERTIFICAÇÃO PROFISSIONAL CPG",
+            "horas": 290,
+            "trilha": "geral"
+        }
+
+    }
+
+
+    if codigo_trilha not in trilhas:
+
+        return {
+            "erro": "Código de certificado inválido"
+        }
+
+
+    dados_trilha = trilhas[codigo_trilha]
+
+
+    # ===============================
+    # PROCURA O ALUNO
+    # ===============================
+
+    usuario = db.query(Assinante).filter(
+        Assinante.id == usuario_id
+    ).first()
+
+
+    if not usuario:
+
+        return {
+            "erro": "Certificado não encontrado"
+        }
+
+
+    # ===============================
+    # VERIFICA CONCLUSÃO
+    # ===============================
+
+    if dados_trilha["trilha"] == "geral":
+
+        trilhas_concluidas = 0
+
+
+        for nome_trilha in (
+            "python",
+            "ia",
+            "cloud",
+            "projetos"
+        ):
+
+            total = db.query(Progresso).filter(
+
+                Progresso.assinante_id == usuario.id,
+
+                Progresso.trilha == nome_trilha,
+
+                Progresso.concluido == True
+
+            ).count()
+
+
+            if total >= 6:
+
+                trilhas_concluidas += 1
+
+
+        if trilhas_concluidas < 4:
+
+            return {
+                "erro": "Certificado ainda não liberado"
+            }
+
+
+    else:
+
+        total = db.query(Progresso).filter(
+
+            Progresso.assinante_id == usuario.id,
+
+            Progresso.trilha == dados_trilha["trilha"],
+
+            Progresso.concluido == True
+
+        ).count()
+
+
+        if total < 6:
+
+            return {
+                "erro": "Certificado ainda não liberado"
+            }
+
+
+    # ===============================
+    # CERTIFICADO VÁLIDO
+    # ===============================
+
+    return {
+
+        "valido": True,
+
+        "aluno": usuario.nome,
+
+        "cpf": usuario.cpf,
+
+        "trilha": dados_trilha["nome"],
+
+        "horas": dados_trilha["horas"],
+
+        "codigo": codigo,
+
+        "data": datetime.now().strftime("%d/%m/%Y")
+
+    }
 
 @app.post("/concluir-apostila")
 def concluir_apostila(
