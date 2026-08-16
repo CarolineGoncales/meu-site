@@ -1206,3 +1206,30 @@ color:white;
     }
 
 }
+
+#btnVoltar{
+
+    background:#e5eaf0;
+    color:#163a63;
+    border:none;
+    padding:15px 35px;
+    font-size:18px;
+    font-weight:bold;
+    border-radius:8px;
+    cursor:pointer;
+    margin-right:10px;
+    transition:.3s;
+
+}
+
+#btnVoltar:hover{
+
+    background:#d4dce6;
+
+}
+
+#btnVoltar{
+
+    display:none;
+
+}

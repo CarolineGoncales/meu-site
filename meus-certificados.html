@@ -414,6 +414,8 @@ async function carregarCertificados(){
                 botao.href =
                 "certificado.html?trilha="+nome;
 
+                botao.target = "_blank";
+
             }else{
 
                 status.innerHTML =
@@ -440,6 +442,8 @@ async function carregarCertificados(){
         document.getElementById("btn-geral").href =
         "certificado.html?trilha=geral";
 
+        document.getElementById("btn-geral").target =
+        "_blank";
     }else{
 
         document.getElementById("status-geral").innerHTML =
