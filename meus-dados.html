@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>Meus Dados - CPG Estude Comigo</title>
+
+<link rel="stylesheet" href="style.css">
+
+<style>
+
+body{
+
+    margin:0;
+    padding:0;
+
+    background:#eef2f7;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+}
+
+
+.container-dados{
+
+    max-width:900px;
+
+    margin:50px auto;
+
+    padding:20px;
+
+}
+
+
+.card-dados{
+
+    background:white;
+
+    border-radius:18px;
+
+    padding:35px;
+
+    box-shadow:
+        0 8px 30px rgba(0,0,0,.10);
+
+}
+
+
+.titulo{
+
+    color:#163a63;
+
+    font-size:30px;
+
+    margin-bottom:8px;
+
+}
+
+
+.subtitulo{
+
+    color:#666;
+
+    margin-bottom:30px;
+
+}
+
+
+.formulario{
+
+    display:grid;
+
+    grid-template-columns:
+        repeat(2, 1fr);
+
+    gap:18px;
+
+}
+
+
+.campo{
+
+    display:flex;
+
+    flex-direction:column;
+
+}
+
+
+.campo-completo{
+
+    grid-column:
+        1 / -1;
+
+}
+
+
+.campo label{
+
+    font-weight:bold;
+
+    color:#163a63;
+
+    font-size:14px;
+
+    margin-bottom:6px;
+
+}
+
+
+.campo input,
+.campo select{
+
+    padding:13px;
+
+    border:1px solid #d5dbe3;
+
+    border-radius:8px;
+
+    font-size:15px;
+
+    box-sizing:border-box;
+
+    outline:none;
+
+}
+
+
+.campo input:focus,
+.campo select:focus{
+
+    border-color:#2f6fbe;
+
+    box-shadow:
+        0 0 0 2px rgba(47,111,190,.12);
+
+}
+
+
+.campo input[readonly]{
+
+    background:#f1f3f6;
+
+    color:#666;
+
+}
+
+
+.separador{
+
+    grid-column:1 / -1;
+
+    margin:10px 0;
+
+    border:0;
+
+    border-top:1px solid #e5e8ec;
+
+}
+
+
+.senha-info{
+
+    grid-column:1 / -1;
+
+    background:#f5f8fc;
+
+    padding:15px;
+
+    border-radius:8px;
+
+    color:#555;
+
+    font-size:14px;
+
+}
+
+
+.botoes{
+
+    grid-column:1 / -1;
+
+    display:flex;
+
+    gap:12px;
+
+    margin-top:10px;
+
+}
+
+
+.btn{
+
+    border:none;
+
+    padding:14px 25px;
+
+    border-radius:8px;
+
+    font-size:16px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+}
+
+
+.btn-salvar{
+
+    background:#163a63;
+
+    color:white;
+
+}
+
+
+.btn-salvar:hover{
+
+    background:#24518d;
+
+}
+
+
+.btn-voltar{
+
+    background:#e8edf3;
+
+    color:#163a63;
+
+}
+
+
+.mensagem{
+
+    grid-column:1 / -1;
+
+    padding:13px;
+
+    border-radius:8px;
+
+    display:none;
+
+    font-weight:bold;
+
+}
+
+
+.sucesso{
+
+    display:block;
+
+    background:#e8f7ee;
+
+    color:#176b3a;
+
+}
+
+
+.erro{
+
+    display:block;
+
+    background:#fdecec;
+
+    color:#b42318;
+
+}
+
+
+@media(max-width:700px){
+
+    .container-dados{
+
+        margin:20px auto;
+
+        padding:15px;
+
+    }
+
+
+    .card-dados{
+
+        padding:25px 18px;
+
+    }
+
+
+    .formulario{
+
+        grid-template-columns:1fr;
+
+    }
+
+
+    .campo-completo{
+
+        grid-column:auto;
+
+    }
+
+
+    .senha-info{
+
+        grid-column:auto;
+
+    }
+
+
+    .botoes{
+
+        grid-column:auto;
+
+        flex-direction:column;
+
+    }
+
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="container-dados">
+
+
+<div class="card-dados">
+
+
+<h1 class="titulo">
+
+Meus Dados
+
+</h1>
+
+
+<p class="subtitulo">
+
+Confira e atualize seus dados cadastrais.
+
+</p>
+
+
+<form id="formDados">
+
+
+<div class="formulario">
+
+
+<div class="campo">
+
+<label for="nome">
+
+Nome completo
+
+</label>
+
+<input
+    type="text"
+    id="nome"
+    name="nome"
+    required
+>
+
+</div>
+
+
+<div class="campo">
+
+<label for="cpf">
+
+CPF
+
+</label>
+
+<input
+    type="text"
+    id="cpf"
+    name="cpf"
+    required
+>
+
+</div>
+
+
+<div class="campo">
+
+<label for="cep">
+
+CEP
+
+</label>
+
+<input
+    type="text"
+    id="cep"
+    name="cep"
+    required
+>
+
+</div>
+
+
+<div class="campo">
+
+<label for="estado">
+
+Estado
+
+</label>
+
+<input
+    type="text"
+    id="estado"
+    name="estado"
+    required
+>
+
+</div>
+
+
+<div class="campo campo-completo">
+
+<label for="rua">
+
+Rua
+
+</label>
+
+<input
+    type="text"
+    id="rua"
+    name="rua"
+    required
+>
+
+</div>
+
+
+<div class="campo">
+
+<label for="numero">
+
+Número
+
+</label>
+
+<input
+    type="text"
+    id="numero"
+    name="numero"
+    required
+>
+
+</div>
+
+
+<div class="campo">
+
+<label for="bairro">
+
+Bairro
+
+</label>
+
+<input
+    type="text"
+    id="bairro"
+    name="bairro"
+    required
+>
+
+</div>
+
+
+<div class="campo">
+
+<label for="cidade">
+
+Cidade
+
+</label>
+
+<input
+    type="text"
+    id="cidade"
+    name="cidade"
+    required
+>
+
+</div>
+
+
+<div class="campo campo-completo">
+
+<label for="complemento">
+
+Complemento
+
+</label>
+
+<input
+    type="text"
+    id="complemento"
+    name="complemento"
+>
+
+</div>
+
+
+<div class="campo campo-completo">
+
+<label for="email">
+
+E-mail
+
+</label>
+
+<input
+    type="email"
+    id="email"
+    name="email"
+    readonly
+>
+
+</div>
+
+
+<hr class="separador">
+
+
+<div class="senha-info">
+
+Para alterar sua senha, informe uma nova senha abaixo.
+Se deixar em branco, sua senha atual permanecerá a mesma.
+
+</div>
+
+
+<div class="campo campo-completo">
+
+<label for="nova_senha">
+
+Nova senha
+
+</label>
+
+<input
+    type="password"
+    id="nova_senha"
+    name="nova_senha"
+    placeholder="Digite uma nova senha somente se quiser alterá-la"
+>
+
+</div>
+
+
+<div
+    id="mensagem"
+    class="mensagem"
+>
+</div>
+
+
+<div class="botoes">
+
+
+<button
+    type="submit"
+    class="btn btn-salvar"
+>
+
+💾 Salvar alterações
+
+</button>
+
+
+<button
+    type="button"
+    class="btn btn-voltar"
+    onclick="window.location.href='aluno.html'"
+>
+
+← Voltar
+
+</button>
+
+
+</div>
+
+
+</div>
+
+</form>
+
+
+</div>
+
+</div>
+
+
+<script src="progresso.js"></script>
+
+
+<script>
+
+if(!CPG.exigirSessao()){
+
+    throw new Error("Sessão não encontrada.");
+
+}
+
+
+const email =
+    CPG.obterEmailSessao();
+
+
+const API_URL =
+    CPG.apiUrl;
+
+
+const form =
+    document.getElementById("formDados");
+
+
+const mensagem =
+    document.getElementById("mensagem");
+
+
+
+async function carregarDados(){
+
+    try{
+
+        const resposta =
+            await fetch(
+                `${API_URL}/meus-dados?email=${encodeURIComponent(email)}`
+            );
+
+
+        const dados =
+            await CPG.respostaJson(resposta);
+
+
+        document.getElementById("nome").value =
+            dados.nome || "";
+
+
+        document.getElementById("cpf").value =
+            dados.cpf || "";
+
+
+        document.getElementById("cep").value =
+            dados.cep || "";
+
+
+        document.getElementById("rua").value =
+            dados.rua || "";
+
+
+        document.getElementById("numero").value =
+            dados.numero || "";
+
+
+        document.getElementById("bairro").value =
+            dados.bairro || "";
+
+
+        document.getElementById("cidade").value =
+            dados.cidade || "";
+
+
+        document.getElementById("estado").value =
+            dados.estado || "";
+
+
+        document.getElementById("complemento").value =
+            dados.complemento || "";
+
+
+        document.getElementById("email").value =
+            dados.email || email;
+
+
+    }catch(erro){
+
+        mostrarMensagem(
+            erro.message,
+            true
+        );
+
+    }
+
+}
+
+
+
+form.addEventListener(
+    "submit",
+    async function(event){
+
+        event.preventDefault();
+
+
+        const botao =
+            form.querySelector(".btn-salvar");
+
+
+        botao.disabled = true;
+
+        botao.textContent =
+            "Salvando...";
+
+
+        const dados =
+            new FormData(form);
+
+
+        dados.set(
+            "email",
+            email
+        );
+
+
+        try{
+
+            const resposta =
+                await fetch(
+                    `${API_URL}/meus-dados`,
+                    {
+                        method:"POST",
+                        body:dados
+                    }
+                );
+
+
+            const resultado =
+                await CPG.respostaJson(resposta);
+
+
+            if(resultado.nome){
+
+                localStorage.setItem(
+                    "usuario",
+                    resultado.nome
+                );
+
+            }
+
+
+            mostrarMensagem(
+                "Seus dados foram atualizados com sucesso!",
+                false
+            );
+
+
+            document.getElementById(
+                "nova_senha"
+            ).value = "";
+
+
+        }catch(erro){
+
+            mostrarMensagem(
+                erro.message,
+                true
+            );
+
+        }
+
+
+        botao.disabled = false;
+
+        botao.textContent =
+            "💾 Salvar alterações";
+
+    }
+);
+
+
+
+function mostrarMensagem(
+    texto,
+    erro
+){
+
+    mensagem.textContent =
+        texto;
+
+
+    mensagem.className =
+        erro
+            ? "mensagem erro"
+            : "mensagem sucesso";
+
+
+}
+
+
+
+carregarDados();
+
+</script>
+
+
+</body>
+
+</html>

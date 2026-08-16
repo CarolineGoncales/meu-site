@@ -257,6 +257,80 @@ def assinatura(
 
     }
 
+@app.get("/meus-dados")
+def meus_dados(
+    email: str,
+    db: Session = Depends(get_db)
+):
+
+    usuario = db.query(Assinante).filter(
+        Assinante.email == email
+    ).first()
+
+    if not usuario:
+        return {
+            "erro": "Usuário não encontrado"
+        }
+
+    return {
+        "nome": usuario.nome,
+        "cpf": usuario.cpf,
+        "cep": usuario.cep,
+        "rua": usuario.rua,
+        "numero": usuario.numero,
+        "bairro": usuario.bairro,
+        "cidade": usuario.cidade,
+        "estado": usuario.estado,
+        "complemento": usuario.complemento,
+        "email": usuario.email
+    }
+
+
+@app.post("/meus-dados")
+def atualizar_meus_dados(
+    nome: str = Form(...),
+    cpf: str = Form(...),
+    cep: str = Form(...),
+    rua: str = Form(...),
+    numero: str = Form(...),
+    bairro: str = Form(...),
+    cidade: str = Form(...),
+    estado: str = Form(...),
+    complemento: str = Form(""),
+    nova_senha: str = Form(""),
+    email: str = Form(...),
+    db: Session = Depends(get_db)
+):
+
+    usuario = db.query(Assinante).filter(
+        Assinante.email == email
+    ).first()
+
+    if not usuario:
+        return {
+            "erro": "Usuário não encontrado"
+        }
+
+    usuario.nome = nome
+    usuario.cpf = cpf
+    usuario.cep = cep
+    usuario.rua = rua
+    usuario.numero = numero
+    usuario.bairro = bairro
+    usuario.cidade = cidade
+    usuario.estado = estado
+    usuario.complemento = complemento
+
+    if nova_senha.strip():
+        usuario.senha = criar_hash_senha(nova_senha)
+
+    db.commit()
+    db.refresh(usuario)
+
+    return {
+        "mensagem": "Dados atualizados com sucesso",
+        "nome": usuario.nome
+    }
 
 @app.get("/certificado")
 def certificado(
