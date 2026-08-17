@@ -17,7 +17,15 @@ from webhook import router as webhook_router
 
 from fastapi.middleware.cors import CORSMiddleware
 
-from datetime import datetime
+from datetime import datetime, timedelta
+
+import secrets
+import hashlib
+import json
+import urllib.request
+import urllib.error
+
+from sqlalchemy import Column, Integer, String, DateTime, Boolean
 
 
 app = FastAPI(
@@ -37,6 +45,46 @@ app.add_middleware(
 app.include_router(webhook_router)
 
 
+
+# ==========================================
+# TOKENS DE RECUPERAÇÃO DE SENHA
+# ==========================================
+
+class ResetSenha(Base):
+
+    __tablename__ = "reset_senhas"
+
+    id = Column(
+        Integer,
+        primary_key=True,
+        index=True
+    )
+
+    assinante_id = Column(
+        Integer,
+        nullable=False
+    )
+
+    token_hash = Column(
+        String,
+        unique=True,
+        nullable=False,
+        index=True
+    )
+
+    expiracao = Column(
+        DateTime,
+        nullable=False
+    )
+
+    usado = Column(
+        Boolean,
+        default=False,
+        nullable=False
+    )
+
+
+# Cria a tabela caso ainda não exista
 Base.metadata.create_all(
     bind=engine
 )
@@ -256,7 +304,305 @@ def assinatura(
         "checkout": assinatura_mp["init_point"]
 
     }
+    
+# ==========================================
+# ENVIO DE E-MAIL DE RECUPERAÇÃO
+# ==========================================
 
+def enviar_email_reset(email, nome, link):
+
+    dados = {
+
+        "service_id": "service_g4z931k",
+
+        "template_id": "template_off1d5f",
+
+        "user_id": "jjCZK1jHx4tRtfUiS",
+
+        "template_params": {
+
+            "email": email,
+
+            "name": nome,
+
+            "link": link
+
+        }
+
+    }
+
+    corpo = json.dumps(dados).encode("utf-8")
+
+    requisicao = urllib.request.Request(
+
+        "https://api.emailjs.com/api/v1.0/email/send",
+
+        data=corpo,
+
+        headers={
+            "Content-Type": "application/json"
+        },
+
+        method="POST"
+
+    )
+
+    try:
+
+        with urllib.request.urlopen(
+            requisicao,
+            timeout=15
+        ) as resposta:
+
+            status = resposta.status
+
+            conteudo = resposta.read().decode(
+                "utf-8"
+            )
+
+            if status != 200:
+
+                raise Exception(
+                    f"EmailJS retornou HTTP {status}: {conteudo}"
+                )
+
+            return True
+
+    except urllib.error.HTTPError as erro:
+
+        detalhes = erro.read().decode(
+            "utf-8",
+            errors="ignore"
+        )
+
+        print(
+            "ERRO EMAILJS:",
+            erro.code,
+            detalhes
+        )
+
+        return False
+
+    except Exception as erro:
+
+        print(
+            "ERRO AO ENVIAR E-MAIL:",
+            erro
+        )
+
+        return False    
+
+# ==========================================
+# SOLICITAR RECUPERAÇÃO DE SENHA
+# ==========================================
+
+@app.post("/solicitar-reset")
+def solicitar_reset(
+    email: str = Form(...),
+    db: Session = Depends(get_db)
+):
+
+    email = email.strip().lower()
+
+    usuario = db.query(Assinante).filter(
+        Assinante.email == email
+    ).first()
+
+    # Não revela se o e-mail existe ou não
+    if not usuario:
+
+        return {
+            "mensagem":
+            "Se o e-mail estiver cadastrado, "
+            "você receberá em instantes "
+            "as instruções para redefinir sua senha."
+        }
+
+    # Invalida solicitações anteriores
+    tokens_antigos = db.query(
+        ResetSenha
+    ).filter(
+        ResetSenha.assinante_id == usuario.id,
+        ResetSenha.usado == False
+    ).all()
+
+    for token_antigo in tokens_antigos:
+        token_antigo.usado = True
+
+    # Gera um novo token
+    token = secrets.token_urlsafe(32)
+
+    token_hash = hashlib.sha256(
+        token.encode("utf-8")
+    ).hexdigest()
+
+    expiracao = (
+        datetime.utcnow()
+        + timedelta(hours=1)
+    )
+
+    novo_reset = ResetSenha(
+        assinante_id=usuario.id,
+        token_hash=token_hash,
+        expiracao=expiracao,
+        usado=False
+    )
+
+    db.add(novo_reset)
+
+    db.commit()
+
+    # Link que será enviado por e-mail
+    link = (
+        "https://cpgconsulting.com.br/"
+        "nova-senha.html?token="
+        + token
+    )
+
+    # Envia pelo EmailJS
+    enviado = enviar_email_reset(
+        email=usuario.email,
+        nome=usuario.nome,
+        link=link
+    )
+
+    if not enviado:
+
+        print(
+            "Não foi possível enviar "
+            "o e-mail de recuperação para:",
+            usuario.email
+        )
+
+    return {
+        "mensagem":
+        "Se o e-mail estiver cadastrado, "
+        "você receberá em instantes "
+        "as instruções para redefinir sua senha."
+    }
+
+# ==========================================
+# ALTERAR SENHA COM TOKEN
+# ==========================================
+
+@app.post("/alterar-senha")
+def alterar_senha(
+    token: str = Form(...),
+    nova_senha: str = Form(...),
+    db: Session = Depends(get_db)
+):
+
+    # --------------------------------------
+    # Validação básica da senha
+    # --------------------------------------
+
+    if len(nova_senha) < 6:
+
+        return {
+            "erro":
+            "A nova senha deve possuir pelo menos 6 caracteres."
+        }
+
+
+    # --------------------------------------
+    # Gera o hash do token recebido
+    # --------------------------------------
+
+    token_hash = hashlib.sha256(
+        token.encode("utf-8")
+    ).hexdigest()
+
+
+    # --------------------------------------
+    # Procura o token
+    # --------------------------------------
+
+    reset = db.query(
+        ResetSenha
+    ).filter(
+
+        ResetSenha.token_hash == token_hash,
+
+        ResetSenha.usado == False
+
+    ).first()
+
+
+    if not reset:
+
+        return {
+            "erro":
+            "Este link de recuperação é inválido ou já foi utilizado."
+        }
+
+
+    # --------------------------------------
+    # Verifica validade
+    # --------------------------------------
+
+    if datetime.utcnow() > reset.expiracao:
+
+        reset.usado = True
+
+        db.commit()
+
+        return {
+            "erro":
+            "Este link de recuperação expirou. Solicite uma nova alteração de senha."
+        }
+
+
+    # --------------------------------------
+    # Procura o usuário
+    # --------------------------------------
+
+    usuario = db.query(
+        Assinante
+    ).filter(
+
+        Assinante.id == reset.assinante_id
+
+    ).first()
+
+
+    if not usuario:
+
+        reset.usado = True
+
+        db.commit()
+
+        return {
+            "erro":
+            "Usuário não encontrado."
+        }
+
+
+    # --------------------------------------
+    # Altera a senha usando hash
+    # --------------------------------------
+
+    usuario.senha = criar_hash_senha(
+        nova_senha
+    )
+
+
+    # --------------------------------------
+    # Invalida o token
+    # --------------------------------------
+
+    reset.usado = True
+
+
+    db.commit()
+
+
+    return {
+
+        "mensagem":
+        "Senha alterada com sucesso."
+
+    }    
+    
 @app.get("/meus-dados")
 def meus_dados(
     email: str,

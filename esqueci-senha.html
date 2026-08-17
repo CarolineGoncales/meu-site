@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>Esqueci minha senha - CPG Estude Comigo</title>
+
+<link rel="icon" type="image/png" href="favicon-32x32.png">
+
+<link rel="stylesheet" href="style.css">
+
+<style>
+
+body{
+
+    margin:0;
+    padding:0;
+
+    min-height:100vh;
+
+    background:#eef2f7;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+
+.recuperacao-container{
+
+    width:100%;
+
+    max-width:520px;
+
+    padding:25px;
+
+    box-sizing:border-box;
+
+}
+
+
+.recuperacao-box{
+
+    background:white;
+
+    border-radius:18px;
+
+    padding:40px;
+
+    box-shadow:
+        0 10px 35px rgba(0,0,0,.15);
+
+    text-align:center;
+
+}
+
+
+.logo{
+
+    color:#163a63;
+
+    font-size:30px;
+
+    font-weight:bold;
+
+    margin-bottom:8px;
+
+}
+
+
+.subtitulo{
+
+    color:#666;
+
+    font-size:13px;
+
+    letter-spacing:2px;
+
+    margin-bottom:30px;
+
+}
+
+
+.icone{
+
+    width:75px;
+
+    height:75px;
+
+    margin:0 auto 20px;
+
+    border-radius:50%;
+
+    background:#eef4fb;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    font-size:38px;
+
+}
+
+
+h1{
+
+    color:#163a63;
+
+    font-size:28px;
+
+    margin:10px 0 12px;
+
+}
+
+
+.descricao{
+
+    color:#555;
+
+    line-height:1.6;
+
+    font-size:15px;
+
+    margin-bottom:28px;
+
+}
+
+
+.formulario{
+
+    text-align:left;
+
+}
+
+
+.formulario label{
+
+    display:block;
+
+    color:#163a63;
+
+    font-weight:bold;
+
+    font-size:14px;
+
+    margin-bottom:7px;
+
+}
+
+
+.formulario input{
+
+    width:100%;
+
+    box-sizing:border-box;
+
+    padding:14px;
+
+    border:1px solid #d5dbe3;
+
+    border-radius:8px;
+
+    font-size:16px;
+
+    outline:none;
+
+}
+
+
+.formulario input:focus{
+
+    border-color:#2f6cc3;
+
+    box-shadow:
+        0 0 0 2px rgba(47,108,195,.12);
+
+}
+
+
+.btn-enviar{
+
+    width:100%;
+
+    margin-top:20px;
+
+    padding:14px;
+
+    border:none;
+
+    border-radius:8px;
+
+    background:#163a63;
+
+    color:white;
+
+    font-size:16px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+
+.btn-enviar:hover{
+
+    background:#2f6cc3;
+
+}
+
+
+.btn-enviar:disabled{
+
+    opacity:.7;
+
+    cursor:wait;
+
+}
+
+
+.voltar{
+
+    display:inline-block;
+
+    margin-top:22px;
+
+    color:#163a63;
+
+    text-decoration:none;
+
+    font-weight:bold;
+
+    font-size:14px;
+
+}
+
+
+.voltar:hover{
+
+    text-decoration:underline;
+
+}
+
+
+.mensagem{
+
+    display:none;
+
+    margin-top:20px;
+
+    padding:14px;
+
+    border-radius:8px;
+
+    font-size:14px;
+
+    line-height:1.5;
+
+    text-align:center;
+
+}
+
+
+.mensagem.sucesso{
+
+    display:block;
+
+    background:#e8f7ee;
+
+    color:#176b3a;
+
+}
+
+
+.mensagem.erro{
+
+    display:block;
+
+    background:#fdecec;
+
+    color:#b42318;
+
+}
+
+
+.rodape{
+
+    margin-top:25px;
+
+    color:#888;
+
+    font-size:11px;
+
+    line-height:1.5;
+
+}
+
+
+@media(max-width:600px){
+
+    .recuperacao-container{
+
+        padding:15px;
+
+    }
+
+
+    .recuperacao-box{
+
+        padding:30px 22px;
+
+    }
+
+
+    .logo{
+
+        font-size:25px;
+
+    }
+
+
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="recuperacao-container">
+
+
+<div class="recuperacao-box">
+
+
+<div class="logo">
+
+CPG 
+
+</div>
+
+
+<div class="subtitulo">
+
+ESTUDE COMIGO
+
+</div>
+
+
+<div class="icone">
+
+🔐
+
+</div>
+
+
+<h1>
+
+Esqueci minha senha
+
+</h1>
+
+
+<p class="descricao">
+
+Informe o e-mail cadastrado na sua conta.
+
+Enviaremos uma mensagem com as instruções
+para você criar uma nova senha com segurança.
+
+</p>
+
+
+<form id="formRecuperacao" class="formulario">
+
+
+<label for="email">
+
+E-mail cadastrado
+
+</label>
+
+
+<input
+    type="email"
+    id="email"
+    name="email"
+    placeholder="Digite seu e-mail"
+    autocomplete="email"
+    required
+>
+
+
+<button
+    type="submit"
+    class="btn-enviar"
+    id="btnEnviar"
+>
+
+Enviar solicitação
+
+</button>
+
+
+</form>
+
+
+<div
+    id="mensagem"
+    class="mensagem"
+></div>
+
+
+<a
+    href="login.html"
+    class="voltar"
+>
+
+← Voltar para o login
+
+</a>
+
+
+<div class="rodape">
+
+CPG Technology Consulting
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+<script>
+
+const API_URL =
+    "https://cpg-estude-backend.onrender.com";
+
+
+const form =
+    document.getElementById("formRecuperacao");
+
+
+const emailInput =
+    document.getElementById("email");
+
+
+const botao =
+    document.getElementById("btnEnviar");
+
+
+const mensagem =
+    document.getElementById("mensagem");
+
+
+
+function mostrarMensagem(texto, tipo){
+
+    mensagem.textContent = texto;
+
+    mensagem.className =
+        "mensagem " + tipo;
+
+}
+
+
+
+form.addEventListener(
+    "submit",
+    async function(event){
+
+        event.preventDefault();
+
+
+        const email =
+            emailInput.value.trim();
+
+
+        if(!email){
+
+            mostrarMensagem(
+                "Informe seu e-mail.",
+                "erro"
+            );
+
+            return;
+
+        }
+
+
+        botao.disabled = true;
+
+        botao.textContent =
+            "Enviando...";
+
+
+        mensagem.className =
+            "mensagem";
+
+
+        try{
+
+            const corpo =
+                new URLSearchParams();
+
+
+            corpo.append(
+                "email",
+                email
+            );
+
+
+            const resposta =
+                await fetch(
+                    `${API_URL}/solicitar-reset`,
+                    {
+                        method:"POST",
+
+                        headers:{
+                            "Content-Type":
+                                "application/x-www-form-urlencoded"
+                        },
+
+                        body:
+                            corpo.toString()
+                    }
+                );
+
+
+            const dados =
+                await resposta.json();
+
+
+            if(!resposta.ok || dados.erro){
+
+                throw new Error(
+                    dados.erro ||
+                    "Não foi possível processar a solicitação."
+                );
+
+            }
+
+
+            mostrarMensagem(
+
+                "Se o e-mail informado estiver cadastrado em nossa plataforma, você receberá em instantes uma mensagem com as instruções para redefinir sua senha. Verifique também a pasta de spam ou lixo eletrônico.",
+
+                "sucesso"
+
+            );
+
+
+            form.reset();
+
+
+        }catch(erro){
+
+            mostrarMensagem(
+
+                erro.message ||
+                "Não foi possível enviar a solicitação. Tente novamente.",
+
+                "erro"
+
+            );
+
+        }
+
+
+        botao.disabled = false;
+
+        botao.textContent =
+            "Enviar solicitação";
+
+    }
+);
+
+</script>
+
+
+</body>
+
+</html>

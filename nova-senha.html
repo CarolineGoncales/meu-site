@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>Nova Senha - CPG Estude Comigo</title>
+
+<link rel="icon" type="image/png" href="favicon-32x32.png">
+
+<link rel="stylesheet" href="style.css">
+
+<style>
+
+body{
+
+    margin:0;
+    padding:0;
+
+    min-height:100vh;
+
+    background:#eef2f7;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+
+.senha-container{
+
+    width:100%;
+
+    max-width:520px;
+
+    padding:25px;
+
+    box-sizing:border-box;
+
+}
+
+
+.senha-box{
+
+    background:white;
+
+    border-radius:18px;
+
+    padding:40px;
+
+    box-shadow:
+        0 10px 35px rgba(0,0,0,.15);
+
+    text-align:center;
+
+}
+
+
+.logo{
+
+    color:#163a63;
+
+    font-size:30px;
+
+    font-weight:bold;
+
+    margin-bottom:8px;
+
+}
+
+
+.subtitulo{
+
+    color:#666;
+
+    font-size:13px;
+
+    letter-spacing:2px;
+
+    margin-bottom:30px;
+
+}
+
+
+.icone{
+
+    width:75px;
+
+    height:75px;
+
+    margin:0 auto 20px;
+
+    border-radius:50%;
+
+    background:#eef4fb;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    font-size:38px;
+
+}
+
+
+h1{
+
+    color:#163a63;
+
+    font-size:28px;
+
+    margin:10px 0 12px;
+
+}
+
+
+.descricao{
+
+    color:#555;
+
+    line-height:1.6;
+
+    font-size:15px;
+
+    margin-bottom:28px;
+
+}
+
+
+.formulario{
+
+    text-align:left;
+
+}
+
+
+.campo{
+
+    margin-bottom:18px;
+
+}
+
+
+.campo label{
+
+    display:block;
+
+    color:#163a63;
+
+    font-weight:bold;
+
+    font-size:14px;
+
+    margin-bottom:7px;
+
+}
+
+
+.campo input{
+
+    width:100%;
+
+    box-sizing:border-box;
+
+    padding:14px;
+
+    border:1px solid #d5dbe3;
+
+    border-radius:8px;
+
+    font-size:16px;
+
+    outline:none;
+
+}
+
+
+.campo input:focus{
+
+    border-color:#2f6cc3;
+
+    box-shadow:
+        0 0 0 2px rgba(47,108,195,.12);
+
+}
+
+
+.btn-salvar{
+
+    width:100%;
+
+    margin-top:5px;
+
+    padding:14px;
+
+    border:none;
+
+    border-radius:8px;
+
+    background:#163a63;
+
+    color:white;
+
+    font-size:16px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+
+.btn-salvar:hover{
+
+    background:#2f6cc3;
+
+}
+
+
+.btn-salvar:disabled{
+
+    opacity:.7;
+
+    cursor:wait;
+
+}
+
+
+.mensagem{
+
+    display:none;
+
+    margin-top:20px;
+
+    padding:14px;
+
+    border-radius:8px;
+
+    font-size:14px;
+
+    line-height:1.5;
+
+    text-align:center;
+
+}
+
+
+.mensagem.sucesso{
+
+    display:block;
+
+    background:#e8f7ee;
+
+    color:#176b3a;
+
+}
+
+
+.mensagem.erro{
+
+    display:block;
+
+    background:#fdecec;
+
+    color:#b42318;
+
+}
+
+
+.voltar{
+
+    display:inline-block;
+
+    margin-top:22px;
+
+    color:#163a63;
+
+    text-decoration:none;
+
+    font-weight:bold;
+
+    font-size:14px;
+
+}
+
+
+.voltar:hover{
+
+    text-decoration:underline;
+
+}
+
+
+.rodape{
+
+    margin-top:25px;
+
+    color:#888;
+
+    font-size:11px;
+
+    line-height:1.5;
+
+}
+
+
+@media(max-width:600px){
+
+    .senha-container{
+
+        padding:15px;
+
+    }
+
+
+    .senha-box{
+
+        padding:30px 22px;
+
+    }
+
+
+    .logo{
+
+        font-size:25px;
+
+    }
+
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="senha-container">
+
+
+<div class="senha-box">
+
+
+<div class="logo">
+
+CPG Technology Consulting
+
+</div>
+
+
+<div class="subtitulo">
+
+CPG ESTUDE COMIGO
+
+</div>
+
+
+<div class="icone">
+
+🔐
+
+</div>
+
+
+<h1>
+
+Criar nova senha
+
+</h1>
+
+
+<p class="descricao">
+
+Digite sua nova senha abaixo e confirme
+para concluir a alteração da sua senha de acesso.
+
+</p>
+
+
+<form
+    id="formNovaSenha"
+    class="formulario"
+>
+
+
+<div class="campo">
+
+<label for="novaSenha">
+
+Nova senha
+
+</label>
+
+<input
+    type="password"
+    id="novaSenha"
+    name="novaSenha"
+    placeholder="Digite sua nova senha"
+    autocomplete="new-password"
+    required
+>
+
+
+</div>
+
+
+<div class="campo">
+
+<label for="confirmarSenha">
+
+Confirmar nova senha
+
+</label>
+
+<input
+    type="password"
+    id="confirmarSenha"
+    name="confirmarSenha"
+    placeholder="Digite novamente sua nova senha"
+    autocomplete="new-password"
+    required
+>
+
+
+</div>
+
+
+<button
+    type="submit"
+    class="btn-salvar"
+    id="btnSalvar"
+>
+
+Alterar minha senha
+
+</button>
+
+
+</form>
+
+
+<div
+    id="mensagem"
+    class="mensagem"
+></div>
+
+
+<a
+    href="login.html"
+    class="voltar"
+>
+
+← Voltar para o login
+
+</a>
+
+
+<div class="rodape">
+
+Por segurança, o link de alteração de senha
+é temporário e pode ser utilizado uma única vez.
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+<script>
+
+const API_URL =
+    "https://cpg-estude-backend.onrender.com";
+
+
+const parametros =
+    new URLSearchParams(
+        window.location.search
+    );
+
+
+const token =
+    parametros.get("token");
+
+
+const form =
+    document.getElementById("formNovaSenha");
+
+
+const novaSenha =
+    document.getElementById("novaSenha");
+
+
+const confirmarSenha =
+    document.getElementById("confirmarSenha");
+
+
+const botao =
+    document.getElementById("btnSalvar");
+
+
+const mensagem =
+    document.getElementById("mensagem");
+
+
+
+function mostrarMensagem(texto, tipo){
+
+    mensagem.textContent = texto;
+
+    mensagem.className =
+        "mensagem " + tipo;
+
+}
+
+
+
+if(!token){
+
+    mostrarMensagem(
+
+        "Este link de recuperação é inválido ou está incompleto.",
+
+        "erro"
+
+    );
+
+    botao.disabled = true;
+
+}
+
+
+
+form.addEventListener(
+    "submit",
+    async function(event){
+
+        event.preventDefault();
+
+
+        if(!token){
+
+            return;
+
+        }
+
+
+        const senha =
+            novaSenha.value;
+
+
+        const confirmacao =
+            confirmarSenha.value;
+
+
+        if(senha.length < 6){
+
+            mostrarMensagem(
+
+                "A nova senha deve possuir pelo menos 6 caracteres.",
+
+                "erro"
+
+            );
+
+            return;
+
+        }
+
+
+        if(senha !== confirmacao){
+
+            mostrarMensagem(
+
+                "As senhas informadas não coincidem.",
+
+                "erro"
+
+            );
+
+            return;
+
+        }
+
+
+        botao.disabled = true;
+
+        botao.textContent =
+            "Alterando senha...";
+
+
+        mensagem.className =
+            "mensagem";
+
+
+        try{
+
+            const corpo =
+                new URLSearchParams();
+
+
+            corpo.append(
+                "token",
+                token
+            );
+
+
+            corpo.append(
+                "nova_senha",
+                senha
+            );
+
+
+            const resposta =
+                await fetch(
+
+                    `${API_URL}/alterar-senha`,
+
+                    {
+
+                        method:"POST",
+
+                        headers:{
+
+                            "Content-Type":
+                                "application/x-www-form-urlencoded"
+
+                        },
+
+                        body:
+                            corpo.toString()
+
+                    }
+
+                );
+
+
+            const dados =
+                await resposta.json();
+
+
+            if(!resposta.ok || dados.erro){
+
+                throw new Error(
+
+                    dados.erro ||
+                    "Não foi possível alterar a senha."
+
+                );
+
+            }
+
+
+            mostrarMensagem(
+
+                "Senha alterada com sucesso! Agora você já pode entrar na CPG Estude Comigo usando sua nova senha.",
+
+                "sucesso"
+
+            );
+
+
+            form.reset();
+
+            botao.disabled = true;
+
+            botao.textContent =
+                "Senha alterada";
+
+
+        }catch(erro){
+
+            mostrarMensagem(
+
+                erro.message ||
+                "Não foi possível alterar a senha. Solicite um novo link de recuperação.",
+
+                "erro"
+
+            );
+
+
+            botao.disabled = false;
+
+            botao.textContent =
+                "Alterar minha senha";
+
+        }
+
+    }
+);
+
+</script>
+
+
+</body>
+
+</html>
