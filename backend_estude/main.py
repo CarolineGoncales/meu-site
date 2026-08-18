@@ -701,31 +701,31 @@ def certificado(
 
         "python": {
             "nome": "TRILHA PYTHON",
-            "horas": 60,
+            "horas": 30,
             "codigo": "PY"
         },
 
         "projetos": {
             "nome": "TRILHA ANALISTA DE PROJETOS",
-            "horas": 80,
+            "horas": 30,
             "codigo": "GP"
         },
 
         "ia": {
             "nome": "TRILHA INTELIGÊNCIA ARTIFICIAL",
-            "horas": 70,
+            "horas": 30,
             "codigo": "IA"
         },
 
         "cloud": {
             "nome": "TRILHA CLOUD & DEVOPS",
-            "horas": 80,
+            "horas": 36,
             "codigo": "CL"
         },
 
         "geral": {
             "nome": "CERTIFICAÇÃO PROFISSIONAL CPG",
-            "horas": 290,
+            "horas": 126,
             "codigo": "PRO"
         }
 
