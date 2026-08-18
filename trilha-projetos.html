@@ -480,6 +480,8 @@ Continue sua evolução. Complete os módulos e acompanhe seu desenvolvimento.
 
 
 
+<!-- MÓDULO 1 -->
+
 <div class="modulo">
 
 
@@ -508,7 +510,11 @@ ciclo de vida, áreas de conhecimento e boas práticas.
 </div>
 
 
-<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
+<span class="btn-material" aria-disabled="true">
+
+Conteúdo em breve
+
+</span>
 
 
 </div>
@@ -517,6 +523,8 @@ ciclo de vida, áreas de conhecimento e boas práticas.
 
 
 
+
+<!-- MÓDULO 2 -->
 
 <div class="modulo">
 
@@ -546,7 +554,11 @@ eventos, artefatos e aplicação prática.
 </div>
 
 
-<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
+<span class="btn-material" aria-disabled="true">
+
+Conteúdo em breve
+
+</span>
 
 
 </div>
@@ -555,6 +567,8 @@ eventos, artefatos e aplicação prática.
 
 
 
+
+<!-- MÓDULO 3 -->
 
 <div class="modulo">
 
@@ -584,7 +598,11 @@ e conceitos fundamentais do PMI.
 </div>
 
 
-<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
+<span class="btn-material" aria-disabled="true">
+
+Conteúdo em breve
+
+</span>
 
 
 </div>
@@ -594,6 +612,8 @@ e conceitos fundamentais do PMI.
 
 
 
+
+<!-- MÓDULO 4 -->
 
 <div class="modulo">
 
@@ -623,7 +643,98 @@ com conteúdos e exercícios.
 </div>
 
 
-<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
+<span class="btn-material" aria-disabled="true">
+
+Conteúdo em breve
+
+</span>
+
+
+</div>
+
+
+
+
+
+<!-- MÓDULO 5 -->
+
+<div class="modulo">
+
+
+<h3>
+📕 Módulo 5 — Gerenciamento de Projetos
+</h3>
+
+
+<p>
+
+Aprofunde seus conhecimentos em gerenciamento de projetos,
+planejamento, execução, acompanhamento, controle e encerramento.
+
+</p>
+
+
+
+<div class="material">
+
+📄 Gerenciamento de Projetos
+
+<br>
+
+🔒 Material exclusivo para assinantes
+
+</div>
+
+
+<span class="btn-material" aria-disabled="true">
+
+Conteúdo em breve
+
+</span>
+
+
+</div>
+
+
+
+
+
+<!-- MÓDULO 6 -->
+
+<div class="modulo">
+
+
+<h3>
+📘 Módulo 6 — Agile
+</h3>
+
+
+<p>
+
+Conheça os princípios do Agile, mentalidade ágil,
+colaboração, adaptação e aplicação das metodologias
+ágeis no gerenciamento de projetos.
+
+</p>
+
+
+
+<div class="material">
+
+📄 Fundamentos de Agile
+
+<br>
+
+🔒 Material exclusivo para assinantes
+
+</div>
+
+
+<span class="btn-material" aria-disabled="true">
+
+Conteúdo em breve
+
+</span>
 
 
 </div>
@@ -696,13 +807,25 @@ CNPJ: 65.223.812/0001-41
 
 
 <script src="scripts.js"></script>
+
 <script src="progresso.js"></script>
+
 <script>
+
 document.addEventListener("DOMContentLoaded", async () => {
+
     if (!CPG.exigirSessao()) return;
-    try { await CPG.renderizarProgressoTrilha("projetos"); } catch (_) {}
+
+    try {
+
+        await CPG.renderizarProgressoTrilha("projetos");
+
+    } catch (_) {}
+
 });
+
 </script>
+
 
 <!-- POPUP LOGOUT -->
 
@@ -745,6 +868,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 </div>
 
+
 <script>
 
 function abrirLogout(){
@@ -762,9 +886,13 @@ function fecharLogout(){
 function logout(){
 
     localStorage.removeItem("usuario");
+
     localStorage.removeItem("email");
+
     localStorage.removeItem("status");
+
     localStorage.removeItem("status_pagamento");
+
     localStorage.removeItem("plano");
 
     window.location.replace("index.html");
@@ -772,6 +900,7 @@ function logout(){
 }
 
 </script>
+
 
 </body>
 

@@ -263,6 +263,23 @@ background:#2f6cc3;
 }
 
 
+/* STATUS CONCLUÍDO */
+
+.status-concluido{
+
+color:#00a650;
+
+font-size:13px;
+
+font-weight:bold;
+
+margin-left:8px;
+
+display:inline;
+
+}
+
+
 
 
 @media(max-width:768px){
@@ -451,12 +468,12 @@ sobre Inteligência Artificial.
 
 <div class="barra">
 
-<span></span>
+<span id="barra-ia"></span>
 
 </div>
 
 
-<p>
+<p id="texto-progresso-ia">
 
 0% concluído
 
@@ -483,6 +500,7 @@ sobre Inteligência Artificial.
 
     <h3>
         🤖 Módulo 1 — Fundamentos de Inteligência Artificial
+        <span id="status-ia-1"></span>
     </h3>
 
     <p>
@@ -514,6 +532,7 @@ sobre Inteligência Artificial.
 
     <h3>
         📊 Módulo 2 — Machine Learning
+        <span id="status-ia-2"></span>
     </h3>
 
     <p>
@@ -545,6 +564,7 @@ sobre Inteligência Artificial.
 
     <h3>
         📈 Módulo 3 — Dados e Estatística
+        <span id="status-ia-3"></span>
     </h3>
 
     <p>
@@ -576,6 +596,7 @@ sobre Inteligência Artificial.
 
     <h3>
         🐍 Módulo 4 — Python para IA
+        <span id="status-ia-4"></span>
     </h3>
 
     <p>
@@ -607,6 +628,7 @@ sobre Inteligência Artificial.
 
     <h3>
         ✨ Módulo 5 — Modelos Generativos e LLMs
+        <span id="status-ia-5"></span>
     </h3>
 
     <p>
@@ -638,6 +660,7 @@ sobre Inteligência Artificial.
 
     <h3>
         🚀 Módulo 6 — Trabalhando com IAs
+        <span id="status-ia-6"></span>
     </h3>
 
     <p>
@@ -736,11 +759,38 @@ CNPJ: 65.223.812/0001-41
 
 <script src="scripts.js"></script>
 <script src="progresso.js"></script>
+
 <script>
+
 document.addEventListener("DOMContentLoaded", async () => {
+
     if (!CPG.exigirSessao()) return;
-    try { await CPG.renderizarProgressoTrilha("ia"); } catch (_) {}
+
+    try {
+
+        const apostilas = await CPG.renderizarProgressoTrilha("ia");
+
+        apostilas.forEach((numero) => {
+
+            const status = document.getElementById("status-ia-" + numero);
+
+            if (status) {
+
+                status.innerHTML = '<span class="status-concluido">✔ Concluído</span>';
+
+            }
+
+        });
+
+    } catch (_) {
+
+        document.getElementById("texto-progresso-ia").textContent =
+            "Não foi possível carregar o progresso.";
+
+    }
+
 });
+
 </script>
 
 <!-- POPUP LOGOUT -->

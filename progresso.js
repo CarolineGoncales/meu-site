@@ -1,7 +1,12 @@
 const CPG_API_URL = "https://cpg-estude-backend.onrender.com";
 const CPG_TRILHAS = ["python", "ia", "cloud", "projetos"];
-const CPG_TOTAL_APOSTILAS = 6;
 
+const CPG_TOTAL_APOSTILAS = {
+    python: 6,
+    ia: 6,
+    cloud: 8,
+    projetos: 6
+};
 function obterEmailSessao() {
     return localStorage.getItem("email");
 }
@@ -59,18 +64,53 @@ async function concluirApostila(trilha, apostila) {
 }
 
 async function progressoGeral() {
-    const progressos = await Promise.all(CPG_TRILHAS.map(obterProgresso));
-    const concluidas = progressos.filter((apostilas) => apostilas.length >= CPG_TOTAL_APOSTILAS).length;
-    return { concluidas, porcentagem: Math.round((concluidas / CPG_TRILHAS.length) * 100) };
+    const progressos = await Promise.all(
+        CPG_TRILHAS.map(async (trilha) => ({
+            trilha,
+            apostilas: await obterProgresso(trilha)
+        }))
+    );
+
+    const concluidas = progressos.filter(
+        ({ trilha, apostilas }) =>
+            apostilas.length >= CPG_TOTAL_APOSTILAS[trilha]
+    ).length;
+
+    return {
+        concluidas,
+        porcentagem: Math.round(
+            (concluidas / CPG_TRILHAS.length) * 100
+        )
+    };
 }
 
 async function renderizarProgressoTrilha(trilha) {
+
     const apostilas = await obterProgresso(trilha);
-    const percentual = Math.round((apostilas.length / CPG_TOTAL_APOSTILAS) * 100);
-    const barra = document.querySelector(".trilha-info .barra span");
-    const texto = document.querySelector(".trilha-info .progresso p");
-    if (barra) barra.style.width = `${percentual}%`;
-    if (texto) texto.textContent = `${percentual}% concluído (${apostilas.length}/${CPG_TOTAL_APOSTILAS} apostilas)`;
+
+    const total = CPG_TOTAL_APOSTILAS[trilha];
+
+    const percentual = Math.round(
+        (apostilas.length / total) * 100
+    );
+
+    const barra = document.querySelector(
+        ".trilha-info .barra span"
+    );
+
+    const texto = document.querySelector(
+        ".trilha-info .progresso p"
+    );
+
+    if (barra) {
+        barra.style.width = `${percentual}%`;
+    }
+
+    if (texto) {
+        texto.textContent =
+            `${percentual}% concluído (${apostilas.length}/${total} apostilas)`;
+    }
+
     return apostilas;
 }
 

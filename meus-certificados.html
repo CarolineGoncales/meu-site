@@ -36,53 +36,116 @@ margin-bottom:50px;
 
 }
 
+
+/* LISTA */
+
 .lista{
 
 max-width:900px;
 margin:auto;
+
 display:flex;
 flex-direction:column;
+
 gap:25px;
 
 }
 
+
+/* CARD */
+
 .card{
 
 background:white;
+
 padding:30px;
+
 border-radius:15px;
+
 box-shadow:0 10px 25px rgba(0,0,0,.12);
-display:flex;
-justify-content:space-between;
+
+display:grid;
+
+grid-template-columns:1fr 180px;
+
 align-items:center;
 
+gap:30px;
+
+min-height:110px;
+
+box-sizing:border-box;
+
 }
+
+
+/* CONTEÚDO DO CARD */
+
+.card-info{
+
+text-align:left;
+
+min-width:0;
+
+}
+
 
 .card h3{
 
 margin:0;
+
 color:#163a63;
 
+font-size:20px;
+
+line-height:1.4;
+
 }
+
 
 .card p{
 
-margin-top:8px;
+margin:8px 0 0;
+
 color:#666;
 
+font-size:16px;
+
 }
+
+
+/* BOTÃO */
 
 .btn{
 
+display:flex;
+
+align-items:center;
+
+justify-content:center;
+
+width:180px;
+
+height:48px;
+
+box-sizing:border-box;
+
 background:#163a63;
+
 color:white;
-padding:12px 22px;
+
 border-radius:8px;
+
 text-decoration:none;
+
 font-weight:bold;
+
 transition:.3s;
 
+text-align:center;
+
 }
+
 
 .btn:hover{
 
@@ -90,24 +153,33 @@ background:#2f6cc3;
 
 }
 
+
 .bloqueado{
 
 background:#d9d9d9;
+
 color:#777;
+
 pointer-events:none;
 
 }
 
+
+/* STATUS */
+
 .ok{
 
 color:#00a650;
+
 font-weight:bold;
 
 }
 
+
 .pendente{
 
 color:#c62828;
+
 font-weight:bold;
 
 }
@@ -120,64 +192,93 @@ font-weight:bold;
 .modal{
 
 display:none;
+
 position:fixed;
+
 top:0;
 left:0;
+
 width:100%;
 height:100%;
+
 background:rgba(0,0,0,.65);
+
 justify-content:center;
 align-items:center;
+
 z-index:9999;
 
 }
 
+
 .modal-content{
 
 background:white;
+
 padding:40px;
+
 width:90%;
+
 max-width:450px;
+
 border-radius:18px;
+
 text-align:center;
+
 box-shadow:0 10px 30px rgba(0,0,0,.25);
 
 }
 
+
 .modal-content h2{
 
 color:#163a63;
+
 margin-bottom:20px;
 
 }
 
+
 .modal-content p{
 
 color:#555;
+
 line-height:1.7;
 
 }
 
+
 .btn-popup{
 
 display:inline-block;
+
 margin:12px 8px 0;
+
 padding:12px 28px;
+
 border-radius:8px;
+
 text-decoration:none;
+
 font-weight:bold;
+
 cursor:pointer;
+
 border:none;
+
 transition:.3s;
 
 }
 
+
 .btn-cancelar{
 
 background:#163a63;
+
 color:white;
 
 }
+
 
 .btn-cancelar:hover{
 
@@ -185,12 +286,15 @@ background:#2f6cc3;
 
 }
 
+
 .btn-sair{
 
 background:#c62828;
+
 color:white;
 
 }
+
 
 .btn-sair:hover{
 
@@ -199,19 +303,65 @@ background:#a31616;
 }
 
 
+/* MOBILE */
+
+@media(max-width:700px){
+
+    .certificados{
+
+        padding:60px 20px;
+
+    }
+
+    .certificados h1{
+
+        font-size:32px;
+
+    }
+
+    .lista{
+
+        width:100%;
+
+    }
+
+    .card{
+
+        grid-template-columns:1fr;
+
+        gap:20px;
+
+        text-align:left;
+
+    }
+
+    .btn{
+
+        width:100%;
+
+    }
+
+}
+
 </style>
 
 </head>
 
+
 <body>
+
 
 <header>
 
 <nav>
 
-<a href="aluno.html">📚 Biblioteca</a>
+<a href="aluno.html">
+📚 Biblioteca
+</a>
 
-<a href="meus-certificados.html">🏆 Meus Certificados</a>
+<a href="meus-certificados.html">
+🏆 Meus Certificados
+</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 🚪 Sair
@@ -221,9 +371,14 @@ background:#a31616;
 
 </header>
 
+
 <section class="certificados">
 
-<h1>🏆 Meus Certificados</h1>
+
+<h1>
+🏆 Meus Certificados
+</h1>
+
 
 <p class="sub">
 
@@ -231,13 +386,19 @@ Todos os certificados conquistados durante sua jornada.
 
 </p>
 
+
 <div class="lista">
+
+
+<!-- PYTHON -->
 
 <div class="card">
 
-<div>
+<div class="card-info">
 
-<h3>🐍 Trilha Python</h3>
+<h3>
+🐍 Trilha Python
+</h3>
 
 <p id="status-python"></p>
 
@@ -251,11 +412,16 @@ Emitir Certificado
 
 </div>
 
+
+<!-- INTELIGÊNCIA ARTIFICIAL -->
+
 <div class="card">
 
-<div>
+<div class="card-info">
 
-<h3>🤖 Inteligência Artificial</h3>
+<h3>
+🤖 Inteligência Artificial
+</h3>
 
 <p id="status-ia"></p>
 
@@ -269,11 +435,16 @@ Emitir Certificado
 
 </div>
 
+
+<!-- CLOUD -->
+
 <div class="card">
 
-<div>
+<div class="card-info">
 
-<h3>☁ Cloud & DevOps</h3>
+<h3>
+☁️ Cloud & DevOps
+</h3>
 
 <p id="status-cloud"></p>
 
@@ -287,11 +458,16 @@ Emitir Certificado
 
 </div>
 
+
+<!-- PROJETOS -->
+
 <div class="card">
 
-<div>
+<div class="card-info">
 
-<h3>📊 Analista de Projetos</h3>
+<h3>
+📊 Analista de Projetos
+</h3>
 
 <p id="status-projetos"></p>
 
@@ -305,11 +481,16 @@ Emitir Certificado
 
 </div>
 
+
+<!-- CERTIFICADO PROFISSIONAL -->
+
 <div class="card">
 
-<div>
+<div class="card-info">
 
-<h3>🏅 Certificado Profissional CPG</h3>
+<h3>
+🏅 Certificado Profissional CPG
+</h3>
 
 <p id="status-geral"></p>
 
@@ -323,29 +504,40 @@ Emitir Certificado
 
 </div>
 
+
 </div>
+
 
 </section>
 
+
 <footer class="footer">
 
+
 <div class="footer-content">
+
 
 <h3>
 CPG
 </h3>
 
+
 <p>
 Capacitação profissional em tecnologia, dados e projetos.
 </p>
+
 
 <div class="footer-links">
 
 <nav>
 
-<a href="aluno.html">📚 Biblioteca</a>
+<a href="aluno.html">
+📚 Biblioteca
+</a>
 
-<a href="meus-certificados.html">🏆 Meus Certificados</a>
+<a href="meus-certificados.html">
+🏆 Meus Certificados
+</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 🚪 Sair
@@ -355,109 +547,194 @@ Capacitação profissional em tecnologia, dados e projetos.
 
 </div>
 
+
 <p class="footer-copy">
 © 2026 CPG - Todos os direitos reservados
 </p>
+
 
 <p class="footer-copy">
 CNPJ: 65.223.812/0001-41
 </p>
 
+
 </div>
 
 </footer>
 
+
 <script src="progresso.js"></script>
+
 
 <script>
 
+
 async function carregarCertificados(){
+
 
     if (!CPG.exigirSessao()) return;
 
+
+    /*
+    ==========================================
+    QUANTIDADE CORRETA DE APOSTILAS
+    ==========================================
+    */
+
     const trilhas = [
 
-        ["python",6],
+        ["python", 6],
 
-        ["ia",6],
+        ["ia", 6],
 
-        ["cloud",6],
+        ["cloud", 8],
 
-        ["projetos",6]
+        ["projetos", 6]
 
     ];
 
+
     let concluidas = 0;
+
 
     for(const item of trilhas){
 
+
         const nome = item[0];
 
-        const status = document.getElementById("status-"+nome);
+        const totalEsperado = item[1];
 
-        const botao = document.getElementById("btn-"+nome);
+
+        const status =
+            document.getElementById("status-" + nome);
+
+
+        const botao =
+            document.getElementById("btn-" + nome);
+
 
         try{
 
-            const apostilas = await CPG.obterProgresso(nome);
-            const total = apostilas.length;
 
-            if(total >= 6){
+            const apostilas =
+                await CPG.obterProgresso(nome);
+
+
+            const totalConcluido =
+                apostilas.length;
+
+
+            /*
+            ==========================================
+            TRILHA CONCLUÍDA
+            ==========================================
+            */
+
+
+            if(totalConcluido >= totalEsperado){
+
 
                 concluidas++;
 
+
                 status.innerHTML =
-                '<span class="ok">✔ Concluído</span>';
+                '<span class="ok">✔ Trilha concluída</span>';
+
 
                 botao.classList.remove("bloqueado");
 
+
                 botao.href =
-                "certificado.html?trilha="+nome;
+                "certificado.html?trilha=" + nome;
+
 
                 botao.target = "_blank";
 
+
             }else{
 
+
                 status.innerHTML =
-                `<span class="pendente">${total}/6 apostilas concluídas</span>`;
+
+                `<span class="pendente">
+                ${totalConcluido}/${totalEsperado} apostilas concluídas
+                </span>`;
+
 
             }
 
+
         }catch(e){
+
 
             status.innerHTML =
             '<span class="pendente">Erro ao consultar</span>';
 
+
+            console.error(e);
+
+
         }
 
+
     }
 
-    if(concluidas == 4){
+
+    /*
+    ==========================================
+    CERTIFICADO PROFISSIONAL CPG
+    ==========================================
+    */
+
+
+    if(concluidas === 4){
+
 
         document.getElementById("status-geral").innerHTML =
-        '<span class="ok">✔ Disponível</span>';
 
-        document.getElementById("btn-geral").classList.remove("bloqueado");
+        '<span class="ok">✔ 4/4 trilhas concluídas</span>';
 
-        document.getElementById("btn-geral").href =
-        "certificado.html?trilha=geral";
 
-        document.getElementById("btn-geral").target =
-        "_blank";
+        const botaoGeral =
+            document.getElementById("btn-geral");
+
+
+        botaoGeral.classList.remove("bloqueado");
+
+
+        botaoGeral.href =
+            "certificado.html?trilha=geral";
+
+
+        botaoGeral.target = "_blank";
+
+
     }else{
 
+
         document.getElementById("status-geral").innerHTML =
-        `<span class="pendente">${concluidas}/4 trilhas concluídas</span>`;
+
+        `<span class="pendente">
+        ${concluidas}/4 trilhas concluídas
+        </span>`;
+
 
     }
+
 
 }
 
+
 carregarCertificados();
+
 
 </script>
 
+
+<!-- LOGOUT -->
+
 <script>
+
 
 function abrirLogout(){
 
@@ -465,32 +742,47 @@ function abrirLogout(){
 
 }
 
+
 function fecharLogout(){
 
     document.getElementById("logoutPopup").style.display="none";
 
 }
 
+
 function logout(){
 
     localStorage.removeItem("usuario");
+
     localStorage.removeItem("email");
+
     localStorage.removeItem("status");
+
     localStorage.removeItem("status_pagamento");
+
     localStorage.removeItem("plano");
+
 
     window.location.replace("index.html");
 
 }
+
+
 </script>
+
+
+<!-- POPUP LOGOUT -->
 
 <div id="logoutPopup" class="modal">
 
+
 <div class="modal-content">
+
 
 <h2>
 🚪 Sair da Área do Aluno
 </h2>
+
 
 <p>
 
@@ -503,23 +795,29 @@ Você retornará para o site da
 
 </p>
 
-<button class="btn-popup btn-cancelar"
+
+<button
+class="btn-popup btn-cancelar"
 onclick="fecharLogout()">
 
 Permanecer
 
 </button>
 
-<button class="btn-popup btn-sair"
+
+<button
+class="btn-popup btn-sair"
 onclick="logout()">
 
 Sim, sair
 
 </button>
 
+
 </div>
 
 </div>
+
 
 </body>
 

@@ -25,6 +25,7 @@ text-align:center;
 }
 
 
+
 .trilha h1{
 
 color:white;
@@ -32,6 +33,7 @@ font-size:42px;
 margin-bottom:15px;
 
 }
+
 
 
 .trilha-sub{
@@ -91,7 +93,6 @@ transform:translateY(-3px);
 
 /* CARD INICIAL */
 
-
 .trilha-info{
 
 background:white;
@@ -132,7 +133,6 @@ line-height:1.6;
 
 /* PROGRESSO */
 
-
 .progresso{
 
 margin-top:25px;
@@ -161,18 +161,19 @@ display:block;
 
 height:100%;
 
-width:10%;
+width:0%;
 
 background:#2f6cc3;
 
 border-radius:20px;
+
+transition:.4s;
 
 }
 
 
 
 /* MODULOS */
-
 
 .modulos{
 
@@ -187,7 +188,6 @@ flex-direction:column;
 gap:25px;
 
 }
-
 
 
 
@@ -227,7 +227,6 @@ line-height:1.6;
 
 
 
-
 .material{
 
 background:#f8fafc;
@@ -244,6 +243,7 @@ color:#444;
 
 
 
+/* BOTÃO MATERIAL */
 
 .btn-material{
 
@@ -275,6 +275,49 @@ background:#2f6cc3;
 
 
 
+/* EM BREVE */
+
+.btn-breve{
+
+display:inline-block;
+
+margin-top:20px;
+
+background:#d9d9d9;
+
+color:#777;
+
+padding:10px 22px;
+
+border-radius:8px;
+
+font-weight:bold;
+
+cursor:default;
+
+}
+
+
+
+/* STATUS CONCLUÍDO */
+
+.status-concluido{
+
+display:none;
+
+margin-top:15px;
+
+color:#00a650;
+
+font-weight:bold;
+
+font-size:15px;
+
+}
+
+
+
+/* MOBILE */
 
 @media(max-width:768px){
 
@@ -286,14 +329,15 @@ padding:60px 20px;
 }
 
 
+
 .trilha h1{
 
 font-size:30px;
 
 }
 
-
 }
+
 
 /* ===========================
    POPUP LOGOUT
@@ -314,6 +358,8 @@ z-index:9999;
 
 }
 
+
+
 .modal-content{
 
 background:white;
@@ -326,6 +372,8 @@ box-shadow:0 10px 30px rgba(0,0,0,.25);
 
 }
 
+
+
 .modal-content h2{
 
 color:#163a63;
@@ -333,12 +381,16 @@ margin-bottom:20px;
 
 }
 
+
+
 .modal-content p{
 
 color:#555;
 line-height:1.7;
 
 }
+
+
 
 .btn-popup{
 
@@ -354,6 +406,8 @@ transition:.3s;
 
 }
 
+
+
 .btn-cancelar{
 
 background:#163a63;
@@ -361,11 +415,15 @@ color:white;
 
 }
 
+
+
 .btn-cancelar:hover{
 
 background:#2f6cc3;
 
 }
+
+
 
 .btn-sair{
 
@@ -374,10 +432,20 @@ color:white;
 
 }
 
+
+
 .btn-sair:hover{
 
 background:#a31616;
 
+}
+
+.status-concluido{
+    color:#00a650;
+    font-size:13px;
+    font-weight:bold;
+    margin-left:8px;
+    display:inline;
 }
 
 </style>
@@ -386,14 +454,10 @@ background:#a31616;
 </head>
 
 
-
 <body>
 
 
-
-
 <header>
-
 
 <nav>
 
@@ -409,21 +473,17 @@ background:#a31616;
 
 </nav>
 
-
 </header>
-
-
-
-
 
 
 
 <section class="trilha">
 
 
-
 <h1>
+
 ☁ Trilha Cloud & DevOps
+
 </h1>
 
 
@@ -436,8 +496,6 @@ background:#a31616;
 
 
 
-
-
 <p class="trilha-sub">
 
 Aprenda computação em nuvem, infraestrutura como código,
@@ -447,16 +505,13 @@ automação e práticas modernas de DevOps utilizadas no mercado.
 
 
 
-
-
-
-
-
 <div class="trilha-info">
 
 
 <h2>
+
 Sua jornada Cloud
+
 </h2>
 
 
@@ -474,29 +529,22 @@ arquitetura, automação e tecnologias profissionais.
 
 <div class="barra">
 
-<span></span>
+<span id="barra-cloud"></span>
 
 </div>
 
 
-<p>
+<p id="texto-progresso">
 
-10% concluído
+Carregando progresso...
 
 </p>
 
 
-
 </div>
 
 
 </div>
-
-
-
-
-
-
 
 
 
@@ -504,28 +552,24 @@ arquitetura, automação e tecnologias profissionais.
 
 
 
-
+<!-- CLOUD 1 -->
 
 <div class="modulo">
-
 
 <h3>
 ☁ Módulo 1 — Fundamentos de Cloud Computing
+<span id="status-cloud-1"></span>
 </h3>
 
-
 <p>
-
-Entenda conceitos de computação em nuvem,
-modelos IaaS, PaaS, SaaS e principais benefícios.
-
+Entenda os conceitos fundamentais de computação em nuvem,
+modelos de serviço, modelos de implantação e os principais
+benefícios da utilização de ambientes cloud.
 </p>
-
-
 
 <div class="material">
 
-📄 Introdução à Cloud Computing
+📄 Fundamentos de Cloud Computing
 
 <br>
 
@@ -533,41 +577,33 @@ modelos IaaS, PaaS, SaaS e principais benefícios.
 
 </div>
 
+<a href="material-cloud-1.html" class="btn-material">
 
+Estudar material
 
-<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
-
+</a>
 
 </div>
 
 
-
-
-
-
-
-
+<!-- CLOUD 2 -->
 
 <div class="modulo">
-
 
 <h3>
 🟧 Módulo 2 — Amazon Web Services (AWS)
+<span id="status-cloud-2"></span>
 </h3>
 
-
 <p>
-
-Conheça serviços AWS, arquitetura,
-segurança e boas práticas.
-
+Conheça os principais conceitos da Amazon Web Services,
+seus serviços, arquitetura, segurança e boas práticas
+para utilização de ambientes AWS.
 </p>
-
-
 
 <div class="material">
 
-📄 Fundamentos AWS
+📄 Amazon Web Services
 
 <br>
 
@@ -575,33 +611,105 @@ segurança e boas práticas.
 
 </div>
 
+<a href="material-cloud-2.html" class="btn-material">
 
+Estudar material
 
-<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
-
+</a>
 
 </div>
 
 
+<!-- CLOUD 3 -->
+
+<div class="modulo">
+
+<h3>
+🔷 Módulo 3 — Microsoft Azure
+<span id="status-cloud-3"></span>
+</h3>
+
+<p>
+Conheça os principais serviços da Microsoft Azure,
+recursos de infraestrutura, computação em nuvem
+e fundamentos da plataforma.
+</p>
+
+<div class="material">
+
+📄 Microsoft Azure
+
+<br>
+
+🔒 Material exclusivo para assinantes
+
+</div>
+
+<a href="material-cloud-3.html" class="btn-material">
+
+Estudar material
+
+</a>
+
+</div>
 
 
+<!-- CLOUD 4 -->
 
+<div class="modulo">
 
+<h3>
+🏗️ Módulo 4 — Infrastructure as Code
+<span id="status-cloud-4"></span>
+</h3>
 
+<p>
+Aprenda os fundamentos de Infrastructure as Code,
+automação de infraestrutura, provisionamento e
+gerenciamento de ambientes de forma automatizada.
+</p>
 
+<div class="material">
+
+📄 Infrastructure as Code
+
+<br>
+
+🔒 Material exclusivo para assinantes
+
+</div>
+
+<a href="material-cloud-4.html" class="btn-material">
+
+Estudar material
+
+</a>
+
+</div>
+
+<!-- CLOUD 5 -->
 
 <div class="modulo">
 
 
 <h3>
-⚙ Módulo 3 — Terraform
+
+🌐 Módulo 5 — Google Cloud
+
+<span style="font-size:14px; color:#c62828; margin-left:8px;">
+
+EM BREVE
+
+</span>
+
 </h3>
 
 
 <p>
 
-Aprenda Infrastructure as Code,
-automação e criação de ambientes.
+Conheça a plataforma Google Cloud,
+seus principais serviços e recursos
+para ambientes de computação em nuvem.
 
 </p>
 
@@ -609,41 +717,46 @@ automação e criação de ambientes.
 
 <div class="material">
 
-📄 Terraform Fundamentals
-
-<br>
-
-🔒 Material exclusivo para assinantes
+🔒 Conteúdo exclusivo para assinantes
 
 </div>
 
 
 
-<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
+<span class="btn-breve">
+
+EM BREVE
+
+</span>
 
 
 </div>
 
 
 
-
-
-
-
-
+<!-- CLOUD 6 -->
 
 <div class="modulo">
 
 
 <h3>
-🚀 Módulo 4 — DevOps
+
+⚙️ Módulo 6 — Terraform
+
+<span style="font-size:14px; color:#c62828; margin-left:8px;">
+
+EM BREVE
+
+</span>
+
 </h3>
 
 
 <p>
 
-Aprenda integração contínua,
-entrega contínua, automação e cultura DevOps.
+Aprenda a utilizar Terraform para criar,
+configurar e gerenciar infraestrutura como código,
+incluindo exemplos práticos de configurações e códigos.
 
 </p>
 
@@ -651,38 +764,121 @@ entrega contínua, automação e cultura DevOps.
 
 <div class="material">
 
-📄 Introdução ao DevOps
-
-<br>
-
-🔒 Material exclusivo para assinantes
+🔒 Conteúdo exclusivo para assinantes
 
 </div>
 
 
 
-<span class="btn-material" aria-disabled="true">Conteúdo em breve</span>
+<span class="btn-breve">
 
+EM BREVE
 
-</div>
-
-
-
-
-
+</span>
 
 
 </div>
 
 
 
+<!-- CLOUD 7 -->
+
+<div class="modulo">
+
+
+<h3>
+
+🟣 Módulo 7 — Pulumi
+
+<span style="font-size:14px; color:#c62828; margin-left:8px;">
+
+EM BREVE
+
+</span>
+
+</h3>
+
+
+<p>
+
+Conheça o Pulumi e sua abordagem de Infrastructure
+as Code utilizando linguagens de programação para
+definir e gerenciar recursos de infraestrutura.
+
+</p>
+
+
+
+<div class="material">
+
+🔒 Conteúdo exclusivo para assinantes
+
+</div>
+
+
+
+<span class="btn-breve">
+
+EM BREVE
+
+</span>
+
+
+</div>
+
+
+
+<!-- CLOUD 8 -->
+
+<div class="modulo">
+
+
+<h3>
+
+🚀 Módulo 8 — DevOps
+
+<span style="font-size:14px; color:#c62828; margin-left:8px;">
+
+EM BREVE
+
+</span>
+
+</h3>
+
+
+<p>
+
+Aprenda os fundamentos de DevOps,
+integração contínua, entrega contínua,
+automação e cultura DevOps.
+
+</p>
+
+
+
+<div class="material">
+
+🔒 Conteúdo exclusivo para assinantes
+
+</div>
+
+
+
+<span class="btn-breve">
+
+EM BREVE
+
+</span>
+
+
+</div>
+
+
+
+</div>
 
 
 </section>
-
-
-
-
 
 
 
@@ -693,21 +889,35 @@ entrega contínua, automação e cultura DevOps.
 
 
 <h3>
+
 CPG
+
 </h3>
 
 
 <p>
+
 Capacitação profissional em tecnologia, dados e projetos.
+
 </p>
 
 
 <div class="footer-links">
 
 
-<a href="aluno.html">📚 Biblioteca</a>
+<a href="aluno.html">
 
-<a href="meus-certificados.html">🏆 Meus Certificados</a>
+📚 Biblioteca
+
+</a>
+
+
+<a href="meus-certificados.html">
+
+🏆 Meus Certificados
+
+</a>
+
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 
@@ -740,59 +950,97 @@ CNPJ: 65.223.812/0001-41
 
 
 
-
-
 <script src="scripts.js"></script>
+
 <script src="progresso.js"></script>
+
+
 <script>
+
 document.addEventListener("DOMContentLoaded", async () => {
+
     if (!CPG.exigirSessao()) return;
-    try { await CPG.renderizarProgressoTrilha("cloud"); } catch (_) {}
+
+    try {
+
+        const apostilas = await CPG.renderizarProgressoTrilha("cloud");
+
+        apostilas.forEach((numero) => {
+
+            const status = document.getElementById("status-cloud-" + numero);
+
+            if (status) {
+
+                status.innerHTML = '<span class="status-concluido">✔ Concluído</span>';
+
+            }
+
+        });
+
+    } catch (_) {
+
+        document.getElementById("texto-progresso").textContent =
+            "Não foi possível carregar o progresso.";
+
+    }
+
 });
+
 </script>
+
+
 
 <!-- POPUP LOGOUT -->
 
 <div id="logoutPopup" class="modal">
 
-    <div class="modal-content">
 
-        <h2>
+<div class="modal-content">
 
-            🚪 Sair da Área do Aluno
 
-        </h2>
+<h2>
 
-        <p>
+🚪 Sair da Área do Aluno
 
-            Tem certeza que deseja encerrar sua sessão?
+</h2>
 
-            <br><br>
 
-            Você retornará para o site da
-            <strong>CPG Technology Consulting</strong>.
+<p>
 
-        </p>
+Tem certeza que deseja encerrar sua sessão?
 
-        <button class="btn-popup btn-cancelar"
-                onclick="fecharLogout()">
+<br><br>
 
-            Cancelar
+Você retornará para o site da
+<strong>CPG Technology Consulting</strong>.
 
-        </button>
+</p>
 
-        <button class="btn-popup btn-sair"
-                onclick="logout()">
 
-            Sim, sair
+<button class="btn-popup btn-cancelar"
+onclick="fecharLogout()">
 
-        </button>
+Cancelar
 
-    </div>
+</button>
+
+
+<button class="btn-popup btn-sair"
+onclick="logout()">
+
+Sim, sair
+
+</button>
+
 
 </div>
 
+</div>
+
+
+
 <script>
+
 
 function abrirLogout(){
 
@@ -800,11 +1048,13 @@ function abrirLogout(){
 
 }
 
+
 function fecharLogout(){
 
     document.getElementById("logoutPopup").style.display = "none";
 
 }
+
 
 function logout(){
 
@@ -819,6 +1069,7 @@ function logout(){
 }
 
 </script>
+
 
 </body>
 
