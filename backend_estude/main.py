@@ -723,9 +723,38 @@ def certificado(
             "codigo": "CL"
         },
 
+        "banco-de-dados": {
+            "nome": "TRILHA BANCO DE DADOS",
+            "horas": 24,
+            "codigo": "BD"
+        },
+
+        "dados-bi": {
+            "nome": "TRILHA DADOS & BUSINESS INTELLIGENCE",
+            "horas": 24,
+            "codigo": "BI"
+        },
+
+        "desenvolvimento-web": {
+            "nome": "TRILHA DESENVOLVIMENTO WEB",
+            "horas": 26,
+            "codigo": "WEB"
+        },
+
+        "redes-computadores": {
+            "nome": "TRILHA REDES DE COMPUTADORES",
+            "horas": 24,
+            "codigo": "RED"
+        },
+
+        "seguranca-informacao": {
+            "nome": "TRILHA SEGURANÇA DA INFORMAÇÃO",
+            "horas": 26,
+            "codigo": "SEG"
+        },
         "geral": {
             "nome": "CERTIFICAÇÃO PROFISSIONAL CPG",
-            "horas": 126,
+            "horas": 250,
             "codigo": "PRO"
         }
 

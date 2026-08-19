@@ -343,6 +343,104 @@ background:#a31616;
 
 }
 
+/* ===========================
+   WHATSAPP FLUTUANTE
+=========================== */
+
+.whatsapp-flutuante{
+
+    position:fixed;
+
+    right:25px;
+    bottom:25px;
+
+    width:58px;
+    height:58px;
+
+    background:#25D366;
+
+    border-radius:50%;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    text-decoration:none;
+
+    box-shadow:0 6px 18px rgba(0,0,0,.25);
+
+    z-index:9998;
+
+    animation: puloWhatsapp 2.8s ease-in-out infinite;
+
+    transition:.3s;
+
+}
+
+
+.whatsapp-flutuante:hover{
+
+    transform:scale(1.12);
+
+    box-shadow:0 8px 25px rgba(0,0,0,.35);
+
+}
+
+
+.whatsapp-flutuante img{
+
+    width:32px;
+    height:32px;
+
+}
+
+
+@keyframes puloWhatsapp{
+
+    0%, 85%, 100%{
+
+        transform:translateY(0);
+
+    }
+
+    90%{
+
+        transform:translateY(-7px);
+
+    }
+
+    95%{
+
+        transform:translateY(0);
+
+    }
+
+}
+
+
+/* MOBILE */
+
+@media(max-width:600px){
+
+    .whatsapp-flutuante{
+
+        width:54px;
+        height:54px;
+
+        right:18px;
+        bottom:18px;
+
+    }
+
+    .whatsapp-flutuante img{
+
+        width:30px;
+        height:30px;
+
+    }
+
+}
+
 </style>
 
 </head>
@@ -355,13 +453,11 @@ background:#a31616;
 
 <nav>
 
-<a href="aluno.html">
-📚 Biblioteca
-</a>
+<a href="aluno.html">📚 Biblioteca</a>
 
-<a href="meus-certificados.html">
-🏆 Meus Certificados
-</a>
+<a href="meus-certificados.html">🏆 Meus Certificados</a>
+
+<a href="meus-dados.html">🔐 Meus Dados</a>
 
 <a href="javascript:void(0)" onclick="abrirLogout()">
 🚪 Sair
@@ -413,6 +509,7 @@ Emitir Certificado
 </div>
 
 
+
 <!-- INTELIGÊNCIA ARTIFICIAL -->
 
 <div class="card">
@@ -434,6 +531,7 @@ Emitir Certificado
 </a>
 
 </div>
+
 
 
 <!-- CLOUD -->
@@ -459,6 +557,7 @@ Emitir Certificado
 </div>
 
 
+
 <!-- PROJETOS -->
 
 <div class="card">
@@ -480,6 +579,127 @@ Emitir Certificado
 </a>
 
 </div>
+
+
+
+<!-- BANCO DE DADOS -->
+
+<div class="card">
+
+<div class="card-info">
+
+<h3>
+🗄️ Banco de Dados
+</h3>
+
+<p id="status-banco-de-dados"></p>
+
+</div>
+
+<a id="btn-banco-de-dados" class="btn bloqueado">
+
+Emitir Certificado
+
+</a>
+
+</div>
+
+
+
+<!-- DADOS & BI -->
+
+<div class="card">
+
+<div class="card-info">
+
+<h3>
+📊 Dados & Business Intelligence
+</h3>
+
+<p id="status-dados-bi"></p>
+
+</div>
+
+<a id="btn-dados-bi" class="btn bloqueado">
+
+Emitir Certificado
+
+</a>
+
+</div>
+
+
+
+<!-- DESENVOLVIMENTO WEB -->
+
+<div class="card">
+
+<div class="card-info">
+
+<h3>
+🌐 Desenvolvimento Web
+</h3>
+
+<p id="status-desenvolvimento-web"></p>
+
+</div>
+
+<a id="btn-desenvolvimento-web" class="btn bloqueado">
+
+Emitir Certificado
+
+</a>
+
+</div>
+
+
+
+<!-- REDES DE COMPUTADORES -->
+
+<div class="card">
+
+<div class="card-info">
+
+<h3>
+🌐 Redes de Computadores
+</h3>
+
+<p id="status-redes-computadores"></p>
+
+</div>
+
+<a id="btn-redes-computadores" class="btn bloqueado">
+
+Emitir Certificado
+
+</a>
+
+</div>
+
+
+
+<!-- SEGURANÇA DA INFORMAÇÃO -->
+
+<div class="card">
+
+<div class="card-info">
+
+<h3>
+🔐 Segurança da Informação
+</h3>
+
+<p id="status-seguranca-informacao"></p>
+
+</div>
+
+<a id="btn-seguranca-informacao" class="btn bloqueado">
+
+Emitir Certificado
+
+</a>
+
+</div>
+
 
 
 <!-- CERTIFICADO PROFISSIONAL -->
@@ -563,6 +783,7 @@ CNPJ: 65.223.812/0001-41
 </footer>
 
 
+
 <script src="progresso.js"></script>
 
 
@@ -577,7 +798,7 @@ async function carregarCertificados(){
 
     /*
     ==========================================
-    QUANTIDADE CORRETA DE APOSTILAS
+    TRILHAS E QUANTIDADE DE APOSTILAS
     ==========================================
     */
 
@@ -589,7 +810,17 @@ async function carregarCertificados(){
 
         ["cloud", 8],
 
-        ["projetos", 6]
+        ["projetos", 6],
+
+        ["banco-de-dados", 6],
+
+        ["dados-bi", 6],
+
+        ["desenvolvimento-web", 6],
+
+        ["redes-computadores", 6],
+
+        ["seguranca-informacao", 6]
 
     ];
 
@@ -606,11 +837,15 @@ async function carregarCertificados(){
 
 
         const status =
-            document.getElementById("status-" + nome);
+            document.getElementById(
+                "status-" + nome
+            );
 
 
         const botao =
-            document.getElementById("btn-" + nome);
+            document.getElementById(
+                "btn-" + nome
+            );
 
 
         try{
@@ -687,12 +922,12 @@ async function carregarCertificados(){
     */
 
 
-    if(concluidas === 4){
+    if(concluidas === trilhas.length){
 
 
         document.getElementById("status-geral").innerHTML =
 
-        '<span class="ok">✔ 4/4 trilhas concluídas</span>';
+        '<span class="ok">✔ 9/9 trilhas concluídas</span>';
 
 
         const botaoGeral =
@@ -715,7 +950,7 @@ async function carregarCertificados(){
         document.getElementById("status-geral").innerHTML =
 
         `<span class="pendente">
-        ${concluidas}/4 trilhas concluídas
+        ${concluidas}/9 trilhas concluídas
         </span>`;
 
 
@@ -729,6 +964,7 @@ carregarCertificados();
 
 
 </script>
+
 
 
 <!-- LOGOUT -->
@@ -769,6 +1005,31 @@ function logout(){
 
 
 </script>
+
+
+<!-- =========================
+     WHATSAPP FLUTUANTE
+========================= -->
+
+<a
+    href="https://wa.me/5513997266564"
+    class="whatsapp-flutuante"
+    target="_blank"
+    rel="noopener"
+    aria-label="Falar pelo WhatsApp"
+>
+
+    <img
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/whatsapp.svg"
+        alt="WhatsApp"
+    >
+
+</a>
+
+
+</body>
+
+</html>
 
 
 <!-- POPUP LOGOUT -->
@@ -817,6 +1078,7 @@ Sim, sair
 </div>
 
 </div>
+
 
 
 </body>

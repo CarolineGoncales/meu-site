@@ -532,6 +532,10 @@ Progresso geral dos estudos
 
 
 
+<!-- =========================
+     TRILHA ANALISTA DE PROJETOS
+========================= -->
+
 <div class="trilha-card">
 
 
@@ -564,6 +568,10 @@ Entrar na trilha
 
 
 
+<!-- =========================
+     TRILHA INTELIGÊNCIA ARTIFICIAL
+========================= -->
+
 <div class="trilha-card">
 
 
@@ -580,7 +588,8 @@ Machine Learning e IA Generativa.
 </p>
 
 
-<a href="trilha-inteligencia-artificial.html" class="trilha-btn">
+<a href="trilha-inteligencia-artificial.html"
+   class="trilha-btn">
 
 
 Entrar na trilha
@@ -594,6 +603,10 @@ Entrar na trilha
 
 
 
+
+<!-- =========================
+     TRILHA CLOUD & DEVOPS
+========================= -->
 
 <div class="trilha-card">
 
@@ -611,7 +624,8 @@ infraestrutura e automação.
 </p>
 
 
-<a href="trilha-cloud.html" class="trilha-btn">
+<a href="trilha-cloud.html"
+   class="trilha-btn">
 
 Entrar na trilha
 
@@ -620,6 +634,13 @@ Entrar na trilha
 
 </div>
 
+
+
+
+
+<!-- =========================
+     TRILHA PYTHON
+========================= -->
 
 <div class="trilha-card">
 
@@ -638,7 +659,187 @@ automação e aplicações reais.
 </p>
 
 
-<a href="trilha-python.html" class="trilha-btn">
+<a href="trilha-python.html"
+   class="trilha-btn">
+
+Entrar na trilha
+
+</a>
+
+
+</div>
+
+
+
+
+
+<!-- =========================
+     NOVA TRILHA DESENVOLVIMENTO WEB
+========================= -->
+
+<div class="trilha-card">
+
+
+<h3>
+🌐 Desenvolvimento Web
+</h3>
+
+
+<p>
+
+HTML, CSS, JavaScript,
+responsividade e criação de sites.
+
+</p>
+
+
+<a href="javascript:void(0)"
+   class="trilha-btn"
+   onclick="abrirAviso('trilha-desenvolvimento-web.html')">
+
+Entrar na trilha
+
+</a>
+
+
+</div>
+
+
+
+
+
+<!-- =========================
+     NOVA TRILHA SEGURANÇA DA INFORMAÇÃO
+========================= -->
+
+<div class="trilha-card">
+
+
+<h3>
+🔐 Segurança da Informação
+</h3>
+
+
+<p>
+
+Fundamentos de segurança,
+ameaças digitais, proteção de dados
+e boas práticas.
+
+</p>
+
+
+<a href="javascript:void(0)"
+   class="trilha-btn"
+   onclick="abrirAviso('trilha-seguranca-informacao.html')">
+
+Entrar na trilha
+
+</a>
+
+
+</div>
+
+
+
+
+
+<!-- =========================
+     NOVA TRILHA BANCO DE DADOS
+========================= -->
+
+<div class="trilha-card">
+
+
+<h3>
+🗄️ Banco de Dados
+</h3>
+
+
+<p>
+
+SQL, modelagem de dados,
+tabelas, relacionamentos
+e consultas.
+
+</p>
+
+
+<a href="javascript:void(0)"
+   class="trilha-btn"
+   onclick="abrirAviso('trilha-banco-de-dados.html')">
+
+Entrar na trilha
+
+</a>
+
+
+</div>
+
+
+
+
+
+<!-- =========================
+     NOVA TRILHA REDES
+========================= -->
+
+<div class="trilha-card">
+
+
+<h3>
+🌐 Redes de Computadores
+</h3>
+
+
+<p>
+
+TCP/IP, endereçamento IP,
+DNS, DHCP, roteadores
+e fundamentos de redes.
+
+</p>
+
+
+<a href="javascript:void(0)"
+   class="trilha-btn"
+   onclick="abrirAviso('trilha-redes-computadores.html')">
+
+Entrar na trilha
+
+</a>
+
+
+</div>
+
+
+
+
+
+<!-- =========================
+     NOVA TRILHA DADOS & BI
+========================= -->
+
+<div class="trilha-card">
+
+
+<h3>
+📊 Dados & Business Intelligence
+</h3>
+
+
+<p>
+
+Excel, análise de dados,
+SQL, Power BI, dashboards
+e tomada de decisão.
+
+</p>
+
+
+<a href="javascript:void(0)"
+   class="trilha-btn"
+   onclick="abrirAviso('trilha-dados-bi.html')">
 
 Entrar na trilha
 
@@ -736,15 +937,25 @@ async function carregarProgresso(){
 }
 
 carregarProgresso().catch(() => {
-    document.getElementById("texto-geral").textContent = "Não foi possível carregar o progresso.";
+
+    document.getElementById("texto-geral").textContent =
+        "Não foi possível carregar o progresso.";
+
 });
+
 
 document.getElementById("nomeUsuario").textContent =
     "Olá, " + localStorage.getItem("usuario") + " 👋";
 
 </script>
 
-<!-- POPUP LOGOUT -->
+
+
+
+
+<!-- =========================
+     POPUP LOGOUT
+========================= -->
 
 <div id="logoutPopup" class="modal">
 
@@ -785,7 +996,13 @@ document.getElementById("nomeUsuario").textContent =
 
 </div>
 
-<!-- POPUP TRILHA EM DESENVOLVIMENTO -->
+
+
+
+
+<!-- =========================
+     POPUP TRILHA EM DESENVOLVIMENTO
+========================= -->
 
 <div id="popupTrilha" class="modal">
 
@@ -829,7 +1046,15 @@ document.getElementById("nomeUsuario").textContent =
 
 </div>
 
+
+
+
+
 <script>
+
+/* =========================
+   LOGOUT
+========================= */
 
 function abrirLogout(){
 
@@ -837,11 +1062,13 @@ function abrirLogout(){
 
 }
 
+
 function fecharLogout(){
 
     document.getElementById("logoutPopup").style.display = "none";
 
 }
+
 
 function logout(){
 
@@ -855,7 +1082,14 @@ function logout(){
 
 }
 
+
+
+/* =========================
+   POPUP TRILHAS
+========================= */
+
 let destinoTrilha = "";
+
 
 function abrirAviso(destino){
 
@@ -865,11 +1099,13 @@ function abrirAviso(destino){
 
 }
 
+
 function fecharAviso(){
 
     document.getElementById("popupTrilha").style.display = "none";
 
 }
+
 
 function continuarTrilha(){
 
@@ -880,6 +1116,13 @@ function continuarTrilha(){
 </script>
 
 
+
+
+
+<!-- =========================
+     WHATSAPP FLUTUANTE
+========================= -->
+
 <a
     href="https://wa.me/5513997266564"
     class="whatsapp-flutuante"
@@ -887,11 +1130,14 @@ function continuarTrilha(){
     rel="noopener"
     aria-label="Falar pelo WhatsApp"
 >
+
     <img
         src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/whatsapp.svg"
         alt="WhatsApp"
     >
+
 </a>
+
 
 </body>
 
