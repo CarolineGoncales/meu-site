@@ -939,37 +939,67 @@ def validar_certificado(
 
     trilhas = {
 
-        "PY": {
-            "nome": "TRILHA PYTHON",
-            "horas": 60,
-            "trilha": "python"
-        },
+    "PY": {
+        "nome": "TRILHA PYTHON",
+        "horas": 30,
+        "trilha": "python"
+    },
 
-        "GP": {
-            "nome": "TRILHA ANALISTA DE PROJETOS",
-            "horas": 80,
-            "trilha": "projetos"
-        },
+    "GP": {
+        "nome": "TRILHA ANALISTA DE PROJETOS",
+        "horas": 30,
+        "trilha": "projetos"
+    },
 
-        "IA": {
-            "nome": "TRILHA INTELIGÊNCIA ARTIFICIAL",
-            "horas": 70,
-            "trilha": "ia"
-        },
+    "IA": {
+        "nome": "TRILHA INTELIGÊNCIA ARTIFICIAL",
+        "horas": 30,
+        "trilha": "ia"
+    },
 
-        "CL": {
-            "nome": "TRILHA CLOUD & DEVOPS",
-            "horas": 80,
-            "trilha": "cloud"
-        },
+    "CL": {
+        "nome": "TRILHA CLOUD & DEVOPS",
+        "horas": 36,
+        "trilha": "cloud"
+    },
 
-        "PRO": {
-            "nome": "CERTIFICAÇÃO PROFISSIONAL CPG",
-            "horas": 290,
-            "trilha": "geral"
-        }
+    "BD": {
+        "nome": "TRILHA BANCO DE DADOS",
+        "horas": 24,
+        "trilha": "banco-de-dados"
+    },
 
+    "BI": {
+        "nome": "TRILHA DADOS & BUSINESS INTELLIGENCE",
+        "horas": 24,
+        "trilha": "dados-bi"
+    },
+
+    "WEB": {
+        "nome": "TRILHA DESENVOLVIMENTO WEB",
+        "horas": 26,
+        "trilha": "desenvolvimento-web"
+    },
+
+    "RED": {
+        "nome": "TRILHA REDES DE COMPUTADORES",
+        "horas": 24,
+        "trilha": "redes-computadores"
+    },
+
+    "SEG": {
+        "nome": "TRILHA SEGURANÇA DA INFORMAÇÃO",
+        "horas": 26,
+        "trilha": "seguranca-informacao"
+    },
+
+    "PRO": {
+        "nome": "CERTIFICAÇÃO PROFISSIONAL CPG",
+        "horas": 250,
+        "trilha": "geral"
     }
+
+}
 
 
     if codigo_trilha not in trilhas:
