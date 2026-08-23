@@ -812,27 +812,10 @@ async function carregarCertificados(){
     ==========================================
     */
 
-    const trilhas = [
-
-        ["python", 6],
-
-        ["ia", 6],
-
-        ["cloud", 8],
-
-        ["projetos", 6],
-
-        ["banco-de-dados", 6],
-
-        ["dados-bi", 6],
-
-        ["desenvolvimento-web", 6],
-
-        ["redes-computadores", 6],
-
-        ["seguranca-informacao", 6]
-
-    ];
+    const trilhas = CPG.trilhas.map((nome) => [
+        nome,
+        CPG.totalApostilas[nome]
+    ]);
 
 
     let concluidas = 0;
@@ -902,7 +885,7 @@ async function carregarCertificados(){
                 status.innerHTML =
 
                 `<span class="pendente">
-                ${totalConcluido}/${totalEsperado} apostilas concluídas
+                ${totalConcluido}/${totalEsperado} conteúdos concluídos
                 </span>`;
 
 

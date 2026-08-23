@@ -27,6 +27,29 @@ import urllib.error
 
 from sqlalchemy import Column, Integer, String, DateTime, Boolean
 
+TOTAL_CONTEUDOS_TRILHA = {
+    "python": 6,
+    "ia": 6,
+    "cloud": 8,
+    "projetos": 24,
+    "banco-de-dados": 6,
+    "dados-bi": 6,
+    "desenvolvimento-web": 6,
+    "redes-computadores": 6,
+    "seguranca-informacao": 6,
+}
+
+TRILHAS_CERTIFICADO_GERAL = (
+    "python",
+    "ia",
+    "cloud",
+    "projetos",
+    "banco-de-dados",
+    "dados-bi",
+    "desenvolvimento-web",
+    "redes-computadores",
+    "seguranca-informacao",
+)
 
 app = FastAPI(
     title="CPG Estude Comigo"
@@ -304,7 +327,7 @@ def assinatura(
         "checkout": assinatura_mp["init_point"]
 
     }
-    
+
 # ==========================================
 # ENVIO DE E-MAIL DE RECUPERAÇÃO
 # ==========================================
@@ -776,12 +799,7 @@ def certificado(
         trilhas_concluidas = 0
 
 
-        for nome_trilha in (
-            "python",
-            "ia",
-            "cloud",
-            "projetos"
-        ):
+        for nome_trilha in TRILHAS_CERTIFICADO_GERAL:
 
             total = db.query(Progresso).filter(
 
@@ -794,12 +812,12 @@ def certificado(
             ).count()
 
 
-            if total >= 6:
+            if total >= TOTAL_CONTEUDOS_TRILHA[nome_trilha]:
 
                 trilhas_concluidas += 1
 
 
-        if trilhas_concluidas < 4:
+        if trilhas_concluidas < len(TRILHAS_CERTIFICADO_GERAL):
 
             return {
                 "erro": "Certificação profissional ainda não liberada"
@@ -848,7 +866,7 @@ def certificado(
     ).count()
 
 
-    if concluidas < 6:
+    if concluidas < TOTAL_CONTEUDOS_TRILHA[trilha]:
 
         return {
 
@@ -1037,12 +1055,7 @@ def validar_certificado(
         trilhas_concluidas = 0
 
 
-        for nome_trilha in (
-            "python",
-            "ia",
-            "cloud",
-            "projetos"
-        ):
+        for nome_trilha in TRILHAS_CERTIFICADO_GERAL:
 
             total = db.query(Progresso).filter(
 
@@ -1055,12 +1068,12 @@ def validar_certificado(
             ).count()
 
 
-            if total >= 6:
+            if total >= TOTAL_CONTEUDOS_TRILHA[nome_trilha]:
 
                 trilhas_concluidas += 1
 
 
-        if trilhas_concluidas < 4:
+        if trilhas_concluidas < len(TRILHAS_CERTIFICADO_GERAL):
 
             return {
                 "erro": "Certificado ainda não liberado"
@@ -1080,7 +1093,7 @@ def validar_certificado(
         ).count()
 
 
-        if total < 6:
+        if total < TOTAL_CONTEUDOS_TRILHA[dados_trilha["trilha"]]:
 
             return {
                 "erro": "Certificado ainda não liberado"
@@ -1208,5 +1221,167 @@ def progresso(
             item.apostila
             for item in progresso
         ]
+
+    }
+
+# ==========================================
+# PROGRESSO DOS VÍDEOS — TRILHA PROJETOS
+# ==========================================
+
+@app.get("/progresso-projetos")
+def progresso_projetos(
+    email: str,
+    db: Session = Depends(get_db)
+):
+
+    usuario = db.query(Assinante).filter(
+        Assinante.email == email
+    ).first()
+
+
+    if not usuario:
+
+        return {
+            "erro": "Usuário não encontrado"
+        }
+
+
+    progresso = db.query(Progresso).filter(
+
+        Progresso.assinante_id == usuario.id,
+
+        Progresso.trilha == "projetos",
+
+        Progresso.apostila >= 101,
+
+        Progresso.apostila <= 123,
+
+        Progresso.concluido == True
+
+    ).all()
+
+
+    return {
+
+        "conteudos": [
+            item.apostila
+            for item in progresso
+        ]
+
+    }
+
+
+# ==========================================
+# CONCLUIR VÍDEO — TRILHA PROJETOS
+# ==========================================
+
+@app.post("/concluir-conteudo-projetos")
+def concluir_conteudo_projetos(
+    email: str = Form(...),
+    conteudo: int = Form(...),
+    db: Session = Depends(get_db)
+):
+
+    # --------------------------------------
+    # Validação do conteúdo
+    # --------------------------------------
+
+    if conteudo < 101 or conteudo > 123:
+
+        return {
+
+            "erro":
+            "Conteúdo inválido para a trilha de projetos."
+
+        }
+
+
+    # --------------------------------------
+    # Procura o usuário
+    # --------------------------------------
+
+    usuario = db.query(Assinante).filter(
+        Assinante.email == email
+    ).first()
+
+
+    if not usuario:
+
+        return {
+
+            "erro":
+            "Usuário não encontrado"
+
+        }
+
+
+    # --------------------------------------
+    # Verifica se já foi concluído
+    # --------------------------------------
+
+    progresso = db.query(Progresso).filter(
+
+        Progresso.assinante_id == usuario.id,
+
+        Progresso.trilha == "projetos",
+
+        Progresso.apostila == conteudo
+
+    ).first()
+
+
+    # --------------------------------------
+    # Se já existe, não cria duplicado
+    # --------------------------------------
+
+    if progresso:
+
+        if not progresso.concluido:
+
+            progresso.concluido = True
+
+            db.commit()
+
+
+        return {
+
+            "mensagem":
+            "Conteúdo já concluído",
+
+            "conteudo":
+            conteudo
+
+        }
+
+
+    # --------------------------------------
+    # Cria o progresso do vídeo
+    # --------------------------------------
+
+    novo_progresso = Progresso(
+
+        assinante_id=usuario.id,
+
+        trilha="projetos",
+
+        apostila=conteudo,
+
+        concluido=True
+
+    )
+
+
+    db.add(novo_progresso)
+
+    db.commit()
+
+
+    return {
+
+        "mensagem":
+        "Vídeo concluído com sucesso",
+
+        "conteudo":
+        conteudo
 
     }
