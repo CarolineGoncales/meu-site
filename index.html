@@ -39,6 +39,7 @@ data-voice="Maravilha. Nós estamos na página principal. Aqui temos informaçõ
 
 </header>
 
+
 <section class="hero">
 
 <div class="hero-container">
@@ -47,470 +48,1188 @@ data-voice="Maravilha. Nós estamos na página principal. Aqui temos informaçõ
 
 <h1>Curso e Certificação Profissional</h1>
 
-<p>Oferecemos cursos pagos e gratuitos com certificação profissional. Conheça também o "Estude Comigo": uma biblioteca de estudos com materiais e conteúdos para acelerar sua evolução profissional.</p>
+<p>
+Oferecemos cursos pagos e gratuitos com certificação profissional.
+Conheça também o "Estude Comigo": uma biblioteca de estudos com
+materiais e conteúdos para acelerar sua evolução profissional.
+</p>
 
 <div class="hero-buttons">
 
-<a href="cursos.html#pagos" class="btn-primary">Cursos Pagos</a>
+<a href="cursos.html#pagos" class="btn-primary">
+Cursos Pagos
+</a>
 
-<a href="cursos.html#gratuitos" class="btn-secondary">Cursos Gratuitos</a>
+<a href="cursos.html#gratuitos" class="btn-secondary">
+Cursos Gratuitos
+</a>
 
 </div>
 
 </div>
 
 <div class="hero-image glow-logo">
-<img src="logo.png" class="logo-animado" alt="Logo CPG">
+
+<img
+src="logo.png"
+class="logo-animado"
+alt="Logo CPG"
+>
+
 </div>
 
 </div>
 
 </section>
 
+
+<!-- =========================================================
+     CARD ESTUDE COMIGO + LOGIN
+========================================================= -->
+
+<style>
+
+.estude-login-faixa{
+
+    width:100%;
+
+    padding:45px 20px 55px;
+
+    box-sizing:border-box;
+
+    background:transparent;
+
+    position:relative;
+
+    overflow:hidden;
+
+    margin-top:-10px;
+
+}
+
+
+.estude-login-container{
+
+    max-width:1110px;
+
+    margin:0 auto;
+
+    position:relative;
+
+    z-index:2;
+
+}
+
+
+.estude-login-card{
+
+    display:grid;
+
+    grid-template-columns:1.35fr 1fr;
+
+    align-items:stretch;
+
+    border:1px solid rgba(35,190,255,.55);
+
+    border-radius:24px;
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(5,22,45,.97),
+            rgba(5,20,40,.96)
+        );
+
+    box-shadow:
+
+        0 20px 55px rgba(0,0,0,.30),
+
+        0 0 35px rgba(0,174,255,.08);
+
+    overflow:hidden;
+
+}
+
+
+/* =========================
+   LADO ESQUERDO
+========================= */
+
+.estude-login-info{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:34px;
+
+    padding:48px 48px 42px;
+
+}
+
+
+.estude-login-icon{
+
+    flex:0 0 165px;
+
+    width:165px;
+
+    height:165px;
+
+    border-radius:50%;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    border:1px solid rgba(47,202,255,.50);
+
+    background:
+
+        radial-gradient(
+            circle,
+            rgba(13,96,160,.40),
+            rgba(3,20,43,.85)
+        );
+
+    box-shadow:
+
+        0 0 30px rgba(0,190,255,.12),
+
+        inset 0 0 25px rgba(0,190,255,.08);
+
+}
+
+
+.estude-login-icon span{
+
+    font-size:74px;
+
+    line-height:1;
+
+    filter:
+        drop-shadow(
+            0 0 10px
+            rgba(61,215,255,.40)
+        );
+
+}
+
+
+.estude-login-text{
+
+    min-width:0;
+
+}
+
+
+.estude-login-text h2{
+
+    margin:0;
+
+    color:#fff;
+
+    font-size:48px;
+
+    line-height:1.05;
+
+    font-weight:800;
+
+}
+
+
+.estude-login-text h2 span{
+
+    color:#27c8f4;
+
+}
+
+
+.estude-login-line{
+
+    width:70px;
+
+    height:3px;
+
+    margin:16px 0 18px;
+
+    background:#20c9f5;
+
+    border-radius:3px;
+
+}
+
+
+.estude-login-text p{
+
+    margin:0;
+
+    color:#d6e0eb;
+
+    font-size:16px;
+
+    line-height:1.6;
+
+    max-width:610px;
+
+}
+
+
+/* =========================
+   BENEFÍCIOS
+========================= */
+
+.estude-beneficios{
+
+    display:flex;
+
+    gap:25px;
+
+    margin-top:25px;
+
+    flex-wrap:wrap;
+
+}
+
+
+.estude-beneficio{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:8px;
+
+    color:#eef6ff;
+
+    font-size:14px;
+
+    line-height:1.25;
+
+}
+
+
+.estude-beneficio span{
+
+    font-size:23px;
+
+}
+
+
+/* =========================
+   LADO LOGIN
+========================= */
+
+.estude-login-acesso{
+
+    min-height:100%;
+
+    padding:42px 40px;
+
+    border-left:
+        1px solid
+        rgba(255,255,255,.14);
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    justify-content:center;
+
+    text-align:center;
+
+}
+
+
+.estude-login-acesso h3{
+
+    margin:0 0 12px;
+
+    color:#fff;
+
+    font-size:28px;
+
+}
+
+
+.estude-login-acesso p{
+
+    margin:0 0 22px;
+
+    max-width:350px;
+
+    color:#d6e0eb;
+
+    line-height:1.5;
+
+    font-size:15px;
+
+}
+
+
+/* =========================
+   BOTÃO LOGIN REDUZIDO
+========================= */
+
+.estude-login-btn{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    gap:8px;
+
+    width:100%;
+
+    max-width:310px;
+
+    box-sizing:border-box;
+
+    padding:10px 15px;
+
+    border-radius:11px;
+
+    background:
+        linear-gradient(
+            135deg,
+            #1bc3f3,
+            #0798df
+        );
+
+    color:#fff !important;
+
+    text-decoration:none;
+
+    font-size:16px;
+
+    font-weight:700;
+
+    box-shadow:
+        0 8px 24px
+        rgba(0,165,235,.22);
+
+    transition:
+        transform .2s ease,
+        box-shadow .2s ease;
+
+}
+
+
+.estude-login-btn:hover{
+
+    transform:translateY(-2px);
+
+    box-shadow:
+        0 12px 30px
+        rgba(0,165,235,.34);
+
+}
+
+
+.estude-seguro{
+
+    margin-top:20px;
+
+    color:#b8c9d8;
+
+    font-size:12px;
+
+}
+
+
+.estude-seguro span{
+
+    color:#27d4f5;
+
+    margin-right:6px;
+
+}
+
+
+/* =========================
+   RESPONSIVO
+========================= */
+
+@media(max-width:850px){
+
+    .estude-login-card{
+
+        grid-template-columns:1fr;
+
+    }
+
+
+    .estude-login-acesso{
+
+        border-left:0;
+
+        border-top:
+            1px solid
+            rgba(255,255,255,.14);
+
+    }
+
+}
+
+
+@media(max-width:600px){
+
+    .estude-login-faixa{
+
+        padding:35px 14px 45px;
+
+    }
+
+
+    .estude-login-info{
+
+        flex-direction:column;
+
+        text-align:center;
+
+        padding:35px 24px;
+
+    }
+
+
+    .estude-login-icon{
+
+        width:125px;
+
+        height:125px;
+
+        flex-basis:125px;
+
+    }
+
+
+    .estude-login-icon span{
+
+        font-size:58px;
+
+    }
+
+
+    .estude-login-text h2{
+
+        font-size:38px;
+
+    }
+
+
+    .estude-login-line{
+
+        margin-left:auto;
+
+        margin-right:auto;
+
+    }
+
+
+    .estude-beneficios{
+
+        justify-content:center;
+
+        gap:18px;
+
+    }
+
+
+    .estude-login-acesso{
+
+        padding:32px 22px;
+
+    }
+
+}
+
+</style>
+
+
+<section class="estude-login-faixa">
+
+    <div class="estude-login-container">
+
+        <div class="estude-login-card">
+
+
+            <!-- LADO ESTUDE COMIGO -->
+
+            <div class="estude-login-info">
+
+                <div class="estude-login-icon">
+
+                    <span>📖</span>
+
+                </div>
+
+
+                <div class="estude-login-text">
+
+                    <h2>
+                        Estude <span>Comigo</span>
+                    </h2>
+
+
+                    <div class="estude-login-line"></div>
+
+
+                    <p>
+
+                        Sua área de estudos completa com
+                        trilhas de aprendizado, materiais
+                        exclusivos, apostilas e conteúdos
+                        selecionados para acelerar sua
+                        evolução profissional.
+
+                    </p>
+
+
+                    <div class="estude-beneficios">
+
+
+                        <div class="estude-beneficio">
+
+                            <span>🎓</span>
+
+                            <div>
+                                Trilhas de<br>
+                                Aprendizado
+                            </div>
+
+                        </div>
+
+
+                        <div class="estude-beneficio">
+
+                            <span>📄</span>
+
+                            <div>
+                                Apostilas e<br>
+                                Materiais
+                            </div>
+
+                        </div>
+
+
+                        <div class="estude-beneficio">
+
+                            <span>🏅</span>
+
+                            <div>
+                                Acompanhe seu<br>
+                                Progresso
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- LADO LOGIN -->
+
+            <div class="estude-login-acesso">
+
+                <h3>
+                    Área do Aluno
+                </h3>
+
+
+                <p>
+
+                    Acesse sua conta para continuar
+                    aprendendo e conquistar seus
+                    certificados.
+
+                </p>
+
+
+                <a
+                    href="login.html"
+                    class="estude-login-btn"
+                >
+
+                    👤 LOGIN
+
+                </a>
+
+
+                <div class="estude-seguro">
+
+                    <span>🛡</span>
+
+                    Ambiente seguro e exclusivo
+                    para alunos
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
 </section>
 
-<!--
 
-<section class="estude-destaque">
-
-<div class="estude-card">
-
-<div class="estude-icon">
-📖
-</div>
-
-<div class="estude-content">
-
-<h2>Estude Comigo</h2>
-
-<p>
-Uma área exclusiva de estudos com materiais,
-trilhas de aprendizado, apostilas e conteúdos
-para acelerar sua evolução profissional.
-</p>
-
-<a href="estude-comigo.html" class="btn-primary">
-Acessar área de estudos
-</a>
-
-</div>
-
-</div>
-
-</section> -->
-
+<!-- =========================================================
+     FAIXA DE LOGOS ORIGINAL
+========================================================= -->
 
 <div class="faixa-logos">
-  <div class="logos-track">
 
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
+<div class="logos-track">
 
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
 
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
 
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
 
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-  
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-
-     <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-  
-     <div class="logo-item" onclick="abrirPopup('Alura')">
-      <img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Udemy')">
-      <img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Hotmart')">
-      <img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
-    </div>
-
-    <div class="logo-item" onclick="abrirPopup('Gonçales')">
-      <img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
-    </div>
-  
-  
-    
-  </div>
 </div>
 
-<!-- ✅ NOVO FOOTER -->
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
+
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
+
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
+
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
+
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
+
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
+
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
+
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
+
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
+
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
+
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Alura')">
+
+<img src="4DECF0B1-CFEB-4BF6-8F50-F409C7029E0B_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Udemy')">
+
+<img src="9E0A4B7D-AB7C-4090-974F-62C1482A96D2_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Hotmart')">
+
+<img src="AF9FE966-FA7C-4A80-9E76-4A3FF2C7D2F5_4_5005_c.jpeg">
+
+</div>
+
+
+<div class="logo-item"
+onclick="abrirPopup('Gonçales')">
+
+<img src="4AD2D31D-D5D9-4A42-971A-2D077F1D23B3_1_201_a.jpeg">
+
+</div>
+
+
+</div>
+</div>
+
+
+<!-- =========================================================
+     FOOTER ORIGINAL
+========================================================= -->
 
 <footer class="footer">
-  <div class="footer-content">
-    
-    <h3>CPG</h3>
-    <p>Capacitação profissional em tecnologia, dados e projetos.</p>
 
-    <div class="footer-links">
-      <a href="index.html">Home</a>
-      <a href="cursos.html">Cursos</a>
-      <a href="estude-comigo.html">Estude Comigo</a>
-      <a href="certificacao.html">Certificação</a>
-      <a href="contato.html">Contato</a>
-      <a href="javascript:void(0)" class="play-btn" onclick="abrirPlayPopup()">
-  CPG Play
+<div class="footer-content">
+
+<h3>CPG</h3>
+
+<p>
+Capacitação profissional em tecnologia,
+dados e projetos.
+</p>
+
+
+<div class="footer-links">
+
+<a href="index.html">
+Home
 </a>
 
-    </div>
+<a href="cursos.html">
+Cursos
+</a>
 
-    <p class="footer-copy">© 2026 CPG - Todos os direitos reservados</p>
-    <p class="footer-copy">CNPJ: 65.223.812/0001-41 </p>
-  </div>
+<a href="estude-comigo.html">
+Estude Comigo
+</a>
+
+<a href="certificacao.html">
+Certificação
+</a>
+
+<a href="contato.html">
+Contato
+</a>
+
+<a
+href="javascript:void(0)"
+class="play-btn"
+onclick="abrirPlayPopup()"
+>
+CPG Play
+</a>
+
+</div>
+
+
+<p class="footer-copy">
+© 2026 CPG - Todos os direitos reservados
+</p>
+
+<p class="footer-copy">
+CNPJ: 65.223.812/0001-41
+</p>
+
+</div>
+
 </footer>
 
+
 <div id="popupLogo" class="popup">
-  <div class="popup-content">
-    <span class="fechar" onclick="fecharPopup()">×</span>
-    <h3 id="tituloPopup"></h3>
-    <p id="textoPopup"></p>
-  </div>
+
+<div class="popup-content">
+
+<span
+class="fechar"
+onclick="fecharPopup()"
+>
+×
+</span>
+
+<h3 id="tituloPopup"></h3>
+
+<p id="textoPopup"></p>
+
 </div>
+
+</div>
+
 
 <div id="playPopup" class="play-popup">
 
-  <div class="play-popup-content">
+<div class="play-popup-content">
 
-    <div class="play-glow"></div>
+<div class="play-glow"></div>
 
-    <h2>⚡ CPG PLAY</h2>
+<h2>
+⚡ CPG PLAY
+</h2>
 
-    <p>
-      Você está prestes a entrar em outro universo.
-    </p>
+<p>
+Você está prestes a entrar em outro universo.
+</p>
 
-    <span>
-      Uma experiência interativa criada para explorar tecnologia,
-      desafios, criatividade e inovação.
-    </span>
+<span>
 
-    <div class="play-buttons">
+Uma experiência interativa criada para explorar
+tecnologia, desafios, criatividade e inovação.
 
-      <a href="play.html" class="enter-play">
-        Entrar
-      </a>
+</span>
 
-      <button onclick="fecharPlayPopup()" class="cancel-play">
-        Cancelar
-      </button>
 
-    </div>
+<div class="play-buttons">
 
-  </div>
+<a
+href="play.html"
+class="enter-play"
+>
+Entrar
+</a>
+
+
+<button
+onclick="fecharPlayPopup()"
+class="cancel-play"
+>
+Cancelar
+</button>
 
 </div>
+
+</div>
+
+</div>
+
 
 <script>
 
 function abrirPlayPopup() {
-  document.getElementById("playPopup").style.display = "flex";
+
+    document.getElementById("playPopup").style.display = "flex";
+
 }
 
+
 function fecharPlayPopup() {
-  document.getElementById("playPopup").style.display = "none";
+
+    document.getElementById("playPopup").style.display = "none";
+
 }
 
 </script>
 
 
-<!-- <button id="voiceButton">
-
+<!--
+<button id="voiceButton">
 🔊 Ativar voz
-
 </button>
 
 <audio id="apresentacaoAudio">
@@ -522,6 +1241,9 @@ type="audio/mp4">
 </audio>
 
 <script src="scripts.js"></script>
+-->
+
 
 </body>
-</html> -->
+
+</html>
