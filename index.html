@@ -81,12 +81,6 @@ alt="Logo CPG"
 </div>
 
 </section>
-
-
-<!-- =========================================================
-     CARD ESTUDE COMIGO + LOGIN
-========================================================= -->
-
 <style>
 
 .estude-login-faixa{
@@ -372,7 +366,7 @@ alt="Logo CPG"
 
 
 /* =========================
-   BOTÃO LOGIN REDUZIDO
+   BOTÃO LOGIN
 ========================= */
 
 .estude-login-btn{
@@ -387,7 +381,7 @@ alt="Logo CPG"
 
     width:100%;
 
-    max-width:310px;
+    max-width:280px;
 
     box-sizing:border-box;
 
@@ -418,6 +412,8 @@ alt="Logo CPG"
         transform .2s ease,
         box-shadow .2s ease;
 
+    -webkit-tap-highlight-color:transparent;
+
 }
 
 
@@ -432,11 +428,15 @@ alt="Logo CPG"
 }
 
 
+/* =========================
+   AMBIENTE SEGURO
+========================= */
+
 .estude-seguro{
 
     margin-top:20px;
 
-    color:#b8c9d8;
+    color:#fff;
 
     font-size:12px;
 
@@ -549,34 +549,81 @@ alt="Logo CPG"
 
 }
 
-@media (max-width: 600px){
+
+/* =========================
+   CORREÇÃO DO LOGIN NO CELULAR
+========================= */
+
+@media (max-width:600px){
 
     .estude-login-card{
+
         width:100%;
+
         max-width:100%;
+
+        min-width:0;
+
         box-sizing:border-box;
+
     }
+
+
+    .estude-login-acesso{
+
+        width:100%;
+
+        min-width:0;
+
+        max-width:100%;
+
+        box-sizing:border-box;
+
+    }
+
 
     .estude-login-btn{
-        width:100%;
-        max-width:280px;
-        flex-shrink:0;
+
+        width:280px;
+
+        max-width:100%;
+
+        min-width:0;
+
+        flex:none;
+
         box-sizing:border-box;
+
+        transform:none !important;
+
+        transition:none;
+
         -webkit-tap-highlight-color:transparent;
+
     }
 
+
+    .estude-login-btn:hover,
     .estude-login-btn:focus,
     .estude-login-btn:active{
-        width:100%;
-        max-width:280px;
-        transform:none;
+
+        width:280px;
+
+        max-width:100%;
+
+        transform:none !important;
+
         outline:none;
+
+        box-shadow:
+            0 8px 24px
+            rgba(0,165,235,.22);
+
     }
 
 }
 
 </style>
-
 
 <section class="estude-login-faixa">
 
