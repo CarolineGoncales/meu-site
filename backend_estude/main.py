@@ -27,6 +27,7 @@ import urllib.error
 
 from sqlalchemy import Column, Integer, String, DateTime, Boolean
 
+
 TOTAL_CONTEUDOS_TRILHA = {
     "python": 6,
     "ia": 6,
@@ -39,6 +40,7 @@ TOTAL_CONTEUDOS_TRILHA = {
     "seguranca-informacao": 6,
 }
 
+
 TRILHAS_CERTIFICADO_GERAL = (
     "python",
     "ia",
@@ -50,6 +52,7 @@ TRILHAS_CERTIFICADO_GERAL = (
     "redes-computadores",
     "seguranca-informacao",
 )
+
 
 app = FastAPI(
     title="CPG Estude Comigo"
@@ -66,7 +69,6 @@ app.add_middleware(
 
 
 app.include_router(webhook_router)
-
 
 
 # ==========================================
@@ -107,14 +109,11 @@ class ResetSenha(Base):
     )
 
 
-# Cria a tabela caso ainda não exista
 Base.metadata.create_all(
     bind=engine
 )
 
 
-# Atualiza automaticamente as novas colunas
-# do cadastro no banco existente.
 atualizar_banco()
 
 
@@ -138,6 +137,10 @@ def inicio():
     }
 
 
+# ==========================================
+# CADASTRO
+# ==========================================
+
 @app.post("/cadastro")
 def cadastro(
     nome: str = Form(...),
@@ -153,6 +156,8 @@ def cadastro(
     senha: str = Form(...),
     db: Session = Depends(get_db)
 ):
+
+    email = email.strip().lower()
 
     novo_assinante = Assinante(
 
@@ -206,10 +211,16 @@ def cadastro(
 
         "mensagem": "Usuário criado",
 
-        "id": novo_assinante.id
+        "id": novo_assinante.id,
+
+        "status": "pendente"
 
     }
 
+
+# ==========================================
+# LOGIN
+# ==========================================
 
 @app.post("/login")
 def login(
@@ -217,6 +228,8 @@ def login(
     senha: str = Form(...),
     db: Session = Depends(get_db)
 ):
+
+    email = email.strip().lower()
 
     usuario = db.query(Assinante).filter(
         Assinante.email == email
@@ -246,7 +259,9 @@ def login(
     if usuario.status != "ativo":
 
         return {
-            "erro": "Assinatura pendente"
+            "erro": "Assinatura pendente",
+            "status": usuario.status,
+            "status_pagamento": usuario.status_pagamento
         }
 
 
@@ -279,6 +294,7 @@ def assinatura(
 
     email = email.strip().lower()
 
+
     usuario = db.query(
         Assinante
     ).filter(
@@ -289,46 +305,88 @@ def assinatura(
     if not usuario:
 
         return {
-            "erro":
-                "Usuário não encontrado"
+            "erro": "Usuário não encontrado"
         }
 
+
+    # =====================================================
+    # CRIA A ASSINATURA NO PAGBANK
+    # =====================================================
 
     resultado = criar_assinatura(
         email
     )
 
 
-    if resultado["status"] != 201:
+    # =====================================================
+    # ERRO AO CRIAR ASSINATURA
+    # =====================================================
+
+    if not resultado:
+
+        return {
+            "erro": "Erro ao preparar pagamento"
+        }
+
+
+    if resultado.get("status") not in (
+        200,
+        201
+    ):
 
         return {
 
-            "erro":
-                "Erro ao preparar pagamento",
+            "erro": "Erro ao preparar pagamento",
 
-            "dados":
-                resultado
+            "dados": resultado
 
         }
 
 
-    pagamento = resultado[
-        "response"
-    ]
-
-
-    # =====================================================
-    # O ALUNO CONTINUA PENDENTE ATÉ O PAGBANK CONFIRMAR
-    # =====================================================
-
-    usuario.status_pagamento = (
-        "pending"
+    pagamento = resultado.get(
+        "response",
+        {}
     )
 
 
-    usuario.status = (
-        "pendente"
+    # =====================================================
+    # LINK DE PAGAMENTO
+    #
+    # A função criar_assinatura() deverá devolver
+    # checkout_url no PagBank.
+    #
+    # Mantemos os outros formatos como fallback
+    # para evitar quebra durante a migração.
+    # =====================================================
+
+    checkout_url = (
+        pagamento.get("checkout_url")
+        or pagamento.get("payment_url")
+        or pagamento.get("init_point")
     )
+
+
+    if not checkout_url:
+
+        return {
+
+            "erro":
+                "O PagBank não retornou o link de pagamento",
+
+            "dados":
+                pagamento
+
+        }
+
+
+    # =====================================================
+    # O ALUNO CONTINUA PENDENTE
+    # ATÉ O WEBHOOK DO PAGBANK CONFIRMAR O PAGAMENTO
+    # =====================================================
+
+    usuario.status_pagamento = "pending"
+
+    usuario.status = "pendente"
 
 
     db.commit()
@@ -343,9 +401,10 @@ def assinatura(
             "pending",
 
         "checkout":
-            pagamento["init_point"]
+            checkout_url
 
     }
+
 
 # ==========================================
 # ENVIO DE E-MAIL DE RECUPERAÇÃO
@@ -373,7 +432,13 @@ def enviar_email_reset(email, nome, link):
 
     }
 
-    corpo = json.dumps(dados).encode("utf-8")
+
+    corpo = json.dumps(
+        dados
+    ).encode(
+        "utf-8"
+    )
+
 
     requisicao = urllib.request.Request(
 
@@ -389,6 +454,7 @@ def enviar_email_reset(email, nome, link):
 
     )
 
+
     try:
 
         with urllib.request.urlopen(
@@ -402,13 +468,16 @@ def enviar_email_reset(email, nome, link):
                 "utf-8"
             )
 
+
             if status != 200:
 
                 raise Exception(
                     f"EmailJS retornou HTTP {status}: {conteudo}"
                 )
 
+
             return True
+
 
     except urllib.error.HTTPError as erro:
 
@@ -417,13 +486,16 @@ def enviar_email_reset(email, nome, link):
             errors="ignore"
         )
 
+
         print(
             "ERRO EMAILJS:",
             erro.code,
             detalhes
         )
 
+
         return False
+
 
     except Exception as erro:
 
@@ -432,7 +504,9 @@ def enviar_email_reset(email, nome, link):
             erro
         )
 
-        return False    
+
+        return False
+
 
 # ==========================================
 # SOLICITAR RECUPERAÇÃO DE SENHA
@@ -446,21 +520,28 @@ def solicitar_reset(
 
     email = email.strip().lower()
 
+
     usuario = db.query(Assinante).filter(
         Assinante.email == email
     ).first()
 
+
     # Não revela se o e-mail existe ou não
+
     if not usuario:
 
         return {
+
             "mensagem":
             "Se o e-mail estiver cadastrado, "
             "você receberá em instantes "
             "as instruções para redefinir sua senha."
+
         }
 
+
     # Invalida solicitações anteriores
+
     tokens_antigos = db.query(
         ResetSenha
     ).filter(
@@ -468,45 +549,67 @@ def solicitar_reset(
         ResetSenha.usado == False
     ).all()
 
+
     for token_antigo in tokens_antigos:
+
         token_antigo.usado = True
 
+
     # Gera um novo token
+
     token = secrets.token_urlsafe(32)
+
 
     token_hash = hashlib.sha256(
         token.encode("utf-8")
     ).hexdigest()
+
 
     expiracao = (
         datetime.utcnow()
         + timedelta(hours=1)
     )
 
+
     novo_reset = ResetSenha(
+
         assinante_id=usuario.id,
+
         token_hash=token_hash,
+
         expiracao=expiracao,
+
         usado=False
+
     )
+
 
     db.add(novo_reset)
 
     db.commit()
 
+
     # Link que será enviado por e-mail
+
     link = (
         "https://cpgconsulting.com.br/"
         "nova-senha.html?token="
         + token
     )
 
+
     # Envia pelo EmailJS
+
     enviado = enviar_email_reset(
+
         email=usuario.email,
+
         nome=usuario.nome,
+
         link=link
+
     )
+
 
     if not enviado:
 
@@ -516,12 +619,16 @@ def solicitar_reset(
             usuario.email
         )
 
+
     return {
+
         "mensagem":
         "Se o e-mail estiver cadastrado, "
         "você receberá em instantes "
         "as instruções para redefinir sua senha."
+
     }
+
 
 # ==========================================
 # ALTERAR SENHA COM TOKEN
@@ -541,8 +648,10 @@ def alterar_senha(
     if len(nova_senha) < 6:
 
         return {
+
             "erro":
             "A nova senha deve possuir pelo menos 6 caracteres."
+
         }
 
 
@@ -573,8 +682,10 @@ def alterar_senha(
     if not reset:
 
         return {
+
             "erro":
             "Este link de recuperação é inválido ou já foi utilizado."
+
         }
 
 
@@ -589,8 +700,10 @@ def alterar_senha(
         db.commit()
 
         return {
+
             "erro":
             "Este link de recuperação expirou. Solicite uma nova alteração de senha."
+
         }
 
 
@@ -614,8 +727,10 @@ def alterar_senha(
         db.commit()
 
         return {
+
             "erro":
             "Usuário não encontrado."
+
         }
 
 
@@ -643,36 +758,61 @@ def alterar_senha(
         "mensagem":
         "Senha alterada com sucesso."
 
-    }    
-    
+    }
+
+
+# ==========================================
+# MEUS DADOS
+# ==========================================
+
 @app.get("/meus-dados")
 def meus_dados(
     email: str,
     db: Session = Depends(get_db)
 ):
 
+    email = email.strip().lower()
+
     usuario = db.query(Assinante).filter(
         Assinante.email == email
     ).first()
 
+
     if not usuario:
+
         return {
             "erro": "Usuário não encontrado"
         }
 
+
     return {
+
         "nome": usuario.nome,
+
         "cpf": usuario.cpf,
+
         "cep": usuario.cep,
+
         "rua": usuario.rua,
+
         "numero": usuario.numero,
+
         "bairro": usuario.bairro,
+
         "cidade": usuario.cidade,
+
         "estado": usuario.estado,
+
         "complemento": usuario.complemento,
+
         "email": usuario.email
+
     }
 
+
+# ==========================================
+# ATUALIZAR MEUS DADOS
+# ==========================================
 
 @app.post("/meus-dados")
 def atualizar_meus_dados(
@@ -690,14 +830,20 @@ def atualizar_meus_dados(
     db: Session = Depends(get_db)
 ):
 
+    email = email.strip().lower()
+
+
     usuario = db.query(Assinante).filter(
         Assinante.email == email
     ).first()
 
+
     if not usuario:
+
         return {
             "erro": "Usuário não encontrado"
         }
+
 
     usuario.nome = nome
     usuario.cpf = cpf
@@ -709,16 +855,33 @@ def atualizar_meus_dados(
     usuario.estado = estado
     usuario.complemento = complemento
 
+
     if nova_senha.strip():
-        usuario.senha = criar_hash_senha(nova_senha)
+
+        usuario.senha = criar_hash_senha(
+            nova_senha
+        )
+
 
     db.commit()
+
     db.refresh(usuario)
 
+
     return {
-        "mensagem": "Dados atualizados com sucesso",
-        "nome": usuario.nome
+
+        "mensagem":
+            "Dados atualizados com sucesso",
+
+        "nome":
+            usuario.nome
+
     }
+
+
+# ==========================================
+# CERTIFICADO
+# ==========================================
 
 @app.get("/certificado")
 def certificado(
@@ -726,6 +889,8 @@ def certificado(
     trilha: str,
     db: Session = Depends(get_db)
 ):
+
+    email = email.strip().lower()
 
     usuario = db.query(Assinante).filter(
         Assinante.email == email
@@ -794,6 +959,7 @@ def certificado(
             "horas": 26,
             "codigo": "SEG"
         },
+
         "geral": {
             "nome": "CERTIFICAÇÃO PROFISSIONAL CPG",
             "horas": 250,
@@ -836,10 +1002,13 @@ def certificado(
                 trilhas_concluidas += 1
 
 
-        if trilhas_concluidas < len(TRILHAS_CERTIFICADO_GERAL):
+        if trilhas_concluidas < len(
+            TRILHAS_CERTIFICADO_GERAL
+        ):
 
             return {
-                "erro": "Certificação profissional ainda não liberada"
+                "erro":
+                "Certificação profissional ainda não liberada"
             }
 
 
@@ -867,9 +1036,11 @@ def certificado(
 
             "horas": dados["horas"],
 
-            "codigo": f'CPG-{dados["codigo"]}-{usuario.id:05d}',
+            "codigo":
+                f'CPG-{dados["codigo"]}-{usuario.id:05d}',
 
-            "data": datetime.now().strftime("%d/%m/%Y")
+            "data":
+                datetime.now().strftime("%d/%m/%Y")
 
         }
 
@@ -888,9 +1059,7 @@ def certificado(
     if concluidas < TOTAL_CONTEUDOS_TRILHA[trilha]:
 
         return {
-
             "erro": "Trilha ainda não concluída"
-
         }
 
 
@@ -918,11 +1087,18 @@ def certificado(
 
         "horas": dados["horas"],
 
-        "codigo": f'CPG-{dados["codigo"]}-{usuario.id:05d}',
+        "codigo":
+            f'CPG-{dados["codigo"]}-{usuario.id:05d}',
 
-        "data": datetime.now().strftime("%d/%m/%Y")
+        "data":
+            datetime.now().strftime("%d/%m/%Y")
 
     }
+
+
+# ==========================================
+# VALIDAR CERTIFICADO
+# ==========================================
 
 @app.get("/validar-certificado")
 def validar_certificado(
@@ -941,6 +1117,7 @@ def validar_certificado(
 
     partes = codigo.split("-")
 
+
     if len(partes) != 3:
 
         return {
@@ -951,6 +1128,7 @@ def validar_certificado(
     prefixo = partes[0]
 
     codigo_trilha = partes[1]
+
 
     try:
 
@@ -976,67 +1154,67 @@ def validar_certificado(
 
     trilhas = {
 
-    "PY": {
-        "nome": "TRILHA PYTHON",
-        "horas": 30,
-        "trilha": "python"
-    },
+        "PY": {
+            "nome": "TRILHA PYTHON",
+            "horas": 30,
+            "trilha": "python"
+        },
 
-    "GP": {
-        "nome": "TRILHA ANALISTA DE PROJETOS",
-        "horas": 30,
-        "trilha": "projetos"
-    },
+        "GP": {
+            "nome": "TRILHA ANALISTA DE PROJETOS",
+            "horas": 30,
+            "trilha": "projetos"
+        },
 
-    "IA": {
-        "nome": "TRILHA INTELIGÊNCIA ARTIFICIAL",
-        "horas": 30,
-        "trilha": "ia"
-    },
+        "IA": {
+            "nome": "TRILHA INTELIGÊNCIA ARTIFICIAL",
+            "horas": 30,
+            "trilha": "ia"
+        },
 
-    "CL": {
-        "nome": "TRILHA CLOUD & DEVOPS",
-        "horas": 36,
-        "trilha": "cloud"
-    },
+        "CL": {
+            "nome": "TRILHA CLOUD & DEVOPS",
+            "horas": 36,
+            "trilha": "cloud"
+        },
 
-    "BD": {
-        "nome": "TRILHA BANCO DE DADOS",
-        "horas": 24,
-        "trilha": "banco-de-dados"
-    },
+        "BD": {
+            "nome": "TRILHA BANCO DE DADOS",
+            "horas": 24,
+            "trilha": "banco-de-dados"
+        },
 
-    "BI": {
-        "nome": "TRILHA DADOS & BUSINESS INTELLIGENCE",
-        "horas": 24,
-        "trilha": "dados-bi"
-    },
+        "BI": {
+            "nome": "TRILHA DADOS & BUSINESS INTELLIGENCE",
+            "horas": 24,
+            "trilha": "dados-bi"
+        },
 
-    "WEB": {
-        "nome": "TRILHA DESENVOLVIMENTO WEB",
-        "horas": 26,
-        "trilha": "desenvolvimento-web"
-    },
+        "WEB": {
+            "nome": "TRILHA DESENVOLVIMENTO WEB",
+            "horas": 26,
+            "trilha": "desenvolvimento-web"
+        },
 
-    "RED": {
-        "nome": "TRILHA REDES DE COMPUTADORES",
-        "horas": 24,
-        "trilha": "redes-computadores"
-    },
+        "RED": {
+            "nome": "TRILHA REDES DE COMPUTADORES",
+            "horas": 24,
+            "trilha": "redes-computadores"
+        },
 
-    "SEG": {
-        "nome": "TRILHA SEGURANÇA DA INFORMAÇÃO",
-        "horas": 26,
-        "trilha": "seguranca-informacao"
-    },
+        "SEG": {
+            "nome": "TRILHA SEGURANÇA DA INFORMAÇÃO",
+            "horas": 26,
+            "trilha": "seguranca-informacao"
+        },
 
-    "PRO": {
-        "nome": "CERTIFICAÇÃO PROFISSIONAL CPG",
-        "horas": 250,
-        "trilha": "geral"
+        "PRO": {
+            "nome": "CERTIFICAÇÃO PROFISSIONAL CPG",
+            "horas": 250,
+            "trilha": "geral"
+        }
+
     }
-
-}
 
 
     if codigo_trilha not in trilhas:
@@ -1092,7 +1270,9 @@ def validar_certificado(
                 trilhas_concluidas += 1
 
 
-        if trilhas_concluidas < len(TRILHAS_CERTIFICADO_GERAL):
+        if trilhas_concluidas < len(
+            TRILHAS_CERTIFICADO_GERAL
+        ):
 
             return {
                 "erro": "Certificado ainda não liberado"
@@ -1112,7 +1292,9 @@ def validar_certificado(
         ).count()
 
 
-        if total < TOTAL_CONTEUDOS_TRILHA[dados_trilha["trilha"]]:
+        if total < TOTAL_CONTEUDOS_TRILHA[
+            dados_trilha["trilha"]
+        ]:
 
             return {
                 "erro": "Certificado ainda não liberado"
@@ -1137,9 +1319,15 @@ def validar_certificado(
 
         "codigo": codigo,
 
-        "data": datetime.now().strftime("%d/%m/%Y")
+        "data":
+            datetime.now().strftime("%d/%m/%Y")
 
     }
+
+
+# ==========================================
+# CONCLUIR APOSTILA
+# ==========================================
 
 @app.post("/concluir-apostila")
 def concluir_apostila(
@@ -1148,6 +1336,8 @@ def concluir_apostila(
     apostila: int = Form(...),
     db: Session = Depends(get_db)
 ):
+
+    email = email.strip().lower()
 
     usuario = db.query(Assinante).filter(
         Assinante.email == email
@@ -1191,6 +1381,7 @@ def concluir_apostila(
 
         )
 
+
         db.add(progresso)
 
 
@@ -1204,12 +1395,18 @@ def concluir_apostila(
     }
 
 
+# ==========================================
+# PROGRESSO
+# ==========================================
+
 @app.get("/progresso")
 def progresso(
     email: str,
     trilha: str,
     db: Session = Depends(get_db)
 ):
+
+    email = email.strip().lower()
 
     usuario = db.query(Assinante).filter(
         Assinante.email == email
@@ -1237,11 +1434,15 @@ def progresso(
     return {
 
         "apostilas": [
+
             item.apostila
+
             for item in progresso
+
         ]
 
     }
+
 
 # ==========================================
 # PROGRESSO DOS VÍDEOS — TRILHA PROJETOS
@@ -1252,6 +1453,8 @@ def progresso_projetos(
     email: str,
     db: Session = Depends(get_db)
 ):
+
+    email = email.strip().lower()
 
     usuario = db.query(Assinante).filter(
         Assinante.email == email
@@ -1283,8 +1486,11 @@ def progresso_projetos(
     return {
 
         "conteudos": [
+
             item.apostila
+
             for item in progresso
+
         ]
 
     }
@@ -1318,6 +1524,8 @@ def concluir_conteudo_projetos(
     # --------------------------------------
     # Procura o usuário
     # --------------------------------------
+
+    email = email.strip().lower()
 
     usuario = db.query(Assinante).filter(
         Assinante.email == email

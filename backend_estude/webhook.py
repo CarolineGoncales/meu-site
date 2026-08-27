@@ -13,11 +13,9 @@ def get_db():
     db = SessionLocal()
 
     try:
-
         yield db
 
     finally:
-
         db.close()
 
 
@@ -32,22 +30,23 @@ async def webhook(
 ):
 
     try:
-
         dados = await request.json()
 
     except Exception:
-
         dados = {}
 
 
+    print("========================================")
+    print("WEBHOOK PAGBANK RECEBIDO")
+    print("DADOS:", dados)
+    print("========================================")
+
+
     # =====================================================
-    # EVENTO PAGBANK
+    # EVENTO
     # =====================================================
 
-    evento = dados.get(
-        "event"
-    )
-
+    evento = dados.get("event")
 
     resource = dados.get(
         "resource",
@@ -56,119 +55,77 @@ async def webhook(
 
 
     # =====================================================
-    # LOG PARA TESTES
+    # ESTRUTURA DO PAGBANK
     # =====================================================
 
-    print(
-        "========================================"
-    )
-
-    print(
-        "WEBHOOK PAGBANK RECEBIDO"
-    )
-
-    print(
-        "EVENTO:",
-        evento
-    )
-
-    print(
-        "DADOS:",
-        dados
-    )
-
-    print(
-        "========================================"
-    )
+    if not isinstance(resource, dict):
+        resource = {}
 
 
     # =====================================================
-    # IGNORA EVENTOS QUE NÃO SÃO DE ASSINATURA
+    # TENTA LOCALIZAR OS DADOS DO CLIENTE
     # =====================================================
-
-    eventos_assinatura = (
-
-        "subscription.initial",
-
-        "subscription.updated",
-
-        "subscription.activated",
-
-        "subscription.suspended",
-
-        "subscription.recurrence",
-
-        "subscription.expired",
-
-        "subscription.canceled",
-
-        "subscription.migrated"
-
-    )
-
-
-    if evento not in eventos_assinatura:
-
-        return {
-
-            "status":
-                "ignorado",
-
-            "evento":
-                evento
-
-        }
-
-
-    # =====================================================
-    # DADOS DA ASSINATURA
-    # =====================================================
-
-    assinatura_id = resource.get(
-        "id"
-    )
-
-
-    status_assinatura = resource.get(
-        "status"
-    )
-
 
     cliente = resource.get(
         "customer",
         {}
     )
 
-
-    email = cliente.get(
-        "email"
-    )
+    if not isinstance(cliente, dict):
+        cliente = {}
 
 
-    # =====================================================
-    # VALIDAÇÃO
-    # =====================================================
+    email = cliente.get("email")
 
-    if not assinatura_id:
 
-        return {
+    # Alguns eventos podem trazer o e-mail
+    # em outra parte da estrutura.
 
-            "status":
-                "assinatura_id_nao_encontrado"
+    if not email:
 
-        }
+        email = resource.get("email")
 
 
     if not email:
 
+        email = dados.get("email")
+
+
+    # =====================================================
+    # ID DA ASSINATURA
+    # =====================================================
+
+    assinatura_id = (
+        resource.get("id")
+        or resource.get("subscription_id")
+        or dados.get("subscription_id")
+    )
+
+
+    # =====================================================
+    # STATUS
+    # =====================================================
+
+    status_assinatura = (
+        resource.get("status")
+        or dados.get("status")
+    )
+
+
+    print("EVENTO:", evento)
+    print("ASSINATURA:", assinatura_id)
+    print("EMAIL:", email)
+    print("STATUS:", status_assinatura)
+
+
+    # =====================================================
+    # SEM E-MAIL
+    # =====================================================
+
+    if not email:
+
         return {
-
-            "status":
-                "email_nao_encontrado",
-
-            "assinatura":
-                str(assinatura_id)
-
+            "status": "email_nao_encontrado"
         }
 
 
@@ -176,7 +133,7 @@ async def webhook(
 
 
     # =====================================================
-    # PROCURA O ALUNO PELO E-MAIL
+    # PROCURA O ALUNO
     # =====================================================
 
     usuario = db.query(
@@ -186,10 +143,6 @@ async def webhook(
     ).first()
 
 
-    # =====================================================
-    # ALUNO NÃO ENCONTRADO
-    # =====================================================
-
     if not usuario:
 
         print(
@@ -197,56 +150,108 @@ async def webhook(
             email
         )
 
-
         return {
 
             "status":
                 "usuario_nao_encontrado",
 
             "email":
-                email,
-
-            "assinatura":
-                str(assinatura_id)
+                email
 
         }
 
 
     # =====================================================
-    # SALVA O ID DA ASSINATURA PAGBANK
+    # SALVA ID DA ASSINATURA
     # =====================================================
 
-    usuario.assinatura_id = (
-        str(assinatura_id)
+    if assinatura_id:
+
+        usuario.assinatura_id = str(
+            assinatura_id
+        )
+
+
+    # =====================================================
+    # PAGAMENTO / ASSINATURA APROVADA
+    # =====================================================
+
+    eventos_aprovados = (
+
+        "subscription.activated",
+
+        "subscription.initial",
+
+        "subscription.recurrence",
+
+        "charge.paid",
+
+        "charge.completed",
+
+        "payment.paid",
+
+        "payment.approved"
+
     )
 
 
-    # =====================================================
-    # ASSINATURA ATIVA
-    # =====================================================
+    status_aprovados = (
 
-    if evento == "subscription.activated":
+        "ACTIVE",
 
-        usuario.status = (
-            "ativo"
-        )
+        "PAID",
 
-        usuario.status_pagamento = (
-            "active"
-        )
+        "COMPLETED",
+
+        "APPROVED",
+
+        "AUTHORIZED",
+
+        "AVAILABLE"
+
+    )
+
+
+    if (
+
+        evento in eventos_aprovados
+
+        or status_assinatura in status_aprovados
+
+    ):
+
+        usuario.status = "ativo"
+
+        usuario.status_pagamento = "active"
 
 
         usuario.ultimo_pagamento = (
+
             resource.get(
                 "updated_at"
             )
+
+            or resource.get(
+                "paid_at"
+            )
+
+            or dados.get(
+                "created_at"
+            )
+
         )
 
 
         usuario.proximo_pagamento = (
+
             resource.get(
                 "next_invoice_at"
             )
+
+            or resource.get(
+                "next_payment_at"
+            )
+
         )
 
 
@@ -258,7 +263,7 @@ async def webhook(
         )
 
         print(
-            "PAGAMENTO CONFIRMADO!"
+            "PAGAMENTO CONFIRMADO"
         )
 
         print(
@@ -267,8 +272,7 @@ async def webhook(
         )
 
         print(
-            "STATUS:",
-            usuario.status
+            "ACESSO: LIBERADO"
         )
 
         print(
@@ -279,16 +283,10 @@ async def webhook(
         return {
 
             "status":
-                "atualizado",
-
-            "evento":
-                evento,
+                "pagamento_aprovado",
 
             "usuario":
                 usuario.email,
-
-            "assinatura":
-                str(assinatura_id),
 
             "acesso":
                 "liberado"
@@ -297,46 +295,48 @@ async def webhook(
 
 
     # =====================================================
-    # COBRANÇA RECORRENTE
+    # PAGAMENTO PENDENTE
     # =====================================================
 
-    if evento == "subscription.recurrence":
+    eventos_pendentes = (
 
-        usuario.status_pagamento = (
-            status_assinatura
-            or "active"
-        )
+        "subscription.pending",
 
+        "charge.pending",
 
-        # Se a cobrança recorrente
-        # continua ativa, mantém o acesso.
+        "payment.pending",
 
-        if status_assinatura == "ACTIVE":
+        "payment.in_analysis",
 
-            usuario.status = (
-                "ativo"
-            )
+        "payment.in_analysis"
+
+    )
 
 
-        else:
+    status_pendentes = (
 
-            usuario.status = (
-                "pendente"
-            )
+        "PENDING",
+
+        "IN_ANALYSIS",
+
+        "WAITING",
+
+        "PROCESSING"
+
+    )
 
 
-        usuario.ultimo_pagamento = (
-            resource.get(
-                "updated_at"
-            )
-        )
+    if (
 
+        evento in eventos_pendentes
 
-        usuario.proximo_pagamento = (
-            resource.get(
-                "next_invoice_at"
-            )
-        )
+        or status_assinatura in status_pendentes
+
+    ):
+
+        usuario.status = "pendente"
+
+        usuario.status_pagamento = "pending"
 
 
         db.commit()
@@ -345,42 +345,83 @@ async def webhook(
         return {
 
             "status":
-                "recorrencia_processada",
+                "pagamento_pendente",
 
             "usuario":
                 usuario.email,
 
-            "status_pagamento":
-                status_assinatura
+            "acesso":
+                "bloqueado"
 
         }
 
 
     # =====================================================
-    # ASSINATURA SUSPENSA
+    # PAGAMENTO RECUSADO
     # =====================================================
 
-    if evento == "subscription.suspended":
+    eventos_recusados = (
 
-        usuario.status = (
-            "pendente"
-        )
+        "charge.failed",
 
-        usuario.status_pagamento = (
-            "suspended"
-        )
+        "charge.declined",
+
+        "payment.failed",
+
+        "payment.declined",
+
+        "subscription.suspended"
+
+    )
+
+
+    status_recusados = (
+
+        "FAILED",
+
+        "DECLINED",
+
+        "DENIED",
+
+        "REJECTED",
+
+        "SUSPENDED"
+
+    )
+
+
+    if (
+
+        evento in eventos_recusados
+
+        or status_assinatura in status_recusados
+
+    ):
+
+        usuario.status = "pendente"
+
+        usuario.status_pagamento = "failed"
 
 
         db.commit()
 
 
+        print(
+            "PAGAMENTO RECUSADO:",
+            usuario.email
+        )
+
+
         return {
 
             "status":
-                "assinatura_suspensa",
+                "pagamento_recusado",
 
             "usuario":
-                usuario.email
+                usuario.email,
+
+            "acesso":
+                "bloqueado"
 
         }
 
@@ -389,15 +430,21 @@ async def webhook(
     # ASSINATURA CANCELADA
     # =====================================================
 
-    if evento == "subscription.canceled":
+    if evento in (
 
-        usuario.status = (
-            "pendente"
-        )
+        "subscription.canceled",
 
-        usuario.status_pagamento = (
-            "canceled"
-        )
+        "subscription.cancelled",
+
+        "subscription.expired",
+
+        "subscription.terminated"
+
+    ):
+
+        usuario.status = "pendente"
+
+        usuario.status_pagamento = "canceled"
 
 
         db.commit()
@@ -409,24 +456,29 @@ async def webhook(
                 "assinatura_cancelada",
 
             "usuario":
-                usuario.email
+                usuario.email,
+
+            "acesso":
+                "bloqueado"
 
         }
 
 
     # =====================================================
-    # ASSINATURA EXPIRADA
+    # ASSINATURA SUSPENSA
     # =====================================================
 
-    if evento == "subscription.expired":
+    if evento in (
 
-        usuario.status = (
-            "pendente"
-        )
+        "subscription.suspended",
 
-        usuario.status_pagamento = (
-            "expired"
-        )
+        "subscription.paused"
+
+    ):
+
+        usuario.status = "pendente"
+
+        usuario.status_pagamento = "suspended"
 
 
         db.commit()
@@ -435,72 +487,31 @@ async def webhook(
         return {
 
             "status":
-                "assinatura_expirada",
-
-            "usuario":
-                usuario.email
-
-        }
-
-
-    # =====================================================
-    # ASSINATURA INICIAL
-    # =====================================================
-
-    if evento == "subscription.initial":
-
-        usuario.assinatura_id = (
-            str(assinatura_id)
-        )
-
-
-        usuario.status_pagamento = (
-            status_assinatura
-            or "pending"
-        )
-
-
-        usuario.proximo_pagamento = (
-            resource.get(
-                "next_invoice_at"
-            )
-        )
-
-
-        db.commit()
-
-
-        return {
-
-            "status":
-                "assinatura_registrada",
+                "assinatura_suspensa",
 
             "usuario":
                 usuario.email,
 
-            "assinatura":
-                str(assinatura_id)
+            "acesso":
+                "bloqueado"
 
         }
 
 
     # =====================================================
-    # OUTROS EVENTOS
+    # EVENTO DESCONHECIDO
     # =====================================================
 
-    usuario.status_pagamento = (
-        status_assinatura
-        or "pending"
+    print(
+        "EVENTO NÃO TRATADO:",
+        evento
     )
-
-
-    db.commit()
 
 
     return {
 
         "status":
-            "evento_processado",
+            "evento_recebido",
 
         "evento":
             evento,
