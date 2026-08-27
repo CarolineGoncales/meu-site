@@ -4,11 +4,6 @@ from sqlalchemy.orm import Session
 from database import SessionLocal
 from models import Assinante
 
-from assinaturas import (
-    consultar_assinatura,
-    consultar_pagamento
-)
-
 
 router = APIRouter()
 
@@ -18,11 +13,17 @@ def get_db():
     db = SessionLocal()
 
     try:
+
         yield db
 
     finally:
+
         db.close()
 
+
+# =========================================================
+# WEBHOOK PAGBANK
+# =========================================================
 
 @router.post("/webhook")
 async def webhook(
@@ -34,355 +35,245 @@ async def webhook(
 
         dados = await request.json()
 
-    except:
+    except Exception:
 
         dados = {}
 
 
-    tipo = (
-        dados.get("type")
-        or dados.get("topic")
+    # =====================================================
+    # EVENTO PAGBANK
+    # =====================================================
+
+    evento = dados.get(
+        "event"
     )
 
 
-    # =========================================================
-    # PAGAMENTO
-    # =========================================================
+    resource = dados.get(
+        "resource",
+        {}
+    )
 
-    if tipo == "payment":
 
-        pagamento_id = (
-            dados.get("data", {}).get("id")
-            or request.query_params.get("id")
-            or dados.get("id")
+    # =====================================================
+    # LOG PARA TESTES
+    # =====================================================
+
+    print(
+        "========================================"
+    )
+
+    print(
+        "WEBHOOK PAGBANK RECEBIDO"
+    )
+
+    print(
+        "EVENTO:",
+        evento
+    )
+
+    print(
+        "DADOS:",
+        dados
+    )
+
+    print(
+        "========================================"
+    )
+
+
+    # =====================================================
+    # IGNORA EVENTOS QUE NÃO SÃO DE ASSINATURA
+    # =====================================================
+
+    eventos_assinatura = (
+
+        "subscription.initial",
+
+        "subscription.updated",
+
+        "subscription.activated",
+
+        "subscription.suspended",
+
+        "subscription.recurrence",
+
+        "subscription.expired",
+
+        "subscription.canceled",
+
+        "subscription.migrated"
+
+    )
+
+
+    if evento not in eventos_assinatura:
+
+        return {
+
+            "status":
+                "ignorado",
+
+            "evento":
+                evento
+
+        }
+
+
+    # =====================================================
+    # DADOS DA ASSINATURA
+    # =====================================================
+
+    assinatura_id = resource.get(
+        "id"
+    )
+
+
+    status_assinatura = resource.get(
+        "status"
+    )
+
+
+    cliente = resource.get(
+        "customer",
+        {}
+    )
+
+
+    email = cliente.get(
+        "email"
+    )
+
+
+    # =====================================================
+    # VALIDAÇÃO
+    # =====================================================
+
+    if not assinatura_id:
+
+        return {
+
+            "status":
+                "assinatura_id_nao_encontrado"
+
+        }
+
+
+    if not email:
+
+        return {
+
+            "status":
+                "email_nao_encontrado",
+
+            "assinatura":
+                str(assinatura_id)
+
+        }
+
+
+    email = email.strip().lower()
+
+
+    # =====================================================
+    # PROCURA O ALUNO PELO E-MAIL
+    # =====================================================
+
+    usuario = db.query(
+        Assinante
+    ).filter(
+        Assinante.email == email
+    ).first()
+
+
+    # =====================================================
+    # ALUNO NÃO ENCONTRADO
+    # =====================================================
+
+    if not usuario:
+
+        print(
+            "ALUNO NÃO ENCONTRADO:",
+            email
         )
-
-
-        if not pagamento_id:
-
-            return {
-                "status": "pagamento_id_nao_encontrado"
-            }
-
-
-        # Consulta o pagamento diretamente no Mercado Pago
-
-        resultado = consultar_pagamento(
-            str(pagamento_id)
-        )
-
-
-        if resultado.get("status") != 200:
-
-            return {
-                "status": "erro_consulta_pagamento"
-            }
-
-
-        pagamento = resultado.get(
-            "response",
-            {}
-        )
-
-
-        status_pagamento = pagamento.get(
-            "status"
-        )
-
-
-        # =====================================================
-        # IDENTIFICA O E-MAIL DO CLIENTE
-        # =====================================================
-
-        payer = pagamento.get(
-            "payer",
-            {}
-        )
-
-
-        email = payer.get(
-            "email"
-        )
-
-
-        # Alguns pagamentos podem trazer o e-mail
-        # em external_reference.
-
-        if not email:
-
-            email = pagamento.get(
-                "external_reference"
-            )
-
-
-        usuario = None
-
-
-        if email:
-
-            email = email.strip().lower()
-
-
-            usuarios = db.query(
-                Assinante
-            ).all()
-
-
-            for candidato in usuarios:
-
-                if (
-                    candidato.email
-                    and candidato.email.strip().lower()
-                    == email
-                ):
-
-                    usuario = candidato
-
-                    break
-
-
-        # =====================================================
-        # USUÁRIO NÃO ENCONTRADO
-        # =====================================================
-
-        if not usuario:
-
-            return {
-
-                "status": "usuario_nao_encontrado",
-
-                "pagamento": str(
-                    pagamento_id
-                ),
-
-                "email": email
-
-            }
-
-
-        # =====================================================
-        # PAGAMENTO APROVADO
-        # =====================================================
-
-        if status_pagamento == "approved":
-
-            usuario.status = "ativo"
-
-            usuario.status_pagamento = "approved"
-
-            usuario.ultimo_pagamento = pagamento.get(
-                "date_approved"
-            )
-
-
-            db.commit()
-
-
-            return {
-
-                "status": "atualizado",
-
-                "tipo": "payment",
-
-                "pagamento": str(
-                    pagamento_id
-                ),
-
-                "status_pagamento":
-                    status_pagamento,
-
-                "usuario":
-                    usuario.email,
-
-                "acesso":
-                    "liberado"
-
-            }
-
-
-        # =====================================================
-        # PAGAMENTO NÃO APROVADO
-        # =====================================================
-
-        usuario.status_pagamento = (
-            status_pagamento
-            or "pending"
-        )
-
-
-        db.commit()
 
 
         return {
 
             "status":
-                "pagamento_nao_aprovado",
+                "usuario_nao_encontrado",
 
-            "pagamento":
-                str(pagamento_id),
+            "email":
+                email,
 
-            "status_pagamento":
-                status_pagamento
+            "assinatura":
+                str(assinatura_id)
 
         }
 
 
-    # =========================================================
-    # ASSINATURA
-    # =========================================================
+    # =====================================================
+    # SALVA O ID DA ASSINATURA PAGBANK
+    # =====================================================
 
-    if tipo in (
-        "subscription_preapproval",
-        "preapproval"
-    ):
+    usuario.assinatura_id = (
+        str(assinatura_id)
+    )
 
-        assinatura_id = (
-            dados.get("data", {}).get("id")
-            or request.query_params.get("id")
-            or dados.get("id")
+
+    # =====================================================
+    # ASSINATURA ATIVA
+    # =====================================================
+
+    if evento == "subscription.activated":
+
+        usuario.status = (
+            "ativo"
+        )
+
+        usuario.status_pagamento = (
+            "active"
         )
 
 
-        if not assinatura_id:
-
-            return {
-
-                "status":
-                    "assinatura_id_nao_encontrado"
-
-            }
-
-
-        # Consulta a assinatura diretamente
-        # no Mercado Pago.
-
-        resultado = consultar_assinatura(
-            str(assinatura_id)
-        )
-
-
-        if resultado.get("status") != 200:
-
-            return {
-
-                "status":
-                    "erro_consulta_assinatura"
-
-            }
-
-
-        assinatura = resultado.get(
-            "response",
-            {}
-        )
-
-
-        # =====================================================
-        # PRIMEIRO TENTA PELO ID DA ASSINATURA
-        # =====================================================
-
-        usuario = db.query(
-            Assinante
-        ).filter(
-
-            Assinante.assinatura_id
-            == str(assinatura_id)
-
-        ).first()
-
-
-        # =====================================================
-        # SE NÃO ENCONTROU, TENTA PELO E-MAIL
-        # =====================================================
-
-        if not usuario:
-
-            email = (
-                assinatura.get(
-                    "external_reference"
-                )
-                or assinatura.get(
-                    "payer_email"
-                )
+        usuario.ultimo_pagamento = (
+            resource.get(
+                "updated_at"
             )
-
-
-            if email:
-
-                email = email.strip().lower()
-
-
-                usuarios = db.query(
-                    Assinante
-                ).all()
-
-
-                for candidato in usuarios:
-
-                    if (
-                        candidato.email
-                        and candidato.email.strip().lower()
-                        == email
-                    ):
-
-                        usuario = candidato
-
-
-                        usuario.assinatura_id = str(
-                            assinatura_id
-                        )
-
-
-                        break
-
-
-        # =====================================================
-        # ASSINATURA NÃO ENCONTRADA
-        # =====================================================
-
-        if not usuario:
-
-            return {
-
-                "status":
-                    "assinatura_nao_encontrada"
-
-            }
-
-
-        # =====================================================
-        # ATUALIZA STATUS DA ASSINATURA
-        # =====================================================
-
-        status_mp = assinatura.get(
-            "status",
-            "pending"
         )
 
 
-        usuario.status_pagamento = status_mp
-
-
-        if status_mp == "authorized":
-
-            usuario.status = "ativo"
-
-        else:
-
-            usuario.status = "pendente"
-
-
-        usuario.ultimo_pagamento = assinatura.get(
-            "last_modified"
-        )
-
-
-        usuario.proximo_pagamento = assinatura.get(
-            "next_payment_date"
+        usuario.proximo_pagamento = (
+            resource.get(
+                "next_invoice_at"
+            )
         )
 
 
         db.commit()
+
+
+        print(
+            "========================================"
+        )
+
+        print(
+            "PAGAMENTO CONFIRMADO!"
+        )
+
+        print(
+            "ALUNO:",
+            usuario.email
+        )
+
+        print(
+            "STATUS:",
+            usuario.status
+        )
+
+        print(
+            "========================================"
+        )
 
 
         return {
@@ -390,25 +281,231 @@ async def webhook(
             "status":
                 "atualizado",
 
-            "tipo":
-                "subscription",
+            "evento":
+                evento,
+
+            "usuario":
+                usuario.email,
 
             "assinatura":
                 str(assinatura_id),
 
-            "status_pagamento":
-                status_mp
+            "acesso":
+                "liberado"
 
         }
 
 
-    # =========================================================
+    # =====================================================
+    # COBRANÇA RECORRENTE
+    # =====================================================
+
+    if evento == "subscription.recurrence":
+
+        usuario.status_pagamento = (
+            status_assinatura
+            or "active"
+        )
+
+
+        # Se a cobrança recorrente
+        # continua ativa, mantém o acesso.
+
+        if status_assinatura == "ACTIVE":
+
+            usuario.status = (
+                "ativo"
+            )
+
+
+        else:
+
+            usuario.status = (
+                "pendente"
+            )
+
+
+        usuario.ultimo_pagamento = (
+            resource.get(
+                "updated_at"
+            )
+        )
+
+
+        usuario.proximo_pagamento = (
+            resource.get(
+                "next_invoice_at"
+            )
+        )
+
+
+        db.commit()
+
+
+        return {
+
+            "status":
+                "recorrencia_processada",
+
+            "usuario":
+                usuario.email,
+
+            "status_pagamento":
+                status_assinatura
+
+        }
+
+
+    # =====================================================
+    # ASSINATURA SUSPENSA
+    # =====================================================
+
+    if evento == "subscription.suspended":
+
+        usuario.status = (
+            "pendente"
+        )
+
+        usuario.status_pagamento = (
+            "suspended"
+        )
+
+
+        db.commit()
+
+
+        return {
+
+            "status":
+                "assinatura_suspensa",
+
+            "usuario":
+                usuario.email
+
+        }
+
+
+    # =====================================================
+    # ASSINATURA CANCELADA
+    # =====================================================
+
+    if evento == "subscription.canceled":
+
+        usuario.status = (
+            "pendente"
+        )
+
+        usuario.status_pagamento = (
+            "canceled"
+        )
+
+
+        db.commit()
+
+
+        return {
+
+            "status":
+                "assinatura_cancelada",
+
+            "usuario":
+                usuario.email
+
+        }
+
+
+    # =====================================================
+    # ASSINATURA EXPIRADA
+    # =====================================================
+
+    if evento == "subscription.expired":
+
+        usuario.status = (
+            "pendente"
+        )
+
+        usuario.status_pagamento = (
+            "expired"
+        )
+
+
+        db.commit()
+
+
+        return {
+
+            "status":
+                "assinatura_expirada",
+
+            "usuario":
+                usuario.email
+
+        }
+
+
+    # =====================================================
+    # ASSINATURA INICIAL
+    # =====================================================
+
+    if evento == "subscription.initial":
+
+        usuario.assinatura_id = (
+            str(assinatura_id)
+        )
+
+
+        usuario.status_pagamento = (
+            status_assinatura
+            or "pending"
+        )
+
+
+        usuario.proximo_pagamento = (
+            resource.get(
+                "next_invoice_at"
+            )
+        )
+
+
+        db.commit()
+
+
+        return {
+
+            "status":
+                "assinatura_registrada",
+
+            "usuario":
+                usuario.email,
+
+            "assinatura":
+                str(assinatura_id)
+
+        }
+
+
+    # =====================================================
     # OUTROS EVENTOS
-    # =========================================================
+    # =====================================================
+
+    usuario.status_pagamento = (
+        status_assinatura
+        or "pending"
+    )
+
+
+    db.commit()
+
 
     return {
 
         "status":
-            "ignorado"
+            "evento_processado",
+
+        "evento":
+            evento,
+
+        "usuario":
+            usuario.email
 
     }

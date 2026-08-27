@@ -267,13 +267,21 @@ def login(
     }
 
 
+# =========================================================
+# PAGAMENTO - PAGBANK
+# =========================================================
+
 @app.post("/criar-assinatura")
 def assinatura(
     email: str = Form(...),
     db: Session = Depends(get_db)
 ):
 
-    usuario = db.query(Assinante).filter(
+    email = email.strip().lower()
+
+    usuario = db.query(
+        Assinante
+    ).filter(
         Assinante.email == email
     ).first()
 
@@ -281,36 +289,46 @@ def assinatura(
     if not usuario:
 
         return {
-            "erro": "Usuário não encontrado"
+            "erro":
+                "Usuário não encontrado"
         }
 
 
-    resultado = criar_assinatura(email)
+    resultado = criar_assinatura(
+        email
+    )
 
 
     if resultado["status"] != 201:
 
         return {
 
-            "erro": "Erro ao criar assinatura",
+            "erro":
+                "Erro ao preparar pagamento",
 
-            "dados": resultado
+            "dados":
+                resultado
 
         }
 
 
-    assinatura_mp = resultado["response"]
+    pagamento = resultado[
+        "response"
+    ]
 
 
-    usuario.assinatura_id = assinatura_mp["id"]
+    # =====================================================
+    # O ALUNO CONTINUA PENDENTE ATÉ O PAGBANK CONFIRMAR
+    # =====================================================
 
-
-    usuario.mercado_pago_id = str(
-        assinatura_mp["payer_id"]
+    usuario.status_pagamento = (
+        "pending"
     )
 
 
-    usuario.status_pagamento = "pendente"
+    usuario.status = (
+        "pendente"
+    )
 
 
     db.commit()
@@ -318,13 +336,14 @@ def assinatura(
 
     return {
 
-        "mensagem": "Assinatura criada e vinculada",
+        "mensagem":
+            "Pagamento preparado",
 
-        "assinatura_id": usuario.assinatura_id,
+        "status":
+            "pending",
 
-        "status": usuario.status_pagamento,
-
-        "checkout": assinatura_mp["init_point"]
+        "checkout":
+            pagamento["init_point"]
 
     }
 
