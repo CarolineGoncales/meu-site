@@ -1,0 +1,48 @@
+name: Atualizar notícias
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar código do projeto
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Atualizar notícias
+        run: |
+          python scripts/atualizar-noticias.py
+
+      - name: Verificar alterações
+        id: verificar
+        run: |
+          if git diff --quiet noticias.json; then
+            echo "alterado=false" >> $GITHUB_OUTPUT
+          else
+            echo "alterado=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Salvar notícias no GitHub
+        if: steps.verificar.outputs.alterado == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add noticias.json
+
+          git commit -m "Atualiza notícias automaticamente"
+
+          git push

@@ -1,0 +1,1626 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Infra Challenge - CPG Play</title>
+
+<style>
+:root{
+    --bg:#020617;
+    --panel:#071426;
+    --panel2:#0a192d;
+    --line:#12304a;
+    --cyan:#42cfff;
+    --cyan2:#1597d0;
+    --green:#22c55e;
+    --red:#ef4444;
+    --yellow:#facc15;
+    --text:#e5eef8;
+    --muted:#8ea5bb;
+    --shadow:0 0 30px rgba(66,207,255,.08);
+}
+
+*{box-sizing:border-box}
+
+html,body{
+    margin:0;
+    min-height:100%;
+    background:
+        radial-gradient(circle at 15% 10%,rgba(0,180,255,.10),transparent 28%),
+        radial-gradient(circle at 85% 85%,rgba(0,110,255,.08),transparent 30%),
+        #020617;
+    color:var(--text);
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+body{
+    overflow-x:hidden;
+}
+
+body:before{
+    content:"";
+    position:fixed;
+    inset:0;
+    pointer-events:none;
+    opacity:.22;
+    background-image:
+        linear-gradient(rgba(66,207,255,.06) 1px,transparent 1px),
+        linear-gradient(90deg,rgba(66,207,255,.06) 1px,transparent 1px);
+    background-size:38px 38px;
+}
+
+button{
+    font:inherit;
+}
+
+.topbar{
+    position:sticky;
+    top:0;
+    z-index:50;
+    height:72px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:0 28px;
+    background:rgba(2,6,23,.94);
+    border-bottom:1px solid var(--line);
+    backdrop-filter:blur(15px);
+}
+
+.brand{
+    display:flex;
+    align-items:center;
+    gap:14px;
+    font-size:19px;
+    font-weight:800;
+}
+
+.brand-icon{
+    width:42px;
+    height:42px;
+    display:grid;
+    place-items:center;
+    border:1px solid #1d5274;
+    border-radius:12px;
+    background:#071a2d;
+    box-shadow:0 0 18px rgba(66,207,255,.12);
+    font-size:22px;
+}
+
+.brand span{color:var(--cyan)}
+
+.online{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    color:#d7e4f1;
+    font-size:13px;
+}
+
+.online i{
+    width:9px;
+    height:9px;
+    border-radius:50%;
+    background:var(--green);
+    box-shadow:0 0 12px var(--green);
+}
+
+.wrapper{
+    width:min(1500px,96vw);
+    margin:22px auto 50px;
+}
+
+.hero{
+    display:grid;
+    grid-template-columns:1fr auto;
+    gap:20px;
+    align-items:end;
+    margin-bottom:18px;
+}
+
+.eyebrow{
+    color:var(--cyan);
+    text-transform:uppercase;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight:800;
+}
+
+h1{
+    margin:6px 0 7px;
+    font-size:clamp(30px,4vw,48px);
+    letter-spacing:-1px;
+}
+
+.subtitle{
+    margin:0;
+    color:var(--muted);
+    max-width:850px;
+    line-height:1.55;
+}
+
+.stats{
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+    justify-content:flex-end;
+}
+
+.stat{
+    min-width:100px;
+    padding:12px 15px;
+    background:rgba(7,20,38,.86);
+    border:1px solid var(--line);
+    border-radius:14px;
+    text-align:center;
+}
+
+.stat b{
+    display:block;
+    color:var(--cyan);
+    font-size:21px;
+}
+
+.stat small{color:var(--muted)}
+
+.progress{
+    height:9px;
+    background:#071221;
+    border:1px solid #11304a;
+    border-radius:99px;
+    overflow:hidden;
+    margin:18px 0;
+}
+
+.progress-bar{
+    height:100%;
+    width:20%;
+    background:linear-gradient(90deg,#087caf,#42cfff);
+    box-shadow:0 0 15px rgba(66,207,255,.35);
+    transition:width .4s;
+}
+
+.scenario-tabs{
+    display:flex;
+    gap:8px;
+    margin-bottom:18px;
+    overflow-x:auto;
+    padding-bottom:3px;
+}
+
+.scenario-tab{
+    flex:0 0 auto;
+    border:1px solid var(--line);
+    background:#071426;
+    color:#7890a7;
+    border-radius:12px;
+    padding:10px 14px;
+    cursor:pointer;
+}
+
+.scenario-tab.active{
+    color:#fff;
+    border-color:#1e8bbd;
+    background:#0a2035;
+    box-shadow:0 0 18px rgba(66,207,255,.10);
+}
+
+.scenario-tab.done{
+    color:#9ff1bb;
+    border-color:#166534;
+}
+
+.layout{
+    display:grid;
+    grid-template-columns:310px minmax(0,1fr);
+    gap:20px;
+}
+
+.sidebar,
+.workspace{
+    background:rgba(5,16,31,.88);
+    border:1px solid var(--line);
+    border-radius:22px;
+    box-shadow:var(--shadow);
+}
+
+.sidebar{
+    padding:18px;
+    align-self:start;
+    position:sticky;
+    top:92px;
+    max-height:calc(100vh - 110px);
+    overflow:auto;
+}
+
+.panel-title{
+    color:var(--cyan);
+    font-size:18px;
+    font-weight:800;
+    margin-bottom:8px;
+}
+
+.panel-help{
+    color:var(--muted);
+    font-size:12px;
+    line-height:1.5;
+    margin-bottom:16px;
+}
+
+.category{
+    color:#6f879d;
+    font-size:11px;
+    font-weight:800;
+    letter-spacing:1.5px;
+    margin:18px 2px 8px;
+}
+
+.service{
+    user-select:none;
+    cursor:grab;
+    display:flex;
+    gap:11px;
+    align-items:center;
+    padding:12px;
+    margin:7px 0;
+    background:linear-gradient(145deg,#0a192d,#081426);
+    border:1px solid #17314a;
+    border-radius:14px;
+    transition:.18s;
+}
+
+.service:hover{
+    transform:translateY(-2px);
+    border-color:#2588b7;
+    box-shadow:0 8px 25px rgba(0,0,0,.25),0 0 14px rgba(66,207,255,.07);
+}
+
+.service:active{cursor:grabbing}
+
+.service-icon{
+    width:38px;
+    height:38px;
+    flex:0 0 38px;
+    display:grid;
+    place-items:center;
+    border-radius:10px;
+    background:#10253d;
+    font-size:20px;
+}
+
+.service strong{
+    display:block;
+    font-size:13px;
+}
+
+.service small{
+    display:block;
+    color:#738ba2;
+    font-size:10px;
+    margin-top:4px;
+    line-height:1.3;
+}
+
+.workspace{
+    padding:18px;
+    min-width:0;
+}
+
+.scenario{
+    display:none;
+}
+
+.scenario.active{
+    display:block;
+}
+
+.scenario-head{
+    display:flex;
+    justify-content:space-between;
+    gap:20px;
+    align-items:flex-start;
+    padding:4px 4px 18px;
+}
+
+.scenario-number{
+    color:var(--cyan);
+    font-size:12px;
+    font-weight:800;
+    text-transform:uppercase;
+    letter-spacing:1.4px;
+}
+
+.scenario-title{
+    margin:5px 0;
+    font-size:26px;
+}
+
+.story{
+    color:#a9bdd0;
+    line-height:1.6;
+    font-size:14px;
+    max-width:900px;
+}
+
+.objective{
+    margin:14px 0 18px;
+    padding:14px 16px;
+    border:1px solid #214662;
+    background:rgba(8,28,47,.72);
+    border-radius:14px;
+}
+
+.objective b{color:#fff}
+.objective span{color:var(--cyan)}
+
+.incident{
+    margin:12px 0 18px;
+    padding:14px 16px;
+    border:1px solid #624d15;
+    background:rgba(48,37,7,.42);
+    border-radius:14px;
+    color:#e6d69b;
+    line-height:1.5;
+}
+
+.architecture{
+    border:1px solid #163a55;
+    border-radius:18px;
+    padding:16px;
+    background:
+        linear-gradient(rgba(66,207,255,.035) 1px,transparent 1px),
+        linear-gradient(90deg,rgba(66,207,255,.035) 1px,transparent 1px),
+        #03101e;
+    background-size:30px 30px;
+}
+
+.arch-label{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-bottom:12px;
+}
+
+.arch-label strong{font-size:15px}
+.arch-label span{color:#627a91;font-size:11px}
+
+.arch-flow{
+    display:grid;
+    gap:10px;
+}
+
+.flow-arrow{
+    text-align:center;
+    color:var(--cyan);
+    font-size:20px;
+    height:20px;
+}
+
+.zone{
+    min-height:116px;
+    border:1px dashed #28516c;
+    border-radius:15px;
+    background:rgba(6,24,40,.58);
+    padding:11px;
+    transition:.18s;
+}
+
+.zone.over{
+    border-color:var(--cyan);
+    background:rgba(17,74,101,.18);
+    box-shadow:inset 0 0 25px rgba(66,207,255,.06);
+}
+
+.zone.correct{
+    border-color:#1f9d52;
+}
+
+.zone.wrong{
+    border-color:#a62828;
+    background:rgba(100,20,20,.12);
+}
+
+.zone-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:9px;
+}
+
+.zone-name{
+    font-weight:800;
+    font-size:13px;
+}
+
+.zone-hint{
+    color:#667f96;
+    font-size:10px;
+}
+
+.slot{
+    min-height:54px;
+    border:1px solid #21445d;
+    border-radius:11px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#4e6880;
+    font-size:11px;
+    text-align:center;
+    padding:8px;
+}
+
+.placed{
+    width:100%;
+    display:flex;
+    gap:10px;
+    align-items:center;
+    padding:10px;
+    border-radius:10px;
+    background:rgba(15,50,70,.78);
+    border:1px solid #257da4;
+}
+
+.placed .icon{
+    width:34px;
+    height:34px;
+    display:grid;
+    place-items:center;
+    background:#0b263d;
+    border-radius:9px;
+    font-size:18px;
+}
+
+.placed strong{
+    display:block;
+    color:var(--cyan);
+    font-size:12px;
+}
+
+.placed small{
+    display:block;
+    color:#8ca2b5;
+    font-size:10px;
+    margin-top:3px;
+}
+
+.remove{
+    margin-left:auto;
+    border:0;
+    background:transparent;
+    color:#6d8499;
+    cursor:pointer;
+    font-size:18px;
+}
+
+.remove:hover{color:#ff6b6b}
+
+.zone-grid-2{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:10px;
+}
+
+.zone-grid-3{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:10px;
+}
+
+.tips{
+    margin-top:16px;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:12px;
+}
+
+.tip,
+.knowledge{
+    padding:14px;
+    border:1px solid #193d55;
+    border-radius:14px;
+    background:rgba(5,21,36,.72);
+}
+
+.tip b,.knowledge b{
+    display:block;
+    color:var(--cyan);
+    margin-bottom:6px;
+    font-size:12px;
+}
+
+.tip p,.knowledge p{
+    margin:0;
+    color:#91a7ba;
+    font-size:11px;
+    line-height:1.55;
+}
+
+.actions{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:12px;
+    margin-top:16px;
+    padding-top:16px;
+    border-top:1px solid #143149;
+}
+
+.action-left{
+    color:#71889d;
+    font-size:11px;
+}
+
+.buttons{
+    display:flex;
+    gap:9px;
+}
+
+.btn{
+    border:1px solid #21445d;
+    color:#dbe8f4;
+    background:#08182a;
+    border-radius:12px;
+    padding:11px 16px;
+    cursor:pointer;
+    font-weight:700;
+}
+
+.btn:hover{border-color:#398bb1}
+
+.btn.primary{
+    background:linear-gradient(135deg,#1e8fc0,#42cfff);
+    color:#00111d;
+    border-color:#5bd8ff;
+    box-shadow:0 0 18px rgba(66,207,255,.16);
+}
+
+.btn:disabled{
+    opacity:.4;
+    cursor:not-allowed;
+}
+
+.feedback{
+    margin-top:15px;
+    padding:16px;
+    border-radius:15px;
+    display:none;
+    line-height:1.55;
+}
+
+.feedback.show{display:block}
+.feedback.ok{
+    border:1px solid #176b38;
+    background:rgba(11,61,32,.35);
+}
+.feedback.error{
+    border:1px solid #762020;
+    background:rgba(70,14,20,.35);
+}
+.feedback h3{margin:0 0 6px;font-size:16px}
+.feedback p{margin:5px 0;color:#b5c8d8;font-size:12px}
+
+.mobile-note{
+    display:none;
+}
+
+@media(max-width:1050px){
+    .layout{grid-template-columns:260px minmax(0,1fr)}
+    .zone-grid-3{grid-template-columns:1fr}
+}
+
+@media(max-width:800px){
+    .topbar{padding:0 14px}
+    .wrapper{width:94vw}
+    .hero{grid-template-columns:1fr}
+    .stats{justify-content:flex-start}
+    .layout{grid-template-columns:1fr}
+    .sidebar{
+        position:relative;
+        top:auto;
+        max-height:none;
+        order:2;
+    }
+    .workspace{order:1}
+    .service{
+        display:inline-flex;
+        width:calc(50% - 6px);
+        vertical-align:top;
+        margin-right:5px;
+    }
+    .mobile-note{display:block}
+    .zone-grid-2{grid-template-columns:1fr}
+    .tips{grid-template-columns:1fr}
+}
+
+@media(max-width:520px){
+    .service{width:100%}
+    .scenario-head{display:block}
+    .scenario-title{font-size:22px}
+    .actions{display:block}
+    .buttons{margin-top:10px}
+    .buttons .btn{flex:1}
+}
+</style>
+</head>
+
+<body>
+
+<header class="topbar">
+    <div class="brand">
+        <div class="brand-icon">🖥️</div>
+        CPG <span>Infra Lab</span>
+    </div>
+
+    <div class="online">
+        <i></i>
+        INFRA LAB ONLINE
+    </div>
+</header>
+
+<main class="wrapper">
+
+    <section class="hero">
+        <div>
+            <div class="eyebrow">CPG PLAY • LABORATÓRIO PRÁTICO</div>
+            <h1>Desafio de Infraestrutura</h1>
+            <p class="subtitle">
+                Monte racks, redes, servidores e serviços de uma infraestrutura tradicional.
+                Aprenda como os componentes físicos e lógicos se conectam no mundo real.
+            </p>
+        </div>
+
+        <div class="stats">
+            <div class="stat"><b id="xp">0</b><small>XP</small></div>
+            <div class="stat"><b id="score">0</b><small>Pontos</small></div>
+            <div class="stat"><b id="completed">0/5</b><small>Desafios</small></div>
+        </div>
+    </section>
+
+    <div class="progress">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <nav class="scenario-tabs" id="scenarioTabs"></nav>
+
+    <div class="layout">
+
+        <aside class="sidebar">
+            <div class="panel-title">🧰 Equipamentos</div>
+            <div class="panel-help">
+                Arraste um componente para a área correta.
+                No celular, toque no componente e depois toque em uma área.
+            </div>
+
+            <div class="mobile-note">
+                📱 <strong>Modo mobile:</strong> selecione um equipamento e depois escolha o local.
+            </div>
+
+            <div id="serviceCatalog"></div>
+        </aside>
+
+        <section class="workspace">
+
+            <!-- CENÁRIO 1 -->
+            <article class="scenario active" data-scenario="1">
+                <div class="scenario-head">
+                    <div>
+                        <div class="scenario-number">Desafio 01 • Rack</div>
+                        <h2 class="scenario-title">Monte o Rack da Empresa</h2>
+                        <p class="story">
+                            A empresa recebeu um novo rack para sua sala técnica.
+                            Organize os principais equipamentos para que a rede possa
+                            receber Internet, distribuir conectividade e alimentar os equipamentos.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="objective">
+                    <b>Objetivo:</b>
+                    monte o fluxo básico de infraestrutura:
+                    <span>Internet → Firewall → Switch → servidores e usuários</span>.
+                </div>
+
+                <div class="architecture">
+                    <div class="arch-label">
+                        <strong>🗄️ ÁREA DE INFRAESTRUTURA</strong>
+                        <span>Rack principal</span>
+                    </div>
+
+                    <div class="arch-flow">
+                        <div class="zone" data-zone="s1-firewall" data-accept="firewall">
+                            <div class="zone-header">
+                                <span class="zone-name">🛡️ Segurança / Borda</span>
+                                <span class="zone-hint">Entrada da rede</span>
+                            </div>
+                            <div class="slot">Firewall</div>
+                        </div>
+
+                        <div class="flow-arrow">↓</div>
+
+                        <div class="zone" data-zone="s1-switch" data-accept="switch">
+                            <div class="zone-header">
+                                <span class="zone-name">🔀 Distribuição</span>
+                                <span class="zone-hint">Rede local</span>
+                            </div>
+                            <div class="slot">Switch gerenciável</div>
+                        </div>
+
+                        <div class="flow-arrow">↓</div>
+
+                        <div class="zone-grid-3">
+                            <div class="zone" data-zone="s1-server" data-accept="server">
+                                <div class="zone-header">
+                                    <span class="zone-name">🖥️ Servidor</span>
+                                    <span class="zone-hint">Rack</span>
+                                </div>
+                                <div class="slot">Servidor físico</div>
+                            </div>
+
+                            <div class="zone" data-zone="s1-ups" data-accept="ups">
+                                <div class="zone-header">
+                                    <span class="zone-name">🔋 Energia</span>
+                                    <span class="zone-hint">Proteção</span>
+                                </div>
+                                <div class="slot">Nobreak</div>
+                            </div>
+
+                            <div class="zone" data-zone="s1-patch" data-accept="patch">
+                                <div class="zone-header">
+                                    <span class="zone-name">🔌 Cabeamento</span>
+                                    <span class="zone-hint">Organização</span>
+                                </div>
+                                <div class="slot">Patch Panel</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tips">
+                    <div class="tip">
+                        <b>💡 Dica de infraestrutura</b>
+                        <p>O patch panel organiza os cabos que chegam dos pontos da rede. Ele não substitui o switch: o switch é responsável pela comutação do tráfego.</p>
+                    </div>
+                    <div class="knowledge">
+                        <b>📚 O que você aprende</b>
+                        <p>Um rack organizado facilita manutenção, identificação de cabos, expansão e diagnóstico de falhas.</p>
+                    </div>
+                </div>
+            </article>
+
+            <!-- CENÁRIO 2 -->
+            <article class="scenario" data-scenario="2">
+                <div class="scenario-head">
+                    <div>
+                        <div class="scenario-number">Desafio 02 • Rede</div>
+                        <h2 class="scenario-title">Divida a Rede por Setores</h2>
+                        <p class="story">
+                            A empresa cresceu e agora possui Administrativo, Financeiro,
+                            TI e visitantes. A equipe precisa estruturar a rede para
+                            reduzir o domínio de broadcast e melhorar o controle entre setores.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="objective">
+                    <b>Objetivo:</b>
+                    escolha os componentes necessários para uma rede organizada:
+                    <span>Switch gerenciável + Roteador + VLANs + DHCP + DNS</span>.
+                </div>
+
+                <div class="architecture">
+                    <div class="arch-label">
+                        <strong>🌐 TOPOLOGIA DA REDE</strong>
+                        <span>Core da rede local</span>
+                    </div>
+
+                    <div class="arch-flow">
+                        <div class="zone" data-zone="s2-router" data-accept="router">
+                            <div class="zone-header">
+                                <span class="zone-name">🌐 Roteamento</span>
+                                <span class="zone-hint">Gateway</span>
+                            </div>
+                            <div class="slot">Roteador</div>
+                        </div>
+
+                        <div class="flow-arrow">↓</div>
+
+                        <div class="zone" data-zone="s2-switch" data-accept="switch">
+                            <div class="zone-header">
+                                <span class="zone-name">🔀 Switch</span>
+                                <span class="zone-hint">VLAN / LAN</span>
+                            </div>
+                            <div class="slot">Switch gerenciável</div>
+                        </div>
+
+                        <div class="flow-arrow">↓</div>
+
+                        <div class="zone-grid-3">
+                            <div class="zone" data-zone="s2-dhcp" data-accept="dhcp">
+                                <div class="zone-header">
+                                    <span class="zone-name">📡 DHCP</span>
+                                    <span class="zone-hint">Endereços IP</span>
+                                </div>
+                                <div class="slot">Servidor DHCP</div>
+                            </div>
+
+                            <div class="zone" data-zone="s2-dns" data-accept="dns">
+                                <div class="zone-header">
+                                    <span class="zone-name">📖 DNS</span>
+                                    <span class="zone-hint">Nomes</span>
+                                </div>
+                                <div class="slot">Servidor DNS</div>
+                            </div>
+
+                            <div class="zone" data-zone="s2-vlan" data-accept="vlan">
+                                <div class="zone-header">
+                                    <span class="zone-name">🏷️ Segmentação</span>
+                                    <span class="zone-hint">Isolamento lógico</span>
+                                </div>
+                                <div class="slot">VLANs</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tips">
+                    <div class="tip">
+                        <b>💡 VLAN na prática</b>
+                        <p>VLANs permitem separar redes logicamente mesmo usando a mesma infraestrutura física. Por exemplo: VLAN 10 Administrativo, VLAN 20 Financeiro e VLAN 30 Visitantes.</p>
+                    </div>
+                    <div class="knowledge">
+                        <b>📚 DHCP × DNS</b>
+                        <p>DHCP entrega configurações de rede aos clientes. DNS traduz nomes, como servidor.empresa.local, para endereços IP.</p>
+                    </div>
+                </div>
+            </article>
+
+            <!-- CENÁRIO 3 -->
+            <article class="scenario" data-scenario="3">
+                <div class="scenario-head">
+                    <div>
+                        <div class="scenario-number">Desafio 03 • Servidores</div>
+                        <h2 class="scenario-title">Construa o Ambiente de Servidores</h2>
+                        <p class="story">
+                            Agora a empresa precisa hospedar serviços internos.
+                            Para reduzir o número de máquinas físicas, a equipe decidiu
+                            usar um servidor robusto com virtualização.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="objective">
+                    <b>Objetivo:</b>
+                    monte a estrutura:
+                    <span>Servidor físico → Hypervisor → máquinas virtuais → serviços</span>.
+                </div>
+
+                <div class="architecture">
+                    <div class="arch-label">
+                        <strong>🖥️ PLATAFORMA DE SERVIDORES</strong>
+                        <span>Virtualização</span>
+                    </div>
+
+                    <div class="arch-flow">
+                        <div class="zone" data-zone="s3-server" data-accept="server">
+                            <div class="zone-header">
+                                <span class="zone-name">🖥️ Hardware</span>
+                                <span class="zone-hint">Host físico</span>
+                            </div>
+                            <div class="slot">Servidor físico</div>
+                        </div>
+
+                        <div class="flow-arrow">↓</div>
+
+                        <div class="zone" data-zone="s3-hypervisor" data-accept="hypervisor">
+                            <div class="zone-header">
+                                <span class="zone-name">⚙️ Virtualização</span>
+                                <span class="zone-hint">Host de VMs</span>
+                            </div>
+                            <div class="slot">Hypervisor</div>
+                        </div>
+
+                        <div class="flow-arrow">↓</div>
+
+                        <div class="zone-grid-3">
+                            <div class="zone" data-zone="s3-ad" data-accept="ad">
+                                <div class="zone-header">
+                                    <span class="zone-name">👥 Identidade</span>
+                                    <span class="zone-hint">Usuários</span>
+                                </div>
+                                <div class="slot">Active Directory</div>
+                            </div>
+
+                            <div class="zone" data-zone="s3-file" data-accept="fileserver">
+                                <div class="zone-header">
+                                    <span class="zone-name">📁 Arquivos</span>
+                                    <span class="zone-hint">Compartilhamento</span>
+                                </div>
+                                <div class="slot">File Server</div>
+                            </div>
+
+                            <div class="zone" data-zone="s3-backup" data-accept="backup">
+                                <div class="zone-header">
+                                    <span class="zone-name">💾 Backup</span>
+                                    <span class="zone-hint">Recuperação</span>
+                                </div>
+                                <div class="slot">Sistema de Backup</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tips">
+                    <div class="tip">
+                        <b>💡 Virtualização</b>
+                        <p>Um hypervisor permite executar várias máquinas virtuais em um mesmo servidor físico, isolando cargas e aproveitando melhor os recursos.</p>
+                    </div>
+                    <div class="knowledge">
+                        <b>⚠️ Backup não é RAID</b>
+                        <p>RAID pode aumentar disponibilidade ou desempenho, dependendo da configuração, mas não substitui backup. Backup serve para recuperar dados após exclusão, corrupção ou outros incidentes.</p>
+                    </div>
+                </div>
+            </article>
+
+            <!-- CENÁRIO 4 -->
+            <article class="scenario" data-scenario="4">
+                <div class="scenario-head">
+                    <div>
+                        <div class="scenario-number">Desafio 04 • Troubleshooting</div>
+                        <h2 class="scenario-title">A Rede Caiu! 🚨</h2>
+                        <p class="story">
+                            Segunda-feira, 08:12. O suporte recebe dezenas de chamados:
+                            "Não consigo acessar a Internet". Alguns computadores também
+                            estão sem endereço IP.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="incident">
+                    <strong>🚨 Incidente:</strong><br>
+                    O switch está ligado. O firewall está ligado. Porém, os computadores
+                    estão recebendo endereço <strong>169.254.x.x</strong>.
+                    Qual componente deve ser investigado primeiro para restaurar a entrega automática de IP?
+                </div>
+
+                <div class="objective">
+                    <b>Objetivo:</b>
+                    monte uma estrutura de diagnóstico com
+                    <span>Switch + DHCP + DNS + Firewall + Gateway</span>.
+                </div>
+
+                <div class="architecture">
+                    <div class="arch-label">
+                        <strong>🧪 CENTRAL DE DIAGNÓSTICO</strong>
+                        <span>Identifique a falha</span>
+                    </div>
+
+                    <div class="arch-flow">
+                        <div class="zone-grid-3">
+                            <div class="zone" data-zone="s4-firewall" data-accept="firewall">
+                                <div class="zone-header">
+                                    <span class="zone-name">🛡️ Firewall</span>
+                                    <span class="zone-hint">Borda</span>
+                                </div>
+                                <div class="slot">Firewall</div>
+                            </div>
+
+                            <div class="zone" data-zone="s4-switch" data-accept="switch">
+                                <div class="zone-header">
+                                    <span class="zone-name">🔀 Switch</span>
+                                    <span class="zone-hint">LAN</span>
+                                </div>
+                                <div class="slot">Switch</div>
+                            </div>
+
+                            <div class="zone" data-zone="s4-dhcp" data-accept="dhcp">
+                                <div class="zone-header">
+                                    <span class="zone-name">📡 DHCP</span>
+                                    <span class="zone-hint">Entrega IP</span>
+                                </div>
+                                <div class="slot">DHCP</div>
+                            </div>
+                        </div>
+
+                        <div class="flow-arrow">↓</div>
+
+                        <div class="zone-grid-2">
+                            <div class="zone" data-zone="s4-dns" data-accept="dns">
+                                <div class="zone-header">
+                                    <span class="zone-name">📖 DNS</span>
+                                    <span class="zone-hint">Resolução</span>
+                                </div>
+                                <div class="slot">DNS</div>
+                            </div>
+
+                            <div class="zone" data-zone="s4-monitor" data-accept="monitoring">
+                                <div class="zone-header">
+                                    <span class="zone-name">📊 Monitoramento</span>
+                                    <span class="zone-hint">Eventos e métricas</span>
+                                </div>
+                                <div class="slot">Monitoramento</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tips">
+                    <div class="tip">
+                        <b>🔎 Diagnóstico</b>
+                        <p>Um endereço 169.254.x.x normalmente indica que o cliente não conseguiu obter configuração IPv4 via DHCP. Isso direciona a investigação para conectividade, VLAN, relay ou disponibilidade do serviço DHCP.</p>
+                    </div>
+                    <div class="knowledge">
+                        <b>🧠 Método profissional</b>
+                        <p>Comece pela camada física e avance: energia → link → switch → VLAN → DHCP → gateway → DNS → Internet. Evite trocar equipamentos sem evidência.</p>
+                    </div>
+                </div>
+            </article>
+
+            <!-- CENÁRIO 5 -->
+            <article class="scenario" data-scenario="5">
+                <div class="scenario-head">
+                    <div>
+                        <div class="scenario-number">Desafio 05 • Projeto Final</div>
+                        <h2 class="scenario-title">Projete a Infraestrutura Completa</h2>
+                        <p class="story">
+                            Você foi contratado para projetar a infraestrutura de uma
+                            empresa com aproximadamente 80 computadores, 8 notebooks,
+                            impressoras, câmeras, Wi-Fi corporativo, servidores e backup.
+                            Agora é hora de juntar tudo.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="objective">
+                    <b>Objetivo:</b>
+                    crie uma arquitetura equilibrada considerando
+                    <span>conectividade + segurança + disponibilidade + servidores + backup</span>.
+                </div>
+
+                <div class="architecture">
+                    <div class="arch-label">
+                        <strong>🏢 PROJETO FINAL • EMPRESA</strong>
+                        <span>Infraestrutura completa</span>
+                    </div>
+
+                    <div class="arch-flow">
+
+                        <div class="zone-grid-3">
+                            <div class="zone" data-zone="s5-internet" data-accept="router">
+                                <div class="zone-header">
+                                    <span class="zone-name">🌐 Internet</span>
+                                    <span class="zone-hint">Link / gateway</span>
+                                </div>
+                                <div class="slot">Roteador</div>
+                            </div>
+
+                            <div class="zone" data-zone="s5-firewall" data-accept="firewall">
+                                <div class="zone-header">
+                                    <span class="zone-name">🛡️ Segurança</span>
+                                    <span class="zone-hint">Perímetro</span>
+                                </div>
+                                <div class="slot">Firewall</div>
+                            </div>
+
+                            <div class="zone" data-zone="s5-ups" data-accept="ups">
+                                <div class="zone-header">
+                                    <span class="zone-name">🔋 Energia</span>
+                                    <span class="zone-hint">Continuidade</span>
+                                </div>
+                                <div class="slot">Nobreak</div>
+                            </div>
+                        </div>
+
+                        <div class="flow-arrow">↓</div>
+
+                        <div class="zone-grid-3">
+                            <div class="zone" data-zone="s5-switch" data-accept="switch">
+                                <div class="zone-header">
+                                    <span class="zone-name">🔀 Switching</span>
+                                    <span class="zone-hint">VLANs</span>
+                                </div>
+                                <div class="slot">Switch gerenciável</div>
+                            </div>
+
+                            <div class="zone" data-zone="s5-ap" data-accept="ap">
+                                <div class="zone-header">
+                                    <span class="zone-name">📡 Wi-Fi</span>
+                                    <span class="zone-hint">Acesso sem fio</span>
+                                </div>
+                                <div class="slot">Access Point</div>
+                            </div>
+
+                            <div class="zone" data-zone="s5-patch" data-accept="patch">
+                                <div class="zone-header">
+                                    <span class="zone-name">🔌 Cabeamento</span>
+                                    <span class="zone-hint">Patch panel</span>
+                                </div>
+                                <div class="slot">Patch Panel</div>
+                            </div>
+                        </div>
+
+                        <div class="flow-arrow">↓</div>
+
+                        <div class="zone-grid-3">
+                            <div class="zone" data-zone="s5-server" data-accept="server">
+                                <div class="zone-header">
+                                    <span class="zone-name">🖥️ Servidores</span>
+                                    <span class="zone-hint">Serviços internos</span>
+                                </div>
+                                <div class="slot">Servidor físico</div>
+                            </div>
+
+                            <div class="zone" data-zone="s5-storage" data-accept="nas">
+                                <div class="zone-header">
+                                    <span class="zone-name">💾 Storage</span>
+                                    <span class="zone-hint">Dados / backup</span>
+                                </div>
+                                <div class="slot">NAS</div>
+                            </div>
+
+                            <div class="zone" data-zone="s5-monitor" data-accept="monitoring">
+                                <div class="zone-header">
+                                    <span class="zone-name">📊 Monitoramento</span>
+                                    <span class="zone-hint">Infraestrutura</span>
+                                </div>
+                                <div class="slot">Monitoramento</div>
+                            </div>
+                        </div>
+
+                        <div class="flow-arrow">↓</div>
+
+                        <div class="zone-grid-2">
+                            <div class="zone" data-zone="s5-backup" data-accept="backup">
+                                <div class="zone-header">
+                                    <span class="zone-name">💿 Backup</span>
+                                    <span class="zone-hint">Recuperação</span>
+                                </div>
+                                <div class="slot">Backup</div>
+                            </div>
+
+                            <div class="zone" data-zone="s5-endpoint" data-accept="endpoint">
+                                <div class="zone-header">
+                                    <span class="zone-name">💻 Usuários</span>
+                                    <span class="zone-hint">Endpoints</span>
+                                </div>
+                                <div class="slot">Computadores / notebooks</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tips">
+                    <div class="tip">
+                        <b>🏆 Pense como um profissional</b>
+                        <p>Uma boa infraestrutura não é apenas "ter Internet". Ela precisa considerar segurança, segmentação, energia, backup, documentação, monitoramento e capacidade de crescimento.</p>
+                    </div>
+                    <div class="knowledge">
+                        <b>📚 Regra de ouro</b>
+                        <p>Não existe um equipamento mágico. Cada componente resolve uma parte do problema. O projeto correto é a combinação coerente entre eles.</p>
+                    </div>
+                </div>
+            </article>
+
+            <div class="actions">
+                <div class="action-left" id="actionText">
+                    🧠 Monte a arquitetura e clique em Validar.
+                </div>
+
+                <div class="buttons">
+                    <button class="btn" id="clearBtn">↻ Limpar</button>
+                    <button class="btn primary" id="validateBtn">✓ Validar Arquitetura</button>
+                    <button class="btn" id="nextBtn" disabled>Próximo →</button>
+                </div>
+            </div>
+
+            <div class="feedback" id="feedback"></div>
+
+        </section>
+    </div>
+</main>
+
+<script>
+const services = [
+    {id:"firewall", type:"firewall", icon:"🛡️", name:"Firewall", desc:"Filtra e controla tráfego"},
+    {id:"router", type:"router", icon:"🌐", name:"Roteador", desc:"Roteamento e gateway"},
+    {id:"switch", type:"switch", icon:"🔀", name:"Switch Gerenciável", desc:"Comutação e VLANs"},
+    {id:"server", type:"server", icon:"🖥️", name:"Servidor Físico", desc:"Processamento local"},
+    {id:"ups", type:"ups", icon:"🔋", name:"Nobreak", desc:"Proteção e autonomia elétrica"},
+    {id:"patch", type:"patch", icon:"🔌", name:"Patch Panel", desc:"Organização do cabeamento"},
+    {id:"ap", type:"ap", icon:"📡", name:"Access Point", desc:"Acesso Wi-Fi"},
+    {id:"dhcp", type:"dhcp", icon:"📡", name:"Servidor DHCP", desc:"Distribuição automática de IP"},
+    {id:"dns", type:"dns", icon:"📖", name:"Servidor DNS", desc:"Resolução de nomes"},
+    {id:"vlan", type:"vlan", icon:"🏷️", name:"VLANs", desc:"Segmentação lógica"},
+    {id:"hypervisor", type:"hypervisor", icon:"⚙️", name:"Hypervisor", desc:"Virtualização de servidores"},
+    {id:"ad", type:"ad", icon:"👥", name:"Active Directory", desc:"Identidade e domínio"},
+    {id:"fileserver", type:"fileserver", icon:"📁", name:"File Server", desc:"Arquivos compartilhados"},
+    {id:"backup", type:"backup", icon:"💾", name:"Backup", desc:"Cópia e recuperação"},
+    {id:"nas", type:"nas", icon:"🗄️", name:"NAS", desc:"Armazenamento em rede"},
+    {id:"monitoring", type:"monitoring", icon:"📊", name:"Monitoramento", desc:"Métricas, eventos e alertas"},
+    {id:"endpoint", type:"endpoint", icon:"💻", name:"Computadores / Notebooks", desc:"Dispositivos dos usuários"}
+];
+
+const categories = {
+    "REDE": ["router","switch","vlan","dhcp","dns"],
+    "SEGURANÇA": ["firewall"],
+    "SERVIDORES": ["server","hypervisor","ad","fileserver"],
+    "ESTRUTURA": ["patch","ups","ap","endpoint"],
+    "STORAGE & BACKUP": ["nas","backup"],
+    "MONITORAMENTO": ["monitoring"]
+};
+
+const scenarios = {
+    1:{
+        title:"Monte o Rack da Empresa",
+        required:{
+            "s1-firewall":"firewall",
+            "s1-switch":"switch",
+            "s1-server":"server",
+            "s1-ups":"ups",
+            "s1-patch":"patch"
+        },
+        xp:100
+    },
+    2:{
+        title:"Divida a Rede por Setores",
+        required:{
+            "s2-router":"router",
+            "s2-switch":"switch",
+            "s2-dhcp":"dhcp",
+            "s2-dns":"dns",
+            "s2-vlan":"vlan"
+        },
+        xp:150
+    },
+    3:{
+        title:"Construa o Ambiente de Servidores",
+        required:{
+            "s3-server":"server",
+            "s3-hypervisor":"hypervisor",
+            "s3-ad":"ad",
+            "s3-file":"fileserver",
+            "s3-backup":"backup"
+        },
+        xp:175
+    },
+    4:{
+        title:"A Rede Caiu!",
+        required:{
+            "s4-firewall":"firewall",
+            "s4-switch":"switch",
+            "s4-dhcp":"dhcp",
+            "s4-dns":"dns",
+            "s4-monitor":"monitoring"
+        },
+        xp:200
+    },
+    5:{
+        title:"Projeto Final",
+        required:{
+            "s5-internet":"router",
+            "s5-firewall":"firewall",
+            "s5-ups":"ups",
+            "s5-switch":"switch",
+            "s5-ap":"ap",
+            "s5-patch":"patch",
+            "s5-server":"server",
+            "s5-storage":"nas",
+            "s5-monitor":"monitoring",
+            "s5-backup":"backup",
+            "s5-endpoint":"endpoint"
+        },
+        xp:300
+    }
+};
+
+let currentScenario = 1;
+let xp = 0;
+let score = 0;
+let completed = new Set();
+let selectedService = null;
+
+const catalog = document.getElementById("serviceCatalog");
+const feedback = document.getElementById("feedback");
+const xpEl = document.getElementById("xp");
+const scoreEl = document.getElementById("score");
+const completedEl = document.getElementById("completed");
+const progressBar = document.getElementById("progressBar");
+const nextBtn = document.getElementById("nextBtn");
+const validateBtn = document.getElementById("validateBtn");
+const clearBtn = document.getElementById("clearBtn");
+
+function renderCatalog(){
+    catalog.innerHTML = "";
+
+    Object.entries(categories).forEach(([category, ids])=>{
+        const title = document.createElement("div");
+        title.className = "category";
+        title.textContent = category;
+        catalog.appendChild(title);
+
+        ids.forEach(type=>{
+            const s = services.find(x=>x.type === type);
+            if(!s) return;
+
+            const card = document.createElement("div");
+            card.className = "service";
+            card.draggable = true;
+            card.dataset.type = s.type;
+
+            card.innerHTML = `
+                <div class="service-icon">${s.icon}</div>
+                <div>
+                    <strong>${s.name}</strong>
+                    <small>${s.desc}</small>
+                </div>
+            `;
+
+            card.addEventListener("dragstart", e=>{
+                e.dataTransfer.setData("text/plain", s.type);
+                selectedService = s.type;
+            });
+
+            card.addEventListener("click", ()=>{
+                selectedService = s.type;
+                document.querySelectorAll(".service").forEach(x=>x.style.outline="none");
+                card.style.outline = "2px solid var(--cyan)";
+            });
+
+            catalog.appendChild(card);
+        });
+    });
+}
+
+function getService(type){
+    return services.find(s=>s.type===type);
+}
+
+function placeService(zone,type){
+    if(!zone || !type) return;
+
+    const accepted = zone.dataset.accept;
+    if(accepted !== type){
+        showMessage(
+            "error",
+            "Componente incompatível",
+            `Esta área espera <strong>${getService(accepted)?.name || accepted}</strong>.
+             Você selecionou <strong>${getService(type)?.name || type}</strong>.`
+        );
+        zone.classList.add("wrong");
+        setTimeout(()=>zone.classList.remove("wrong"),700);
+        return;
+    }
+
+    const existing = zone.querySelector(".placed");
+    if(existing){
+        showMessage("error","Área ocupada","Remova o componente atual antes de colocar outro.");
+        return;
+    }
+
+    const s = getService(type);
+
+    zone.innerHTML = `
+        <div class="zone-header">
+            <span class="zone-name">${zone.querySelector(".zone-header")?.firstElementChild?.textContent || ""}</span>
+            <span class="zone-hint">${zone.querySelector(".zone-header")?.lastElementChild?.textContent || ""}</span>
+        </div>
+        <div class="placed">
+            <div class="icon">${s.icon}</div>
+            <div>
+                <strong>${s.name}</strong>
+                <small>${s.desc}</small>
+            </div>
+            <button class="remove" title="Remover">×</button>
+        </div>
+    `;
+
+    zone.classList.remove("wrong");
+    zone.classList.add("correct");
+
+    zone.querySelector(".remove").addEventListener("click", e=>{
+        e.stopPropagation();
+        resetZone(zone);
+    });
+
+    selectedService = null;
+    document.querySelectorAll(".service").forEach(x=>x.style.outline="none");
+    hideFeedback();
+}
+
+function resetZone(zone){
+    const scenario = zone.closest(".scenario");
+    const header = zone.querySelector(".zone-header");
+    const name = header?.firstElementChild?.textContent || "Área";
+    const hint = header?.lastElementChild?.textContent || "";
+
+    zone.innerHTML = `
+        <div class="zone-header">
+            <span class="zone-name">${name}</span>
+            <span class="zone-hint">${hint}</span>
+        </div>
+        <div class="slot">Selecione ou arraste o componente correto</div>
+    `;
+
+    zone.classList.remove("correct","wrong");
+}
+
+document.addEventListener("dragover",e=>{
+    const zone = e.target.closest(".zone");
+    if(zone){
+        e.preventDefault();
+        zone.classList.add("over");
+    }
+});
+
+document.addEventListener("dragleave",e=>{
+    const zone = e.target.closest(".zone");
+    if(zone) zone.classList.remove("over");
+});
+
+document.addEventListener("drop",e=>{
+    const zone = e.target.closest(".zone");
+    if(!zone) return;
+    e.preventDefault();
+    zone.classList.remove("over");
+    placeService(zone,e.dataTransfer.getData("text/plain"));
+});
+
+document.addEventListener("click",e=>{
+    const zone = e.target.closest(".zone");
+    if(zone && selectedService && !e.target.closest(".remove")){
+        placeService(zone,selectedService);
+    }
+});
+
+function clearCurrent(){
+    document.querySelectorAll(`.scenario[data-scenario="${currentScenario}"] .zone`)
+        .forEach(resetZone);
+    hideFeedback();
+    nextBtn.disabled = true;
+}
+
+function validate(){
+    const config = scenarios[currentScenario];
+    let errors = [];
+    let correct = 0;
+
+    Object.entries(config.required).forEach(([zoneId,expected])=>{
+        const zone = document.querySelector(`[data-zone="${zoneId}"]`);
+        const placed = zone?.querySelector(".placed");
+
+        if(!placed){
+            errors.push(`A área <strong>${zone.querySelector(".zone-name").textContent}</strong> está vazia.`);
+            zone?.classList.add("wrong");
+            return;
+        }
+
+        const actual = placed.querySelector("strong")?.textContent;
+        const expectedName = getService(expected)?.name;
+
+        if(actual !== expectedName){
+            errors.push(`${zone.querySelector(".zone-name").textContent}: esperado <strong>${expectedName}</strong>.`);
+            zone.classList.add("wrong");
+        }else{
+            correct++;
+            zone.classList.add("correct");
+        }
+    });
+
+    if(errors.length===0){
+        if(!completed.has(currentScenario)){
+            completed.add(currentScenario);
+            xp += config.xp;
+            score += config.xp;
+        }
+
+        showMessage(
+            "ok",
+            "Arquitetura correta! ✓",
+            `Excelente. Você montou a estrutura esperada para este desafio e ganhou <strong>${config.xp} XP</strong>.
+             <br><br>${educationalFeedback(currentScenario)}`
+        );
+
+        nextBtn.disabled = currentScenario === 5;
+        updateStats();
+    }else{
+        showMessage(
+            "error",
+            "Arquitetura ainda não está correta",
+            `<strong>${errors.length}</strong> ponto(s) precisam de atenção.<br><br>
+             ${errors.slice(0,4).join("<br>")}
+             <br><br><strong>Dica:</strong> ${scenarioTip(currentScenario)}`
+        );
+        updateStats();
+    }
+}
+
+function educationalFeedback(n){
+    const texts = {
+        1:"Você praticou a relação entre borda, switching, servidor, energia e organização física do rack.",
+        2:"Você praticou VLAN, DHCP, DNS e gateway — conceitos fundamentais para redes corporativas.",
+        3:"Você separou hardware físico, hypervisor, máquinas virtuais, identidade, arquivos e backup.",
+        4:"Você aplicou raciocínio de troubleshooting: sintomas de IP 169.254.x.x direcionam a investigação para a obtenção de configuração de rede.",
+        5:"Você combinou conectividade, segurança, energia, switching, Wi-Fi, servidores, storage, backup e monitoramento."
+    };
+    return texts[n];
+}
+
+function scenarioTip(n){
+    const tips = {
+        1:"Pense no fluxo físico e lógico. Firewall protege a borda, switch conecta a LAN, servidor processa serviços, nobreak protege contra interrupções elétricas e patch panel organiza o cabeamento.",
+        2:"DHCP entrega configurações IP; DNS resolve nomes; VLAN segmenta a rede; o switch transporta as VLANs; o roteador atua como gateway entre redes.",
+        3:"Primeiro vem o hardware. Depois o hypervisor. Sobre ele ficam as VMs e os serviços.",
+        4:"169.254.x.x é uma pista importante: investigue DHCP, conectividade, VLAN e relay antes de culpar o DNS.",
+        5:"Não pense apenas em Internet. Pense também em segurança, continuidade elétrica, segmentação, backup, monitoramento e capacidade de expansão."
+    };
+    return tips[n];
+}
+
+function showMessage(type,title,text){
+    feedback.className = `feedback show ${type}`;
+    feedback.innerHTML = `<h3>${type==="ok"?"✓":"✕"} ${title}</h3><p>${text}</p>`;
+    feedback.scrollIntoView({behavior:"smooth",block:"nearest"});
+}
+
+function hideFeedback(){
+    feedback.className = "feedback";
+    feedback.innerHTML = "";
+}
+
+function updateStats(){
+    xpEl.textContent = xp;
+    scoreEl.textContent = score;
+    completedEl.textContent = `${completed.size}/5`;
+    progressBar.style.width = `${currentScenario*20}%`;
+}
+
+function renderTabs(){
+    const tabs = document.getElementById("scenarioTabs");
+    tabs.innerHTML = "";
+
+    for(let i=1;i<=5;i++){
+        const button = document.createElement("button");
+        button.className = "scenario-tab";
+        if(i===currentScenario) button.classList.add("active");
+        if(completed.has(i)) button.classList.add("done");
+        button.textContent = `${i} • ${scenarios[i].title}`;
+        button.addEventListener("click",()=>{
+            currentScenario=i;
+            switchScenario();
+        });
+        tabs.appendChild(button);
+    }
+}
+
+function switchScenario(){
+    document.querySelectorAll(".scenario").forEach(s=>{
+        s.classList.toggle("active",Number(s.dataset.scenario)===currentScenario);
+    });
+
+    renderTabs();
+    updateStats();
+    hideFeedback();
+    nextBtn.disabled = !completed.has(currentScenario) || currentScenario===5;
+    selectedService=null;
+    document.querySelectorAll(".service").forEach(x=>x.style.outline="none");
+}
+
+clearBtn.addEventListener("click",clearCurrent);
+validateBtn.addEventListener("click",validate);
+
+nextBtn.addEventListener("click",()=>{
+    if(currentScenario<5){
+        currentScenario++;
+        switchScenario();
+        window.scrollTo({top:0,behavior:"smooth"});
+    }
+});
+
+renderCatalog();
+renderTabs();
+updateStats();
+</script>
+
+</body>
+</html>

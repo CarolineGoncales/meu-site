@@ -1,0 +1,7011 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Cloud Challenge | CPG Play</title>
+
+<style>
+
+/* =========================================================
+   CPG CLOUD CHALLENGE
+   ========================================================= */
+
+:root{
+    --bg:#020617;
+    --bg2:#07111f;
+    --panel:rgba(8,20,38,.88);
+    --panel2:rgba(15,30,52,.82);
+
+    --blue:#4FC3F7;
+    --blue2:#2196F3;
+    --cyan:#67e8f9;
+
+    --green:#22c55e;
+    --yellow:#facc15;
+    --red:#ef4444;
+    --purple:#a78bfa;
+
+    --text:#f8fafc;
+    --muted:#94a3b8;
+    --border:rgba(79,195,247,.18);
+
+    --shadow:
+        0 0 30px rgba(79,195,247,.10),
+        0 20px 60px rgba(0,0,0,.35);
+}
+
+
+/* =========================================================
+   RESET
+   ========================================================= */
+
+*{
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    margin:0;
+    background:#020617;
+    color:var(--text);
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    overflow-x:hidden;
+}
+
+
+/* =========================================================
+   BACKGROUND
+   ========================================================= */
+
+.cloud-bg{
+    position:fixed;
+    inset:0;
+    z-index:-10;
+
+    background:
+
+        radial-gradient(
+            circle at 20% 10%,
+            rgba(79,195,247,.15),
+            transparent 32%
+        ),
+
+        radial-gradient(
+            circle at 80% 80%,
+            rgba(59,130,246,.13),
+            transparent 35%
+        ),
+
+        linear-gradient(
+            135deg,
+            #020617,
+            #03101f,
+            #020617
+        );
+}
+
+.cloud-bg::before{
+    content:"";
+
+    position:absolute;
+
+    width:200%;
+    height:200%;
+
+    left:-50%;
+    top:-50%;
+
+    background-image:
+
+        radial-gradient(
+            circle,
+            rgba(79,195,247,.35) 1px,
+            transparent 1px
+        );
+
+    background-size:55px 55px;
+
+    opacity:.10;
+
+    animation:
+        cloudParticles 30s linear infinite;
+}
+
+@keyframes cloudParticles{
+
+    from{
+        transform:translateY(0);
+    }
+
+    to{
+        transform:translateY(-250px);
+    }
+}
+
+
+/* =========================================================
+   TOP BAR
+   ========================================================= */
+
+.cloud-topbar{
+
+    position:sticky;
+
+    top:0;
+
+    z-index:1000;
+
+    width:100%;
+
+    padding:
+        14px
+        24px;
+
+    background:
+        rgba(2,6,23,.88);
+
+    border-bottom:
+        1px solid
+        rgba(79,195,247,.15);
+
+    backdrop-filter:
+        blur(18px);
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    gap:20px;
+}
+
+.brand{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:12px;
+
+    text-decoration:none;
+
+    color:white;
+
+    font-weight:bold;
+
+    letter-spacing:.5px;
+}
+
+.brand-icon{
+
+    width:42px;
+    height:42px;
+
+    border-radius:12px;
+
+    display:flex;
+
+    align-items:center;
+    justify-content:center;
+
+    font-size:22px;
+
+    background:
+        rgba(79,195,247,.10);
+
+    border:
+        1px solid
+        rgba(79,195,247,.25);
+
+    box-shadow:
+        0 0 20px
+        rgba(79,195,247,.12);
+}
+
+.brand span{
+
+    color:var(--blue);
+
+}
+
+
+/* =========================================================
+   CLOUD STATUS
+   ========================================================= */
+
+.cloud-status{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:10px;
+
+    color:#cbd5e1;
+
+    font-size:13px;
+}
+
+.status-dot{
+
+    width:9px;
+    height:9px;
+
+    border-radius:50%;
+
+    background:var(--green);
+
+    box-shadow:
+        0 0 10px
+        rgba(34,197,94,.8);
+
+    animation:pulse 1.8s infinite;
+}
+
+@keyframes pulse{
+
+    0%,100%{
+        opacity:1;
+    }
+
+    50%{
+        opacity:.45;
+    }
+}
+
+
+/* =========================================================
+   MAIN
+   ========================================================= */
+
+.cloud-container{
+
+    width:min(
+        1500px,
+        calc(100% - 30px)
+    );
+
+    margin:auto;
+
+    padding:
+        45px
+        0
+        80px;
+}
+
+
+/* =========================================================
+   HERO
+   ========================================================= */
+
+.cloud-hero{
+
+    text-align:center;
+
+    margin-bottom:35px;
+}
+
+.cloud-badge{
+
+    display:inline-flex;
+
+    align-items:center;
+
+    gap:8px;
+
+    padding:
+        8px
+        15px;
+
+    border-radius:999px;
+
+    background:
+        rgba(79,195,247,.08);
+
+    border:
+        1px solid
+        rgba(79,195,247,.20);
+
+    color:var(--blue);
+
+    font-size:13px;
+
+    font-weight:bold;
+
+    letter-spacing:.8px;
+
+    text-transform:uppercase;
+}
+
+.cloud-hero h1{
+
+    margin:
+        18px
+        0
+        10px;
+
+    font-size:
+        clamp(
+            42px,
+            7vw,
+            78px
+        );
+
+    color:var(--blue);
+
+    text-shadow:
+
+        0 0 10px
+        rgba(79,195,247,.8),
+
+        0 0 45px
+        rgba(79,195,247,.25);
+}
+
+.cloud-hero p{
+
+    max-width:800px;
+
+    margin:auto;
+
+    color:#cbd5e1;
+
+    font-size:18px;
+
+    line-height:1.8;
+}
+
+
+/* =========================================================
+   PROVIDER SWITCH
+   ========================================================= */
+
+.provider-panel{
+
+    display:flex;
+
+    justify-content:center;
+
+    margin:
+        30px
+        0;
+}
+
+.provider-switch{
+
+    display:flex;
+
+    padding:5px;
+
+    border-radius:16px;
+
+    background:
+        rgba(15,23,42,.9);
+
+    border:
+        1px solid
+        rgba(79,195,247,.20);
+
+    box-shadow:var(--shadow);
+}
+
+.provider-btn{
+
+    border:none;
+
+    background:transparent;
+
+    color:#94a3b8;
+
+    padding:
+        13px
+        30px;
+
+    border-radius:11px;
+
+    cursor:pointer;
+
+    font-size:15px;
+
+    font-weight:bold;
+
+    transition:.25s;
+}
+
+.provider-btn:hover{
+
+    color:white;
+
+    background:
+        rgba(79,195,247,.08);
+}
+
+.provider-btn.active{
+
+    color:#020617;
+
+    background:var(--blue);
+
+    box-shadow:
+        0 0 22px
+        rgba(79,195,247,.35);
+}
+
+
+/* =========================================================
+   PROGRESS
+   ========================================================= */
+
+.progress-panel{
+
+    background:
+        rgba(8,20,38,.78);
+
+    border:
+        1px solid
+        var(--border);
+
+    border-radius:20px;
+
+    padding:18px 22px;
+
+    display:grid;
+
+    grid-template-columns:
+        auto
+        1fr
+        auto;
+
+    gap:20px;
+
+    align-items:center;
+
+    box-shadow:var(--shadow);
+
+    margin-bottom:25px;
+}
+
+.progress-title{
+
+    font-weight:bold;
+
+    white-space:nowrap;
+}
+
+.progress-bar{
+
+    height:10px;
+
+    background:
+        rgba(148,163,184,.12);
+
+    border-radius:999px;
+
+    overflow:hidden;
+}
+
+.progress-fill{
+
+    width:20%;
+
+    height:100%;
+
+    background:
+        linear-gradient(
+            90deg,
+            var(--blue2),
+            var(--cyan)
+        );
+
+    border-radius:999px;
+
+    transition:
+        width .5s ease;
+
+    box-shadow:
+        0 0 15px
+        rgba(79,195,247,.5);
+}
+
+.xp{
+
+    color:var(--yellow);
+
+    font-weight:bold;
+
+    white-space:nowrap;
+}
+
+
+/* =========================================================
+   SCENARIO
+   ========================================================= */
+
+.scenario{
+
+    display:none;
+}
+
+.scenario.active{
+
+    display:block;
+
+    animation:
+        scenarioIn .45s ease;
+}
+
+@keyframes scenarioIn{
+
+    from{
+        opacity:0;
+        transform:translateY(15px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+
+/* =========================================================
+   SCENARIO HEADER
+   ========================================================= */
+
+.scenario-header{
+
+    display:grid;
+
+    grid-template-columns:
+        1fr
+        auto;
+
+    gap:20px;
+
+    margin-bottom:22px;
+}
+
+.scenario-info{
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(8,20,38,.95),
+            rgba(12,30,52,.85)
+        );
+
+    border:
+        1px solid
+        var(--border);
+
+    border-radius:24px;
+
+    padding:28px;
+
+    box-shadow:var(--shadow);
+}
+
+.scenario-number{
+
+    color:var(--blue);
+
+    font-size:13px;
+
+    text-transform:uppercase;
+
+    font-weight:bold;
+
+    letter-spacing:1px;
+}
+
+.scenario-info h2{
+
+    margin:
+        8px
+        0
+        12px;
+
+    font-size:32px;
+}
+
+.scenario-info p{
+
+    margin:0;
+
+    color:#cbd5e1;
+
+    line-height:1.8;
+}
+
+.objective{
+
+    margin-top:18px;
+
+    padding:15px;
+
+    border-radius:14px;
+
+    background:
+        rgba(79,195,247,.06);
+
+    border-left:
+        4px solid
+        var(--blue);
+
+    color:#dbeafe;
+}
+
+.objective strong{
+
+    color:var(--blue);
+}
+
+
+/* =========================================================
+   TIP BUTTON
+   ========================================================= */
+
+.tip-card{
+
+    min-width:230px;
+
+    background:
+        rgba(250,204,21,.06);
+
+    border:
+        1px solid
+        rgba(250,204,21,.22);
+
+    border-radius:24px;
+
+    padding:22px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    align-items:center;
+
+    text-align:center;
+}
+
+.tip-icon{
+
+    font-size:30px;
+
+    margin-bottom:8px;
+}
+
+.tip-card h3{
+
+    margin:
+        0
+        0
+        8px;
+
+    color:var(--yellow);
+}
+
+.tip-card p{
+
+    color:#cbd5e1;
+
+    font-size:13px;
+
+    line-height:1.6;
+
+    margin:0 0 15px;
+}
+
+.tip-btn{
+
+    border:
+        1px solid
+        rgba(250,204,21,.3);
+
+    background:
+        rgba(250,204,21,.10);
+
+    color:var(--yellow);
+
+    border-radius:10px;
+
+    padding:
+        9px
+        16px;
+
+    cursor:pointer;
+
+    font-weight:bold;
+}
+
+
+/* =========================================================
+   CLOUD WORKSPACE
+   ========================================================= */
+
+.workspace{
+
+    display:grid;
+
+    grid-template-columns:
+        300px
+        1fr;
+
+    gap:20px;
+
+    align-items:start;
+}
+
+
+/* =========================================================
+   SERVICE LIBRARY
+   ========================================================= */
+
+.service-library{
+
+    position:sticky;
+
+    top:90px;
+
+    background:
+        rgba(7,17,31,.93);
+
+    border:
+        1px solid
+        var(--border);
+
+    border-radius:24px;
+
+    overflow:hidden;
+
+    box-shadow:var(--shadow);
+}
+
+.library-header{
+
+    padding:20px;
+
+    border-bottom:
+        1px solid
+        rgba(79,195,247,.12);
+}
+
+.library-header h3{
+
+    margin:0 0 7px;
+
+    color:var(--blue);
+}
+
+.library-header p{
+
+    margin:0;
+
+    color:var(--muted);
+
+    font-size:12px;
+
+    line-height:1.6;
+}
+
+.service-list{
+
+    padding:15px;
+
+    max-height:
+        680px;
+
+    overflow-y:auto;
+}
+
+.service-category{
+
+    color:#64748b;
+
+    font-size:11px;
+
+    font-weight:bold;
+
+    text-transform:uppercase;
+
+    letter-spacing:1px;
+
+    margin:
+        15px
+        5px
+        8px;
+}
+
+.service-item{
+
+    position:relative;
+
+    padding:
+        12px
+        13px;
+
+    margin-bottom:8px;
+
+    border-radius:14px;
+
+    background:
+        rgba(15,23,42,.88);
+
+    border:
+        1px solid
+        rgba(148,163,184,.10);
+
+    cursor:grab;
+
+    transition:.2s;
+
+    user-select:none;
+}
+
+.service-item:hover{
+
+    transform:
+        translateX(4px);
+
+    border-color:
+        rgba(79,195,247,.35);
+
+    background:
+        rgba(21,43,70,.9);
+
+    box-shadow:
+        0 0 15px
+        rgba(79,195,247,.08);
+}
+
+.service-item:active{
+
+    cursor:grabbing;
+}
+
+.service-item.selected{
+
+    border-color:
+        var(--green);
+
+    box-shadow:
+        0 0 18px
+        rgba(34,197,94,.15);
+}
+
+.service-top{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:9px;
+}
+
+.service-icon{
+
+    width:32px;
+    height:32px;
+
+    display:flex;
+
+    align-items:center;
+    justify-content:center;
+
+    border-radius:9px;
+
+    background:
+        rgba(79,195,247,.08);
+
+    flex-shrink:0;
+}
+
+.service-name{
+
+    font-size:13px;
+
+    font-weight:bold;
+
+    color:#f1f5f9;
+}
+
+.service-desc{
+
+    color:#64748b;
+
+    font-size:10px;
+
+    line-height:1.4;
+
+    margin:
+        6px
+        0
+        0
+        41px;
+}
+
+
+/* =========================================================
+   ARCHITECTURE AREA
+   ========================================================= */
+
+.architecture-wrapper{
+
+    min-width:0;
+}
+
+.architecture{
+
+    min-height:760px;
+
+    position:relative;
+
+    background:
+
+        radial-gradient(
+            circle at center,
+            rgba(79,195,247,.05),
+            transparent 55%
+        ),
+
+        rgba(3,10,20,.88);
+
+    border:
+        1px solid
+        rgba(79,195,247,.18);
+
+    border-radius:28px;
+
+    padding:25px;
+
+    overflow:hidden;
+
+    box-shadow:
+        var(--shadow),
+        inset 0 0 70px
+        rgba(79,195,247,.025);
+}
+
+
+/* =========================================================
+   GRID
+   ========================================================= */
+
+.architecture::before{
+
+    content:"";
+
+    position:absolute;
+
+    inset:0;
+
+    background-image:
+
+        linear-gradient(
+            rgba(79,195,247,.045)
+            1px,
+            transparent 1px
+        ),
+
+        linear-gradient(
+            90deg,
+            rgba(79,195,247,.045)
+            1px,
+            transparent 1px
+        );
+
+    background-size:
+        35px 35px;
+
+    pointer-events:none;
+}
+
+
+/* =========================================================
+   ARCHITECTURE LABEL
+   ========================================================= */
+
+.architecture-title{
+
+    position:relative;
+
+    z-index:2;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    gap:10px;
+
+    margin-bottom:20px;
+}
+
+.architecture-title h3{
+
+    margin:0;
+
+    font-size:18px;
+}
+
+.architecture-title span{
+
+    color:var(--muted);
+
+    font-size:11px;
+}
+
+
+/* =========================================================
+   NETWORK LAYERS
+   ========================================================= */
+
+.network-layer{
+
+    position:relative;
+
+    z-index:2;
+
+    border:
+        1px dashed
+        rgba(79,195,247,.20);
+
+    border-radius:22px;
+
+    padding:18px;
+
+    margin-bottom:18px;
+
+    background:
+        rgba(7,17,31,.50);
+}
+
+.layer-title{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    margin-bottom:12px;
+}
+
+.layer-title strong{
+
+    color:#cbd5e1;
+
+    font-size:13px;
+}
+
+.layer-title small{
+
+    color:#64748b;
+
+    font-size:10px;
+}
+
+
+/* =========================================================
+   DROP ZONES
+   ========================================================= */
+
+.drop-grid{
+
+    display:grid;
+
+    grid-template-columns:
+        repeat(
+            auto-fit,
+            minmax(145px,1fr)
+        );
+
+    gap:12px;
+}
+
+.drop-zone{
+
+    min-height:110px;
+
+    border:
+        1px dashed
+        rgba(79,195,247,.25);
+
+    border-radius:16px;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    flex-direction:column;
+
+    text-align:center;
+
+    padding:12px;
+
+    transition:.25s;
+
+    background:
+        rgba(79,195,247,.025);
+}
+
+.drop-zone:hover{
+
+    border-color:
+        var(--blue);
+
+    background:
+        rgba(79,195,247,.06);
+}
+
+.drop-zone.drag-over{
+
+    border-color:
+        var(--green);
+
+    background:
+        rgba(34,197,94,.08);
+
+    transform:
+        scale(1.02);
+
+    box-shadow:
+        0 0 25px
+        rgba(34,197,94,.12);
+}
+
+.drop-zone.correct{
+
+    border-color:
+        var(--green);
+
+    background:
+        rgba(34,197,94,.08);
+}
+
+.drop-zone.wrong{
+
+    border-color:
+        var(--red);
+
+    background:
+        rgba(239,68,68,.08);
+
+    animation:
+        shake .3s;
+}
+
+@keyframes shake{
+
+    0%,100%{
+        transform:translateX(0);
+    }
+
+    25%{
+        transform:translateX(-5px);
+    }
+
+    75%{
+        transform:translateX(5px);
+    }
+}
+
+.zone-icon{
+
+    font-size:25px;
+
+    margin-bottom:5px;
+
+    opacity:.8;
+}
+
+.zone-name{
+
+    font-size:12px;
+
+    color:#cbd5e1;
+
+    font-weight:bold;
+}
+
+.zone-hint{
+
+    font-size:9px;
+
+    color:#64748b;
+
+    margin-top:4px;
+
+    line-height:1.4;
+}
+
+
+/* =========================================================
+   PLACED COMPONENT
+   ========================================================= */
+
+.placed-service{
+
+    width:100%;
+
+    min-height:72px;
+
+    padding:10px;
+
+    border-radius:13px;
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(79,195,247,.14),
+            rgba(33,150,243,.08)
+        );
+
+    border:
+        1px solid
+        rgba(79,195,247,.35);
+
+    cursor:pointer;
+
+    position:relative;
+}
+
+.placed-service strong{
+
+    display:block;
+
+    color:var(--blue);
+
+    font-size:11px;
+
+    margin-bottom:5px;
+}
+
+.placed-service small{
+
+    display:block;
+
+    color:#94a3b8;
+
+    font-size:9px;
+
+    line-height:1.3;
+}
+
+.remove-service{
+
+    position:absolute;
+
+    right:6px;
+
+    top:5px;
+
+    border:none;
+
+    background:none;
+
+    color:#64748b;
+
+    cursor:pointer;
+
+    font-size:13px;
+}
+
+.remove-service:hover{
+
+    color:var(--red);
+}
+
+
+/* =========================================================
+   FLOW
+   ========================================================= */
+
+.flow-line{
+
+    text-align:center;
+
+    color:var(--blue);
+
+    font-size:20px;
+
+    margin:
+        -4px
+        0;
+}
+
+
+/* =========================================================
+   EXTERNAL INTERNET
+   ========================================================= */
+
+.internet-node{
+
+    position:relative;
+
+    z-index:2;
+
+    margin-bottom:16px;
+
+    padding:15px;
+
+    border:
+        1px solid
+        rgba(79,195,247,.22);
+
+    border-radius:16px;
+
+    background:
+        rgba(79,195,247,.05);
+
+    text-align:center;
+
+    color:#cbd5e1;
+
+    font-weight:bold;
+}
+
+.internet-node span{
+
+    display:block;
+
+    font-size:10px;
+
+    color:#64748b;
+
+    font-weight:normal;
+
+    margin-top:5px;
+}
+
+
+/* =========================================================
+   ACTION BAR
+   ========================================================= */
+
+.action-bar{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    gap:15px;
+
+    margin-top:20px;
+
+    padding:18px;
+
+    background:
+        rgba(8,20,38,.90);
+
+    border:
+        1px solid
+        var(--border);
+
+    border-radius:20px;
+}
+
+.action-help{
+
+    color:#94a3b8;
+
+    font-size:12px;
+
+    line-height:1.5;
+}
+
+.action-buttons{
+
+    display:flex;
+
+    gap:10px;
+}
+
+.action-btn{
+
+    border:none;
+
+    border-radius:12px;
+
+    padding:
+        13px
+        20px;
+
+    cursor:pointer;
+
+    font-weight:bold;
+
+    transition:.2s;
+}
+
+.reset-btn{
+
+    color:#cbd5e1;
+
+    background:
+        rgba(148,163,184,.10);
+
+    border:
+        1px solid
+        rgba(148,163,184,.15);
+}
+
+.reset-btn:hover{
+
+    background:
+        rgba(148,163,184,.18);
+}
+
+.validate-btn{
+
+    background:
+        var(--blue);
+
+    color:#020617;
+
+    box-shadow:
+        0 0 20px
+        rgba(79,195,247,.20);
+}
+
+.validate-btn:hover{
+
+    transform:
+        translateY(-2px);
+
+    box-shadow:
+        0 0 30px
+        rgba(79,195,247,.35);
+}
+
+
+/* =========================================================
+   FEEDBACK
+   ========================================================= */
+
+.feedback{
+
+    display:none;
+
+    margin-top:20px;
+
+    padding:22px;
+
+    border-radius:20px;
+
+    animation:
+        feedbackIn .35s ease;
+}
+
+.feedback.show{
+
+    display:block;
+}
+
+.feedback.success{
+
+    background:
+        rgba(34,197,94,.07);
+
+    border:
+        1px solid
+        rgba(34,197,94,.25);
+}
+
+.feedback.error{
+
+    background:
+        rgba(239,68,68,.07);
+
+    border:
+        1px solid
+        rgba(239,68,68,.25);
+}
+
+.feedback.tip{
+
+    background:
+        rgba(250,204,21,.07);
+
+    border:
+        1px solid
+        rgba(250,204,21,.25);
+}
+
+.feedback h3{
+
+    margin:
+        0
+        0
+        10px;
+}
+
+.feedback.success h3{
+
+    color:var(--green);
+}
+
+.feedback.error h3{
+
+    color:var(--red);
+}
+
+.feedback.tip h3{
+
+    color:var(--yellow);
+}
+
+.feedback p{
+
+    color:#cbd5e1;
+
+    line-height:1.7;
+
+    margin:6px 0;
+}
+
+.feedback strong{
+
+    color:white;
+}
+
+@keyframes feedbackIn{
+
+    from{
+        opacity:0;
+        transform:translateY(8px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+
+/* =========================================================
+   NAVIGATION
+   ========================================================= */
+
+.scenario-navigation{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    margin-top:25px;
+
+    gap:15px;
+}
+
+.nav-btn{
+
+    border:
+        1px solid
+        rgba(79,195,247,.20);
+
+    background:
+        rgba(8,20,38,.8);
+
+    color:#cbd5e1;
+
+    border-radius:12px;
+
+    padding:
+        12px
+        18px;
+
+    cursor:pointer;
+
+    transition:.2s;
+}
+
+.nav-btn:hover{
+
+    border-color:
+        rgba(79,195,247,.45);
+
+    color:white;
+}
+
+.nav-btn:disabled{
+
+    opacity:.35;
+
+    cursor:not-allowed;
+}
+
+.scenario-dots{
+
+    display:flex;
+
+    gap:8px;
+}
+
+.scenario-dot{
+
+    width:10px;
+    height:10px;
+
+    border-radius:50%;
+
+    background:#334155;
+
+    transition:.2s;
+}
+
+.scenario-dot.active{
+
+    background:var(--blue);
+
+    box-shadow:
+        0 0 10px
+        rgba(79,195,247,.6);
+}
+
+.scenario-dot.done{
+
+    background:var(--green);
+}
+
+
+/* =========================================================
+   FINAL SCREEN
+   ========================================================= */
+
+.final-screen{
+
+    display:none;
+
+    text-align:center;
+
+    padding:
+        70px
+        25px;
+
+    background:
+        rgba(8,20,38,.90);
+
+    border:
+        1px solid
+        var(--border);
+
+    border-radius:30px;
+
+    box-shadow:var(--shadow);
+}
+
+.final-screen.show{
+
+    display:block;
+
+    animation:
+        scenarioIn .5s ease;
+}
+
+.final-icon{
+
+    font-size:80px;
+
+    filter:
+        drop-shadow(
+            0 0 25px
+            rgba(79,195,247,.5)
+        );
+}
+
+.final-screen h2{
+
+    font-size:42px;
+
+    color:var(--blue);
+
+    margin:
+        20px
+        0
+        10px;
+}
+
+.final-score{
+
+    font-size:32px;
+
+    color:var(--yellow);
+
+    font-weight:bold;
+
+    margin:20px;
+}
+
+.final-screen p{
+
+    max-width:700px;
+
+    margin:auto;
+
+    color:#cbd5e1;
+
+    line-height:1.8;
+}
+
+.restart-btn{
+
+    margin-top:30px;
+
+    padding:
+        14px
+        25px;
+
+    border:none;
+
+    border-radius:12px;
+
+    background:var(--blue);
+
+    color:#020617;
+
+    font-weight:bold;
+
+    cursor:pointer;
+}
+
+
+/* =========================================================
+   LEARNING PANEL
+   ========================================================= */
+
+.learning-panel{
+
+    margin-top:25px;
+
+    display:grid;
+
+    grid-template-columns:
+        repeat(
+            3,
+            1fr
+        );
+
+    gap:15px;
+}
+
+.learning-card{
+
+    padding:20px;
+
+    border-radius:18px;
+
+    background:
+        rgba(8,20,38,.78);
+
+    border:
+        1px solid
+        rgba(79,195,247,.12);
+}
+
+.learning-card span{
+
+    font-size:25px;
+}
+
+.learning-card h4{
+
+    margin:
+        10px
+        0
+        7px;
+
+    color:#e2e8f0;
+}
+
+.learning-card p{
+
+    margin:0;
+
+    color:#64748b;
+
+    font-size:12px;
+
+    line-height:1.6;
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media(max-width:1000px){
+
+    .workspace{
+
+        grid-template-columns:
+            1fr;
+    }
+
+    .service-library{
+
+        position:relative;
+
+        top:auto;
+    }
+
+    .service-list{
+
+        max-height:350px;
+
+        display:grid;
+
+        grid-template-columns:
+            repeat(
+                2,
+                1fr
+            );
+
+        gap:8px;
+    }
+
+    .service-category{
+
+        grid-column:1/-1;
+    }
+
+    .scenario-header{
+
+        grid-template-columns:1fr;
+    }
+
+    .tip-card{
+
+        min-width:0;
+    }
+
+}
+
+@media(max-width:700px){
+
+    .cloud-topbar{
+
+        padding:
+            12px
+            15px;
+    }
+
+    .cloud-status{
+
+        display:none;
+    }
+
+    .cloud-container{
+
+        width:
+            calc(
+                100% - 20px
+            );
+
+        padding-top:25px;
+    }
+
+    .cloud-hero p{
+
+        font-size:15px;
+    }
+
+    .provider-btn{
+
+        padding:
+            12px
+            20px;
+    }
+
+    .progress-panel{
+
+        grid-template-columns:
+            1fr
+            auto;
+
+    }
+
+    .progress-bar{
+
+        grid-column:
+            1/-1;
+
+        grid-row:2;
+    }
+
+    .scenario-info{
+
+        padding:20px;
+    }
+
+    .scenario-info h2{
+
+        font-size:25px;
+    }
+
+    .architecture{
+
+        padding:14px;
+
+        min-height:auto;
+    }
+
+    .drop-grid{
+
+        grid-template-columns:
+            1fr
+            1fr;
+    }
+
+    .action-bar{
+
+        flex-direction:column;
+
+        align-items:stretch;
+    }
+
+    .action-buttons{
+
+        width:100%;
+    }
+
+    .action-btn{
+
+        flex:1;
+    }
+
+    .learning-panel{
+
+        grid-template-columns:1fr;
+    }
+
+}
+
+@media(max-width:480px){
+
+    .service-list{
+
+        grid-template-columns:1fr;
+    }
+
+    .drop-grid{
+
+        grid-template-columns:1fr;
+    }
+
+    .scenario-navigation{
+
+        flex-wrap:wrap;
+    }
+
+    .scenario-dots{
+
+        order:-1;
+
+        width:100%;
+
+        justify-content:center;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="cloud-bg"></div>
+
+
+<!-- =====================================================
+     TOP BAR
+===================================================== -->
+
+<header class="cloud-topbar">
+
+    <a
+        href="../play.html"
+        class="brand"
+    >
+
+        <div class="brand-icon">
+            ☁️
+        </div>
+
+        <div>
+            CPG <span>Cloud Lab</span>
+        </div>
+
+    </a>
+
+
+    <div class="cloud-status">
+
+        <span class="status-dot"></span>
+
+        CLOUD LAB ONLINE
+
+    </div>
+
+</header>
+
+
+
+<main class="cloud-container">
+
+
+<!-- =====================================================
+     HERO
+===================================================== -->
+
+<section class="cloud-hero">
+
+    <div class="cloud-badge">
+
+        ☁️
+        Hands-on Cloud Architecture
+
+    </div>
+
+
+    <h1>
+        CLOUD CHALLENGE
+    </h1>
+
+
+    <p>
+
+        Construa arquiteturas de Cloud como um
+        engenheiro de infraestrutura. Escolha os
+        serviços, organize a rede, proteja os recursos
+        e resolva problemas reais de empresas.
+
+    </p>
+
+</section>
+
+
+
+<!-- =====================================================
+     PROVIDER SWITCH
+===================================================== -->
+
+<div class="provider-panel">
+
+    <div class="provider-switch">
+
+        <button
+            class="provider-btn active"
+            id="awsBtn"
+            onclick="changeProvider('aws')"
+        >
+            🟠 AWS
+        </button>
+
+
+        <button
+            class="provider-btn"
+            id="azureBtn"
+            onclick="changeProvider('azure')"
+        >
+            🔷 AZURE
+        </button>
+
+    </div>
+
+</div>
+
+
+
+<!-- =====================================================
+     PROGRESS
+===================================================== -->
+
+<div class="progress-panel">
+
+    <div class="progress-title">
+
+        Cenário
+        <span id="scenarioNumber">
+            1
+        </span>
+        / 5
+
+    </div>
+
+
+    <div class="progress-bar">
+
+        <div
+            class="progress-fill"
+            id="progressFill"
+        ></div>
+
+    </div>
+
+
+    <div class="xp">
+
+        ⭐
+        <span id="xpValue">
+            0
+        </span>
+        XP
+
+    </div>
+
+</div>
+
+
+
+<!-- =====================================================
+     SCENARIO 1
+===================================================== -->
+
+<section
+    class="scenario active"
+    id="scenario1"
+>
+
+    <div class="scenario-header">
+
+        <div class="scenario-info">
+
+            <div class="scenario-number">
+
+                CENÁRIO 01
+
+            </div>
+
+
+            <h2>
+                Da infraestrutura física para a Cloud
+            </h2>
+
+
+            <p>
+
+                A empresa <strong>NovaTech CPG</strong> possui
+                servidores físicos em seu escritório.
+                O crescimento da empresa aumentou os
+                custos de manutenção e agora a equipe
+                precisa migrar a aplicação para Cloud.
+
+                <br><br>
+
+                O sistema é uma aplicação web que precisa
+                ser acessada pela Internet. Os servidores
+                de aplicação não devem ficar diretamente
+                expostos à Internet.
+
+            </p>
+
+
+            <div class="objective">
+
+                🎯
+
+                <strong>Objetivo:</strong>
+
+                monte uma arquitetura básica e segura
+                para hospedar a aplicação web.
+
+            </div>
+
+        </div>
+
+
+        <div class="tip-card">
+
+            <div class="tip-icon">
+                💡
+            </div>
+
+            <h3>
+                Dica do Arquiteto
+            </h3>
+
+            <p>
+
+                Pense em camadas.
+
+                O usuário acessa a aplicação,
+                mas isso não significa que o servidor
+                precisa ter um IP público.
+
+            </p>
+
+            <button
+                class="tip-btn"
+                onclick="showHint(1)"
+            >
+                Ver dica
+            </button>
+
+        </div>
+
+    </div>
+
+
+
+    <div class="workspace">
+
+
+        <!-- =================================================
+             SERVICE LIBRARY
+        ================================================= -->
+
+        <aside class="service-library">
+
+            <div class="library-header">
+
+                <h3>
+                    🧩 Cloud Services
+                </h3>
+
+                <p>
+
+                    Arraste os componentes para a
+                    arquitetura. No celular, toque
+                    em um serviço para selecioná-lo.
+
+                </p>
+
+            </div>
+
+
+            <div
+                class="service-list"
+                id="serviceList"
+            ></div>
+
+        </aside>
+
+
+
+        <!-- =================================================
+             ARCHITECTURE
+        ================================================= -->
+
+        <div class="architecture-wrapper">
+
+            <div class="architecture">
+
+
+                <div class="architecture-title">
+
+                    <h3>
+                        🏗️ Área de Arquitetura
+                    </h3>
+
+                    <span>
+                        Monte a solução
+                    </span>
+
+                </div>
+
+
+
+                <div class="internet-node">
+
+                    🌐 INTERNET
+
+                    <span>
+                        Usuários e clientes externos
+                    </span>
+
+                </div>
+
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+
+                <!-- PUBLIC LAYER -->
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🌎 CAMADA PÚBLICA
+                        </strong>
+
+                        <small>
+                            Entrada controlada
+                        </small>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="network"
+                            data-accept="network"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🌐
+                            </div>
+
+                            <div class="zone-name">
+                                Rede / VPC
+                            </div>
+
+                            <div class="zone-hint">
+                                Ambiente lógico da rede
+                            </div>
+
+                        </div>
+
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="gateway"
+                            data-accept="gateway"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🚪
+                            </div>
+
+                            <div class="zone-name">
+                                Gateway de Internet
+                            </div>
+
+                            <div class="zone-hint">
+                                Comunicação com a Internet
+                            </div>
+
+                        </div>
+
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="loadbalancer"
+                            data-accept="loadbalancer"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                ⚖️
+                            </div>
+
+                            <div class="zone-name">
+                                Load Balancer
+                            </div>
+
+                            <div class="zone-hint">
+                                Distribui requisições
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+
+                <!-- PRIVATE APP -->
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🔒 CAMADA PRIVADA
+                        </strong>
+
+                        <small>
+                            Aplicação protegida
+                        </small>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="compute"
+                            data-accept="compute"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🖥️
+                            </div>
+
+                            <div class="zone-name">
+                                Servidor de aplicação
+                            </div>
+
+                            <div class="zone-hint">
+                                Executa a aplicação
+                            </div>
+
+                        </div>
+
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="security"
+                            data-accept="security"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🛡️
+                            </div>
+
+                            <div class="zone-name">
+                                Firewall / Security
+                            </div>
+
+                            <div class="zone-hint">
+                                Controla o tráfego
+                            </div>
+
+                        </div>
+
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="nat"
+                            data-accept="nat"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🔄
+                            </div>
+
+                            <div class="zone-name">
+                                NAT
+                            </div>
+
+                            <div class="zone-hint">
+                                Saída privada para Internet
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+
+                <!-- DATA -->
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🗄️ DADOS E STORAGE
+                        </strong>
+
+                        <small>
+                            Persistência
+                        </small>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="database"
+                            data-accept="database"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🗄️
+                            </div>
+
+                            <div class="zone-name">
+                                Banco de Dados
+                            </div>
+
+                            <div class="zone-hint">
+                                Dados estruturados
+                            </div>
+
+                        </div>
+
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="storage"
+                            data-accept="storage"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📦
+                            </div>
+
+                            <div class="zone-name">
+                                Object Storage
+                            </div>
+
+                            <div class="zone-hint">
+                                Arquivos e objetos
+                            </div>
+
+                        </div>
+
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="monitoring"
+                            data-accept="monitoring"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📊
+                            </div>
+
+                            <div class="zone-name">
+                                Monitoramento
+                            </div>
+
+                            <div class="zone-hint">
+                                Métricas e logs
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+
+
+            <!-- ACTION -->
+
+            <div class="action-bar">
+
+                <div class="action-help">
+
+                    🧠
+
+                    Monte a arquitetura e clique
+                    em <strong>Validar Arquitetura</strong>.
+
+                </div>
+
+
+                <div class="action-buttons">
+
+                    <button
+                        class="action-btn reset-btn"
+                        onclick="resetScenario()"
+                    >
+                        ↻ Limpar
+                    </button>
+
+
+                    <button
+                        class="action-btn validate-btn"
+                        onclick="validateScenario()"
+                    >
+                        ✓ Validar Arquitetura
+                    </button>
+
+                </div>
+
+            </div>
+
+
+
+            <div
+                class="feedback"
+                id="feedback"
+            ></div>
+
+
+
+            <div class="scenario-navigation">
+
+                <button
+                    class="nav-btn"
+                    id="prevBtn"
+                    onclick="previousScenario()"
+                    disabled
+                >
+                    ← Anterior
+                </button>
+
+
+                <div class="scenario-dots">
+
+                    <div
+                        class="scenario-dot active"
+                        id="dot1"
+                    ></div>
+
+                    <div
+                        class="scenario-dot"
+                        id="dot2"
+                    ></div>
+
+                    <div
+                        class="scenario-dot"
+                        id="dot3"
+                    ></div>
+
+                    <div
+                        class="scenario-dot"
+                        id="dot4"
+                    ></div>
+
+                    <div
+                        class="scenario-dot"
+                        id="dot5"
+                    ></div>
+
+                </div>
+
+
+                <button
+                    class="nav-btn"
+                    id="nextBtn"
+                    onclick="nextScenario()"
+                >
+                    Próximo →
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     SCENARIO 2
+===================================================== -->
+
+<section
+    class="scenario"
+    id="scenario2"
+>
+
+    <div class="scenario-header">
+
+        <div class="scenario-info">
+
+            <div class="scenario-number">
+                CENÁRIO 02
+            </div>
+
+            <h2>
+                Aplicação Web em produção
+            </h2>
+
+            <p>
+
+                A <strong>ShopFast CPG</strong> cresceu rapidamente.
+                O site recebe milhares de acessos e não pode
+                depender de um único servidor.
+
+                <br><br>
+
+                Durante períodos de grande movimento,
+                como promoções, o número de usuários aumenta
+                significativamente.
+
+            </p>
+
+            <div class="objective">
+
+                🎯
+
+                <strong>Objetivo:</strong>
+
+                construa uma arquitetura web capaz de
+                distribuir o tráfego e aumentar a capacidade
+                da aplicação.
+
+            </div>
+
+        </div>
+
+
+        <div class="tip-card">
+
+            <div class="tip-icon">
+                💡
+            </div>
+
+            <h3>
+                Pense em disponibilidade
+            </h3>
+
+            <p>
+
+                Um único servidor é um ponto único
+                de falha.
+
+            </p>
+
+            <button
+                class="tip-btn"
+                onclick="showHint(2)"
+            >
+                Ver dica
+            </button>
+
+        </div>
+
+    </div>
+
+
+    <div class="workspace">
+
+        <aside class="service-library">
+
+            <div class="library-header">
+
+                <h3>
+                    🧩 Cloud Services
+                </h3>
+
+                <p>
+                    Construa uma arquitetura
+                    web escalável.
+                </p>
+
+            </div>
+
+            <div
+                class="service-list"
+                id="serviceList2"
+            ></div>
+
+        </aside>
+
+
+        <div class="architecture-wrapper">
+
+            <div class="architecture">
+
+                <div class="architecture-title">
+
+                    <h3>
+                        🏗️ Arquitetura Web
+                    </h3>
+
+                    <span>
+                        Alta disponibilidade
+                    </span>
+
+                </div>
+
+
+                <div class="internet-node">
+
+                    🌐 USUÁRIOS
+
+                    <span>
+                        Tráfego HTTPS
+                    </span>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🌎 FRONT DO SISTEMA
+                        </strong>
+
+                        <small>
+                            Entrada
+                        </small>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s2-network"
+                            data-accept="network"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🌐
+                            </div>
+
+                            <div class="zone-name">
+                                Rede Cloud
+                            </div>
+
+                            <div class="zone-hint">
+                                Rede virtual
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s2-dns"
+                            data-accept="dns"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📡
+                            </div>
+
+                            <div class="zone-name">
+                                DNS
+                            </div>
+
+                            <div class="zone-hint">
+                                Resolve o domínio
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s2-cdn"
+                            data-accept="cdn"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🌍
+                            </div>
+
+                            <div class="zone-name">
+                                CDN
+                            </div>
+
+                            <div class="zone-hint">
+                                Conteúdo distribuído
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s2-lb"
+                            data-accept="loadbalancer"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                ⚖️
+                            </div>
+
+                            <div class="zone-name">
+                                Load Balancer
+                            </div>
+
+                            <div class="zone-hint">
+                                Distribuição HTTP/HTTPS
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🖥️ SERVIDORES
+                        </strong>
+
+                        <small>
+                            Múltiplas instâncias
+                        </small>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s2-app1"
+                            data-accept="compute"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🖥️
+                            </div>
+
+                            <div class="zone-name">
+                                Aplicação 01
+                            </div>
+
+                            <div class="zone-hint">
+                                Instância
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s2-app2"
+                            data-accept="compute"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🖥️
+                            </div>
+
+                            <div class="zone-name">
+                                Aplicação 02
+                            </div>
+
+                            <div class="zone-hint">
+                                Instância
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s2-scale"
+                            data-accept="autoscaling"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📈
+                            </div>
+
+                            <div class="zone-name">
+                                Auto Scaling
+                            </div>
+
+                            <div class="zone-hint">
+                                Ajuste automático
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            📊 OBSERVABILIDADE
+                        </strong>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s2-monitor"
+                            data-accept="monitoring"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📊
+                            </div>
+
+                            <div class="zone-name">
+                                Monitoramento
+                            </div>
+
+                            <div class="zone-hint">
+                                Métricas e alertas
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+
+            <div class="action-bar">
+
+                <div class="action-help">
+
+                    🚀
+
+                    Distribua o tráfego e elimine
+                    pontos únicos de falha.
+
+                </div>
+
+                <div class="action-buttons">
+
+                    <button
+                        class="action-btn reset-btn"
+                        onclick="resetScenario()"
+                    >
+                        ↻ Limpar
+                    </button>
+
+                    <button
+                        class="action-btn validate-btn"
+                        onclick="validateScenario()"
+                    >
+                        ✓ Validar Arquitetura
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <div
+                class="feedback"
+                id="feedback2"
+            ></div>
+
+
+            <div class="scenario-navigation">
+
+                <button
+                    class="nav-btn"
+                    onclick="previousScenario()"
+                >
+                    ← Anterior
+                </button>
+
+                <div class="scenario-dots">
+
+                    <div class="scenario-dot done"></div>
+                    <div class="scenario-dot active"></div>
+                    <div class="scenario-dot"></div>
+                    <div class="scenario-dot"></div>
+                    <div class="scenario-dot"></div>
+
+                </div>
+
+                <button
+                    class="nav-btn"
+                    onclick="nextScenario()"
+                >
+                    Próximo →
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     SCENARIO 3
+===================================================== -->
+
+<section
+    class="scenario"
+    id="scenario3"
+>
+
+    <div class="scenario-header">
+
+        <div class="scenario-info">
+
+            <div class="scenario-number">
+                CENÁRIO 03
+            </div>
+
+            <h2>
+                Dados, banco e armazenamento
+            </h2>
+
+            <p>
+
+                A empresa <strong>MediaCloud CPG</strong> armazena
+                milhões de imagens, documentos e vídeos.
+
+                A aplicação também precisa de um banco
+                relacional para clientes, pedidos e pagamentos.
+
+                <br><br>
+
+                Os arquivos não devem ser armazenados
+                diretamente no servidor da aplicação.
+
+            </p>
+
+            <div class="objective">
+
+                🎯
+
+                <strong>Objetivo:</strong>
+
+                separe computação, banco de dados e
+                armazenamento de objetos.
+
+            </div>
+
+        </div>
+
+
+        <div class="tip-card">
+
+            <div class="tip-icon">
+                💡
+            </div>
+
+            <h3>
+                Pense em especialização
+            </h3>
+
+            <p>
+
+                Servidor de aplicação, banco relacional
+                e object storage resolvem problemas
+                diferentes.
+
+            </p>
+
+            <button
+                class="tip-btn"
+                onclick="showHint(3)"
+            >
+                Ver dica
+            </button>
+
+        </div>
+
+    </div>
+
+
+    <div class="workspace">
+
+        <aside class="service-library">
+
+            <div class="library-header">
+
+                <h3>
+                    🧩 Cloud Services
+                </h3>
+
+                <p>
+                    Escolha o serviço adequado
+                    para cada tipo de dado.
+                </p>
+
+            </div>
+
+            <div
+                class="service-list"
+                id="serviceList3"
+            ></div>
+
+        </aside>
+
+
+        <div class="architecture-wrapper">
+
+            <div class="architecture">
+
+                <div class="architecture-title">
+
+                    <h3>
+                        🗄️ Data Architecture
+                    </h3>
+
+                    <span>
+                        Dados separados por função
+                    </span>
+
+                </div>
+
+
+                <div class="internet-node">
+
+                    👨‍💻 APLICAÇÃO
+
+                    <span>
+                        Solicita e processa os dados
+                    </span>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🖥️ COMPUTAÇÃO
+                        </strong>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s3-compute"
+                            data-accept="compute"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🖥️
+                            </div>
+
+                            <div class="zone-name">
+                                Compute
+                            </div>
+
+                            <div class="zone-hint">
+                                Executa a aplicação
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🗄️ BANCO RELACIONAL
+                        </strong>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s3-database"
+                            data-accept="database"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🗄️
+                            </div>
+
+                            <div class="zone-name">
+                                Database
+                            </div>
+
+                            <div class="zone-hint">
+                                Clientes, pedidos e pagamentos
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s3-cache"
+                            data-accept="cache"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                ⚡
+                            </div>
+
+                            <div class="zone-name">
+                                Cache
+                            </div>
+
+                            <div class="zone-hint">
+                                Dados temporários
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            📦 OBJECT STORAGE
+                        </strong>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s3-storage"
+                            data-accept="storage"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📦
+                            </div>
+
+                            <div class="zone-name">
+                                Object Storage
+                            </div>
+
+                            <div class="zone-hint">
+                                Imagens, vídeos e documentos
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s3-backup"
+                            data-accept="backup"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                💾
+                            </div>
+
+                            <div class="zone-name">
+                                Backup
+                            </div>
+
+                            <div class="zone-hint">
+                                Cópias de segurança
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="action-bar">
+
+                <div class="action-help">
+
+                    📦
+
+                    Cada tipo de dado possui
+                    características e serviços adequados.
+
+                </div>
+
+                <div class="action-buttons">
+
+                    <button
+                        class="action-btn reset-btn"
+                        onclick="resetScenario()"
+                    >
+                        ↻ Limpar
+                    </button>
+
+                    <button
+                        class="action-btn validate-btn"
+                        onclick="validateScenario()"
+                    >
+                        ✓ Validar Arquitetura
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <div
+                class="feedback"
+                id="feedback3"
+            ></div>
+
+
+            <div class="scenario-navigation">
+
+                <button
+                    class="nav-btn"
+                    onclick="previousScenario()"
+                >
+                    ← Anterior
+                </button>
+
+                <div class="scenario-dots">
+
+                    <div class="scenario-dot done"></div>
+                    <div class="scenario-dot done"></div>
+                    <div class="scenario-dot active"></div>
+                    <div class="scenario-dot"></div>
+                    <div class="scenario-dot"></div>
+
+                </div>
+
+                <button
+                    class="nav-btn"
+                    onclick="nextScenario()"
+                >
+                    Próximo →
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     SCENARIO 4
+===================================================== -->
+
+<section
+    class="scenario"
+    id="scenario4"
+>
+
+    <div class="scenario-header">
+
+        <div class="scenario-info">
+
+            <div class="scenario-number">
+                CENÁRIO 04
+            </div>
+
+            <h2>
+                Segurança e alta disponibilidade
+            </h2>
+
+            <p>
+
+                O banco <strong>FinBank CPG</strong> precisa
+                disponibilizar seu sistema financeiro
+                com alta disponibilidade.
+
+                A empresa não pode depender de uma única
+                zona de disponibilidade e precisa controlar
+                cuidadosamente quem pode acessar cada recurso.
+
+            </p>
+
+            <div class="objective">
+
+                🎯
+
+                <strong>Objetivo:</strong>
+
+                monte uma arquitetura com identidade,
+                controle de tráfego, redundância e
+                monitoramento.
+
+            </div>
+
+        </div>
+
+
+        <div class="tip-card">
+
+            <div class="tip-icon">
+                🛡️
+            </div>
+
+            <h3>
+                Segurança primeiro
+            </h3>
+
+            <p>
+
+                Identidade, menor privilégio,
+                segmentação de rede e monitoramento
+                são partes da arquitetura.
+
+            </p>
+
+            <button
+                class="tip-btn"
+                onclick="showHint(4)"
+            >
+                Ver dica
+            </button>
+
+        </div>
+
+    </div>
+
+
+    <div class="workspace">
+
+        <aside class="service-library">
+
+            <div class="library-header">
+
+                <h3>
+                    🧩 Security Services
+                </h3>
+
+                <p>
+                    Proteja identidade,
+                    rede e aplicações.
+                </p>
+
+            </div>
+
+            <div
+                class="service-list"
+                id="serviceList4"
+            ></div>
+
+        </aside>
+
+
+        <div class="architecture-wrapper">
+
+            <div class="architecture">
+
+                <div class="architecture-title">
+
+                    <h3>
+                        🛡️ Secure Architecture
+                    </h3>
+
+                    <span>
+                        Defesa em camadas
+                    </span>
+
+                </div>
+
+
+                <div class="internet-node">
+
+                    🌐 INTERNET
+
+                    <span>
+                        Tráfego externo
+                    </span>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🔐 IDENTIDADE E PERÍMETRO
+                        </strong>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s4-identity"
+                            data-accept="identity"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                👤
+                            </div>
+
+                            <div class="zone-name">
+                                Identity
+                            </div>
+
+                            <div class="zone-hint">
+                                Identidades e permissões
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s4-waf"
+                            data-accept="waf"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🧱
+                            </div>
+
+                            <div class="zone-name">
+                                WAF
+                            </div>
+
+                            <div class="zone-hint">
+                                Proteção de aplicações web
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s4-firewall"
+                            data-accept="security"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🛡️
+                            </div>
+
+                            <div class="zone-name">
+                                Firewall / SG
+                            </div>
+
+                            <div class="zone-hint">
+                                Controle de tráfego
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🏢 ALTA DISPONIBILIDADE
+                        </strong>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s4-zone1"
+                            data-accept="compute"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🖥️
+                            </div>
+
+                            <div class="zone-name">
+                                Zona A
+                            </div>
+
+                            <div class="zone-hint">
+                                Instância / aplicação
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s4-zone2"
+                            data-accept="compute"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🖥️
+                            </div>
+
+                            <div class="zone-name">
+                                Zona B
+                            </div>
+
+                            <div class="zone-hint">
+                                Instância / aplicação
+                            </div>
+
+                        </div>
+                        <div
+                            class="drop-zone"
+                            data-zone="s4-logs"
+                            data-accept="logs"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📝
+                            </div>
+
+                            <div class="zone-name">
+                                Logs
+                            </div>
+
+                            <div class="zone-hint">
+                                Centralização e análise de logs
+                            </div>
+
+                        </div>
+
+
+
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s4-monitor"
+                            data-accept="monitoring"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📊
+                            </div>
+
+                            <div class="zone-name">
+                                Monitoramento
+                            </div>
+
+                            <div class="zone-hint">
+                                Métricas, logs e alertas
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🗄️ DADOS
+                        </strong>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s4-db"
+                            data-accept="database"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🗄️
+                            </div>
+
+                            <div class="zone-name">
+                                Banco
+                            </div>
+
+                            <div class="zone-hint">
+                                Dados transacionais
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s4-backup"
+                            data-accept="backup"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                💾
+                            </div>
+
+                            <div class="zone-name">
+                                Backup
+                            </div>
+
+                            <div class="zone-hint">
+                                Recuperação
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="action-bar">
+
+                <div class="action-help">
+
+                    🛡️
+
+                    Pense em defesa em profundidade
+                    e eliminação de pontos únicos de falha.
+
+                </div>
+
+                <div class="action-buttons">
+
+                    <button
+                        class="action-btn reset-btn"
+                        onclick="resetScenario()"
+                    >
+                        ↻ Limpar
+                    </button>
+
+                    <button
+                        class="action-btn validate-btn"
+                        onclick="validateScenario()"
+                    >
+                        ✓ Validar Arquitetura
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <div
+                class="feedback"
+                id="feedback4"
+            ></div>
+
+
+            <div class="scenario-navigation">
+
+                <button
+                    class="nav-btn"
+                    onclick="previousScenario()"
+                >
+                    ← Anterior
+                </button>
+
+                <div class="scenario-dots">
+
+                    <div class="scenario-dot done"></div>
+                    <div class="scenario-dot done"></div>
+                    <div class="scenario-dot done"></div>
+                    <div class="scenario-dot active"></div>
+                    <div class="scenario-dot"></div>
+
+                </div>
+
+                <button
+                    class="nav-btn"
+                    onclick="nextScenario()"
+                >
+                    Próximo →
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     SCENARIO 5
+===================================================== -->
+
+<section
+    class="scenario"
+    id="scenario5"
+>
+
+    <div class="scenario-header">
+
+        <div class="scenario-info">
+
+            <div class="scenario-number">
+                CENÁRIO 05
+            </div>
+
+            <h2>
+                🏆 Arquitetura Corporativa
+            </h2>
+
+            <p>
+
+                Você chegou ao desafio final.
+
+                A empresa <strong>CPG Enterprise</strong>
+                está migrando sua plataforma principal
+                para Cloud.
+
+                O sistema possui usuários externos,
+                aplicações web, APIs, banco relacional,
+                armazenamento de arquivos, processamento
+                assíncrono, monitoramento, identidade,
+                segurança e necessidade de alta disponibilidade.
+
+                <br><br>
+
+                Agora você precisa pensar como um
+                arquiteto Cloud.
+
+            </p>
+
+            <div class="objective">
+
+                🎯
+
+                <strong>Objetivo:</strong>
+
+                construa uma arquitetura corporativa
+                utilizando os conceitos aprendidos
+                nos quatro cenários anteriores.
+
+            </div>
+
+        </div>
+
+
+        <div class="tip-card">
+
+            <div class="tip-icon">
+                🧠
+            </div>
+
+            <h3>
+                Último desafio
+            </h3>
+
+            <p>
+
+                Não procure apenas um serviço.
+                Pense em rede, identidade,
+                segurança, computação, dados,
+                observabilidade e resiliência.
+
+            </p>
+
+            <button
+                class="tip-btn"
+                onclick="showHint(5)"
+            >
+                Ver dica
+            </button>
+
+        </div>
+
+    </div>
+
+
+    <div class="workspace">
+
+        <aside class="service-library">
+
+            <div class="library-header">
+
+                <h3>
+                    🧩 Enterprise Services
+                </h3>
+
+                <p>
+                    Você tem acesso a uma grande
+                    biblioteca de serviços.
+                </p>
+
+            </div>
+
+            <div
+                class="service-list"
+                id="serviceList5"
+            ></div>
+
+        </aside>
+
+
+        <div class="architecture-wrapper">
+
+            <div class="architecture">
+
+                <div class="architecture-title">
+
+                    <h3>
+                        🏢 Enterprise Cloud
+                    </h3>
+
+                    <span>
+                        Desafio final
+                    </span>
+
+                </div>
+
+
+                <div class="internet-node">
+
+                    🌐 USUÁRIOS
+
+                    <span>
+                        Web • Mobile • APIs
+                    </span>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🌍 EDGE & ENTRADA
+                        </strong>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-dns"
+                            data-accept="dns"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📡
+                            </div>
+
+                            <div class="zone-name">
+                                DNS
+                            </div>
+
+                            <div class="zone-hint">
+                                Resolução de nomes
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-cdn"
+                            data-accept="cdn"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🌍
+                            </div>
+
+                            <div class="zone-name">
+                                CDN
+                            </div>
+
+                            <div class="zone-hint">
+                                Conteúdo distribuído
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-waf"
+                            data-accept="waf"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🧱
+                            </div>
+
+                            <div class="zone-name">
+                                WAF
+                            </div>
+
+                            <div class="zone-hint">
+                                Segurança web
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-lb"
+                            data-accept="loadbalancer"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                ⚖️
+                            </div>
+
+                            <div class="zone-name">
+                                Load Balancer
+                            </div>
+
+                            <div class="zone-hint">
+                                Distribuição
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🔐 NETWORK & IDENTITY
+                        </strong>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-network"
+                            data-accept="network"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🌐
+                            </div>
+
+                            <div class="zone-name">
+                                Virtual Network
+                            </div>
+
+                            <div class="zone-hint">
+                                Rede isolada
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-identity"
+                            data-accept="identity"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                👤
+                            </div>
+
+                            <div class="zone-name">
+                                Identity
+                            </div>
+
+                            <div class="zone-hint">
+                                Controle de acesso
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-security"
+                            data-accept="security"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🛡️
+                            </div>
+
+                            <div class="zone-name">
+                                Security
+                            </div>
+
+                            <div class="zone-hint">
+                                Segmentação
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-nat"
+                            data-accept="nat"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🔄
+                            </div>
+
+                            <div class="zone-name">
+                                NAT
+                            </div>
+
+                            <div class="zone-hint">
+                                Saída privada
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🖥️ APPLICATION PLATFORM
+                        </strong>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-app1"
+                            data-accept="compute"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🖥️
+                            </div>
+
+                            <div class="zone-name">
+                                Compute
+                            </div>
+
+                            <div class="zone-hint">
+                                Aplicação principal
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-scale"
+                            data-accept="autoscaling"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📈
+                            </div>
+
+                            <div class="zone-name">
+                                Auto Scaling
+                            </div>
+
+                            <div class="zone-hint">
+                                Escalabilidade
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-queue"
+                            data-accept="queue"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📨
+                            </div>
+
+                            <div class="zone-name">
+                                Message Queue
+                            </div>
+
+                            <div class="zone-hint">
+                                Processamento assíncrono
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-cache"
+                            data-accept="cache"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                ⚡
+                            </div>
+
+                            <div class="zone-name">
+                                Cache
+                            </div>
+
+                            <div class="zone-hint">
+                                Baixa latência
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="flow-line">
+                    ↓
+                </div>
+
+
+                <div class="network-layer">
+
+                    <div class="layer-title">
+
+                        <strong>
+                            🗄️ DATA PLATFORM
+                        </strong>
+
+                    </div>
+
+
+                    <div class="drop-grid">
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-db"
+                            data-accept="database"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                🗄️
+                            </div>
+
+                            <div class="zone-name">
+                                Database
+                            </div>
+
+                            <div class="zone-hint">
+                                Dados transacionais
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-storage"
+                            data-accept="storage"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📦
+                            </div>
+
+                            <div class="zone-name">
+                                Object Storage
+                            </div>
+
+                            <div class="zone-hint">
+                                Arquivos
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-backup"
+                            data-accept="backup"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                💾
+                            </div>
+
+                            <div class="zone-name">
+                                Backup
+                            </div>
+
+                            <div class="zone-hint">
+                                Recuperação
+                            </div>
+
+                        </div>
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-logs"
+                            data-accept="logs"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📝
+                            </div>
+
+                            <div class="zone-name">
+                                Logs
+                            </div>
+
+                            <div class="zone-hint">
+                                Consulta e análise de logs
+                            </div>
+
+                        </div>
+
+
+
+
+
+                        <div
+                            class="drop-zone"
+                            data-zone="s5-monitor"
+                            data-accept="monitoring"
+                            onclick="mobileDrop(this)"
+                        >
+
+                            <div class="zone-icon">
+                                📊
+                            </div>
+
+                            <div class="zone-name">
+                                Observability
+                            </div>
+
+                            <div class="zone-hint">
+                                Métricas e logs
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="action-bar">
+
+                <div class="action-help">
+
+                    🏆
+
+                    Pense como um arquiteto:
+                    disponibilidade + segurança +
+                    observabilidade + escalabilidade.
+
+                </div>
+
+                <div class="action-buttons">
+
+                    <button
+                        class="action-btn reset-btn"
+                        onclick="resetScenario()"
+                    >
+                        ↻ Limpar
+                    </button>
+
+                    <button
+                        class="action-btn validate-btn"
+                        onclick="validateScenario()"
+                    >
+                        ✓ Validar Arquitetura
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <div
+                class="feedback"
+                id="feedback5"
+            ></div>
+
+
+            <div class="scenario-navigation">
+
+                <button
+                    class="nav-btn"
+                    onclick="previousScenario()"
+                >
+                    ← Anterior
+                </button>
+
+                <div class="scenario-dots">
+
+                    <div class="scenario-dot done"></div>
+                    <div class="scenario-dot done"></div>
+                    <div class="scenario-dot done"></div>
+                    <div class="scenario-dot done"></div>
+                    <div class="scenario-dot active"></div>
+
+                </div>
+
+                <button
+                    class="nav-btn"
+                    onclick="nextScenario()"
+                >
+                    Finalizar →
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     FINAL SCREEN
+===================================================== -->
+
+<section
+    class="final-screen"
+    id="finalScreen"
+>
+
+    <div class="final-icon">
+        ☁️
+    </div>
+
+
+    <h2>
+        Cloud Challenge concluído!
+    </h2>
+
+
+    <div class="final-score">
+
+        ⭐
+        <span id="finalXP">
+            0
+        </span>
+        XP
+
+    </div>
+
+
+    <p>
+
+        Você passou por cinco situações inspiradas
+        em problemas reais de arquitetura Cloud.
+
+        <br><br>
+
+        Agora você já conhece conceitos importantes
+        como redes virtuais, sub-redes, computação,
+        balanceamento, armazenamento, bancos de dados,
+        identidade, segurança, escalabilidade,
+        monitoramento e alta disponibilidade.
+
+        <br><br>
+
+        <strong>
+            O próximo passo é aprender a implementar
+            essas arquiteturas em ambientes reais.
+        </strong>
+
+    </p>
+
+
+    <button
+        class="restart-btn"
+        onclick="restartGame()"
+    >
+
+        🔄 Jogar novamente
+
+    </button>
+
+</section>
+
+
+
+<!-- =====================================================
+     LEARNING CARDS
+===================================================== -->
+
+<div class="learning-panel">
+
+    <div class="learning-card">
+
+        <span>
+            🌐
+        </span>
+
+        <h4>
+            Networking
+        </h4>
+
+        <p>
+
+            VPC/VNet, sub-redes, gateways,
+            NAT, rotas e segurança de rede
+            formam a base da arquitetura Cloud.
+
+        </p>
+
+    </div>
+
+
+    <div class="learning-card">
+
+        <span>
+            🔐
+        </span>
+
+        <h4>
+            Security
+        </h4>
+
+        <p>
+
+            Identidade, permissões, firewall,
+            segmentação e proteção de aplicações
+            devem fazer parte do desenho.
+
+        </p>
+
+    </div>
+
+
+    <div class="learning-card">
+
+        <span>
+            📈
+        </span>
+
+        <h4>
+            Scalability
+        </h4>
+
+        <p>
+
+            Balanceamento e escalabilidade
+            ajudam aplicações a suportar
+            variações de demanda.
+
+        </p>
+
+    </div>
+
+</div>
+
+
+</main>
+
+
+
+<script>
+
+/* =========================================================
+   CLOUD CHALLENGE ENGINE
+   ========================================================= */
+
+
+/* =========================================================
+   PROVIDER DATA
+   ========================================================= */
+
+const providers = {
+
+    aws: {
+
+        label:"AWS",
+
+        services:[
+
+            {
+                id:"vpc",
+                type:"network",
+                icon:"🌐",
+                name:"Amazon VPC",
+                desc:"Rede virtual isolada"
+            },
+
+            {
+                id:"igw",
+                type:"gateway",
+                icon:"🚪",
+                name:"Internet Gateway",
+                desc:"Conecta a VPC à Internet"
+            },
+
+            {
+                id:"ec2",
+                type:"compute",
+                icon:"🖥️",
+                name:"Amazon EC2",
+                desc:"Máquinas virtuais"
+            },
+
+            {
+                id:"alb",
+                type:"loadbalancer",
+                icon:"⚖️",
+                name:"Application Load Balancer",
+                desc:"Balanceamento HTTP/HTTPS"
+            },
+
+            {
+                id:"rds",
+                type:"database",
+                icon:"🗄️",
+                name:"Amazon RDS",
+                desc:"Banco relacional gerenciado"
+            },
+
+            {
+                id:"s3",
+                type:"storage",
+                icon:"📦",
+                name:"Amazon S3",
+                desc:"Object storage"
+            },
+
+            {
+                id:"cloudwatch",
+                type:"monitoring",
+                icon:"📊",
+                name:"Amazon CloudWatch",
+                desc:"Métricas, dashboards e alarmes"
+            },
+            {
+                id:"cloudwatch-logs",
+                type:"logs",
+                icon:"📝",
+                name:"CloudWatch Logs",
+                desc:"Coleta e consulta de logs"
+            },
+
+
+
+            {
+                id:"nat",
+                type:"nat",
+                icon:"🔄",
+                name:"NAT Gateway",
+                desc:"Saída para Internet a partir de sub-redes privadas"
+            },
+
+            {
+                id:"sg",
+                type:"security",
+                icon:"🛡️",
+                name:"Security Group",
+                desc:"Controle de tráfego de recursos"
+            },
+
+            {
+                id:"iam",
+                type:"identity",
+                icon:"👤",
+                name:"AWS IAM",
+                desc:"Identidades e permissões"
+            },
+
+            {
+                id:"route53",
+                type:"dns",
+                icon:"📡",
+                name:"Amazon Route 53",
+                desc:"DNS e roteamento"
+            },
+
+            {
+                id:"cloudfront",
+                type:"cdn",
+                icon:"🌍",
+                name:"Amazon CloudFront",
+                desc:"CDN global"
+            },
+
+            {
+                id:"autoscaling",
+                type:"autoscaling",
+                icon:"📈",
+                name:"EC2 Auto Scaling",
+                desc:"Ajuste automático de capacidade"
+            },
+
+            {
+                id:"elasticache",
+                type:"cache",
+                icon:"⚡",
+                name:"Amazon ElastiCache",
+                desc:"Cache gerenciado"
+            },
+
+            {
+                id:"sqs",
+                type:"queue",
+                icon:"📨",
+                name:"Amazon SQS",
+                desc:"Fila de mensagens"
+            },
+
+            {
+                id:"backup",
+                type:"backup",
+                icon:"💾",
+                name:"AWS Backup",
+                desc:"Backup centralizado"
+            },
+
+            {
+                id:"waf",
+                type:"waf",
+                icon:"🧱",
+                name:"AWS WAF",
+                desc:"Firewall para aplicações web"
+            },
+
+            {
+                id:"ecr",
+                type:"container",
+                icon:"📦",
+                name:"Amazon ECR",
+                desc:"Registro de imagens de containers"
+            },
+
+            {
+                id:"ecs",
+                type:"container",
+                icon:"🐳",
+                name:"Amazon ECS",
+                desc:"Orquestração de containers"
+            },
+
+            {
+                id:"lambda",
+                type:"serverless",
+                icon:"⚡",
+                name:"AWS Lambda",
+                desc:"Computação serverless"
+            },
+
+            {
+                id:"kms",
+                type:"encryption",
+                icon:"🔑",
+                name:"AWS KMS",
+                desc:"Gerenciamento de chaves"
+            },
+
+            {
+                id:"cloudtrail",
+                type:"audit",
+                icon:"📜",
+                name:"AWS CloudTrail",
+                desc:"Registro de atividades da conta"
+            }
+
+        ]
+
+    },
+
+
+    azure: {
+
+        label:"AZURE",
+
+        services:[
+
+            {
+                id:"vnet",
+                type:"network",
+                icon:"🌐",
+                name:"Azure Virtual Network",
+                desc:"Rede virtual isolada"
+            },
+
+            {
+                id:"internet",
+                type:"gateway",
+                icon:"🚪",
+                name:"Internet Gateway",
+                desc:"Acesso à Internet"
+            },
+
+            {
+                id:"vm",
+                type:"compute",
+                icon:"🖥️",
+                name:"Azure Virtual Machines",
+                desc:"Máquinas virtuais"
+            },
+
+            {
+                id:"appgateway",
+                type:"loadbalancer",
+                icon:"⚖️",
+                name:"Azure Application Gateway",
+                desc:"Balanceamento HTTP/HTTPS"
+            },
+
+            {
+                id:"azuresql",
+                type:"database",
+                icon:"🗄️",
+                name:"Azure SQL Database",
+                desc:"Banco relacional gerenciado"
+            },
+
+            {
+                id:"blob",
+                type:"storage",
+                icon:"📦",
+                name:"Azure Blob Storage",
+                desc:"Object storage"
+            },
+
+            {
+                id:"monitor",
+                type:"monitoring",
+                icon:"📊",
+                name:"Azure Monitor",
+                desc:"Métricas, dashboards e alertas"
+            },
+            {
+                id:"log-analytics",
+                type:"logs",
+                icon:"📝",
+                name:"Log Analytics",
+                desc:"Consulta e análise de logs"
+            },
+
+
+
+            {
+                id:"azurenat",
+                type:"nat",
+                icon:"🔄",
+                name:"Azure NAT Gateway",
+                desc:"Saída para Internet"
+            },
+
+            {
+                id:"nsg",
+                type:"security",
+                icon:"🛡️",
+                name:"Network Security Group",
+                desc:"Controle de tráfego"
+            },
+
+            {
+                id:"entra",
+                type:"identity",
+                icon:"👤",
+                name:"Microsoft Entra ID",
+                desc:"Identidade e acesso"
+            },
+
+            {
+                id:"dns",
+                type:"dns",
+                icon:"📡",
+                name:"Azure DNS",
+                desc:"DNS gerenciado"
+            },
+
+            {
+                id:"frontdoor",
+                type:"cdn",
+                icon:"🌍",
+                name:"Azure Front Door",
+                desc:"Entrada global e aceleração"
+            },
+
+            {
+                id:"vmss",
+                type:"autoscaling",
+                icon:"📈",
+                name:"Virtual Machine Scale Sets",
+                desc:"Escalabilidade de VMs"
+            },
+
+            {
+                id:"redis",
+                type:"cache",
+                icon:"⚡",
+                name:"Azure Cache for Redis",
+                desc:"Cache gerenciado"
+            },
+
+            {
+                id:"servicebus",
+                type:"queue",
+                icon:"📨",
+                name:"Azure Service Bus",
+                desc:"Mensageria empresarial"
+            },
+
+            {
+                id:"azurebackup",
+                type:"backup",
+                icon:"💾",
+                name:"Azure Backup",
+                desc:"Backup gerenciado"
+            },
+
+            {
+                id:"azurewaf",
+                type:"waf",
+                icon:"🧱",
+                name:"Azure Web Application Firewall",
+                desc:"Proteção de aplicações web"
+            },
+
+            {
+                id:"acr",
+                type:"container",
+                icon:"📦",
+                name:"Azure Container Registry",
+                desc:"Registro de containers"
+            },
+
+            {
+                id:"aks",
+                type:"container",
+                icon:"🐳",
+                name:"Azure Kubernetes Service",
+                desc:"Kubernetes gerenciado"
+            },
+
+            {
+                id:"functions",
+                type:"serverless",
+                icon:"⚡",
+                name:"Azure Functions",
+                desc:"Computação serverless"
+            },
+
+            {
+                id:"keyvault",
+                type:"encryption",
+                icon:"🔑",
+                name:"Azure Key Vault",
+                desc:"Segredos e chaves"
+            },
+
+            {
+                id:"activitylog",
+                type:"audit",
+                icon:"📜",
+                name:"Azure Activity Log",
+                desc:"Registro de operações"
+            }
+
+        ]
+
+    }
+
+};
+
+
+/* =========================================================
+   STATE
+   ========================================================= */
+
+let currentProvider =
+    localStorage.getItem(
+        "cpgCloudProvider"
+    ) || "aws";
+
+
+let currentScenario =
+    parseInt(
+        localStorage.getItem(
+            "cpgCloudScenario"
+        ) || "1"
+    );
+
+
+let totalXP =
+    parseInt(
+        localStorage.getItem(
+            "cpgCloudXP"
+        ) || "0"
+    );
+
+
+let completedScenarios =
+    JSON.parse(
+        localStorage.getItem(
+            "cpgCloudCompleted"
+        ) || "[]"
+    );
+
+
+let selectedService = null;
+
+
+/* =========================================================
+   SCENARIO CONFIG
+   ========================================================= */
+
+const scenarioConfig = {
+
+    1:{
+
+        required:{
+
+            network:"network",
+            gateway:"gateway",
+            loadbalancer:"loadbalancer",
+            compute:"compute",
+            security:"security",
+            nat:"nat",
+            database:"database",
+            storage:"storage",
+            monitoring:"monitoring"
+
+        },
+
+        xp:100
+
+    },
+
+
+    2:{
+
+        required:{
+
+            "s2-network":"network",
+            "s2-dns":"dns",
+            "s2-cdn":"cdn",
+            "s2-lb":"loadbalancer",
+            "s2-app1":"compute",
+            "s2-app2":"compute",
+            "s2-scale":"autoscaling",
+            "s2-monitor":"monitoring"
+
+        },
+
+        xp:150
+
+    },
+
+
+    3:{
+
+        required:{
+
+            "s3-compute":"compute",
+            "s3-database":"database",
+            "s3-cache":"cache",
+            "s3-storage":"storage",
+            "s3-backup":"backup"
+
+        },
+
+        xp:150
+
+    },
+
+
+    4:{
+
+        required:{
+
+            "s4-identity":"identity",
+            "s4-waf":"waf",
+            "s4-firewall":"security",
+            "s4-zone1":"compute",
+            "s4-zone2":"compute",
+            "s4-monitor":"monitoring",
+            "s4-db":"database",
+            "s4-backup":"backup"
+
+        },
+
+        xp:200
+
+    },
+
+
+    5:{
+
+        required:{
+
+            "s5-dns":"dns",
+            "s5-cdn":"cdn",
+            "s5-waf":"waf",
+            "s5-lb":"loadbalancer",
+            "s5-network":"network",
+            "s5-identity":"identity",
+            "s5-security":"security",
+            "s5-nat":"nat",
+            "s5-app1":"compute",
+            "s5-scale":"autoscaling",
+            "s5-queue":"queue",
+            "s5-cache":"cache",
+            "s5-db":"database",
+            "s5-storage":"storage",
+            "s5-backup":"backup",
+            "s5-monitor":"monitoring"
+
+        },
+
+        xp:300
+
+    }
+
+};
+
+
+/* =========================================================
+   RENDER SERVICES
+   ========================================================= */
+
+function renderServices(){
+
+    const lists =
+        document.querySelectorAll(
+            ".service-list"
+        );
+
+    lists.forEach(list => {
+
+        list.innerHTML = "";
+
+        const services =
+            providers[
+                currentProvider
+            ].services;
+
+
+        const categories = {
+
+            network:[
+                "network",
+                "gateway",
+                "nat"
+            ],
+
+            compute:[
+                "compute",
+                "autoscaling",
+                "container",
+                "serverless"
+            ],
+
+            data:[
+                "database",
+                "storage",
+                "cache",
+                "backup"
+            ],
+
+            security:[
+                "security",
+                "identity",
+                "waf",
+                "encryption",
+                "audit"
+            ],
+
+            edge:[
+                "loadbalancer",
+                "dns",
+                "cdn"
+            ],
+
+            messaging:[
+                "queue"
+            ],
+
+            monitoring:[
+                "monitoring"
+            ],
+
+            logs:[
+                "logs"
+            ]
+
+        };
+
+
+        const names = {
+
+            network:"NETWORK",
+
+            compute:"COMPUTE",
+
+            data:"DATA & STORAGE",
+
+            security:"SECURITY",
+
+            edge:"EDGE",
+
+            messaging:"MESSAGING",
+
+            monitoring:"MONITORING",
+
+            logs:"LOGS"
+
+        };
+
+
+        Object.keys(
+            categories
+        ).forEach(category => {
+
+            const title =
+                document.createElement(
+                    "div"
+                );
+
+            title.className =
+                "service-category";
+
+            title.textContent =
+                names[category];
+
+            list.appendChild(title);
+
+
+            services
+                .filter(service =>
+                    categories[category]
+                        .includes(service.type)
+                )
+                .forEach(service => {
+
+                    const item =
+                        document.createElement(
+                            "div"
+                        );
+
+                    item.className =
+                        "service-item";
+
+                    item.draggable =
+                        true;
+
+                    item.dataset.serviceId =
+                        service.id;
+
+                    item.dataset.type =
+                        service.type;
+
+
+                    item.innerHTML = `
+
+                        <div class="service-top">
+
+                            <div class="service-icon">
+                                ${service.icon}
+                            </div>
+
+                            <div class="service-name">
+                                ${service.name}
+                            </div>
+
+                        </div>
+
+                        <div class="service-desc">
+                            ${service.desc}
+                        </div>
+
+                    `;
+
+
+                    item.addEventListener(
+                        "dragstart",
+                        dragStart
+                    );
+
+
+                    item.addEventListener(
+                        "click",
+                        function(){
+
+                            selectService(
+                                service.id
+                            );
+
+                        }
+                    );
+
+
+                    list.appendChild(item);
+
+                });
+
+        });
+
+    });
+
+}
+
+
+/* =========================================================
+   DRAG
+   ========================================================= */
+
+function dragStart(event){
+
+    const id =
+        event.currentTarget
+            .dataset.serviceId;
+
+    event.dataTransfer.setData(
+        "serviceId",
+        id
+    );
+
+    event.dataTransfer.effectAllowed =
+        "copy";
+}
+
+
+/* =========================================================
+   DROP
+   ========================================================= */
+
+document.addEventListener(
+    "dragover",
+    function(event){
+
+        const zone =
+            event.target.closest(
+                ".drop-zone"
+            );
+
+        if(!zone) return;
+
+        event.preventDefault();
+
+        zone.classList.add(
+            "drag-over"
+        );
+
+    }
+);
+
+
+document.addEventListener(
+    "dragleave",
+    function(event){
+
+        const zone =
+            event.target.closest(
+                ".drop-zone"
+            );
+
+        if(!zone) return;
+
+        zone.classList.remove(
+            "drag-over"
+        );
+
+    }
+);
+
+
+document.addEventListener(
+    "drop",
+    function(event){
+
+        const zone =
+            event.target.closest(
+                ".drop-zone"
+            );
+
+        if(!zone) return;
+
+        event.preventDefault();
+
+        zone.classList.remove(
+            "drag-over"
+        );
+
+
+        const id =
+            event.dataTransfer.getData(
+                "serviceId"
+            );
+
+        placeService(
+            id,
+            zone
+        );
+
+    }
+);
+
+
+/* =========================================================
+   MOBILE SELECT
+   ========================================================= */
+
+function selectService(id){
+
+    selectedService = id;
+
+    document
+        .querySelectorAll(
+            ".service-item"
+        )
+        .forEach(item => {
+
+            item.classList.toggle(
+                "selected",
+                item.dataset.serviceId === id
+            );
+
+        });
+
+}
+
+
+function mobileDrop(zone){
+
+    if(!selectedService)
+        return;
+
+    placeService(
+        selectedService,
+        zone
+    );
+
+    selectedService = null;
+
+    document
+        .querySelectorAll(
+            ".service-item"
+        )
+        .forEach(item =>
+            item.classList.remove(
+                "selected"
+            )
+        );
+
+}
+
+
+/* =========================================================
+   FIND SERVICE
+   ========================================================= */
+
+function getService(id){
+
+    return providers[
+        currentProvider
+    ].services.find(
+        service =>
+            service.id === id
+    );
+
+}
+
+
+/* =========================================================
+   PLACE SERVICE
+   ========================================================= */
+
+function placeService(
+    serviceId,
+    zone
+){
+
+    const service =
+        getService(
+            serviceId
+        );
+
+    if(!service)
+        return;
+
+
+    /*
+       Uma zona só recebe um componente.
+    */
+
+    const old =
+        zone.querySelector(
+            ".placed-service"
+        );
+
+    if(old)
+        old.remove();
+
+
+    const placed =
+        document.createElement(
+            "div"
+        );
+
+    placed.className =
+        "placed-service";
+
+    placed.dataset.serviceId =
+        service.id;
+
+    placed.dataset.type =
+        service.type;
+
+
+    placed.innerHTML = `
+
+        <button
+            class="remove-service"
+            onclick="event.stopPropagation(); removeService(this)"
+        >
+            ✕
+        </button>
+
+        <strong>
+            ${service.icon}
+            ${service.name}
+        </strong>
+
+        <small>
+            ${service.desc}
+        </small>
+
+    `;
+
+
+    zone.appendChild(
+        placed
+    );
+
+}
+
+
+/* =========================================================
+   REMOVE
+   ========================================================= */
+
+function removeService(button){
+
+    const zone =
+        button.closest(
+            ".drop-zone"
+        );
+
+    if(zone){
+
+        const placed =
+            zone.querySelector(
+                ".placed-service"
+            );
+
+        if(placed)
+            placed.remove();
+
+        zone.classList.remove(
+            "correct",
+            "wrong"
+        );
+
+    }
+
+}
+
+
+/* =========================================================
+   RESET
+   ========================================================= */
+
+function resetScenario(){
+
+    const active =
+        document.querySelector(
+            ".scenario.active"
+        );
+
+    if(!active)
+        return;
+
+
+    active
+        .querySelectorAll(
+            ".placed-service"
+        )
+        .forEach(
+            item => item.remove()
+        );
+
+
+    active
+        .querySelectorAll(
+            ".drop-zone"
+        )
+        .forEach(
+            zone =>
+                zone.classList.remove(
+                    "correct",
+                    "wrong"
+                )
+        );
+
+
+    const feedback =
+        active.querySelector(
+            ".feedback"
+        );
+
+    if(feedback){
+
+        feedback.className =
+            "feedback";
+
+        feedback.innerHTML =
+            "";
+
+    }
+
+}
+
+
+/* =========================================================
+   VALIDATION
+   ========================================================= */
+
+function validateScenario(){
+
+    const active =
+        document.querySelector(
+            ".scenario.active"
+        );
+
+    if(!active)
+        return;
+
+
+    const number =
+        parseInt(
+            active.id
+                .replace(
+                    "scenario",
+                    ""
+                )
+        );
+
+
+    const config =
+        scenarioConfig[
+            number
+        ];
+
+
+    let correct =
+        true;
+
+    let missing =
+        0;
+
+    let wrong =
+        0;
+
+
+    Object.entries(
+        config.required
+    ).forEach(
+        ([zoneId, expectedType]) => {
+
+            const zone =
+                document.querySelector(
+                    `[data-zone="${zoneId}"]`
+                );
+
+            if(!zone)
+                return;
+
+
+            const placed =
+                zone.querySelector(
+                    ".placed-service"
+                );
+
+
+            zone.classList.remove(
+                "correct",
+                "wrong"
+            );
+
+
+            if(!placed){
+
+                correct = false;
+
+                missing++;
+
+                zone.classList.add(
+                    "wrong"
+                );
+
+                return;
+
+            }
+
+
+            if(
+                placed.dataset.type
+                === expectedType
+            ){
+
+                zone.classList.add(
+                    "correct"
+                );
+
+            }
+            else{
+
+                correct = false;
+
+                wrong++;
+
+                zone.classList.add(
+                    "wrong"
+                );
+
+            }
+
+        }
+    );
+
+
+    const feedback =
+        active.querySelector(
+            ".feedback"
+        );
+
+
+    if(correct){
+
+        completeScenario(
+            number,
+            feedback
+        );
+
+    }
+    else{
+
+        let message = "";
+
+
+        if(missing > 0){
+
+            message += `
+                <p>
+                    <strong>
+                    ⚠️ ${missing}
+                    componente(s)
+                    ainda não foram posicionados.
+                    </strong>
+                </p>
+            `;
+
+        }
+
+
+        if(wrong > 0){
+
+            message += `
+                <p>
+                    🔴 ${wrong}
+                    componente(s) estão
+                    na categoria incorreta.
+                </p>
+            `;
+
+        }
+
+
+        message += `
+            <p>
+                <strong>
+                Dica:
+                </strong>
+
+                observe a função esperada
+                de cada camada da arquitetura.
+                Uma aplicação web normalmente
+                não deve expor diretamente
+                todos os recursos à Internet.
+            </p>
+        `;
+
+
+        feedback.className =
+            "feedback error show";
+
+        feedback.innerHTML = `
+
+            <h3>
+                ❌ Arquitetura ainda não está correta
+            </h3>
+
+            ${message}
+
+        `;
+
+
+        feedback.scrollIntoView({
+            behavior:"smooth",
+            block:"center"
+        });
+
+    }
+
+}
+
+
+/* =========================================================
+   COMPLETE
+   ========================================================= */
+
+function completeScenario(
+    number,
+    feedback
+){
+
+    if(
+        completedScenarios
+            .includes(number)
+    ){
+
+        feedback.className =
+            "feedback success show";
+
+        feedback.innerHTML = `
+
+            <h3>
+                ✅ Arquitetura correta!
+            </h3>
+
+            <p>
+                Você já completou este cenário.
+                Revise a explicação abaixo
+                e continue quando quiser.
+            </p>
+
+            ${getExplanation(number)}
+
+        `;
+
+        return;
+
+    }
+
+
+    const earned =
+        scenarioConfig[
+            number
+        ].xp;
+
+
+    totalXP += earned;
+
+
+    completedScenarios.push(
+        number
+    );
+
+
+    localStorage.setItem(
+        "cpgCloudXP",
+        totalXP
+    );
+
+
+    localStorage.setItem(
+        "cpgCloudCompleted",
+        JSON.stringify(
+            completedScenarios
+        )
+    );
+
+
+    document.getElementById(
+        "xpValue"
+    ).textContent =
+        totalXP;
+
+
+    feedback.className =
+        "feedback success show";
+
+
+    feedback.innerHTML = `
+
+        <h3>
+            ✅ Arquitetura aprovada!
+            +${earned} XP
+        </h3>
+
+        <p>
+            Excelente trabalho.
+            A arquitetura atende aos requisitos
+            principais deste cenário.
+        </p>
+
+        ${getExplanation(number)}
+
+    `;
+
+
+    document
+        .querySelector(
+            `#dot${number}`
+        )
+        ?.classList.add(
+            "done"
+        );
+
+
+    if(number < 5){
+
+        document.getElementById(
+            "nextBtn"
+        ).disabled = false;
+
+    }
+
+
+    updateProgress();
+
+
+    feedback.scrollIntoView({
+        behavior:"smooth",
+        block:"center"
+    });
+
+}
+
+
+/* =========================================================
+   EXPLANATIONS
+   ========================================================= */
+
+function getExplanation(number){
+
+    const explanations = {
+
+        1:`
+
+            <p>
+                <strong>Por que funciona?</strong>
+            </p>
+
+            <p>
+                A rede virtual cria o limite lógico
+                do ambiente. O gateway permite comunicação
+                com a Internet, enquanto o balanceador
+                recebe o tráfego da aplicação antes de
+                encaminhá-lo aos servidores.
+            </p>
+
+            <p>
+                Os servidores podem permanecer em uma
+                camada privada. Um NAT Gateway permite
+                que recursos privados iniciem conexões
+                de saída sem precisar receber conexões
+                iniciadas diretamente pela Internet.
+            </p>
+
+            <p>
+                Banco, storage e monitoramento possuem
+                funções específicas e não devem ser
+                tratados simplesmente como mais um
+                servidor de aplicação.
+            </p>
+
+        `,
+
+
+        2:`
+
+            <p>
+                <strong>Por que funciona?</strong>
+            </p>
+
+            <p>
+                DNS direciona os usuários para a aplicação.
+                Uma CDN pode atender conteúdo em pontos
+                distribuídos, reduzindo a distância até
+                os usuários.
+            </p>
+
+            <p>
+                O Load Balancer distribui as requisições
+                entre múltiplas instâncias.
+                Auto Scaling permite ajustar a capacidade
+                conforme a demanda.
+            </p>
+
+            <p>
+                Ter duas instâncias reduz a dependência
+                de um único servidor.
+            </p>
+
+        `,
+
+
+        3:`
+
+            <p>
+                <strong>Por que funciona?</strong>
+            </p>
+
+            <p>
+                Banco relacional é apropriado para dados
+                estruturados que exigem relacionamentos
+                e transações.
+            </p>
+
+            <p>
+                Object Storage é adequado para objetos
+                como imagens, vídeos e documentos,
+                evitando transformar o disco do servidor
+                em um depósito de arquivos.
+            </p>
+
+            <p>
+                Cache pode reduzir acessos repetidos
+                ao banco, enquanto backups permitem
+                recuperação em caso de falha.
+            </p>
+
+        `,
+
+
+        4:`
+
+            <p>
+                <strong>Por que funciona?</strong>
+            </p>
+
+            <p>
+                Identidade controla quem pode acessar
+                recursos e quais permissões possui.
+            </p>
+
+            <p>
+                WAF ajuda a proteger aplicações web
+                contra determinadas classes de tráfego
+                malicioso.
+            </p>
+
+            <p>
+                A distribuição da aplicação em mais
+                de uma zona de disponibilidade reduz
+                o impacto de uma falha localizada.
+            </p>
+
+            <p>
+                Monitoramento e backup complementam
+                a arquitetura fornecendo observabilidade
+                e capacidade de recuperação.
+            </p>
+
+        `,
+
+
+        5:`
+
+            <p>
+                <strong>
+                    🏆 Arquitetura corporativa
+                </strong>
+            </p>
+
+            <p>
+                Você combinou os principais conceitos:
+                edge, DNS, CDN, WAF, balanceamento,
+                rede virtual, identidade, segurança,
+                NAT, computação, escalabilidade,
+                mensageria, cache, banco, storage,
+                backup e observabilidade.
+            </p>
+
+            <p>
+                Uma arquitetura real ainda exigiria
+                decisões adicionais sobre regiões,
+                zonas de disponibilidade, custos,
+                requisitos de compliance, RPO/RTO,
+                performance e modelo operacional.
+            </p>
+
+        `
+
+    };
+
+
+    return explanations[
+        number
+    ] || "";
+
+}
+
+
+/* =========================================================
+   HINTS
+   ========================================================= */
+
+function showHint(number){
+
+    const hints = {
+
+        1:`
+
+            <strong>
+                💡 Dica 1:
+            </strong>
+
+            O caminho básico é:
+
+            <br><br>
+
+            Internet → entrada pública →
+            aplicação privada → dados.
+
+            <br><br>
+
+            Pense também em como o servidor
+            privado poderia sair para a Internet
+            sem receber conexões diretamente.
+
+        `,
+
+
+        2:`
+
+            <strong>
+                💡 Dica 2:
+            </strong>
+
+            Uma aplicação web escalável normalmente
+            precisa de um componente para distribuir
+            requisições.
+
+            <br><br>
+
+            Depois pense:
+
+            <br>
+
+            "O que acontece se o número de usuários
+            aumentar?"
+
+        `,
+
+
+        3:`
+
+            <strong>
+                💡 Dica 3:
+            </strong>
+
+            Não coloque vídeos e imagens dentro
+            do banco relacional apenas porque
+            a aplicação precisa acessá-los.
+
+            <br><br>
+
+            Pense em:
+
+            <br>
+
+            dados estruturados → database
+
+            <br>
+
+            arquivos/objetos → object storage
+
+        `,
+
+
+        4:`
+
+            <strong>
+                💡 Dica 4:
+            </strong>
+
+            Segurança não é apenas um firewall.
+
+            <br><br>
+
+            Pense em:
+
+            identidade +
+
+            permissões +
+
+            segmentação +
+
+            proteção da aplicação +
+
+            monitoramento.
+
+        `,
+
+
+        5:`
+
+            <strong>
+                💡 Dica final:
+            </strong>
+
+            Imagine uma empresa real.
+
+            <br><br>
+
+            Usuário → DNS/CDN/WAF →
+            Load Balancer → aplicação →
+            dados.
+
+            <br><br>
+
+            Agora acrescente:
+
+            identidade,
+
+            rede privada,
+
+            NAT,
+
+            escala,
+
+            cache,
+
+            mensageria,
+
+            backup
+
+            e monitoramento.
+
+        `
+
+    };
+
+
+    const active =
+        document.querySelector(
+            ".scenario.active"
+        );
+
+
+    const feedback =
+        active.querySelector(
+            ".feedback"
+        );
+
+
+    feedback.className =
+        "feedback tip show";
+
+
+    feedback.innerHTML = `
+
+        <h3>
+            💡 Dica do Arquiteto
+        </h3>
+
+        <p>
+            ${hints[number]}
+        </p>
+
+    `;
+
+
+    feedback.scrollIntoView({
+        behavior:"smooth",
+        block:"center"
+    });
+
+}
+
+
+/* =========================================================
+   NAVIGATION
+   ========================================================= */
+
+function showScenario(number){
+
+    if(
+        number < 1 ||
+        number > 5
+    )
+        return;
+
+
+    currentScenario =
+        number;
+
+
+    document
+        .querySelectorAll(
+            ".scenario"
+        )
+        .forEach(
+            section =>
+                section.classList.remove(
+                    "active"
+                )
+        );
+
+
+    const selected =
+        document.getElementById(
+            `scenario${number}`
+        );
+
+
+    selected.classList.add(
+        "active"
+    );
+
+
+    document.getElementById(
+        "scenarioNumber"
+    ).textContent =
+        number;
+
+
+    document.getElementById(
+        "progressFill"
+    ).style.width =
+        `${number * 20}%`;
+
+
+    document.getElementById(
+        "prevBtn"
+    ).disabled =
+        number === 1;
+
+
+    document.getElementById(
+        "xpValue"
+    ).textContent =
+        totalXP;
+
+
+    localStorage.setItem(
+        "cpgCloudScenario",
+        number
+    );
+
+
+    window.scrollTo({
+        top:0,
+        behavior:"smooth"
+    });
+
+
+    renderServices();
+
+}
+
+
+/* =========================================================
+   NEXT
+   ========================================================= */
+
+function nextScenario(){
+
+    if(
+        currentScenario < 5
+    ){
+
+        const next =
+            currentScenario + 1;
+
+
+        /*
+           Permite avançar,
+           mas o jogo recompensa
+           conclusão correta.
+        */
+
+        showScenario(
+            next
+        );
+
+    }
+    else{
+
+        if(
+            completedScenarios
+                .includes(5)
+        ){
+
+            finishGame();
+
+        }
+        else{
+
+            const feedback =
+                document.querySelector(
+                    "#scenario5 .feedback"
+                );
+
+            feedback.className =
+                "feedback error show";
+
+            feedback.innerHTML = `
+
+                <h3>
+                    ⚠️ Termine o desafio primeiro
+                </h3>
+
+                <p>
+                    Monte a arquitetura corretamente
+                    e clique em
+                    <strong>
+                    Validar Arquitetura
+                    </strong>
+                    antes de finalizar.
+                </p>
+
+            `;
+
+        }
+
+    }
+
+}
+
+
+/* =========================================================
+   PREVIOUS
+   ========================================================= */
+
+function previousScenario(){
+
+    if(
+        currentScenario > 1
+    ){
+
+        showScenario(
+            currentScenario - 1
+        );
+
+    }
+
+}
+
+
+/* =========================================================
+   PROVIDER
+   ========================================================= */
+
+function changeProvider(provider){
+
+    currentProvider =
+        provider;
+
+
+    localStorage.setItem(
+        "cpgCloudProvider",
+        provider
+    );
+
+
+    document
+        .getElementById(
+            "awsBtn"
+        )
+        .classList.toggle(
+            "active",
+            provider === "aws"
+        );
+
+
+    document
+        .getElementById(
+            "azureBtn"
+        )
+        .classList.toggle(
+            "active",
+            provider === "azure"
+        );
+
+
+    /*
+       Trocar de cloud não apaga
+       automaticamente a arquitetura.
+       Limpamos para evitar misturar
+       serviços AWS e Azure.
+    */
+
+    resetScenario();
+
+    renderServices();
+
+}
+
+
+/* =========================================================
+   PROGRESS
+   ========================================================= */
+
+function updateProgress(){
+
+    const completed =
+        completedScenarios.length;
+
+
+    const percentage =
+        Math.min(
+            completed * 20,
+            100
+        );
+
+
+    /*
+       O topo mostra o cenário atual,
+       enquanto os pontos mostram
+       o que já foi concluído.
+    */
+
+    document
+        .querySelectorAll(
+            ".scenario-dot"
+        )
+        .forEach(
+            (dot,index) => {
+
+                const scenario =
+                    index + 1;
+
+                dot.classList.toggle(
+                    "done",
+                    completedScenarios
+                        .includes(
+                            scenario
+                        )
+                );
+
+            }
+        );
+
+}
+
+
+/* =========================================================
+   FINISH
+   ========================================================= */
+
+function finishGame(){
+
+    document
+        .querySelectorAll(
+            ".scenario"
+        )
+        .forEach(
+            section =>
+                section.style.display =
+                    "none"
+        );
+
+
+    const final =
+        document.getElementById(
+            "finalScreen"
+        );
+
+
+    final.classList.add(
+        "show"
+    );
+
+
+    document.getElementById(
+        "finalXP"
+    ).textContent =
+        totalXP;
+
+
+    final.scrollIntoView({
+        behavior:"smooth"
+    });
+
+}
+
+
+/* =========================================================
+   RESTART
+   ========================================================= */
+
+function restartGame(){
+
+    totalXP = 0;
+
+    completedScenarios = [];
+
+    currentScenario = 1;
+
+
+    localStorage.removeItem(
+        "cpgCloudXP"
+    );
+
+    localStorage.removeItem(
+        "cpgCloudCompleted"
+    );
+
+    localStorage.setItem(
+        "cpgCloudScenario",
+        1
+    );
+
+
+    document.getElementById(
+        "finalScreen"
+    ).classList.remove(
+        "show"
+    );
+
+
+    document
+        .querySelectorAll(
+            ".scenario"
+        )
+        .forEach(
+            section =>
+                section.style.display =
+                    ""
+        );
+
+
+    showScenario(1);
+
+    updateProgress();
+
+}
+
+
+/* =========================================================
+   INIT
+   ========================================================= */
+
+document.addEventListener(
+    "DOMContentLoaded",
+    function(){
+
+        renderServices();
+
+        document.getElementById(
+            "xpValue"
+        ).textContent =
+            totalXP;
+
+
+        document.getElementById(
+            "awsBtn"
+        ).classList.toggle(
+            "active",
+            currentProvider === "aws"
+        );
+
+
+        document.getElementById(
+            "azureBtn"
+        ).classList.toggle(
+            "active",
+            currentProvider === "azure"
+        );
+
+
+        showScenario(
+            currentScenario
+        );
+
+
+        updateProgress();
+
+    }
+);
+
+</script>
+
+</body>
+
+</html>
