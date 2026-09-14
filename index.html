@@ -677,8 +677,10 @@ alt="Logo CPG"
     margin:0;
     padding:0;
     width:100%;
+    height:100%;
     box-sizing:border-box;
     display:flex;
+    overflow:visible;
 }
 
 /* Os dois painéis ocupam exatamente a mesma altura da linha do grid. */
@@ -690,14 +692,18 @@ alt="Logo CPG"
 .estude-news-layout .estude-login-container{
     max-width:none;
     width:100%;
+    height:100%;
     display:flex;
+    overflow:visible;
 }
 
 .estude-news-layout .estude-login-card{
     grid-template-columns:1fr;
     width:100%;
-    min-height:100%;
-    height:100%;
+    height:auto;
+    min-height:0;
+    flex:1 1 auto;
+    box-sizing:border-box;
     border-radius:20px;
 }
 
@@ -769,9 +775,13 @@ alt="Logo CPG"
 
 .estude-news-layout .noticias-painel{
     background:rgba(5,16,34,.34);
-    border:1px solid rgba(0,234,255,.12);
+    border:1px solid rgba(0,234,255,.55);
     border-radius:18px;
     padding:22px 22px 18px;
+    box-shadow:
+        0 20px 55px rgba(0,0,0,.30),
+        0 0 18px rgba(35,190,255,.18),
+        0 0 35px rgba(0,174,255,.10);
 }
 
 .estude-news-layout .noticias-painel{
@@ -842,8 +852,15 @@ alt="Logo CPG"
         gap:32px;
     }
 
+    .estude-news-layout .estude-login-faixa,
+    .estude-news-layout .estude-login-container{
+        height:auto;
+    }
+
     .estude-news-layout .estude-login-card{
         grid-template-columns:1fr;
+        height:auto;
+        flex:none;
     }
 
     .estude-news-layout #painel-noticias{
@@ -881,6 +898,47 @@ alt="Logo CPG"
 }
 
 
+/* =========================================================
+   BRILHO IGUAL NOS DOIS PAINÉIS
+   ========================================================= */
+.estude-news-layout .estude-login-card,
+.estude-news-layout .noticias-painel{
+    border:1px solid rgba(35,190,255,.55);
+    box-shadow:
+        0 20px 55px rgba(0,0,0,.30),
+        0 0 18px rgba(35,190,255,.18),
+        0 0 35px rgba(0,174,255,.10);
+}
+/* =========================================================
+   FECHAMENTO AZUL COMPLETO NOS DOIS PAINÉIS
+   ========================================================= */
+.estude-news-layout .estude-login-card,
+.estude-news-layout .noticias-painel{
+    border:1px solid rgba(35,190,255,.70) !important;
+    box-shadow:
+        0 0 8px rgba(35,190,255,.35),
+        0 0 20px rgba(0,174,255,.20),
+        0 20px 55px rgba(0,0,0,.30);
+}
+
+.estude-news-layout .estude-login-card{
+    border-bottom-color:rgba(35,190,255,.70) !important;
+}
+
+.estude-news-layout .noticias-painel{
+    border-bottom-color:rgba(35,190,255,.70) !important;
+}
+/* =========================================================
+   FECHAMENTO INFERIOR — BORDA REAL DOS CARDS
+   ========================================================= */
+.estude-news-layout .estude-login-card,
+.estude-news-layout .noticias-painel{
+    border:1px solid rgba(35,190,255,.70) !important;
+    box-shadow:
+        0 0 8px rgba(35,190,255,.35),
+        0 0 20px rgba(0,174,255,.20),
+        0 20px 55px rgba(0,0,0,.30);
+}
 </style>
 
 <section class="estude-news-layout">
@@ -1028,7 +1086,7 @@ alt="Logo CPG"
         <h2>CPG News</h2>
 
         <p>
-            O que há de novo no mundo da tecnologia, da inteligência artificial, da computação e da inovação?
+            Tecnologia, inteligência artificial, computação e inovação.
         </p>
 
     </div>
