@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-09-15T06:14:44.615943+00:00",
+  "atualizado_em": "2026-09-15T11:54:50.628114+00:00",
   "noticias": [
+    {
+      "titulo": "Netflix e SEGA fecham parceria para filme de Crazy Taxi e nova série de Sonic",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/netflix-e-sega-fecham-parceria-para-filme-de-crazy-taxi-e-nova-serie-de-sonic/",
+      "data": "2026-09-15T11:01:00+00:00"
+    },
+    {
+      "titulo": "Carro elétrico da UFMG bate recorde de eficiência energética em competição",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/carro-eletrico-da-ufmg-bate-recorde-de-eficiencia-energetica-em-competicao/",
+      "data": "2026-09-15T11:00:43+00:00"
+    },
+    {
+      "titulo": "Samsung apela para a terapia para convencer usuários a largarem o iPhone",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/samsung-apela-para-a-terapia-para-convencer-usuarios-a-largarem-o-iphone/",
+      "data": "2026-09-15T10:50:05+00:00"
+    },
+    {
+      "titulo": "Microsoft adota “manual” e garante que suas IAs não vão resistir a desligamento",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/microsoft-adota-manual-e-garante-que-suas-ias-nao-vao-resistir-a-desligamento/",
+      "data": "2026-09-15T10:30:00+00:00"
+    },
+    {
+      "titulo": "É oficial: baratinho da Samsung chega com bateria de 6.000 mAh",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/e-oficial-baratinho-da-samsung-chega-com-bateria-de-6000-mah/",
+      "data": "2026-09-15T09:54:44+00:00"
+    },
     {
       "titulo": "XBOX Series libera novo recurso de nostalgia, mas deixa consoles antigos de fora",
       "fonte": "Canaltech",
@@ -26,12 +56,6 @@
       "data": "2026-09-14T21:02:00+00:00"
     },
     {
-      "titulo": "Fotos do set de The Batman 2 indicam aparição da Corte das Corujas e vilão Anarquia",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/fotos-do-set-de-the-batman-2-indicam-aparicao-da-corte-das-corujas-e-vilao-anarquia/",
-      "data": "2026-09-14T21:02:00+00:00"
-    },
-    {
       "titulo": "Samsung renova linha de TVs premium com Micro RGB, OLED e Neo QLED",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/samsung-renova-linha-de-tvs-premium-com-micro-rgb-oled-e-neo-qled/",
@@ -48,30 +72,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-s25-fica-56-mais-barato-ao-cair-de-preco-com-cupom-no-mercado-livre/",
       "data": "2026-09-14T20:24:15+00:00"
-    },
-    {
-      "titulo": "Blizzard explica por que StarCraft vai demorar tanto",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/blizzard-explica-por-que-starcraft-vai-demorar-tanto/",
-      "data": "2026-09-14T20:17:00+00:00"
-    },
-    {
-      "titulo": "Fiat Toro com tração 4x4 tem preços no chão no mercado de seminovos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/fiat-toro-com-tracao-4x4-tem-precos-no-chao-no-mercado-de-seminovos/",
-      "data": "2026-09-14T20:05:00+00:00"
-    },
-    {
-      "titulo": "Operadoras bloqueiam ligações com filtro antigolpe, mas telemarketing não gostou",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/operadoras-bloqueiam-ligacoes-com-filtro-antigolpe-mas-telemarketing-nao-gostou/",
-      "data": "2026-09-14T20:04:26+00:00"
-    },
-    {
-      "titulo": "iOS 27 é liberado para todos: veja como atualizar seu iPhone e ativar a nova Siri AI",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/ios-27-e-liberado-para-todos-veja-como-atualizar-seu-iphone-e-ativar-a-nova-siri-ai/",
-      "data": "2026-09-14T20:01:00+00:00"
     },
     {
       "titulo": "Nintendo Switch OLED com game incluso chega ao 2º menor preço do ano",
