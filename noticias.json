@@ -1,17 +1,113 @@
 {
-  "atualizado_em": "2026-09-15T15:47:22.622205+00:00",
+  "atualizado_em": "2026-09-15T19:19:35.039847+00:00",
   "noticias": [
     {
-      "titulo": "Mais jogos rodando: emulador de PS3 no PC se aproxima de 100% de compatibilidade",
+      "titulo": "Polícia de GTA 6 memoriza placa do carro, roupa do personagem e mais",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/mais-jogos-rodando-emulador-de-ps3-no-pc-se-aproxima-de-100-de-compatibilidade/",
-      "data": "2026-09-15T15:12:00+00:00"
+      "link": "https://canaltech.com.br/games/policia-de-gta-6-memoriza-placa-do-carro-roupa-do-personagem-e-mais/",
+      "data": "2026-09-15T19:16:00+00:00"
     },
     {
-      "titulo": "WhatsApp poderá silenciar conversas por horário com novo plano pago da Meta",
+      "titulo": "Carteira digital é segura? Como funciona a proteção no Apple Pay e Google Wallet",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/whatsapp-podera-silenciar-conversas-por-horario-com-novo-plano-pago-da-meta/",
-      "data": "2026-09-15T15:00:03+00:00"
+      "link": "https://canaltech.com.br/apps/carteira-digital-e-segura-como-funciona-a-protecao-no-apple-pay-e-google-wallet/",
+      "data": "2026-09-15T19:04:00+00:00"
+    },
+    {
+      "titulo": "iPhone dobrável já enfrenta problema e pode faltar nas lojas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/iphone-dobravel-ja-enfrenta-problema-e-pode-faltar-nas-lojas/",
+      "data": "2026-09-15T18:58:42+00:00"
+    },
+    {
+      "titulo": "CoinEx encerra operações após 9 anos; veja o que acontece com os clientes",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/coinex-encerra-operacoes-apos-9-anos-veja-o-que-acontece-com-os-clientes/",
+      "data": "2026-09-15T18:52:31+00:00"
+    },
+    {
+      "titulo": "União Europeia avança na proibição de chatbots de IA e redes sociais para menores",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/uniao-europeia-avanca-na-proibicao-de-chatbots-de-ia-e-redes-sociais-para-menores/",
+      "data": "2026-09-15T18:52:21+00:00"
+    },
+    {
+      "titulo": "Nem 2 minutos: reestreia de Vingadores: Ultimato frustra quem vai a cinemas comuns",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/nem-2-minutos-reestreia-de-vingadores-ultimato-frustra-quem-vai-a-cinemas-comuns/",
+      "data": "2026-09-15T18:04:00+00:00"
+    },
+    {
+      "titulo": "Novo recurso do Android acaba com tontura ao usar o celular no carro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/novo-recurso-do-android-acaba-com-tontura-ao-usar-o-celular-no-carro/",
+      "data": "2026-09-15T18:02:00+00:00"
+    },
+    {
+      "titulo": "Renault Boreal vai perder potência no Brasil; saiba o motivo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/renault-boreal-vai-perder-potencia-no-brasil-saiba-o-motivo/",
+      "data": "2026-09-15T18:00:00+00:00"
+    },
+    {
+      "titulo": "TIM aguentou 44 mil celulares conectados ao mesmo tempo no Rock in Rio",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/tim-aguentou-44-mil-celulares-conectados-ao-mesmo-tempo-no-rock-in-rio/",
+      "data": "2026-09-15T17:44:10+00:00"
+    },
+    {
+      "titulo": "Celulares devem ficar ainda mais caros em 2027 devido à crise causada pela IA",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/celulares-devem-ficar-ainda-mais-caros-em-2027-devido-a-crise-causada-pela-ia/",
+      "data": "2026-09-15T17:31:03+00:00"
+    },
+    {
+      "titulo": "Java 27 é lançado com foco em criptografia pós-quântica; veja as novidades",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/java-27-e-lancado-com-foco-em-criptografia-pos-quantica-veja-as-novidades/",
+      "data": "2026-09-15T16:48:27+00:00"
+    },
+    {
+      "titulo": "Melhor fone de ouvido Sony: 10 modelos para comprar em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-sony/",
+      "data": "2026-09-15T16:47:56+00:00"
+    },
+    {
+      "titulo": "Spotify permite excluir músicas infantis das recomendações",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/spotify-permite-excluir-musicas-infantis-das-recomendacoes/",
+      "data": "2026-09-15T16:02:53+00:00"
+    },
+    {
+      "titulo": "Do ChatGPT para 3 RTX 3090: homem monta servidor próprio para rodar IA local e identificar cartas Pokémon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/servidor-3-rtx-3090-ia-local/",
+      "data": "2026-09-15T16:00:57+00:00"
+    },
+    {
+      "titulo": "iPhone Duo pode não ser o único dobrável da Apple",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/iphone-duo-pode-nao-ser-o-unico-dobravel-da-apple/",
+      "data": "2026-09-15T15:59:35+00:00"
+    },
+    {
+      "titulo": "Amigos mantêm tradição de LAN party desde 2010 e até criaram uma regra para escolher os jogos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/amigos-lan-party-desde-2010/",
+      "data": "2026-09-15T15:30:55+00:00"
+    },
+    {
+      "titulo": "Conector derrete em RTX PRO 6000 de US$ 15 mil mesmo com proteção térmica da fonte",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/rtx-pro-6000-conector-derrete/",
+      "data": "2026-09-15T15:05:48+00:00"
+    },
+    {
+      "titulo": "Processador AMD Ryzen 5 5500 com 53% OFF saindo de R$ 1.166 por R$ 539: vale a pena?",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/processador-amd-ryzen-5-5500-com-56-off-saindo-de-r-1-166-por-r-509-vale-a-pena/",
+      "data": "2026-09-15T15:00:17+00:00"
     },
     {
       "titulo": "Meta One chega ao Brasil com planos de até R$ 1.999 por mês",
@@ -26,124 +122,28 @@
       "data": "2026-09-15T14:52:01+00:00"
     },
     {
-      "titulo": "Máquina de espresso da Xiaomi pesa o café sozinha e não deixa pó grudar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/maquina-de-espresso-da-xiaomi-pesa-o-cafe-sozinha-e-nao-deixa-po-grudar/",
-      "data": "2026-09-15T14:47:30+00:00"
-    },
-    {
-      "titulo": "Vendas de carros crescem no Brasil, mas fabricação nacional não acompanha; saiba porquê",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/vendas-de-carros-crescem-no-brasil-mas-fabricacao-nacional-nao-acompanha-saiba-porque/",
-      "data": "2026-09-15T14:30:00+00:00"
-    },
-    {
-      "titulo": "Galaxy A37 (256 GB) fica 52% mais barato com cupom no Magazine Luiza",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-a37-256-gb-fica-52-mais-barato-com-cupom-no-magazine-luiza/",
-      "data": "2026-09-15T14:28:40+00:00"
-    },
-    {
-      "titulo": "“Celular que vira câmera” ganha geração 2026: veja tudo que o Vivo X500 Pro faz",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celular-que-vira-camera-ganha-geracao-2026-veja-tudo-que-o-vivo-x500-pro-faz/",
-      "data": "2026-09-15T14:26:35+00:00"
-    },
-    {
-      "titulo": "O que é o recurso de Atualização em Segundo Plano do iPhone? Entenda antes de desativar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/o-que-e-o-recurso-de-atualizacao-em-segundo-plano-do-iphone-entenda-antes-de-desativar/",
-      "data": "2026-09-15T14:02:00+00:00"
-    },
-    {
-      "titulo": "A história real por trás de Monstro: quem foi Lizzie Borden",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/a-historia-real-por-tras-de-monstro-quem-foi-lizzie-borden/",
-      "data": "2026-09-15T14:02:00+00:00"
-    },
-    {
-      "titulo": "Brasileiros aceitam IA nas compras, mas querem manter controle, revela estudo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/brasileiros-aceitam-ia-nas-compras-mas-querem-manter-controle-revela-estudo/",
-      "data": "2026-09-15T14:00:03+00:00"
-    },
-    {
-      "titulo": "Apple leva streaming e jogos para o iCloud+, mas Brasil fica de fora",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/apple-leva-streaming-e-jogos-para-o-icloud-mas-brasil-fica-de-fora/",
-      "data": "2026-09-15T13:59:12+00:00"
-    },
-    {
-      "titulo": "Melhor fone de ouvido Philco: 5 modelos que valem a pena em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-philco/",
-      "data": "2026-09-15T13:55:30+00:00"
-    },
-    {
-      "titulo": "Galaxy S25 Ultra cai 57% com cupom para quem quer filmar em 4K",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-ultra-cai-57-com-cupom-para-quem-quer-filmar-em-4k/",
-      "data": "2026-09-15T13:22:48+00:00"
-    },
-    {
-      "titulo": "iPhone 17 Pro entra em oferta após iPhone 18 Pro ser homologado",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/iphone-17-pro-entra-em-oferta-apos-iphone-18-pro-ser-homologado/",
-      "data": "2026-09-15T13:02:27+00:00"
-    },
-    {
-      "titulo": "Imperdível: iPhone 17 (512 GB) tem oferta histórica na Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/imperdivel-iphone-17-512-gb-tem-oferta-historica-na-amazon/",
-      "data": "2026-09-15T12:40:52+00:00"
-    },
-    {
-      "titulo": "Top 10 filmes e séries com maior bitrate no streaming",
+      "titulo": "Esse PS2 Fat foi modificado para carregar jogos por cartão SD de 128 GB",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/filmes-series-maior-bitrate-streamingg/",
-      "data": "2026-09-14T17:36:44+00:00"
+      "link": "https://www.hardware.com.br/noticias/ps2-fat-cartao-sd-128gb/",
+      "data": "2026-09-15T14:50:28+00:00"
     },
     {
-      "titulo": "Sem controle remoto: robô humanoide usa IA para lutar contra uma pessoa",
+      "titulo": "Gamer imagina como seria GTA 6 feito pela Ubisoft: tutoriais infernais, HUD poluído e falhas no Ubisoft Connect",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/unitree-g1-ia-luta-humano-sem-controle-remoto/",
-      "data": "2026-09-14T17:00:35+00:00"
+      "link": "https://www.hardware.com.br/noticias/gta-6-ubisoft-hud-tutoriais-connect/",
+      "data": "2026-09-15T14:41:09+00:00"
     },
     {
-      "titulo": "Adaptador chinês libera até 800 W em RTX 5090 da ASUS sem precisar de placa-mãe BTF",
+      "titulo": "Museu recebe 44 PS3 que fizeram parte de supercomputador da Força Aérea dos EUA",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/adaptador-chines-rtx-5090-asus-800w/",
-      "data": "2026-09-14T16:00:14+00:00"
+      "link": "https://www.hardware.com.br/noticias/44-ps3-supercomputador-forca-aerea-eua/",
+      "data": "2026-09-15T14:30:58+00:00"
     },
     {
-      "titulo": "Empresas de tecnologia já demitiram mais em 2026 do que em todo o ano passado",
+      "titulo": "Homem usa 4 leitores de Blu-ray para digitalizar sua coleção de quase mil discos e diz “é muito tedioso”",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/empresas-tecnologia-demissoes-2026/",
-      "data": "2026-09-14T15:40:38+00:00"
-    },
-    {
-      "titulo": "Apple pode lançar seus primeiros controles para videogame com a marca Beats",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/apple-pode-estar-preparando-seus-primeiros-controles-para-videogame-com-dois-modelos-encontrados-no-macos-e-possivel-lancamento-pela-marca-beats/",
-      "data": "2026-09-14T15:00:47+00:00"
-    },
-    {
-      "titulo": "GameSir G7 Pro com menor preço do ano! Oportunidade ideal para garantir controle sem drift e com alta personalização",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/gamesir-g7-pro-com-33-de-desconto-oportunidade-ideal-para-garantir-controle-sem-drift-e-com-alta-personalizacao/",
-      "data": "2026-09-14T15:00:23+00:00"
-    },
-    {
-      "titulo": "Empresas de IA compram RTX 5090 aos montes e gamers enfrentam preços cada vez mais altos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/empresas-ia-compram-rtx-5090-precos/",
-      "data": "2026-09-14T14:30:53+00:00"
-    },
-    {
-      "titulo": "Trump rejeita desacelerar IA por medo de entregar vantagem à China",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/trump-desacelerar-ia-china/",
-      "data": "2026-09-14T14:30:38+00:00"
+      "link": "https://www.hardware.com.br/noticias/4-leitores-blu-ray-digitalizar-mil-discos/",
+      "data": "2026-09-15T14:30:49+00:00"
     },
     {
       "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
