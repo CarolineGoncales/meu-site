@@ -1,95 +1,101 @@
 {
-  "atualizado_em": "2026-09-15T11:54:50.628114+00:00",
+  "atualizado_em": "2026-09-15T15:47:22.622205+00:00",
   "noticias": [
     {
-      "titulo": "Netflix e SEGA fecham parceria para filme de Crazy Taxi e nova série de Sonic",
+      "titulo": "Mais jogos rodando: emulador de PS3 no PC se aproxima de 100% de compatibilidade",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/netflix-e-sega-fecham-parceria-para-filme-de-crazy-taxi-e-nova-serie-de-sonic/",
-      "data": "2026-09-15T11:01:00+00:00"
+      "link": "https://canaltech.com.br/games/mais-jogos-rodando-emulador-de-ps3-no-pc-se-aproxima-de-100-de-compatibilidade/",
+      "data": "2026-09-15T15:12:00+00:00"
     },
     {
-      "titulo": "Carro elétrico da UFMG bate recorde de eficiência energética em competição",
+      "titulo": "WhatsApp poderá silenciar conversas por horário com novo plano pago da Meta",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/carro-eletrico-da-ufmg-bate-recorde-de-eficiencia-energetica-em-competicao/",
-      "data": "2026-09-15T11:00:43+00:00"
+      "link": "https://canaltech.com.br/apps/whatsapp-podera-silenciar-conversas-por-horario-com-novo-plano-pago-da-meta/",
+      "data": "2026-09-15T15:00:03+00:00"
     },
     {
-      "titulo": "Samsung apela para a terapia para convencer usuários a largarem o iPhone",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/samsung-apela-para-a-terapia-para-convencer-usuarios-a-largarem-o-iphone/",
-      "data": "2026-09-15T10:50:05+00:00"
-    },
-    {
-      "titulo": "Microsoft adota “manual” e garante que suas IAs não vão resistir a desligamento",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/microsoft-adota-manual-e-garante-que-suas-ias-nao-vao-resistir-a-desligamento/",
-      "data": "2026-09-15T10:30:00+00:00"
-    },
-    {
-      "titulo": "É oficial: baratinho da Samsung chega com bateria de 6.000 mAh",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/e-oficial-baratinho-da-samsung-chega-com-bateria-de-6000-mah/",
-      "data": "2026-09-15T09:54:44+00:00"
-    },
-    {
-      "titulo": "XBOX Series libera novo recurso de nostalgia, mas deixa consoles antigos de fora",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/xbox-series-libera-novo-recurso-de-nostalgia-mas-deixa-consoles-antigos-de-fora/",
-      "data": "2026-09-14T22:19:00+00:00"
-    },
-    {
-      "titulo": "OpenAI paga humanos para ler suas conversas do ChatGPT; veja como desativar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-paga-humanos-para-ler-suas-conversas-do-chatgpt-veja-como-desativar/",
-      "data": "2026-09-14T22:06:00+00:00"
-    },
-    {
-      "titulo": "Galaxy Buds 4 Pro atinge 36% OFF na melhor oferta que já encontramos",
+      "titulo": "Meta One chega ao Brasil com planos de até R$ 1.999 por mês",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-4-pro-atinge-36-off-na-melhor-oferta-que-ja-encontramos/",
-      "data": "2026-09-14T21:09:24+00:00"
+      "link": "https://tecnoblog.net/noticias/meta-one-chega-ao-brasil-com-planos-de-ate-r-1-999-por-mes/",
+      "data": "2026-09-15T15:00:00+00:00"
     },
     {
-      "titulo": "Seu Mac vai rodar? Veja lista de computadores compatíveis com o macOS 27 Golden Gate",
+      "titulo": "MediaTek lança seu primeiro chip de 2 nanômetros para celulares",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/mediatek-lanca-seu-primeiro-chip-de-2-nanometros-para-celulares/",
+      "data": "2026-09-15T14:52:01+00:00"
+    },
+    {
+      "titulo": "Máquina de espresso da Xiaomi pesa o café sozinha e não deixa pó grudar",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/seu-mac-vai-rodar-veja-lista-de-computadores-compativeis-com-o-macos-27-golden-gate/",
-      "data": "2026-09-14T21:02:00+00:00"
+      "link": "https://canaltech.com.br/produtos/maquina-de-espresso-da-xiaomi-pesa-o-cafe-sozinha-e-nao-deixa-po-grudar/",
+      "data": "2026-09-15T14:47:30+00:00"
     },
     {
-      "titulo": "Samsung renova linha de TVs premium com Micro RGB, OLED e Neo QLED",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/samsung-renova-linha-de-tvs-premium-com-micro-rgb-oled-e-neo-qled/",
-      "data": "2026-09-14T20:31:40+00:00"
+      "titulo": "Vendas de carros crescem no Brasil, mas fabricação nacional não acompanha; saiba porquê",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/vendas-de-carros-crescem-no-brasil-mas-fabricacao-nacional-nao-acompanha-saiba-porque/",
+      "data": "2026-09-15T14:30:00+00:00"
     },
     {
-      "titulo": "Samsung pode antecipar dobrável para brigar com iPhone Duo",
+      "titulo": "Galaxy A37 (256 GB) fica 52% mais barato com cupom no Magazine Luiza",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/samsung-pode-antecipar-dobravel-para-brigar-com-iphone-duo/",
-      "data": "2026-09-14T20:27:58+00:00"
+      "link": "https://tecnoblog.net/achados/galaxy-a37-256-gb-fica-52-mais-barato-com-cupom-no-magazine-luiza/",
+      "data": "2026-09-15T14:28:40+00:00"
     },
     {
-      "titulo": "Galaxy S25 fica 56% mais barato ao cair de preço com cupom no Mercado Livre",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-fica-56-mais-barato-ao-cair-de-preco-com-cupom-no-mercado-livre/",
-      "data": "2026-09-14T20:24:15+00:00"
+      "titulo": "“Celular que vira câmera” ganha geração 2026: veja tudo que o Vivo X500 Pro faz",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/celular-que-vira-camera-ganha-geracao-2026-veja-tudo-que-o-vivo-x500-pro-faz/",
+      "data": "2026-09-15T14:26:35+00:00"
     },
     {
-      "titulo": "Nintendo Switch OLED com game incluso chega ao 2º menor preço do ano",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/nintendo-switch-oled-com-game-incluso-chega-ao-2o-menor-preco-do-ano/",
-      "data": "2026-09-14T19:44:44+00:00"
+      "titulo": "O que é o recurso de Atualização em Segundo Plano do iPhone? Entenda antes de desativar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/o-que-e-o-recurso-de-atualizacao-em-segundo-plano-do-iphone-entenda-antes-de-desativar/",
+      "data": "2026-09-15T14:02:00+00:00"
     },
     {
-      "titulo": "Samsung revela tela de 10 mil nits usada nos novos iPhones",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/samsung-revela-tela-de-10-mil-nits-usada-nos-novos-iphones/",
-      "data": "2026-09-14T18:36:47+00:00"
+      "titulo": "A história real por trás de Monstro: quem foi Lizzie Borden",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/a-historia-real-por-tras-de-monstro-quem-foi-lizzie-borden/",
+      "data": "2026-09-15T14:02:00+00:00"
     },
     {
-      "titulo": "O que é AI Slop? Entenda a gíria que vai contra o uso desenfreado de inteligência artificial",
+      "titulo": "Brasileiros aceitam IA nas compras, mas querem manter controle, revela estudo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/brasileiros-aceitam-ia-nas-compras-mas-querem-manter-controle-revela-estudo/",
+      "data": "2026-09-15T14:00:03+00:00"
+    },
+    {
+      "titulo": "Apple leva streaming e jogos para o iCloud+, mas Brasil fica de fora",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/o-que-e-ai-slop-entenda-a-giria-que-vai-contra-o-uso-desenfreado-de-inteligencia-artificial/",
-      "data": "2026-09-14T17:54:08+00:00"
+      "link": "https://tecnoblog.net/noticias/apple-leva-streaming-e-jogos-para-o-icloud-mas-brasil-fica-de-fora/",
+      "data": "2026-09-15T13:59:12+00:00"
+    },
+    {
+      "titulo": "Melhor fone de ouvido Philco: 5 modelos que valem a pena em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-philco/",
+      "data": "2026-09-15T13:55:30+00:00"
+    },
+    {
+      "titulo": "Galaxy S25 Ultra cai 57% com cupom para quem quer filmar em 4K",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-ultra-cai-57-com-cupom-para-quem-quer-filmar-em-4k/",
+      "data": "2026-09-15T13:22:48+00:00"
+    },
+    {
+      "titulo": "iPhone 17 Pro entra em oferta após iPhone 18 Pro ser homologado",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/iphone-17-pro-entra-em-oferta-apos-iphone-18-pro-ser-homologado/",
+      "data": "2026-09-15T13:02:27+00:00"
+    },
+    {
+      "titulo": "Imperdível: iPhone 17 (512 GB) tem oferta histórica na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/imperdivel-iphone-17-512-gb-tem-oferta-historica-na-amazon/",
+      "data": "2026-09-15T12:40:52+00:00"
     },
     {
       "titulo": "Top 10 filmes e séries com maior bitrate no streaming",
@@ -102,12 +108,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/unitree-g1-ia-luta-humano-sem-controle-remoto/",
       "data": "2026-09-14T17:00:35+00:00"
-    },
-    {
-      "titulo": "Windows 11: novas atualizações causam falhas em notebooks Lenovo e HP",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/windows-11-novas-atualizacoes-causam-falhas-em-notebooks-lenovo-e-hp/",
-      "data": "2026-09-14T16:57:16+00:00"
     },
     {
       "titulo": "Adaptador chinês libera até 800 W em RTX 5090 da ASUS sem precisar de placa-mãe BTF",
