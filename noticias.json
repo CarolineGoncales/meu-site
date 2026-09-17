@@ -1,6 +1,42 @@
 {
-  "atualizado_em": "2026-09-17T20:25:12.607651+00:00",
+  "atualizado_em": "2026-09-17T22:56:07.860063+00:00",
   "noticias": [
+    {
+      "titulo": "Claude Code atualiza Projetos para executar tarefas com múltiplos agentes de IA",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-code-atualiza-projetos-para-executar-tarefas-com-multiplos-agentes-de-ia/",
+      "data": "2026-09-17T22:03:00+00:00"
+    },
+    {
+      "titulo": "Soundbar JBL com subwoofer sem fio sai 46% mais barata na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/soundbar-jbl-com-subwoofer-sem-fio-sai-46-mais-barata-na-amazon/",
+      "data": "2026-09-17T21:34:23+00:00"
+    },
+    {
+      "titulo": "YouTube: usuários reclamam de resolução baixa em vídeos",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/youtube-usuarios-reclamam-de-resolucao-baixa-em-videos/",
+      "data": "2026-09-17T21:29:28+00:00"
+    },
+    {
+      "titulo": "Bug no YouTube faz vídeos ficarem presos em 480p",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/bug-no-youtube-faz-videos-ficarem-presos-em-480p/",
+      "data": "2026-09-17T21:15:00+00:00"
+    },
+    {
+      "titulo": "Huawei Watch GT 6 Pro cai 41% pra quem busca smartwatch resistente",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/huawei-watch-gt-6-pro-cai-41-pra-quem-busca-smartwatch-resistente/",
+      "data": "2026-09-17T20:49:28+00:00"
+    },
+    {
+      "titulo": "Melhor fone KZ: 10 modelos para comprar em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-kz/",
+      "data": "2026-09-17T20:46:12+00:00"
+    },
     {
       "titulo": "“Vírus no carro”: malware infecta central multimídia sem motorista perceber",
       "fonte": "Canaltech",
@@ -56,28 +92,10 @@
       "data": "2026-09-17T19:06:35+00:00"
     },
     {
-      "titulo": "GoPro traz microfone ao Brasil para enfrentar DJI; veja preços",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/gopro-traz-microfone-ao-brasil-para-enfrentar-dji-veja-precos/",
-      "data": "2026-09-17T18:42:19+00:00"
-    },
-    {
-      "titulo": "Suunto Run combina funções esportivas e uso urbano em relógio leve",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartwatch/suunto-run-combina-funcoes-esportivas-e-uso-urbano-em-relogio-leve/",
-      "data": "2026-09-17T18:41:40+00:00"
-    },
-    {
       "titulo": "Como desconectar o Instagram de outro celular remotamente",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/responde/como-desconectar-o-instagram-de-outros-aparelhos-remotamente/",
       "data": "2026-09-17T18:23:44+00:00"
-    },
-    {
-      "titulo": "Spotify traz programa de monetização para podcasts ao Brasil",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/spotify-traz-programa-de-monetizacao-para-podcasts-ao-brasil/",
-      "data": "2026-09-17T18:02:53+00:00"
     },
     {
       "titulo": "Intel teria desistido de Nova Lake-S com GPU integrada de 12 núcleos Xe",
@@ -86,34 +104,16 @@
       "data": "2026-09-17T17:59:13+00:00"
     },
     {
-      "titulo": "Anatel manda bloquear empresas após 4,3 milhões de ligações fraudulentas",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/anatel-manda-bloquear-empresas-apos-43-milhoes-de-ligacoes-fraudulentas/",
-      "data": "2026-09-17T17:58:56+00:00"
-    },
-    {
       "titulo": "Rumor: AMD pode preparar resposta ao DLSS 5 com iluminação neural nas próximas Radeon",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/amd-radeon-iluminacao-neural-dlss-5/",
       "data": "2026-09-17T17:51:09+00:00"
     },
     {
-      "titulo": "Galaxy Tab S10 FE 5G despenca 41% em oferta imbatível no Magalu",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/preco-do-galaxy-tab-s10-fe-5g-despenca-41-em-oferta-imbativel-no-magalu/",
-      "data": "2026-09-17T17:48:59+00:00"
-    },
-    {
       "titulo": "CEO da NVIDIA diz que a IA já superou humanos em algumas tarefas e chama isso de superinteligência",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/jensen-huang-superinteligencia-ia-ja-existe/",
       "data": "2026-09-17T17:43:28+00:00"
-    },
-    {
-      "titulo": "Como ocultar seu story de pessoas específicas no Instagram",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/como-esconder-stories-no-instagram/",
-      "data": "2026-09-17T17:37:25+00:00"
     },
     {
       "titulo": "Dono de RTX 5090 tem garantia negada após número de série ficar ilegível",
@@ -144,42 +144,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/servidor-ia-6-gpus-gabinete-adaptado/",
       "data": "2026-09-17T14:01:42+00:00"
-    },
-    {
-      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
-      "data": "2026-09-07T21:15:00+00:00"
-    },
-    {
-      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
-      "data": "2026-09-07T20:30:00+00:00"
-    },
-    {
-      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
-      "data": "2026-09-07T19:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
-      "data": "2026-09-07T19:00:00+00:00"
-    },
-    {
-      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
-      "data": "2026-09-07T18:15:00+00:00"
-    },
-    {
-      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
-      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
