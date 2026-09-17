@@ -1,59 +1,137 @@
 {
-  "atualizado_em": "2026-09-17T17:20:35.352256+00:00",
+  "atualizado_em": "2026-09-17T20:25:12.607651+00:00",
   "noticias": [
     {
-      "titulo": "Smart TV LG QNED 50″ fica quase R$ 1 mil mais barata com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned-50-fica-quase-r-1-mil-mais-barata-com-cupom/",
-      "data": "2026-09-17T17:00:21+00:00"
-    },
-    {
-      "titulo": "Melhor Kindle em 2026: qual leitor de livros digitais comprar?",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-kindle/",
-      "data": "2026-09-17T16:29:45+00:00"
-    },
-    {
-      "titulo": "Falha no Spotify impede seguir e bloquear outros usuários no aplicativo",
+      "titulo": "“Vírus no carro”: malware infecta central multimídia sem motorista perceber",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/falha-no-spotify-impede-seguir-e-bloquear-outros-usuarios-no-aplicativo/",
-      "data": "2026-09-17T16:07:00+00:00"
+      "link": "https://canaltech.com.br/seguranca/virus-no-carro-malware-infecta-central-multimidia-sem-motorista-perceber/",
+      "data": "2026-09-17T20:03:00+00:00"
     },
     {
-      "titulo": "Justiça dos EUA manda Google abrir ecossistema de anúncios a rivais",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/justica-dos-eua-manda-google-abrir-ecossistema-de-anuncios-a-rivais/",
-      "data": "2026-09-17T15:56:57+00:00"
-    },
-    {
-      "titulo": "Como baixar reels do Instagram pelo próprio app da rede social",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/como-baixar-reels-do-instagram-pelo-proprio-app-da-rede-social/",
-      "data": "2026-09-17T15:17:47+00:00"
-    },
-    {
-      "titulo": "Sem guarda-roupa: Reboot de Nárnia da Netflix ganha primeiro trailer",
+      "titulo": "Citroën derruba preços do Basalt Dark Edition e SUV sai mais em conta que Hyundai HB20S",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/sem-guarda-roupa-reboot-de-narnia-da-netflix-ganha-primeiro-trailer/",
-      "data": "2026-09-17T15:03:00+00:00"
+      "link": "https://canaltech.com.br/carros/citroen-derruba-precos-do-basalt-dark-edition-e-suv-sai-mais-em-conta-que-hyundai-hb20s/",
+      "data": "2026-09-17T20:00:00+00:00"
     },
     {
-      "titulo": "GTA 6 ganha álbum oficial com Travis Scott e Keith Richards; veja a tracklist",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/gta-6-ganha-album-oficial-com-travis-scott-e-keith-richards-veja-a-tracklist/",
-      "data": "2026-09-17T15:00:00+00:00"
-    },
-    {
-      "titulo": "TIM patrocinou Rock in Rio, mas Vivo viu uso de dados crescer 60%",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/tim-patrocinou-rock-in-rio-mas-vivo-viu-uso-de-dados-crescer-60/",
-      "data": "2026-09-17T14:52:50+00:00"
-    },
-    {
-      "titulo": "Bom e barato: Garmin Forerunner 55 com treinador virtual tem 46% OFF",
+      "titulo": "Como apagar uma mensagem ou conversa no Instagram Direct",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/bom-e-barato-garmin-forerunner-55-com-treinador-virtual-tem-46-off/",
-      "data": "2026-09-17T14:36:29+00:00"
+      "link": "https://tecnoblog.net/responde/como-apagar-uma-mensagem-ou-conversa-no-instagram-direct/",
+      "data": "2026-09-17T19:56:25+00:00"
+    },
+    {
+      "titulo": "Anatel manda TIM e Algar bloquearem chamadas com número adulterado",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/anatel-manda-tim-e-algar-bloquearem-chamadas-com-numero-adulterado/",
+      "data": "2026-09-17T19:29:00+00:00"
+    },
+    {
+      "titulo": "OpenAI vai avisar quando IAs agirem sem autorização",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/openai-vai-avisar-quando-ias-agirem-sem-autorizacao/",
+      "data": "2026-09-17T19:26:15+00:00"
+    },
+    {
+      "titulo": "Tablet pode substituir notebook em até 90% das tarefas de produtividade",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tablet/tablet-pode-substituir-notebook-em-ate-90-das-tarefas-de-produtividade/",
+      "data": "2026-09-17T19:17:32+00:00"
+    },
+    {
+      "titulo": "Pinterest ganha IA que muda a decoração do seu quarto por foto",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/pinterest-ganha-ia-que-muda-a-decoracao-do-seu-quarto-por-foto/",
+      "data": "2026-09-17T19:14:50+00:00"
+    },
+    {
+      "titulo": "Por que o Windows 11 não tinha Barra de Tarefas móvel? Microsoft explica",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/por-que-o-windows-11-nao-tinha-barra-de-tarefas-movel-microsoft-explica/",
+      "data": "2026-09-17T19:09:28+00:00"
+    },
+    {
+      "titulo": "Galaxy Z Fold8 e Z Fold8 Ultra: veja as diferenças entre os modelos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/galaxy-z-fold8-e-z-fold8-ultra-veja-as-diferencas-entre-os-modelos/",
+      "data": "2026-09-17T19:06:35+00:00"
+    },
+    {
+      "titulo": "GoPro traz microfone ao Brasil para enfrentar DJI; veja preços",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/gopro-traz-microfone-ao-brasil-para-enfrentar-dji-veja-precos/",
+      "data": "2026-09-17T18:42:19+00:00"
+    },
+    {
+      "titulo": "Suunto Run combina funções esportivas e uso urbano em relógio leve",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartwatch/suunto-run-combina-funcoes-esportivas-e-uso-urbano-em-relogio-leve/",
+      "data": "2026-09-17T18:41:40+00:00"
+    },
+    {
+      "titulo": "Como desconectar o Instagram de outro celular remotamente",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/como-desconectar-o-instagram-de-outros-aparelhos-remotamente/",
+      "data": "2026-09-17T18:23:44+00:00"
+    },
+    {
+      "titulo": "Spotify traz programa de monetização para podcasts ao Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/spotify-traz-programa-de-monetizacao-para-podcasts-ao-brasil/",
+      "data": "2026-09-17T18:02:53+00:00"
+    },
+    {
+      "titulo": "Intel teria desistido de Nova Lake-S com GPU integrada de 12 núcleos Xe",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/intel-nova-lake-s-igpu-12-xe-cancelada/",
+      "data": "2026-09-17T17:59:13+00:00"
+    },
+    {
+      "titulo": "Anatel manda bloquear empresas após 4,3 milhões de ligações fraudulentas",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/anatel-manda-bloquear-empresas-apos-43-milhoes-de-ligacoes-fraudulentas/",
+      "data": "2026-09-17T17:58:56+00:00"
+    },
+    {
+      "titulo": "Rumor: AMD pode preparar resposta ao DLSS 5 com iluminação neural nas próximas Radeon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/amd-radeon-iluminacao-neural-dlss-5/",
+      "data": "2026-09-17T17:51:09+00:00"
+    },
+    {
+      "titulo": "Galaxy Tab S10 FE 5G despenca 41% em oferta imbatível no Magalu",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/preco-do-galaxy-tab-s10-fe-5g-despenca-41-em-oferta-imbativel-no-magalu/",
+      "data": "2026-09-17T17:48:59+00:00"
+    },
+    {
+      "titulo": "CEO da NVIDIA diz que a IA já superou humanos em algumas tarefas e chama isso de superinteligência",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/jensen-huang-superinteligencia-ia-ja-existe/",
+      "data": "2026-09-17T17:43:28+00:00"
+    },
+    {
+      "titulo": "Como ocultar seu story de pessoas específicas no Instagram",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/como-esconder-stories-no-instagram/",
+      "data": "2026-09-17T17:37:25+00:00"
+    },
+    {
+      "titulo": "Dono de RTX 5090 tem garantia negada após número de série ficar ilegível",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/rtx-5090-garantia-numero-serie-ilegivel/",
+      "data": "2026-09-17T17:36:04+00:00"
+    },
+    {
+      "titulo": "Apple pode chegar a 40% do mercado de celulares dobráveis",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/apple-pode-chegar-a-40-do-mercado-de-celulares-dobraveis/",
+      "data": "2026-09-17T17:32:27+00:00"
+    },
+    {
+      "titulo": "HyperX Cloud Stinger 2 Core com 44% de desconto: um headset gamer completo por um preço que cabe no bolso",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/hyperx-cloud-stinger-2-core-com-44-de-desconto-um-headset-gamer-completo-por-um-preco-que-cabe-no-bolso/",
+      "data": "2026-09-17T15:30:33+00:00"
     },
     {
       "titulo": "Boombox dos anos 80 vira PC com mais de 2 TB de armazenamento (e ainda toca fita cassete)",
@@ -62,88 +140,46 @@
       "data": "2026-09-17T14:30:16+00:00"
     },
     {
-      "titulo": "Zelda: Ocarina of Time Remake esgota em 10 minutos de pré-venda",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/zelda-ocarina-of-time-remake-esgota-em-10-minutos-de-pre-venda-no-brasil/",
-      "data": "2026-09-17T14:26:26+00:00"
-    },
-    {
-      "titulo": "Anatel libera Starlink sem antena direto no celular para Vivo até 2029",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/anatel-libera-starlink-sem-antena-direto-no-celular-para-vivo-ate-2029/",
-      "data": "2026-09-17T14:20:30+00:00"
-    },
-    {
-      "titulo": "Hyundai usa \"sustos\" do trânsito real para ensinar seus carros a dirigir sozinhos com nova IA",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/hyundai-usa-sustos-do-transito-real-para-ensinar-seus-carros-a-dirigir-sozinhos/",
-      "data": "2026-09-17T14:15:01+00:00"
-    },
-    {
-      "titulo": "Galaxy Watch 8 Classic fica mais barato com cupom no Mercado Livre",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-8-classic-fica-mais-barato-com-cupom-no-mercado-livre/",
-      "data": "2026-09-17T14:10:04+00:00"
-    },
-    {
-      "titulo": "União Europeia propõe barrar menores em redes sociais, jogos online e chatbots",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/uniao-europeia-propoe-barrar-menores-em-redes-sociais-jogos-online-e-chatbots/",
-      "data": "2026-09-17T14:02:00+00:00"
-    },
-    {
-      "titulo": "Stranger Things volta à Netflix com novo mistério na temporada 2 de Histórias de 85",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/stranger-things-volta-a-netflix-com-novo-misterio-na-temporada-2-de-historias-de-85/",
-      "data": "2026-09-17T14:02:00+00:00"
-    },
-    {
       "titulo": "Entusiasta monta servidor de IA com 6 placas de vídeo e precisa adaptar o gabinete para fazer tudo caber",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/servidor-ia-6-gpus-gabinete-adaptado/",
       "data": "2026-09-17T14:01:42+00:00"
     },
     {
-      "titulo": "HyperX Alloy Core RGB com 65% de desconto: o teclado gamer que une estilo, silêncio e durabilidade por muito menos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/hyperx-alloy-core-rgb-com-65-de-desconto-o-teclado-gamer-que-une-estilo-silencio-e-durabilidade-por-muito-menos/",
-      "data": "2026-09-17T14:00:14+00:00"
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
     },
     {
-      "titulo": "Criança gasta R$ 600 mil no cartão do pai para divulgar gameplay de Roblox",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/crianca-gasta-r-600-mil-no-cartao-do-pai-para-divulgar-gameplay-de-roblox/",
-      "data": "2026-09-17T13:48:51+00:00"
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
     },
     {
-      "titulo": "Nintendo Switch Lite com 22% de desconto: seu próximo companheiro de viagens",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/nintendo-switch-lite-com-22-de-desconto-seu-proximo-companheiro-de-viagens/",
-      "data": "2026-09-17T13:30:50+00:00"
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
     },
     {
-      "titulo": "CapCut acumula versões antigas no Windows e pode consumir dezenas de GB; veja como liberar espaço",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/capcut-versoes-antigas-windows-liberar-espaco/",
-      "data": "2026-09-16T15:30:01+00:00"
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
     },
     {
-      "titulo": "HyperX Pulsefire Core: mouse gamer de R$314 saindo por R$105 — e com nota 4.8 de 5 estrelas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/hyperx-pulsefire-core-mouse-gamer-de-r314-saindo-por-r8990-e-com-nota-4-8-de-5-estrelas/",
-      "data": "2026-09-16T15:28:26+00:00"
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
     },
     {
-      "titulo": "Homem compra um PSP incomum e descobre um acessório raro de 2005",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/psp-acessorio-raro-2005-tv/",
-      "data": "2026-09-16T15:08:29+00:00"
-    },
-    {
-      "titulo": "Brasileiro usa Raspberry Pi como servidor para app, NAS e central de câmeras",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/raspberry-pi-servidor-app-nas-2-mil-usuarios/",
-      "data": "2026-09-16T14:47:54+00:00"
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
