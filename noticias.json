@@ -1,23 +1,59 @@
 {
-  "atualizado_em": "2026-09-17T07:53:07.576059+00:00",
+  "atualizado_em": "2026-09-17T12:50:10.480057+00:00",
   "noticias": [
     {
-      "titulo": "PS5 ganha Top 10 jogos mais populares e visual \"turbinado\" com nova atualização",
+      "titulo": "3ª onda de demissões atinge estúdio de MindsEye, que está prestes a fechar",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/ps5-ganha-top-10-jogos-mais-populares-e-visual-turbinado-com-nova-atualizacao/",
-      "data": "2026-09-17T00:21:00+00:00"
+      "link": "https://canaltech.com.br/games/3-onda-de-demissoes-atinge-estudio-de-mindseye-que-esta-prestes-a-fechar/",
+      "data": "2026-09-17T12:45:58+00:00"
     },
     {
-      "titulo": "Como ativar o Ask Photos do Google Fotos",
+      "titulo": "Câmera da Xiaomi enxerga colorido até no escuro e sai por R$ 329",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/google-fotos-como-ativar-ask-photos/",
-      "data": "2026-09-16T23:01:00+00:00"
+      "link": "https://canaltech.com.br/produtos/camera-da-xiaomi-enxerga-colorido-ate-no-escuro-e-sai-por-r-329/",
+      "data": "2026-09-17T12:41:47+00:00"
     },
     {
-      "titulo": "Quem é quem em Monstro: A História de Lizzie Borden? Veja comparação com a vida real",
+      "titulo": "Brasileiro já passa mais tempo no streaming do que no TikTok e Instagram",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/quem-e-quem-em-monstro-a-historia-de-lizzie-borden-veja-comparacao-com-a-vida-real/",
-      "data": "2026-09-16T22:01:00+00:00"
+      "link": "https://canaltech.com.br/apps/brasileiro-ja-passa-mais-tempo-no-streaming-do-que-no-tiktok-e-instagram/",
+      "data": "2026-09-17T12:31:34+00:00"
+    },
+    {
+      "titulo": "Novo top de linha da Xiaomi vazou revelando tela traseira e esquema de câmeras",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/novo-top-de-linha-da-xiaomi-vazou-revelando-tela-traseira-e-esquema-de-cameras/",
+      "data": "2026-09-17T12:27:00+00:00"
+    },
+    {
+      "titulo": "Chinesa cria rival do Kindle Scribe com tela \"do tamanho certo\"",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/e-reader/chinesa-cria-rival-do-kindle-scribe-com-tela-do-tamanho-certo/",
+      "data": "2026-09-17T12:16:32+00:00"
+    },
+    {
+      "titulo": "Resident Evil quebra recorde e vira filme de game mais bem avaliado de todos os tempos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/resident-evil-quebra-recorde-e-vira-filme-de-game-mais-bem-avaliado-de-todos-os-tempos/",
+      "data": "2026-09-17T11:56:17+00:00"
+    },
+    {
+      "titulo": "Siri AI: quais são os novos recursos de IA do iPhone",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/siri-ai-novos-recursos-ia-iphone/",
+      "data": "2026-09-17T11:39:00+00:00"
+    },
+    {
+      "titulo": "Quem é quem no novo filme de Resident Evil?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/quem-e-quem-no-novo-filme-de-resident-evil/",
+      "data": "2026-09-17T11:33:00+00:00"
+    },
+    {
+      "titulo": "Intel e SK Hynix podem fechar acordo para fabricar chips nos EUA",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/intel-e-sk-hynix-podem-fechar-acordo-para-fabricar-chips-nos-eua/",
+      "data": "2026-09-17T11:20:51+00:00"
     },
     {
       "titulo": "Top 10 tablets para criança em 2026 – do infantil ao avançado",
@@ -32,40 +68,10 @@
       "data": "2026-09-16T21:34:17+00:00"
     },
     {
-      "titulo": "iFood prepara investida contra rivais chineses com IA e entrega turbo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/ifood-prepara-investida-contra-rivais-chineses-com-ia-e-entrega-turbo/",
-      "data": "2026-09-16T21:03:00+00:00"
-    },
-    {
-      "titulo": "Quem é Bryan, novo protagonista de Resident Evil?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/quem-e-bryan-protagonista-filme-resident-evil/",
-      "data": "2026-09-16T20:30:00+00:00"
-    },
-    {
-      "titulo": "Ação misteriosa de GTA 6 revela Travis Scott, Future e outros artistas na trilha sonora",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/acao-misteriosa-de-gta-6-revela-travis-scott-future-e-outros-artistas-na-trilha-sonora/",
-      "data": "2026-09-16T20:17:00+00:00"
-    },
-    {
       "titulo": "Euro-Office chega ao PC para desafiar a Microsoft",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/euro-office-chega-ao-pc-para-desafiar-a-microsoft/",
       "data": "2026-09-16T20:09:20+00:00"
-    },
-    {
-      "titulo": "Toyota derruba preços do SUV compacto \"anti-Tera\", mas é por tempo limitado",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/toyota-derruba-precos-do-yaris-cross-e-suv-fica-mais-em-conta-que-vw-tera/",
-      "data": "2026-09-16T20:05:01+00:00"
-    },
-    {
-      "titulo": "4 apps para descobrir onde vai passar o jogo de futebol que você quer assistir",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/apps-para-descobrir-onde-vai-passar-jogo-de-futebol/",
-      "data": "2026-09-16T20:00:00+00:00"
     },
     {
       "titulo": "Gnome 51 chega para continuar sendo referência no Linux; veja as novidades",
@@ -90,12 +96,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/o-fedora-linux-45-esta-vindo-ai-e-estes-sao-seus-destaques/",
       "data": "2026-09-16T18:27:49+00:00"
-    },
-    {
-      "titulo": "Melhor fone de ouvido com fio: 10 modelos para comprar em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-com-fio/",
-      "data": "2026-09-16T18:14:47+00:00"
     },
     {
       "titulo": "CapCut acumula versões antigas no Windows e pode consumir dezenas de GB; veja como liberar espaço",
@@ -144,42 +144,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/galaxy-s26-fe-chega-ao-brasil-com-exynos-2500-e-tela-de-120-hz/",
       "data": "2026-09-16T14:00:26+00:00"
-    },
-    {
-      "titulo": "Phil Collins, Travis Scott e mais! Confira os artistas confirmados nas rádios de GTA 6 até agora",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/phil-collins-travis-scott-e-mais-confira-os-artistas-confirmados-nas-radios-de-gta-6-ate-agora/",
-      "data": "2026-09-16T13:15:00+00:00"
-    },
-    {
-      "titulo": "Falha no Telegram Desktop expõe histórico de conversas em arquivos exportados",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-no-telegram-desktop-expoe-historico-de-conversas-em-arquivos-exportados/",
-      "data": "2026-09-16T13:00:00+00:00"
-    },
-    {
-      "titulo": "Logitech começa a vender mouse G305 X Superlight no Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/logitech-comeca-a-vender-mouse-g305-x-superlight-no-brasil/",
-      "data": "2026-09-16T12:45:00+00:00"
-    },
-    {
-      "titulo": "Fire Emblem: Fortune’s Weave melhora fórmula de seus antecessores, mas peca fora da campanha",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/fire-emblem-fortunes-weave-melhora-formula-de-seus-antecessores-mas-peca-fora-da-campanha/",
-      "data": "2026-09-16T12:00:00+00:00"
-    },
-    {
-      "titulo": "Smart TV OLED Samsung: dicas para escolher a ideal para você",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/smart-tv-oled-samsung-dicas-para-escolher-a-ideal-para-voce/",
-      "data": "2026-09-16T11:15:00+00:00"
-    },
-    {
-      "titulo": "Google lança novas IAs para busca por voz no Modo IA e no Gemini",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/google-lanca-novas-ias-para-busca-por-voz-no-modo-ia-e-no-gemini/",
-      "data": "2026-09-16T11:00:00+00:00"
     }
   ]
 }
