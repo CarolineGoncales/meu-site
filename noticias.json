@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-09-18T00:53:42.504040+00:00",
+  "atualizado_em": "2026-09-18T05:21:15.230846+00:00",
   "noticias": [
+    {
+      "titulo": "Chegou o dia da migração: os bastidores da ida do Hardware.com.br e GameVicio para a nuvem com a Skyone",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/bastidores-ida-hardware-gamevicio-nuvem-skyone/",
+      "data": "2026-09-18T03:04:36+00:00"
+    },
+    {
+      "titulo": "Apple lança iPhone 18 Pro hoje no Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/venda-dos-novos-iphone-18-pro-e-pro-max-comeca-hoje-no-brasil/",
+      "data": "2026-09-18T03:01:00+00:00"
+    },
     {
       "titulo": "Claude Code atualiza Projetos para executar tarefas com múltiplos agentes de IA",
       "fonte": "Canaltech",
@@ -92,12 +104,6 @@
       "data": "2026-09-17T19:06:35+00:00"
     },
     {
-      "titulo": "Como desconectar o Instagram de outro celular remotamente",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/como-desconectar-o-instagram-de-outros-aparelhos-remotamente/",
-      "data": "2026-09-17T18:23:44+00:00"
-    },
-    {
       "titulo": "Intel teria desistido de Nova Lake-S com GPU integrada de 12 núcleos Xe",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/intel-nova-lake-s-igpu-12-xe-cancelada/",
@@ -140,10 +146,40 @@
       "data": "2026-09-17T14:30:16+00:00"
     },
     {
-      "titulo": "Entusiasta monta servidor de IA com 6 placas de vídeo e precisa adaptar o gabinete para fazer tudo caber",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/servidor-ia-6-gpus-gabinete-adaptado/",
-      "data": "2026-09-17T14:01:42+00:00"
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
