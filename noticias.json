@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-09-18T05:21:15.230846+00:00",
+  "atualizado_em": "2026-09-18T09:55:23.083169+00:00",
   "noticias": [
+    {
+      "titulo": "Realme transforma fone em \"item mágico\" com edição de Harry Potter; veja imagens",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/fone-de-ouvido/realme-transforma-fone-em-item-magico-com-edicao-de-harry-potter-veja-imagens/",
+      "data": "2026-09-18T09:41:00+00:00"
+    },
     {
       "titulo": "Chegou o dia da migração: os bastidores da ida do Hardware.com.br e GameVicio para a nuvem com a Skyone",
       "fonte": "Hardware.com.br",
@@ -96,12 +102,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/por-que-o-windows-11-nao-tinha-barra-de-tarefas-movel-microsoft-explica/",
       "data": "2026-09-17T19:09:28+00:00"
-    },
-    {
-      "titulo": "Galaxy Z Fold8 e Z Fold8 Ultra: veja as diferenças entre os modelos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/galaxy-z-fold8-e-z-fold8-ultra-veja-as-diferencas-entre-os-modelos/",
-      "data": "2026-09-17T19:06:35+00:00"
     },
     {
       "titulo": "Intel teria desistido de Nova Lake-S com GPU integrada de 12 núcleos Xe",
