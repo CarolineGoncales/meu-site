@@ -1,11 +1,41 @@
 {
-  "atualizado_em": "2026-09-19T17:32:56.895412+00:00",
+  "atualizado_em": "2026-09-19T19:40:47.481493+00:00",
   "noticias": [
+    {
+      "titulo": "Como usar Agentes de IA para automatizar pesquisas e planilhas em segundo plano",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-agentes-de-ia-pesquisas-planilhas/",
+      "data": "2026-09-19T19:30:00+00:00"
+    },
+    {
+      "titulo": "7 crossovers mais icônicos dos jogos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/crossovers-mais-iconicos-jogos/",
+      "data": "2026-09-19T19:00:00+00:00"
+    },
+    {
+      "titulo": "Seguro para celular em 2026: quais planos cobrem furto de dados e Pix?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/seguro-para-celular-em-2026-quais-planos-cobrem-furto-de-dados-e-pix/",
+      "data": "2026-09-19T18:00:00+00:00"
+    },
     {
       "titulo": "8 melhores inicializações dos consoles de videogames",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/games/melhores-inicializacoes-dos-consoles/",
       "data": "2026-09-19T17:30:00+00:00"
+    },
+    {
+      "titulo": "Após jovem aprendiz ser pego vendo pornô no trabalho, departamento de TI cria regra no firewall para bloquear 11 mil sites",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/ti-bloqueia-11-mil-sites-adultos-firewall/",
+      "data": "2026-09-19T17:18:04+00:00"
+    },
+    {
+      "titulo": "De Sound Blaster a GeForce: homem encontra caixa cheia de placas de som e vídeo dos anos 90 por US$ 1 cada",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/placas-video-som-retro-us-1-recicladora/",
+      "data": "2026-09-19T17:01:31+00:00"
     },
     {
       "titulo": "Qual é a melhor época do ano para comprar celular top de linha? Guia completo",
@@ -20,10 +50,34 @@
       "data": "2026-09-19T16:53:24+00:00"
     },
     {
+      "titulo": "Entusiasta cria calendário de mesa com ESP32 para consultar a agenda sem celular",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/esp32-calendario-nextcloud-display-lcd/",
+      "data": "2026-09-19T16:52:24+00:00"
+    },
+    {
+      "titulo": "TVs Samsung, LG e Sony podem ficar mais caras após alta nos painéis LCD",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/tvs-samsung-lg-sony-mais-caras-paineis-lcd/",
+      "data": "2026-09-19T16:39:36+00:00"
+    },
+    {
+      "titulo": "As IAs da Anthropic já ajudam a construir suas próprias sucessoras",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/anthropic-claude-26-trabalho-criar-novas-ias/",
+      "data": "2026-09-19T16:31:14+00:00"
+    },
+    {
       "titulo": "Quem é quem na nova série de Prison Break?",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/entretenimento/quem-e-quem-na-nova-serie-de-prison-break/",
       "data": "2026-09-19T16:30:02+00:00"
+    },
+    {
+      "titulo": "Executivo da Microsoft chamou treino de IA de “maior roubo de trabalho da história”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/executivo-microsoft-treino-ia-maior-roubo-trabalho/",
+      "data": "2026-09-19T16:18:28+00:00"
     },
     {
       "titulo": "Seu seminovo não atrai propostas? 3 erros invisíveis que travam a venda do seu carro",
@@ -38,34 +92,16 @@
       "data": "2026-09-19T15:00:05+00:00"
     },
     {
-      "titulo": "5 recursos do Apple Maps que não existem no Waze",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/recursos-apple-maps-que-nao-existem-waze/",
-      "data": "2026-09-19T14:30:01+00:00"
-    },
-    {
       "titulo": "5 bases para notebook com refrigeração para aumentar a vida útil do aparelho",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/5-bases-para-notebook-com-refrigeracao-para-aumentar-a-vida-util-do-aparelho/",
       "data": "2026-09-19T14:00:47+00:00"
     },
     {
-      "titulo": "Pode colocar celular quente na geladeira? O risco que pouca gente percebe",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/pode-colocar-celular-quente-na-geladeira-o-risco-que-pouca-gente-percebe/",
-      "data": "2026-09-19T14:00:00+00:00"
-    },
-    {
       "titulo": "5 produtos importantes para a limpeza e manutenção de computadores e hardware",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/5-produtos-importantes-para-a-limpeza-e-manutencao-de-computadores-e-hardware/",
       "data": "2026-09-19T13:30:46+00:00"
-    },
-    {
-      "titulo": "Vale a pena comprar a Edição Ultimate de GTA 6? Canaltech avaliou os detalhes",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/gta-6-vale-a-pena-comprar-edicao-ultimate/",
-      "data": "2026-09-19T13:30:00+00:00"
     },
     {
       "titulo": "Melhor fone de ouvido Edifier: 10 modelos para comprar em 2026",
@@ -108,78 +144,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/iphone-air-1-tb-nao-e-barato-mas-esta-oferta-e-melhor-em-meses/",
       "data": "2026-09-18T19:22:55+00:00"
-    },
-    {
-      "titulo": "Homem usa ESP32 e uma garrafa para criar sistema que rega planta sozinho",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/irrigacao-automatica-esp32-garrafa/",
-      "data": "2026-09-18T15:30:59+00:00"
-    },
-    {
-      "titulo": "O que os primeiros testes estão dizendo sobre a câmera do iPhone 18 Pro",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/iphone-18-pro-camera-primeiros-testes/",
-      "data": "2026-09-18T15:27:36+00:00"
-    },
-    {
-      "titulo": "Denuvo leva cracker à Justiça após proteção ser burlada em 26 jogos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/denuvo-leva-cracker-a-justica-apos-protecao-ser-burlada-em-26-jogos/",
-      "data": "2026-09-18T15:10:59+00:00"
-    },
-    {
-      "titulo": "Rumor: AMD deve aumentar preços de Ryzen, Radeon e chipsets em cerca de 10%",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/amd-aumento-precos-ryzen-radeon-chipsets/",
-      "data": "2026-09-18T15:07:11+00:00"
-    },
-    {
-      "titulo": "RTX 5090 tem conector queimado enquanto dono jogava game que exige apenas 512 MB de VRAM",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/rtx-5090-conector-queimado-jogo-512-mb-vram/",
-      "data": "2026-09-18T15:03:21+00:00"
-    },
-    {
-      "titulo": "“O único problema aqui é não ter comprado antes”: Monitor gamer AOC Destiny com 45% de desconto e ótimas avaliações na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/o-unico-problema-aqui-e-nao-ter-comprado-antes-monitor-gamer-aoc-destiny-com-45-de-desconto-e-otimas-avaliacoes-na-amazon/",
-      "data": "2026-09-18T15:00:26+00:00"
-    },
-    {
-      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
-      "data": "2026-09-07T21:15:00+00:00"
-    },
-    {
-      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
-      "data": "2026-09-07T20:30:00+00:00"
-    },
-    {
-      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
-      "data": "2026-09-07T19:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
-      "data": "2026-09-07T19:00:00+00:00"
-    },
-    {
-      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
-      "data": "2026-09-07T18:15:00+00:00"
-    },
-    {
-      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
-      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
