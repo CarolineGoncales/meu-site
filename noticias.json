@@ -1,6 +1,42 @@
 {
-  "atualizado_em": "2026-09-19T11:40:47.768038+00:00",
+  "atualizado_em": "2026-09-19T14:55:18.531716+00:00",
   "noticias": [
+    {
+      "titulo": "5 recursos do Apple Maps que não existem no Waze",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/recursos-apple-maps-que-nao-existem-waze/",
+      "data": "2026-09-19T14:30:01+00:00"
+    },
+    {
+      "titulo": "Pode colocar celular quente na geladeira? O risco que pouca gente percebe",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/pode-colocar-celular-quente-na-geladeira-o-risco-que-pouca-gente-percebe/",
+      "data": "2026-09-19T14:00:00+00:00"
+    },
+    {
+      "titulo": "5 produtos importantes para a limpeza e manutenção de computadores e hardware",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/5-produtos-importantes-para-a-limpeza-e-manutencao-de-computadores-e-hardware/",
+      "data": "2026-09-19T13:30:46+00:00"
+    },
+    {
+      "titulo": "Vale a pena comprar a Edição Ultimate de GTA 6? Canaltech avaliou os detalhes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/gta-6-vale-a-pena-comprar-edicao-ultimate/",
+      "data": "2026-09-19T13:30:00+00:00"
+    },
+    {
+      "titulo": "Disjuntor do chuveiro vive caindo? Não aumente a amperagem antes de ler isto",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/disjuntor-do-chuveiro-vive-caindo-nao-aumente-a-amperagem-antes-de-ler-isto/",
+      "data": "2026-09-19T13:00:00+00:00"
+    },
+    {
+      "titulo": "Pode usar fone de ouvido pilotando moto? Veja o que diz a lei",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/pode-usar-fone-de-ouvido-pilotando-moto-veja-o-que-diz-a-lei/",
+      "data": "2026-09-19T12:05:00+00:00"
+    },
     {
       "titulo": "6 séries de ficção científica da Netflix perfeitas do começo ao fim",
       "fonte": "Canaltech",
@@ -26,18 +62,6 @@
       "data": "2026-09-18T21:28:26+00:00"
     },
     {
-      "titulo": "8 erros e acertos do novo filme de Resident Evil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/erros-e-acertos-novo-filme-resident-evil/",
-      "data": "2026-09-18T21:18:00+00:00"
-    },
-    {
-      "titulo": "Nova IA do Google será estagiário da sua casa, organizando rotina da família",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-google-sera-estagiario-da-sua-casa-organizando-rotina-da-familia/",
-      "data": "2026-09-18T21:08:00+00:00"
-    },
-    {
       "titulo": "Fone de ouvido Pulse: 10 modelos que valem a pena em 2026",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/fone-pulse/",
@@ -50,28 +74,10 @@
       "data": "2026-09-18T20:45:48+00:00"
     },
     {
-      "titulo": "O que é fato e o que é ficção em Monstro: A História de Lizzie Borden",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/o-que-e-fato-e-o-que-e-ficcao-em-monstro-a-historia-de-lizzie-borden/",
-      "data": "2026-09-18T20:31:00+00:00"
-    },
-    {
       "titulo": "Garmin Forerunner 165 está em queda e tem 37% de desconto no Magalu",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/garmin-forerunner-165-esta-em-queda-e-tem-37-de-desconto-no-magalu/",
       "data": "2026-09-18T20:15:18+00:00"
-    },
-    {
-      "titulo": "Fiat derruba preço da Strada e picape fica mais em conta que Mobi Trekking",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/fiat-derruba-preco-da-strada-e-picape-fica-mais-em-conta-que-mobi-trekking/",
-      "data": "2026-09-18T20:00:04+00:00"
-    },
-    {
-      "titulo": "5 aplicativos da Apple que não existem mais",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/aplicativos-apple-que-nao-existem-mais/",
-      "data": "2026-09-18T20:00:00+00:00"
     },
     {
       "titulo": "IA da OpenAI tentou ensinar futuras versões a burlar regras",
@@ -138,12 +144,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/raspberry-pi-5-cluster-nas-domestico/",
       "data": "2026-09-18T14:47:35+00:00"
-    },
-    {
-      "titulo": "PF apreende carga com 468 iPhones sem pagamento de impostos no Paraná",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/pf-apreende-468-iphones-sem-pagamento-impostos/",
-      "data": "2026-09-18T14:46:52+00:00"
     }
   ]
 }
