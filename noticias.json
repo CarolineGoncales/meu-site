@@ -1,11 +1,53 @@
 {
-  "atualizado_em": "2026-09-19T14:55:18.531716+00:00",
+  "atualizado_em": "2026-09-19T17:32:56.895412+00:00",
   "noticias": [
+    {
+      "titulo": "8 melhores inicializações dos consoles de videogames",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/melhores-inicializacoes-dos-consoles/",
+      "data": "2026-09-19T17:30:00+00:00"
+    },
+    {
+      "titulo": "Qual é a melhor época do ano para comprar celular top de linha? Guia completo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/qual-e-a-melhor-epoca-do-ano-para-comprar-celular-top-de-linha-guia-completo/",
+      "data": "2026-09-19T17:00:01+00:00"
+    },
+    {
+      "titulo": "Valve libera ferramenta open-source para adaptar jogos de Android no Steam",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/valve-libera-ferramenta-open-source-para-adaptar-jogos-de-android-no-steam/",
+      "data": "2026-09-19T16:53:24+00:00"
+    },
+    {
+      "titulo": "Quem é quem na nova série de Prison Break?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/quem-e-quem-na-nova-serie-de-prison-break/",
+      "data": "2026-09-19T16:30:02+00:00"
+    },
+    {
+      "titulo": "Seu seminovo não atrai propostas? 3 erros invisíveis que travam a venda do seu carro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/seu-seminovo-nao-atrai-propostas-3-erros-invisiveis-que-travam-a-venda-do-seu-carro/",
+      "data": "2026-09-19T16:00:00+00:00"
+    },
+    {
+      "titulo": "3 tecnologias que mais irritam do que ajudam quem tem carro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/3-tecnologias-que-mais-irritam-do-que-ajudam-quem-tem-carro/",
+      "data": "2026-09-19T15:00:05+00:00"
+    },
     {
       "titulo": "5 recursos do Apple Maps que não existem no Waze",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/apps/recursos-apple-maps-que-nao-existem-waze/",
       "data": "2026-09-19T14:30:01+00:00"
+    },
+    {
+      "titulo": "5 bases para notebook com refrigeração para aumentar a vida útil do aparelho",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/5-bases-para-notebook-com-refrigeracao-para-aumentar-a-vida-util-do-aparelho/",
+      "data": "2026-09-19T14:00:47+00:00"
     },
     {
       "titulo": "Pode colocar celular quente na geladeira? O risco que pouca gente percebe",
@@ -24,36 +66,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/games/gta-6-vale-a-pena-comprar-edicao-ultimate/",
       "data": "2026-09-19T13:30:00+00:00"
-    },
-    {
-      "titulo": "Disjuntor do chuveiro vive caindo? Não aumente a amperagem antes de ler isto",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/disjuntor-do-chuveiro-vive-caindo-nao-aumente-a-amperagem-antes-de-ler-isto/",
-      "data": "2026-09-19T13:00:00+00:00"
-    },
-    {
-      "titulo": "Pode usar fone de ouvido pilotando moto? Veja o que diz a lei",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/pode-usar-fone-de-ouvido-pilotando-moto-veja-o-que-diz-a-lei/",
-      "data": "2026-09-19T12:05:00+00:00"
-    },
-    {
-      "titulo": "6 séries de ficção científica da Netflix perfeitas do começo ao fim",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/netflix-series-ficcao-cientifica-perfeitas-do-comeco-ao-fim/",
-      "data": "2026-09-19T11:30:01+00:00"
-    },
-    {
-      "titulo": "Como ativar o Motion Assist, recurso dos Galaxy contra enjoo ao mexer no celular",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/motion-assist-como-ativar-recurso-contra-enjoo-celular-galaxy/",
-      "data": "2026-09-19T11:00:03+00:00"
-    },
-    {
-      "titulo": "Diablo 4, DOOM Eternal e mais jogos grátis do fim de semana",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-gratis-fim-de-semana-diablo-4-doom-eternal/",
-      "data": "2026-09-18T22:15:00+00:00"
     },
     {
       "titulo": "Melhor fone de ouvido Edifier: 10 modelos para comprar em 2026",
@@ -98,12 +110,6 @@
       "data": "2026-09-18T19:22:55+00:00"
     },
     {
-      "titulo": "OpenAI fez “maior roubo de trabalho da história”, diz executivo da Microsoft",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/openai-fez-maior-roubo-de-trabalho-da-historia-diz-executivo-da-microsoft/",
-      "data": "2026-09-18T19:05:56+00:00"
-    },
-    {
       "titulo": "Homem usa ESP32 e uma garrafa para criar sistema que rega planta sozinho",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/irrigacao-automatica-esp32-garrafa/",
@@ -140,10 +146,40 @@
       "data": "2026-09-18T15:00:26+00:00"
     },
     {
-      "titulo": "Entusiasta une 9 Raspberry Pi para criar servidor e NAS doméstico, e admite que o projeto é um exagero",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/raspberry-pi-5-cluster-nas-domestico/",
-      "data": "2026-09-18T14:47:35+00:00"
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
