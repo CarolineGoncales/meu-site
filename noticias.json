@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-09-19T06:47:00.614507+00:00",
+  "atualizado_em": "2026-09-19T11:40:47.768038+00:00",
   "noticias": [
+    {
+      "titulo": "6 séries de ficção científica da Netflix perfeitas do começo ao fim",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/netflix-series-ficcao-cientifica-perfeitas-do-comeco-ao-fim/",
+      "data": "2026-09-19T11:30:01+00:00"
+    },
+    {
+      "titulo": "Como ativar o Motion Assist, recurso dos Galaxy contra enjoo ao mexer no celular",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/motion-assist-como-ativar-recurso-contra-enjoo-celular-galaxy/",
+      "data": "2026-09-19T11:00:03+00:00"
+    },
     {
       "titulo": "Diablo 4, DOOM Eternal e mais jogos grátis do fim de semana",
       "fonte": "Canaltech",
@@ -62,12 +74,6 @@
       "data": "2026-09-18T20:00:00+00:00"
     },
     {
-      "titulo": "TIM inicia venda do iPhone 18 Pro no Brasil com desconto em até 21x",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/tim-inicia-venda-do-iphone-18-pro-no-brasil-com-desconto-em-ate-21x/",
-      "data": "2026-09-18T19:57:43+00:00"
-    },
-    {
       "titulo": "IA da OpenAI tentou ensinar futuras versões a burlar regras",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/ia-da-openai-tentou-ensinar-futuras-versoes-a-burlar-regras/",
@@ -90,12 +96,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/openai-fez-maior-roubo-de-trabalho-da-historia-diz-executivo-da-microsoft/",
       "data": "2026-09-18T19:05:56+00:00"
-    },
-    {
-      "titulo": "Qual é a história de VisionQuest, a série do Visão?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/qual-e-a-historia-de-visionquest-a-serie-do-visao/",
-      "data": "2026-09-18T19:04:00+00:00"
     },
     {
       "titulo": "Homem usa ESP32 e uma garrafa para criar sistema que rega planta sozinho",
