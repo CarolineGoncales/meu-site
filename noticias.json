@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-09-20T07:17:20.221843+00:00",
+  "atualizado_em": "2026-09-20T12:30:49.072130+00:00",
   "noticias": [
+    {
+      "titulo": "Universal, mas nem tanto: carregador antigo serve em carro elétrico novo?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/universal-mas-nem-tanto-carregador-antigo-serve-em-carro-eletrico-novo/",
+      "data": "2026-09-20T12:02:00+00:00"
+    },
+    {
+      "titulo": "5 séries que são baseadas em obras de Stephen King e você não sabia",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/series-baseadas-obras-stephen-king/",
+      "data": "2026-09-20T11:30:00+00:00"
+    },
+    {
+      "titulo": "Veja como desativar o Google Gemini no seu Gmail, Docs e Drive de uma só vez",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-desativar-google-gemini-do-gmail-docs-drive/",
+      "data": "2026-09-20T11:00:00+00:00"
+    },
     {
       "titulo": "Quais são as novidades do macOS 27?",
       "fonte": "Canaltech",
@@ -32,18 +50,6 @@
       "data": "2026-09-19T19:00:00+00:00"
     },
     {
-      "titulo": "Seguro para celular em 2026: quais planos cobrem furto de dados e Pix?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/seguro-para-celular-em-2026-quais-planos-cobrem-furto-de-dados-e-pix/",
-      "data": "2026-09-19T18:00:00+00:00"
-    },
-    {
-      "titulo": "8 melhores inicializações dos consoles de videogames",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/melhores-inicializacoes-dos-consoles/",
-      "data": "2026-09-19T17:30:00+00:00"
-    },
-    {
       "titulo": "Após jovem aprendiz ser pego vendo pornô no trabalho, departamento de TI cria regra no firewall para bloquear 11 mil sites",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/ti-bloqueia-11-mil-sites-adultos-firewall/",
@@ -54,12 +60,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/placas-video-som-retro-us-1-recicladora/",
       "data": "2026-09-19T17:01:31+00:00"
-    },
-    {
-      "titulo": "Qual é a melhor época do ano para comprar celular top de linha? Guia completo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/qual-e-a-melhor-epoca-do-ano-para-comprar-celular-top-de-linha-guia-completo/",
-      "data": "2026-09-19T17:00:01+00:00"
     },
     {
       "titulo": "Valve libera ferramenta open-source para adaptar jogos de Android no Steam",
@@ -144,42 +144,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/iphone-air-1-tb-nao-e-barato-mas-esta-oferta-e-melhor-em-meses/",
       "data": "2026-09-18T19:22:55+00:00"
-    },
-    {
-      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
-      "data": "2026-09-07T21:15:00+00:00"
-    },
-    {
-      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
-      "data": "2026-09-07T20:30:00+00:00"
-    },
-    {
-      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
-      "data": "2026-09-07T19:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
-      "data": "2026-09-07T19:00:00+00:00"
-    },
-    {
-      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
-      "data": "2026-09-07T18:15:00+00:00"
-    },
-    {
-      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
-      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
