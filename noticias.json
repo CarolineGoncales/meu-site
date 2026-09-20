@@ -1,6 +1,42 @@
 {
-  "atualizado_em": "2026-09-20T16:34:19.909968+00:00",
+  "atualizado_em": "2026-09-20T19:07:37.460448+00:00",
   "noticias": [
+    {
+      "titulo": "8 erros e acertos de Marvel's Wolverine",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/erros-e-acertos-marvels-wolverine/",
+      "data": "2026-09-20T19:00:00+00:00"
+    },
+    {
+      "titulo": "Trocou de celular? Saiba o que acontece com seu eSIM e como levar o número",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/trocou-de-celular-saiba-o-que-acontece-com-seu-esim-e-como-levar-o-numero/",
+      "data": "2026-09-20T18:30:01+00:00"
+    },
+    {
+      "titulo": "Detonado pelos críticos, suspense com astro de Ruptura virou obsessão na Netflix",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/detonado-pelos-criticos-suspense-com-astro-de-ruptura-virou-obsessao-na-netflix/",
+      "data": "2026-09-20T18:00:00+00:00"
+    },
+    {
+      "titulo": "Galaxy Z Fold 8 vs. Fold 8 Ultra: maior significa melhor? Nós comparamos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/galaxy-z-fold-8-vs-fold-8-ultra-maior-significa-melhor/",
+      "data": "2026-09-20T17:30:00+00:00"
+    },
+    {
+      "titulo": "Como funciona a Rockstar Games? Conheça os 12 estúdios por trás de GTA 6",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/rockstar-games-12-estudios-o-que-cada-um-faz/",
+      "data": "2026-09-20T17:00:00+00:00"
+    },
+    {
+      "titulo": "Esse fã da Noctua montou um PC que parece antigo, mas esconde uma RTX 5070 Ti",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/pc-noctua-retro-rtx-5070-ti/",
+      "data": "2026-09-20T16:49:28+00:00"
+    },
     {
       "titulo": "Habeas Corpus: quem é quem na nova série jurídica brasileira da Netflix",
       "fonte": "Canaltech",
@@ -8,10 +44,34 @@
       "data": "2026-09-20T16:30:01+00:00"
     },
     {
+      "titulo": "Essa edição da GeForce 8800 GTS com arte de Neverwinter Nights 2 relembra uma fase marcante das placas de vídeo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/geforce-8800-gts-neverwinter-nights-2/",
+      "data": "2026-09-20T16:25:53+00:00"
+    },
+    {
       "titulo": "Esqueça o 0km: 3 modelos fora de linha que dão um show nos zero-quilômetro",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/carros/esqueca-o-0km-3-modelos-fora-de-linha-que-dao-um-show-nos-zero-quilometro/",
       "data": "2026-09-20T16:01:00+00:00"
+    },
+    {
+      "titulo": "Ver usuários de iPhone aplicando películas protetoras na tela me dá arrepios, diz executivo da Apple",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/apple-pelicula-iphone-ceramic-shield-2/",
+      "data": "2026-09-20T15:49:36+00:00"
+    },
+    {
+      "titulo": "Sapphire lança Radeon RX 9070 XT NITRO+ em edição especial de Valor Mortis",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/sapphire-rx-9070-xt-nitro-plus-valor-mortis/",
+      "data": "2026-09-20T15:13:52+00:00"
+    },
+    {
+      "titulo": "ASUS começa a liberar BIOS que reduz latência de memórias DDR5 chinesas em placas AM5",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/asus-bios-am5-baixa-latencia-ddr5-cxmt/",
+      "data": "2026-09-20T15:00:01+00:00"
     },
     {
       "titulo": "Básico, intermediário ou top de linha: qual celular você realmente precisa?",
@@ -26,12 +86,6 @@
       "data": "2026-09-20T14:30:59+00:00"
     },
     {
-      "titulo": "4 sistemas operacionais cancelados que nunca foram lançados",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/sistemas-operacionais-cancelados-nunca-lancados/",
-      "data": "2026-09-20T14:30:01+00:00"
-    },
-    {
       "titulo": "Justiça dos EUA ordena que Google abra sistema de anúncios a rivais após caso antitruste",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/google-justica-eua-abrir-anuncios-rivais/",
@@ -44,64 +98,10 @@
       "data": "2026-09-20T14:00:26+00:00"
     },
     {
-      "titulo": "Celular no bolso ou na mochila: onde é mais seguro levar o aparelho?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celular-no-bolso-ou-na-mochila-onde-e-mais-seguro-levar-o-aparelho/",
-      "data": "2026-09-20T14:00:00+00:00"
-    },
-    {
-      "titulo": "Vale a pena montar um cinema em casa? O projetor BYINTEK U4 está mais barato agora",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/vale-a-pena-montar-um-cinema-em-casa-o-projetor-byintek-u4-esta-mais-barato-agora/",
-      "data": "2026-09-20T13:32:54+00:00"
-    },
-    {
-      "titulo": "Controle com ou sem fio? Qual é a melhor opção?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/controle-com-ou-sem-fio-qual-e-o-melhor/",
-      "data": "2026-09-20T13:30:01+00:00"
-    },
-    {
-      "titulo": "Soundbar precisa ser da mesma marca da TV? Veja o que você pode perder",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/soundbar-precisa-ser-da-mesma-marca-da-tv-veja-o-que-voce-pode-perder/",
-      "data": "2026-09-20T13:00:02+00:00"
-    },
-    {
-      "titulo": "Ler quadrinhos no celular dobrável é mais legal do que no papel",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/ler-quadrinhos-do-celular-dobravel-e-mais-legal-do-que-no-papel/",
-      "data": "2026-09-20T13:00:00+00:00"
-    },
-    {
-      "titulo": "Após jovem aprendiz ser pego vendo pornô no trabalho, departamento de TI cria regra no firewall para bloquear 11 mil sites",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/ti-bloqueia-11-mil-sites-adultos-firewall/",
-      "data": "2026-09-19T17:18:04+00:00"
-    },
-    {
-      "titulo": "De Sound Blaster a GeForce: homem encontra caixa cheia de placas de som e vídeo dos anos 90 por US$ 1 cada",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/placas-video-som-retro-us-1-recicladora/",
-      "data": "2026-09-19T17:01:31+00:00"
-    },
-    {
       "titulo": "Valve libera ferramenta open-source para adaptar jogos de Android no Steam",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/valve-libera-ferramenta-open-source-para-adaptar-jogos-de-android-no-steam/",
       "data": "2026-09-19T16:53:24+00:00"
-    },
-    {
-      "titulo": "Entusiasta cria calendário de mesa com ESP32 para consultar a agenda sem celular",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/esp32-calendario-nextcloud-display-lcd/",
-      "data": "2026-09-19T16:52:24+00:00"
-    },
-    {
-      "titulo": "TVs Samsung, LG e Sony podem ficar mais caras após alta nos painéis LCD",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/tvs-samsung-lg-sony-mais-caras-paineis-lcd/",
-      "data": "2026-09-19T16:39:36+00:00"
     },
     {
       "titulo": "Melhor fone de ouvido Edifier: 10 modelos para comprar em 2026",
@@ -144,6 +144,42 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/iphone-air-1-tb-nao-e-barato-mas-esta-oferta-e-melhor-em-meses/",
       "data": "2026-09-18T19:22:55+00:00"
+    },
+    {
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
