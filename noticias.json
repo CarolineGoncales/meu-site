@@ -1,59 +1,95 @@
 {
-  "atualizado_em": "2026-09-21T07:32:12.323503+00:00",
+  "atualizado_em": "2026-09-21T14:37:13.012294+00:00",
   "noticias": [
     {
-      "titulo": "7 apps extremamente populares na gringa que o Brasil não dá a mínima",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/apps-populares-que-brasileira-nao-gosta/",
-      "data": "2026-09-20T21:00:00+00:00"
+      "titulo": "Review do Redmi Note 17 Pro 5G: muita bateria, pouco poder de fogo",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/testamos/review-do-redmi-note-17-pro-5g-muita-bateria-pouco-poder-de-fogo/",
+      "data": "2026-09-21T14:28:21+00:00"
     },
     {
-      "titulo": "Quanto custaria um Ford Explorer hoje, com a correção da inflação?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/quanto-custaria-um-ford-explorer-hoje-com-a-correcao-da-inflacao/",
-      "data": "2026-09-20T20:02:00+00:00"
+      "titulo": "Galaxy S25 Plus (256 GB) despenca 55% e atinge menor preço em meses",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-despenca-55-e-atinge-menor-preco-em-meses/",
+      "data": "2026-09-21T14:26:15+00:00"
     },
     {
-      "titulo": "8 erros e acertos de Marvel's Wolverine",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/erros-e-acertos-marvels-wolverine/",
-      "data": "2026-09-20T19:00:00+00:00"
+      "titulo": "Microsoft cria sistema que exibe anúncios em jogos",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/microsoft-cria-sistema-que-exibe-anuncios-em-jogos/",
+      "data": "2026-09-21T14:24:02+00:00"
     },
     {
-      "titulo": "Trocou de celular? Saiba o que acontece com seu eSIM e como levar o número",
+      "titulo": "iPhone 20 Pro pode ter a tela mais ousada da Apple, segundo vazamento",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/trocou-de-celular-saiba-o-que-acontece-com-seu-esim-e-como-levar-o-numero/",
-      "data": "2026-09-20T18:30:01+00:00"
+      "link": "https://canaltech.com.br/smartphone/iphone-20-pro-pode-ter-a-tela-mais-ousada-da-apple-segundo-vazamento/",
+      "data": "2026-09-21T14:23:40+00:00"
     },
     {
-      "titulo": "Detonado pelos críticos, suspense com astro de Ruptura virou obsessão na Netflix",
+      "titulo": "LG quer mudar o jogo no Brasil com o primeiro monitor de 1000Hz do mundo",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/detonado-pelos-criticos-suspense-com-astro-de-ruptura-virou-obsessao-na-netflix/",
-      "data": "2026-09-20T18:00:00+00:00"
+      "link": "https://canaltech.com.br/hardware/lg-quer-mudar-o-jogo-no-brasil-com-o-primeiro-monitor-de-1000hz-do-mundo/",
+      "data": "2026-09-21T14:11:00+00:00"
     },
     {
-      "titulo": "Galaxy Z Fold 8 vs. Fold 8 Ultra: maior significa melhor? Nós comparamos",
+      "titulo": "Tablets top da Samsung devem ter bateria gigante e chip poderoso; veja tudo",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/galaxy-z-fold-8-vs-fold-8-ultra-maior-significa-melhor/",
-      "data": "2026-09-20T17:30:00+00:00"
+      "link": "https://canaltech.com.br/tablet/tablets-top-da-samsung-devem-ter-bateria-gigante-e-chip-poderoso-veja-tudo/",
+      "data": "2026-09-21T14:09:13+00:00"
     },
     {
-      "titulo": "Como funciona a Rockstar Games? Conheça os 12 estúdios por trás de GTA 6",
+      "titulo": "Galaxy S26 Ultra tem queda repentina e recebe maior desconto com cupom",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-tem-queda-repentina-e-recebe-maior-desconto-com-cupom/",
+      "data": "2026-09-21T14:08:10+00:00"
+    },
+    {
+      "titulo": "IAs chinesas também são perigosas como o ChatGPT e o Claude?",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/rockstar-games-12-estudios-o-que-cada-um-faz/",
-      "data": "2026-09-20T17:00:00+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/ias-chinesas-tambem-sao-perigosas-como-o-chatgpt-e-o-claude/",
+      "data": "2026-09-21T14:01:00+00:00"
+    },
+    {
+      "titulo": "Novas regras do Pix incluem devolução de dinheiro e mais; veja o que muda",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/novas-regras-do-pix-incluem-devolucao-de-dinheiro-e-mais-veja-o-que-muda/",
+      "data": "2026-09-21T14:00:00+00:00"
+    },
+    {
+      "titulo": "Filmes ruins da Sony quase destruíram o novo Homem-Aranha",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/filmes-ruins-da-sony-quase-destruiram-o-novo-homem-aranha/",
+      "data": "2026-09-21T13:33:00+00:00"
+    },
+    {
+      "titulo": "PartyBox potente da JBL fica R$ 1.000 mais barata na Amazon",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/caixa-de-som/partybox-potente-da-jbl-fica-r-1000-mais-barata-na-amazon/",
+      "data": "2026-09-21T13:32:37+00:00"
+    },
+    {
+      "titulo": "Novo fone da Xiaomi promete cancelamento de ruído 70% mais eficiente; saiba mais",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/fone-de-ouvido/novo-fone-da-xiaomi-promete-cancelamento-de-ruido-70-mais-eficiente-saiba-mais/",
+      "data": "2026-09-21T13:07:22+00:00"
+    },
+    {
+      "titulo": "Redmi Note 17 chega ao Brasil com preço inicial de R$ 3.999",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/redmi-note-17-chega-ao-brasil-com-preco-inicial-de-r-3-999/",
+      "data": "2026-09-21T13:00:00+00:00"
+    },
+    {
+      "titulo": "Gemini invade três empresas durante teste de segurança",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/gemini-invade-tres-empresas-durante-teste-de-seguranca/",
+      "data": "2026-09-21T12:56:24+00:00"
     },
     {
       "titulo": "Esse fã da Noctua montou um PC que parece antigo, mas esconde uma RTX 5070 Ti",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/pc-noctua-retro-rtx-5070-ti/",
       "data": "2026-09-20T16:49:28+00:00"
-    },
-    {
-      "titulo": "Habeas Corpus: quem é quem na nova série jurídica brasileira da Netflix",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/habeas-corpus-quem-e-quem-na-nova-serie-juridica-brasileira-da-netflix/",
-      "data": "2026-09-20T16:30:01+00:00"
     },
     {
       "titulo": "Essa edição da GeForce 8800 GTS com arte de Neverwinter Nights 2 relembra uma fase marcante das placas de vídeo",
@@ -108,42 +144,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-edifier/",
       "data": "2026-09-18T21:28:26+00:00"
-    },
-    {
-      "titulo": "Fone de ouvido Pulse: 10 modelos que valem a pena em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/fone-pulse/",
-      "data": "2026-09-18T20:51:12+00:00"
-    },
-    {
-      "titulo": "Galaxy S27 Pro pode estrear bateria maior que a do S26 Ultra",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/galaxy-s27-pro-pode-estrear-bateria-maior-que-a-do-s26-ultra/",
-      "data": "2026-09-18T20:45:48+00:00"
-    },
-    {
-      "titulo": "Garmin Forerunner 165 está em queda e tem 37% de desconto no Magalu",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/garmin-forerunner-165-esta-em-queda-e-tem-37-de-desconto-no-magalu/",
-      "data": "2026-09-18T20:15:18+00:00"
-    },
-    {
-      "titulo": "IA da OpenAI tentou ensinar futuras versões a burlar regras",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/ia-da-openai-tentou-ensinar-futuras-versoes-a-burlar-regras/",
-      "data": "2026-09-18T19:49:57+00:00"
-    },
-    {
-      "titulo": "Códigos de GTA San Andreas: todos os cheats para PS2, PC, Android, Xbox 360",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/cheats-e-codigos-de-gta-san-andreas/",
-      "data": "2026-09-18T19:33:33+00:00"
-    },
-    {
-      "titulo": "iPhone Air (1 TB) não é barato, mas esta oferta é a melhor em meses",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/iphone-air-1-tb-nao-e-barato-mas-esta-oferta-e-melhor-em-meses/",
-      "data": "2026-09-18T19:22:55+00:00"
     }
   ]
 }
