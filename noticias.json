@@ -1,29 +1,83 @@
 {
-  "atualizado_em": "2026-09-21T19:47:18.095533+00:00",
+  "atualizado_em": "2026-09-21T22:53:59.713043+00:00",
   "noticias": [
     {
-      "titulo": "Nuvem ou dispositivo: onde a IA roda está se tornando a questão tech mais importante",
+      "titulo": "Quem matou AQUELE personagem em Lanternas? Veja os 8 principais suspeitos",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/nuvem-ou-dispositivo-onde-a-ia-realmente-roda-esta-se-tornando-a-questao-mais-importante-da-tecnologia/",
-      "data": "2026-09-21T19:44:22+00:00"
+      "link": "https://canaltech.com.br/entretenimento/quem-matou-aquele-personagem-em-lanternas-veja-os-8-principais-suspeitos/",
+      "data": "2026-09-21T22:52:00+00:00"
     },
     {
-      "titulo": "Anel com IA grava até 8 horas de reuniões, mas levanta alerta de privacidade",
+      "titulo": "Quais celulares Galaxy receberão novos recursos de IA da One UI 9?",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/anel-com-ia-grava-ate-8-horas-de-reunioes-mas-levanta-alerta-de-privacidade/",
-      "data": "2026-09-21T19:14:45+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/quais-celulares-galaxy-receberao-novos-recursos-de-ia-da-one-ui-9/",
+      "data": "2026-09-21T22:02:01+00:00"
     },
     {
-      "titulo": "Disney+ muda contrato e enfia anúncios em todos os planos, até os mais caros",
+      "titulo": "Ted Bundy ou Green River? Os 4 criminosos que disputam a 5ª temporada de Monstro na Netflix",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/disney-muda-contrato-e-enfia-anuncios-em-todos-os-planos-ate-os-mais-caros/",
-      "data": "2026-09-21T19:09:00+00:00"
+      "link": "https://canaltech.com.br/entretenimento/ted-bundy-ou-green-river-os-4-criminosos-que-disputam-a-5-temporada-de-monster-na-netflix/",
+      "data": "2026-09-21T22:02:00+00:00"
     },
     {
-      "titulo": "Filme mais sangrento da DC choca fãs em novo trailer; assista",
+      "titulo": "Review Silent Hill: Townfall | Clima macabro na medida sem apelar para sustos fáceis",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/filme-mais-sangrento-da-dc-choca-fas-em-novo-trailer-assista/",
-      "data": "2026-09-21T19:02:00+00:00"
+      "link": "https://canaltech.com.br/games/review-silent-hill-townfall/",
+      "data": "2026-09-21T21:33:00+00:00"
+    },
+    {
+      "titulo": "Galaxy Buds 4 tem funções avançadas e está 38% mais barato no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-buds-4-tem-funcoes-avancadas-e-esta-38-mais-barato-no-mercado-livre/",
+      "data": "2026-09-21T21:24:55+00:00"
+    },
+    {
+      "titulo": "Chega de áudio: WhatsApp testa função que transforma voz em texto antes de enviar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/chega-de-audio-whatsapp-testa-funcao-que-transforma-voz-em-texto-antes-de-enviar/",
+      "data": "2026-09-21T21:06:00+00:00"
+    },
+    {
+      "titulo": "Razer anuncia lançamento do teclado \"monstro\" Tartarus V2 Pro no Brasil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/razer-anuncia-lancamento-do-teclado-monstro-tartarus-v2-pro-no-brasil/",
+      "data": "2026-09-21T20:58:00+00:00"
+    },
+    {
+      "titulo": "Meta vai construir cabo submarino gigante que transmite 1 petabit por segundo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/meta-vai-construir-cabo-submarino-gigante-que-transmite-1-petabit-por-segundo/",
+      "data": "2026-09-21T20:41:17+00:00"
+    },
+    {
+      "titulo": "Galaxy Tab S11 Ultra para desenho cai 35% no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-ultra-para-desenho-cai-35-no-mercado-livre/",
+      "data": "2026-09-21T20:35:52+00:00"
+    },
+    {
+      "titulo": "Apple prepara rival do Echo Show com Siri AI e reconhecimento de usuários",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/apple-prepara-rival-do-echo-show-com-siri-ai-e-reconhecimento-de-usuarios/",
+      "data": "2026-09-21T20:23:25+00:00"
+    },
+    {
+      "titulo": "Estatal italiana assume o controle indireto da TIM. O que muda no Brasil?",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/estatal-italiana-assume-o-controle-indireto-da-tim-o-que-muda-no-brasil/",
+      "data": "2026-09-21T20:15:11+00:00"
+    },
+    {
+      "titulo": "Últimas horas: Galaxy A37 (256 GB) tem queda agressiva de 55% com cupom",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/ultimas-horas-galaxy-a37-256-gb-tem-queda-agressiva-de-55-com-cupom/",
+      "data": "2026-09-21T20:14:22+00:00"
+    },
+    {
+      "titulo": "MediaTek também quer marcar presença nos Googlebooks",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/mediatek-tambem-quer-marcar-presenca-nos-googlebooks/",
+      "data": "2026-09-21T19:46:54+00:00"
     },
     {
       "titulo": "Amazon bloqueia agente de IA da Meta que faz compras sozinho",
@@ -44,64 +98,16 @@
       "data": "2026-09-21T18:26:21+00:00"
     },
     {
-      "titulo": "Presidente da Xiaomi revela aumento de preço em novo celular top; entenda",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/presidente-da-xiaomi-revela-aumento-de-preco-em-novo-celular-top-entenda/",
-      "data": "2026-09-21T18:24:07+00:00"
-    },
-    {
-      "titulo": "Meta apresenta cabo submarino capaz de transmitir 1 Pb/s",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/meta-apresenta-cabo-submarino-capaz-de-transmitir-1-petabit-por-segundo/",
-      "data": "2026-09-21T18:08:43+00:00"
-    },
-    {
-      "titulo": "NVIDIA declara guerra ao “discurso do apocalipse” de IA: “0% de chance”",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/nvidia-declara-guerra-ao-discurso-do-apocalipse-de-ia-0-de-chance/",
-      "data": "2026-09-21T18:04:00+00:00"
-    },
-    {
-      "titulo": "Google anuncia novos Googlebooks com promessa de 10 anos de duração; conheça",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/google-anuncia-novos-googlebooks-com-promessa-de-10-anos-de-duracao-conheca/",
-      "data": "2026-09-21T17:59:00+00:00"
-    },
-    {
-      "titulo": "Motorola se une à Bang & Olufsen para turbinar áudio dos próximos celulares",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/motorola-se-une-a-bang-olufsen-para-turbinar-audio-dos-proximos-celulares/",
-      "data": "2026-09-21T17:54:32+00:00"
-    },
-    {
-      "titulo": "Como saber a senha do Wi-Fi que estou conectado? Saiba ver a senha pelo celular ou PC",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/como-descobrir-a-senha-do-wifi-que-estou-conectado/",
-      "data": "2026-09-21T17:33:46+00:00"
-    },
-    {
-      "titulo": "GPT-6 Astra decifra mensagem do exército alemão após 108 anos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/gpt-6-astra-decifra-mensagem-do-exercito-alemao-apos-108-anos/",
-      "data": "2026-09-21T17:22:21+00:00"
-    },
-    {
-      "titulo": "É oficial: Google lança os primeiros Googlebooks",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/e-oficial-google-lanca-os-primeiros-googlebooks/",
-      "data": "2026-09-21T16:48:22+00:00"
+      "titulo": "As três rotas que levam chips de IA da NVIDIA à China apesar das restrições dos EUA",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/as-tres-rotas-que-levam-chips-de-ia-da-nvidia-a-china-apesar-das-restricoes-dos-eua/",
+      "data": "2026-09-21T18:06:08+00:00"
     },
     {
       "titulo": "Redmi Note 17 chega ao Brasil com três versões e preço de até R$ 6.999",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/redmi-note-17-brasil-preco-pro-max/",
       "data": "2026-09-21T16:30:26+00:00"
-    },
-    {
-      "titulo": "Galaxy S25 com chip Snapdragon 8 Elite tem 54% OFF no Mercado Livre",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-com-chip-snapdragon-8-elite-tem-54-off-no-mercado-livre/",
-      "data": "2026-09-21T15:40:50+00:00"
     },
     {
       "titulo": "Esse cara montou um servidor de quase 10 TB que fica pendurado na parede para guardar sua coleção de mídia e comemora: “um bom lugar para guardar todo o meu tesouro pirateado”",
@@ -138,48 +144,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/servidor-ia-duas-nvidia-a100-qwen-180b/",
       "data": "2026-09-21T14:30:23+00:00"
-    },
-    {
-      "titulo": "“Não economizem na fonte”, alerta usuário após fonte de quase 10 anos queimar com RTX 5060",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/fonte-500w-queima-pc-rtx-5060/",
-      "data": "2026-09-21T14:30:14+00:00"
-    },
-    {
-      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
-      "data": "2026-09-07T21:15:00+00:00"
-    },
-    {
-      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
-      "data": "2026-09-07T20:30:00+00:00"
-    },
-    {
-      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
-      "data": "2026-09-07T19:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
-      "data": "2026-09-07T19:00:00+00:00"
-    },
-    {
-      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
-      "data": "2026-09-07T18:15:00+00:00"
-    },
-    {
-      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
-      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
