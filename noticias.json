@@ -1,149 +1,185 @@
 {
-  "atualizado_em": "2026-09-21T14:37:13.012294+00:00",
+  "atualizado_em": "2026-09-21T19:47:18.095533+00:00",
   "noticias": [
     {
-      "titulo": "Review do Redmi Note 17 Pro 5G: muita bateria, pouco poder de fogo",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/testamos/review-do-redmi-note-17-pro-5g-muita-bateria-pouco-poder-de-fogo/",
-      "data": "2026-09-21T14:28:21+00:00"
-    },
-    {
-      "titulo": "Galaxy S25 Plus (256 GB) despenca 55% e atinge menor preço em meses",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-despenca-55-e-atinge-menor-preco-em-meses/",
-      "data": "2026-09-21T14:26:15+00:00"
-    },
-    {
-      "titulo": "Microsoft cria sistema que exibe anúncios em jogos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/microsoft-cria-sistema-que-exibe-anuncios-em-jogos/",
-      "data": "2026-09-21T14:24:02+00:00"
-    },
-    {
-      "titulo": "iPhone 20 Pro pode ter a tela mais ousada da Apple, segundo vazamento",
+      "titulo": "Nuvem ou dispositivo: onde a IA roda está se tornando a questão tech mais importante",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/iphone-20-pro-pode-ter-a-tela-mais-ousada-da-apple-segundo-vazamento/",
-      "data": "2026-09-21T14:23:40+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/nuvem-ou-dispositivo-onde-a-ia-realmente-roda-esta-se-tornando-a-questao-mais-importante-da-tecnologia/",
+      "data": "2026-09-21T19:44:22+00:00"
     },
     {
-      "titulo": "LG quer mudar o jogo no Brasil com o primeiro monitor de 1000Hz do mundo",
+      "titulo": "Anel com IA grava até 8 horas de reuniões, mas levanta alerta de privacidade",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/lg-quer-mudar-o-jogo-no-brasil-com-o-primeiro-monitor-de-1000hz-do-mundo/",
-      "data": "2026-09-21T14:11:00+00:00"
+      "link": "https://canaltech.com.br/produtos/anel-com-ia-grava-ate-8-horas-de-reunioes-mas-levanta-alerta-de-privacidade/",
+      "data": "2026-09-21T19:14:45+00:00"
     },
     {
-      "titulo": "Tablets top da Samsung devem ter bateria gigante e chip poderoso; veja tudo",
+      "titulo": "Disney+ muda contrato e enfia anúncios em todos os planos, até os mais caros",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tablet/tablets-top-da-samsung-devem-ter-bateria-gigante-e-chip-poderoso-veja-tudo/",
-      "data": "2026-09-21T14:09:13+00:00"
+      "link": "https://canaltech.com.br/apps/disney-muda-contrato-e-enfia-anuncios-em-todos-os-planos-ate-os-mais-caros/",
+      "data": "2026-09-21T19:09:00+00:00"
     },
     {
-      "titulo": "Galaxy S26 Ultra tem queda repentina e recebe maior desconto com cupom",
+      "titulo": "Filme mais sangrento da DC choca fãs em novo trailer; assista",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/filme-mais-sangrento-da-dc-choca-fas-em-novo-trailer-assista/",
+      "data": "2026-09-21T19:02:00+00:00"
+    },
+    {
+      "titulo": "Amazon bloqueia agente de IA da Meta que faz compras sozinho",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-tem-queda-repentina-e-recebe-maior-desconto-com-cupom/",
-      "data": "2026-09-21T14:08:10+00:00"
+      "link": "https://tecnoblog.net/noticias/amazon-bloqueia-agente-de-ia-da-meta-que-faz-compras-sozinho/",
+      "data": "2026-09-21T18:50:39+00:00"
     },
     {
-      "titulo": "IAs chinesas também são perigosas como o ChatGPT e o Claude?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ias-chinesas-tambem-sao-perigosas-como-o-chatgpt-e-o-claude/",
-      "data": "2026-09-21T14:01:00+00:00"
-    },
-    {
-      "titulo": "Novas regras do Pix incluem devolução de dinheiro e mais; veja o que muda",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/novas-regras-do-pix-incluem-devolucao-de-dinheiro-e-mais-veja-o-que-muda/",
-      "data": "2026-09-21T14:00:00+00:00"
-    },
-    {
-      "titulo": "Filmes ruins da Sony quase destruíram o novo Homem-Aranha",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/filmes-ruins-da-sony-quase-destruiram-o-novo-homem-aranha/",
-      "data": "2026-09-21T13:33:00+00:00"
-    },
-    {
-      "titulo": "PartyBox potente da JBL fica R$ 1.000 mais barata na Amazon",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/caixa-de-som/partybox-potente-da-jbl-fica-r-1000-mais-barata-na-amazon/",
-      "data": "2026-09-21T13:32:37+00:00"
-    },
-    {
-      "titulo": "Novo fone da Xiaomi promete cancelamento de ruído 70% mais eficiente; saiba mais",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/fone-de-ouvido/novo-fone-da-xiaomi-promete-cancelamento-de-ruido-70-mais-eficiente-saiba-mais/",
-      "data": "2026-09-21T13:07:22+00:00"
-    },
-    {
-      "titulo": "Redmi Note 17 chega ao Brasil com preço inicial de R$ 3.999",
+      "titulo": "AMD rompe barreira do US$ 1 trilhão e deixa Intel para trás",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/redmi-note-17-chega-ao-brasil-com-preco-inicial-de-r-3-999/",
-      "data": "2026-09-21T13:00:00+00:00"
+      "link": "https://tecnoblog.net/noticias/amd-rompe-barreira-do-us-1-trilhao-e-deixa-intel-para-tras/",
+      "data": "2026-09-21T18:35:43+00:00"
     },
     {
-      "titulo": "Gemini invade três empresas durante teste de segurança",
+      "titulo": "Motorola Edge 70 Pro com câmeras de 50 MP recebe cupom em promoção",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/gemini-invade-tres-empresas-durante-teste-de-seguranca/",
-      "data": "2026-09-21T12:56:24+00:00"
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-pro-com-cameras-de-50-mp-recebe-cupom-em-promocao/",
+      "data": "2026-09-21T18:26:21+00:00"
     },
     {
-      "titulo": "Esse fã da Noctua montou um PC que parece antigo, mas esconde uma RTX 5070 Ti",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/pc-noctua-retro-rtx-5070-ti/",
-      "data": "2026-09-20T16:49:28+00:00"
+      "titulo": "Presidente da Xiaomi revela aumento de preço em novo celular top; entenda",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/presidente-da-xiaomi-revela-aumento-de-preco-em-novo-celular-top-entenda/",
+      "data": "2026-09-21T18:24:07+00:00"
     },
     {
-      "titulo": "Essa edição da GeForce 8800 GTS com arte de Neverwinter Nights 2 relembra uma fase marcante das placas de vídeo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/geforce-8800-gts-neverwinter-nights-2/",
-      "data": "2026-09-20T16:25:53+00:00"
-    },
-    {
-      "titulo": "Ver usuários de iPhone aplicando películas protetoras na tela me dá arrepios, diz executivo da Apple",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/apple-pelicula-iphone-ceramic-shield-2/",
-      "data": "2026-09-20T15:49:36+00:00"
-    },
-    {
-      "titulo": "Sapphire lança Radeon RX 9070 XT NITRO+ em edição especial de Valor Mortis",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/sapphire-rx-9070-xt-nitro-plus-valor-mortis/",
-      "data": "2026-09-20T15:13:52+00:00"
-    },
-    {
-      "titulo": "ASUS começa a liberar BIOS que reduz latência de memórias DDR5 chinesas em placas AM5",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/asus-bios-am5-baixa-latencia-ddr5-cxmt/",
-      "data": "2026-09-20T15:00:01+00:00"
-    },
-    {
-      "titulo": "Poucas portas no roteador? O switch de mesa que resolve isso",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/poucas-portas-no-roteador-o-switch-de-mesa-que-resolve-isso/",
-      "data": "2026-09-20T14:30:59+00:00"
-    },
-    {
-      "titulo": "Justiça dos EUA ordena que Google abra sistema de anúncios a rivais após caso antitruste",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/google-justica-eua-abrir-anuncios-rivais/",
-      "data": "2026-09-20T14:16:44+00:00"
-    },
-    {
-      "titulo": "Lâmpada inteligente Elgin Smart Color com 65% OFF: o que ela faz e em quais cômodos vale mais a pena usar",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/lampada-inteligente-elgin-smart-color-com-73-off-o-que-ela-faz-e-em-quais-comodos-vale-mais-a-pena-usar/",
-      "data": "2026-09-20T14:00:26+00:00"
-    },
-    {
-      "titulo": "Valve libera ferramenta open-source para adaptar jogos de Android no Steam",
+      "titulo": "Meta apresenta cabo submarino capaz de transmitir 1 Pb/s",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/valve-libera-ferramenta-open-source-para-adaptar-jogos-de-android-no-steam/",
-      "data": "2026-09-19T16:53:24+00:00"
+      "link": "https://tecnoblog.net/noticias/meta-apresenta-cabo-submarino-capaz-de-transmitir-1-petabit-por-segundo/",
+      "data": "2026-09-21T18:08:43+00:00"
     },
     {
-      "titulo": "Melhor fone de ouvido Edifier: 10 modelos para comprar em 2026",
+      "titulo": "NVIDIA declara guerra ao “discurso do apocalipse” de IA: “0% de chance”",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nvidia-declara-guerra-ao-discurso-do-apocalipse-de-ia-0-de-chance/",
+      "data": "2026-09-21T18:04:00+00:00"
+    },
+    {
+      "titulo": "Google anuncia novos Googlebooks com promessa de 10 anos de duração; conheça",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/google-anuncia-novos-googlebooks-com-promessa-de-10-anos-de-duracao-conheca/",
+      "data": "2026-09-21T17:59:00+00:00"
+    },
+    {
+      "titulo": "Motorola se une à Bang & Olufsen para turbinar áudio dos próximos celulares",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/motorola-se-une-a-bang-olufsen-para-turbinar-audio-dos-proximos-celulares/",
+      "data": "2026-09-21T17:54:32+00:00"
+    },
+    {
+      "titulo": "Como saber a senha do Wi-Fi que estou conectado? Saiba ver a senha pelo celular ou PC",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-edifier/",
-      "data": "2026-09-18T21:28:26+00:00"
+      "link": "https://tecnoblog.net/responde/como-descobrir-a-senha-do-wifi-que-estou-conectado/",
+      "data": "2026-09-21T17:33:46+00:00"
+    },
+    {
+      "titulo": "GPT-6 Astra decifra mensagem do exército alemão após 108 anos",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/gpt-6-astra-decifra-mensagem-do-exercito-alemao-apos-108-anos/",
+      "data": "2026-09-21T17:22:21+00:00"
+    },
+    {
+      "titulo": "É oficial: Google lança os primeiros Googlebooks",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/e-oficial-google-lanca-os-primeiros-googlebooks/",
+      "data": "2026-09-21T16:48:22+00:00"
+    },
+    {
+      "titulo": "Redmi Note 17 chega ao Brasil com três versões e preço de até R$ 6.999",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/redmi-note-17-brasil-preco-pro-max/",
+      "data": "2026-09-21T16:30:26+00:00"
+    },
+    {
+      "titulo": "Galaxy S25 com chip Snapdragon 8 Elite tem 54% OFF no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-com-chip-snapdragon-8-elite-tem-54-off-no-mercado-livre/",
+      "data": "2026-09-21T15:40:50+00:00"
+    },
+    {
+      "titulo": "Esse cara montou um servidor de quase 10 TB que fica pendurado na parede para guardar sua coleção de mídia e comemora: “um bom lugar para guardar todo o meu tesouro pirateado”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/esse-cara-montou-um-servidor-de-quase-10-tb-que-fica-pendurado-na-parede-para-guardar-sua-colecao-de-midia-e-comemora-um-bom-lugar-para-guardar-todo-o-meu-tesouro-pirateado/",
+      "data": "2026-09-21T15:40:37+00:00"
+    },
+    {
+      "titulo": "Smart TV Philips Ambilight 50″ 4K: cinema em casa por menos de R$2.190 na promoção!",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/smart-tv-philips-ambilight-50-4k-cinema-em-casa-por-menos-de-r2-100-na-promocao/",
+      "data": "2026-09-21T15:30:58+00:00"
+    },
+    {
+      "titulo": "PC feito com blocos compatíveis com LEGO imita TV antiga e esconde um Ryzen 5 5600G",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/pc-blocos-lego-ryzen-5600g-tela-4-3/",
+      "data": "2026-09-21T15:00:12+00:00"
+    },
+    {
+      "titulo": "Entusiasta reaproveita o gabinete “ralador de queijo” do Mac Pro 2019 e monta PC gamer com Ryzen 9",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/mac-pro-2019-pc-gamer-atx-ryzen-9/",
+      "data": "2026-09-21T14:35:34+00:00"
+    },
+    {
+      "titulo": "LEGOs de Star Wars em promoção: Yoda, Darth Vader, R2-D2 e a Millennium Falcon para completar sua coleção",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/legos-de-star-wars-em-promocao-yoda-darth-vader-r2-d2-e-a-millennium-falcon-para-completar-sua-colecao/",
+      "data": "2026-09-21T14:30:24+00:00"
+    },
+    {
+      "titulo": "Homem monta servidor de IA em casa com duas NVIDIA A100 e roda modelo de 180 bilhões de parâmetros",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/servidor-ia-duas-nvidia-a100-qwen-180b/",
+      "data": "2026-09-21T14:30:23+00:00"
+    },
+    {
+      "titulo": "“Não economizem na fonte”, alerta usuário após fonte de quase 10 anos queimar com RTX 5060",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/fonte-500w-queima-pc-rtx-5060/",
+      "data": "2026-09-21T14:30:14+00:00"
+    },
+    {
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
