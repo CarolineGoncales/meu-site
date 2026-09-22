@@ -1,35 +1,89 @@
 {
-  "atualizado_em": "2026-09-22T19:19:15.912427+00:00",
+  "atualizado_em": "2026-09-22T22:20:12.633013+00:00",
   "noticias": [
     {
-      "titulo": "Marvel confirma fim de Demolidor: Renascido na 3ª temporada; veja o que esperar",
+      "titulo": "Sony testa recurso no PS5 que 'devolve' dinheiro na compra de jogos",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/marvel-confirma-fim-de-demolidor-renascido-na-3-temporada-veja-o-que-esperar/",
-      "data": "2026-09-22T19:02:00+00:00"
+      "link": "https://canaltech.com.br/games/sony-testa-recurso-no-ps5-que-devolve-dinheiro-na-compra-de-jogos/",
+      "data": "2026-09-22T22:19:00+00:00"
     },
     {
-      "titulo": "Grok 4.7 estreia como a 3ª melhor IA do mundo cobrando menos",
+      "titulo": "Não deixe para domingo: e-Título deve ser baixado e ativado até sábado antes da eleição",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/grok-47-estreia-como-a-3-melhor-ia-do-mundo-cobrando-menos/",
-      "data": "2026-09-22T19:01:00+00:00"
+      "link": "https://canaltech.com.br/apps/nao-deixe-para-domingo-e-titulo-deve-ser-baixado-e-ativado-ate-sabado-antes-da-eleicao/",
+      "data": "2026-09-22T22:03:00+00:00"
+    },
+    {
+      "titulo": "Sequência de Superman vai focar em quem é Lex Luthor e aliança do vilão com herói",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/sequencia-de-superman-vai-focar-em-quem-e-lex-luthor-e-alianca-do-vilao-com-heroi/",
+      "data": "2026-09-22T21:33:00+00:00"
+    },
+    {
+      "titulo": "Motorola mostra o Signature 27, com Snapdragon Extreme e câmera periscópica de 200 MP",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/motorola-mostra-o-signature-27-com-snapdragon-extreme-e-camera-periscopica-de-200-mp/",
+      "data": "2026-09-22T21:13:01+00:00"
+    },
+    {
+      "titulo": "Samsung Notes passa a avisar quando texto é criado por IA; veja como será",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/samsung-notes-passa-a-avisar-quando-texto-e-criado-por-ia-veja-como-sera/",
+      "data": "2026-09-22T21:04:00+00:00"
+    },
+    {
+      "titulo": "Googlebooks vs Chromebooks: 6 diferenças entre os notebooks do Google",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/googlebooks-vs-chromebooks-6-diferencas-entre-os-notebooks-do-google/",
+      "data": "2026-09-22T20:54:00+00:00"
+    },
+    {
+      "titulo": "Apple pensa em lançar pulseira fitness sem tela",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/apple-pensa-em-lancar-pulseira-fitness-sem-tela/",
+      "data": "2026-09-22T20:38:25+00:00"
+    },
+    {
+      "titulo": "Como traçar rotas ponto a ponto no Google Maps (a pé ou com veículos)",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/como-criar-rotas-no-google-maps-pc-e-celular/",
+      "data": "2026-09-22T20:36:47+00:00"
+    },
+    {
+      "titulo": "AirPods Pro 3 com sensor cardíaco tem a maior queda de preço desde julho",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/airpods-pro-3-com-sensor-cardiaco-tem-a-maior-queda-de-preco-desde-julho/",
+      "data": "2026-09-22T20:32:39+00:00"
+    },
+    {
+      "titulo": "LG xboom Power chega ao Brasil com 440 W e karaokê com IA",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/caixa-de-som/lg-xboom-power-chega-ao-brasil-com-440-w-e-karaoke-com-ia/",
+      "data": "2026-09-22T20:30:02+00:00"
+    },
+    {
+      "titulo": "Harman aposta no luxo e lança caixas de som de até R$ 220 mil no Brasil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/caixa-de-som/harman-aposta-no-luxo-e-lanca-caixas-de-som-de-ate-r-220-mil-no-brasil/",
+      "data": "2026-09-22T20:10:53+00:00"
+    },
+    {
+      "titulo": "Perfil perdeu alcance? X agora vai te mostrar o motivo",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/perfil-perdeu-alcance-x-agora-vai-te-mostrar-o-motivo/",
+      "data": "2026-09-22T20:05:22+00:00"
+    },
+    {
+      "titulo": "VW derruba preços do T-Cross e SUV sai mais em conta que Nissan Kicks",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/vw-derruba-precos-do-t-cross-e-suv-sai-mais-em-conta-que-nissan-kicks/",
+      "data": "2026-09-22T20:05:04+00:00"
     },
     {
       "titulo": "Galaxy Tab S10 Lite (256 GB) com S Pen fica mais barato na Magalu",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-256-gb-com-s-pen-fica-mais-barato-na-magalu/",
       "data": "2026-09-22T18:24:38+00:00"
-    },
-    {
-      "titulo": "Como usar ChatGPT e Gemini sem entregar seus maiores segredos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-chatgpt-e-gemini-sem-entregar-seus-maiores-segredos/",
-      "data": "2026-09-22T18:07:00+00:00"
-    },
-    {
-      "titulo": "Sequência de A Rede Social precisou mudar roteiro por medo de processos da Meta",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/sequencia-de-a-rede-social-precisou-mudar-roteiro-por-medo-de-processos-da-meta/",
-      "data": "2026-09-22T18:02:00+00:00"
     },
     {
       "titulo": "Galaxy A57 (256 GB) atinge 48% OFF com cupom na melhor oferta já registrada",
@@ -44,40 +98,10 @@
       "data": "2026-09-22T17:32:07+00:00"
     },
     {
-      "titulo": "Novo SUV elétrico da BYD ganha mais autonomia, mas perde potência",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/novo-suv-eletrico-da-byd-ganha-mais-autonomia-mas-perde-potencia/",
-      "data": "2026-09-22T17:30:00+00:00"
-    },
-    {
-      "titulo": "Robô humanoide da XPENG “nasce” e já sai andando sozinho da fábrica",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/robo-humanoide-da-xpeng-nasce-e-ja-sai-andando-sozinho-da-fabrica/",
-      "data": "2026-09-22T17:21:07+00:00"
-    },
-    {
       "titulo": "CEO da Acer diz que falta de memória não vai durar até 2030, mas PCs podem seguir subindo de preço ainda em 2026",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/ceo-acer-falta-memoria-pcs-20-mais-caros/",
       "data": "2026-09-22T17:15:50+00:00"
-    },
-    {
-      "titulo": "Atualização faz emulador do PS3 rodar 37% melhor; Gran Turismo atinge 150 FPS",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/atualizacao-faz-emulador-do-ps3-rodar-37-melhor-gran-turismo-atinge-150-fps/",
-      "data": "2026-09-22T17:14:00+00:00"
-    },
-    {
-      "titulo": "LibreOffice 26.8 lida melhor com gráficos do Microsoft Office (mas sem exibi-los)",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/libreoffice-26-8-lida-melhor-com-graficos-do-microsoft-office-mas-sem-exibi-los/",
-      "data": "2026-09-22T17:11:18+00:00"
-    },
-    {
-      "titulo": "WhatsApp libera repost de Stories e Reels do Instagram no Status; veja como funciona",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/whatsapp-libera-repost-de-stories-e-reels-do-instagram-no-status-veja-como-funciona/",
-      "data": "2026-09-22T17:06:00+00:00"
     },
     {
       "titulo": "Microsoft patenteia ideia que faz jogador assistir anúncio para continuar jogando",
@@ -98,22 +122,10 @@
       "data": "2026-09-22T16:15:48+00:00"
     },
     {
-      "titulo": "Vivo e TIM estão em pé de guerra por causa do telemarketing",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/vivo-e-tim-estao-em-pe-de-guerra-por-causa-do-telemarketing/",
-      "data": "2026-09-22T16:04:29+00:00"
-    },
-    {
       "titulo": "“Esses caras são chatos pra caramba”: homem reclama de quem recomenda Linux para qualquer problema no Windows",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/homem-reclama-recomendam-linux-problemas-windows/",
       "data": "2026-09-22T16:03:56+00:00"
-    },
-    {
-      "titulo": "iPhone 18 Pro: falha no Face ID faz smartphones reiniciarem sozinhos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/iphone-18-pro-falha-no-face-id-faz-smartphones-reiniciarem-sozinhos/",
-      "data": "2026-09-22T15:19:20+00:00"
     },
     {
       "titulo": "C6K de 55 polegadas: Uma das TVs Mini LED mais elogiadas da TCL está com 19% de desconto",
@@ -122,22 +134,10 @@
       "data": "2026-09-22T15:00:21+00:00"
     },
     {
-      "titulo": "Microsoft anuncia demissões no Xbox e pode fechar estúdio",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/microsoft-anuncia-demissoes-no-xbox-e-pode-fechar-estudio/",
-      "data": "2026-09-22T14:46:26+00:00"
-    },
-    {
       "titulo": "Jogos de tabuleiro para o Dia das Crianças com descontos imperdíveis na Amazon",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/jogos-de-tabuleiro-para-o-dia-das-criancas-com-descontos-imperdiveis-na-amazon/",
       "data": "2026-09-22T14:34:27+00:00"
-    },
-    {
-      "titulo": "WhatsApp testa atalho para compartilhar mídias do Instagram e Facebook",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/whatsapp-testa-atalho-para-compartilhar-midias-do-instagram-e-facebook/",
-      "data": "2026-09-22T14:31:48+00:00"
     },
     {
       "titulo": "Relembre: Essa GeForce GTX 275 com o Coringa estampado escondia duas GPUs diferentes",
