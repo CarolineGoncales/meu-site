@@ -1,6 +1,54 @@
 {
-  "atualizado_em": "2026-09-22T06:24:19.666144+00:00",
+  "atualizado_em": "2026-09-22T11:53:36.012024+00:00",
   "noticias": [
+    {
+      "titulo": "Xiaomi lança geladeira com espaço para leite materno e até cosméticos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/xiaomi-lanca-geladeira-com-espaco-para-leite-materno-e-ate-cosmeticos/",
+      "data": "2026-09-22T11:25:52+00:00"
+    },
+    {
+      "titulo": "GPT-6 Astra decifra código secreto da 1ª Guerra após 108 anos; entenda o feito",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gpt-6-astra-decifra-codigo-secreto-da-1-guerra-apos-108-anos-entenda-o-feito/",
+      "data": "2026-09-22T11:01:01+00:00"
+    },
+    {
+      "titulo": "Mistura de Arquivo X com Lost: série cult de ficção científica bomba no Prime Video",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/mistura-de-arquivo-x-com-lost-serie-cult-de-ficcao-cientifica-bomba-no-prime-video/",
+      "data": "2026-09-22T11:01:00+00:00"
+    },
+    {
+      "titulo": "Fim dos flanelinhas? STF decide se prefeituras podem proibir e multar atividade nas ruas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/fim-dos-flanelinhas-stf-decide-se-prefeituras-podem-proibir-e-multar-atividade-nas-ruas/",
+      "data": "2026-09-22T10:59:49+00:00"
+    },
+    {
+      "titulo": "Nova função contra roubo de iPhone aparece no beta do iOS",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/nova-funcao-contra-roubo-de-iphone-aparece-no-beta-do-ios/",
+      "data": "2026-09-22T10:23:54+00:00"
+    },
+    {
+      "titulo": "Medo da IA no Brasil supera média global, diz pesquisa",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/medo-da-ia-no-brasil-supera-media-global-diz-pesquisa/",
+      "data": "2026-09-22T10:18:44+00:00"
+    },
+    {
+      "titulo": "Austrália bane óculos inteligentes de locais públicos por medo de gravações",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/australia-bane-oculos-inteligentes-de-locais-publicos-por-medo-de-gravacoes/",
+      "data": "2026-09-22T10:05:39+00:00"
+    },
+    {
+      "titulo": "Câmera de 200 MP e áudio premium: Motorola mostra Signature 27 pela 1ª vez",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/camera-de-200-mp-e-audio-premium-motorola-mostra-celular-top-pela-1-vez/",
+      "data": "2026-09-22T09:45:00+00:00"
+    },
     {
       "titulo": "AMD entra para clube do US$ 1 trilhão e deixa rival Intel para trás; como isso aconteceu?",
       "fonte": "Canaltech",
@@ -14,46 +62,10 @@
       "data": "2026-09-21T23:01:00+00:00"
     },
     {
-      "titulo": "Quem matou AQUELE personagem em Lanternas? Veja os 8 principais suspeitos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/quem-matou-aquele-personagem-em-lanternas-veja-os-8-principais-suspeitos/",
-      "data": "2026-09-21T22:52:00+00:00"
-    },
-    {
-      "titulo": "Quais celulares Galaxy receberão novos recursos de IA da One UI 9?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/quais-celulares-galaxy-receberao-novos-recursos-de-ia-da-one-ui-9/",
-      "data": "2026-09-21T22:02:01+00:00"
-    },
-    {
-      "titulo": "Ted Bundy ou Green River? Os 4 criminosos que disputam a 5ª temporada de Monstro na Netflix",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/ted-bundy-ou-green-river-os-4-criminosos-que-disputam-a-5-temporada-de-monster-na-netflix/",
-      "data": "2026-09-21T22:02:00+00:00"
-    },
-    {
-      "titulo": "Review Silent Hill: Townfall | Clima macabro na medida sem apelar para sustos fáceis",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/review-silent-hill-townfall/",
-      "data": "2026-09-21T21:33:00+00:00"
-    },
-    {
       "titulo": "Galaxy Buds 4 tem funções avançadas e está 38% mais barato no Mercado Livre",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-buds-4-tem-funcoes-avancadas-e-esta-38-mais-barato-no-mercado-livre/",
       "data": "2026-09-21T21:24:55+00:00"
-    },
-    {
-      "titulo": "Chega de áudio: WhatsApp testa função que transforma voz em texto antes de enviar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/chega-de-audio-whatsapp-testa-funcao-que-transforma-voz-em-texto-antes-de-enviar/",
-      "data": "2026-09-21T21:06:00+00:00"
-    },
-    {
-      "titulo": "Razer anuncia lançamento do teclado \"monstro\" Tartarus V2 Pro no Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/razer-anuncia-lancamento-do-teclado-monstro-tartarus-v2-pro-no-brasil/",
-      "data": "2026-09-21T20:58:00+00:00"
     },
     {
       "titulo": "Galaxy Tab S11 Ultra para desenho cai 35% no Mercado Livre",
@@ -84,18 +96,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/amazon-bloqueia-agente-de-ia-da-meta-que-faz-compras-sozinho/",
       "data": "2026-09-21T18:50:39+00:00"
-    },
-    {
-      "titulo": "AMD rompe barreira do US$ 1 trilhão e deixa Intel para trás",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/amd-rompe-barreira-do-us-1-trilhao-e-deixa-intel-para-tras/",
-      "data": "2026-09-21T18:35:43+00:00"
-    },
-    {
-      "titulo": "Motorola Edge 70 Pro com câmeras de 50 MP recebe cupom em promoção",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-pro-com-cameras-de-50-mp-recebe-cupom-em-promocao/",
-      "data": "2026-09-21T18:26:21+00:00"
     },
     {
       "titulo": "As três rotas que levam chips de IA da NVIDIA à China apesar das restrições dos EUA",
