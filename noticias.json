@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-09-21T22:53:59.713043+00:00",
+  "atualizado_em": "2026-09-22T01:19:26.296076+00:00",
   "noticias": [
+    {
+      "titulo": "AMD entra para clube do US$ 1 trilhão e deixa rival Intel para trás; como isso aconteceu?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/amd-entra-para-clube-do-us-1-trilhao-e-deixa-rival-intel-para-tras-como-isso-aconteceu/",
+      "data": "2026-09-22T00:01:00+00:00"
+    },
+    {
+      "titulo": "Amazon proíbe nova IA da Meta de fazer compras em seu site; entenda o porquê",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/amazon-proibe-nova-ia-da-meta-de-fazer-compras-em-seu-site-entenda-o-porque/",
+      "data": "2026-09-21T23:01:00+00:00"
+    },
     {
       "titulo": "Quem matou AQUELE personagem em Lanternas? Veja os 8 principais suspeitos",
       "fonte": "Canaltech",
@@ -44,22 +56,10 @@
       "data": "2026-09-21T20:58:00+00:00"
     },
     {
-      "titulo": "Meta vai construir cabo submarino gigante que transmite 1 petabit por segundo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/meta-vai-construir-cabo-submarino-gigante-que-transmite-1-petabit-por-segundo/",
-      "data": "2026-09-21T20:41:17+00:00"
-    },
-    {
       "titulo": "Galaxy Tab S11 Ultra para desenho cai 35% no Mercado Livre",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-tab-s11-ultra-para-desenho-cai-35-no-mercado-livre/",
       "data": "2026-09-21T20:35:52+00:00"
-    },
-    {
-      "titulo": "Apple prepara rival do Echo Show com Siri AI e reconhecimento de usuários",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/apple-prepara-rival-do-echo-show-com-siri-ai-e-reconhecimento-de-usuarios/",
-      "data": "2026-09-21T20:23:25+00:00"
     },
     {
       "titulo": "Estatal italiana assume o controle indireto da TIM. O que muda no Brasil?",
@@ -144,6 +144,42 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/servidor-ia-duas-nvidia-a100-qwen-180b/",
       "data": "2026-09-21T14:30:23+00:00"
+    },
+    {
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
