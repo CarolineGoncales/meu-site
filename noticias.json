@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-09-23T05:20:13.272294+00:00",
+  "atualizado_em": "2026-09-23T10:09:20.315628+00:00",
   "noticias": [
+    {
+      "titulo": "Apple lança fones com almofadas trocáveis e bateria de 32 horas por R$ 1.800",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/fone-de-ouvido/apple-lanca-fones-com-almofadas-trocaveis-e-bateria-de-32-horas-por-r-1800/",
+      "data": "2026-09-23T09:55:39+00:00"
+    },
     {
       "titulo": "Adobe Premiere chega grátis ao Android com exportação em 4K sem marca d’água",
       "fonte": "Canaltech",
@@ -66,12 +72,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/airpods-pro-3-com-sensor-cardiaco-tem-a-maior-queda-de-preco-desde-julho/",
       "data": "2026-09-22T20:32:39+00:00"
-    },
-    {
-      "titulo": "LG xboom Power chega ao Brasil com 440 W e karaokê com IA",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/caixa-de-som/lg-xboom-power-chega-ao-brasil-com-440-w-e-karaoke-com-ia/",
-      "data": "2026-09-22T20:30:02+00:00"
     },
     {
       "titulo": "Perfil perdeu alcance? X agora vai te mostrar o motivo",
@@ -144,6 +144,42 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/relembre-essa-geforce-gtx-275-com-o-coringa-estampado-escondia-duas-gpus-diferentes/",
       "data": "2026-09-22T14:30:56+00:00"
+    },
+    {
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
