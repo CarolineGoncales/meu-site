@@ -1,29 +1,95 @@
 {
-  "atualizado_em": "2026-09-23T19:07:55.982486+00:00",
+  "atualizado_em": "2026-09-23T22:23:30.592390+00:00",
   "noticias": [
+    {
+      "titulo": "Smart TV LG QNED73 de 50” está em oferta com 46% OFF no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned73-de-50-esta-em-oferta-com-46-off-no-mercado-livre/",
+      "data": "2026-09-23T21:17:25+00:00"
+    },
+    {
+      "titulo": "Spotify \"abre\" algoritmo e deixa você mudar recomendações no app",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/spotify-abre-algoritmo-e-deixa-voce-mudar-recomendacoes-no-app/",
+      "data": "2026-09-23T21:06:00+00:00"
+    },
+    {
+      "titulo": "Justiceiro vs Predador: Marvel promete \"toneladas de sangue\" em embate mortal",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/justiceiro-vs-predador-marvel-promete-toneladas-de-sangue-em-embate-mortal/",
+      "data": "2026-09-23T20:56:00+00:00"
+    },
+    {
+      "titulo": "TV QLED Samsung 50″ com Vision AI fica mais de R$ 1 mil mais barata",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/tv-qled-samsung-50-com-vision-ai-fica-mais-de-r-1-mil-mais-barata/",
+      "data": "2026-09-23T20:37:57+00:00"
+    },
+    {
+      "titulo": "Moto G86 5G cai 42% pra quem quer câmera boa sem pagar muito",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/moto-g86-5g-cai-42-pra-quem-quer-camera-boa-sem-pagar-muito/",
+      "data": "2026-09-23T20:34:26+00:00"
+    },
+    {
+      "titulo": "SportyNet chega à Oi TV com futebol 24 horas e pacote extra de canais",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/sportynet-chega-a-oi-tv-com-futebol-24-horas-e-pacote-extra-de-canais/",
+      "data": "2026-09-23T20:31:29+00:00"
+    },
+    {
+      "titulo": "Nubank acaba com mais um benefício gratuito",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/nubank-acaba-com-mais-um-beneficio-gratuito/",
+      "data": "2026-09-23T20:25:52+00:00"
+    },
+    {
+      "titulo": "\"Mãozinha da Família Addams\" vira realidade e pode segurar objetos sozinha; veja",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/maozinha-da-familia-addams-vira-realidade-e-pode-segurar-objetos-sozinha-veja/",
+      "data": "2026-09-23T20:23:37+00:00"
+    },
+    {
+      "titulo": "Qual é a data de lançamento One UI 9.0 para os celulares Galaxy?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/qual-e-a-data-de-lancamento-one-ui-90-para-os-celulares-galaxy/",
+      "data": "2026-09-23T20:15:22+00:00"
+    },
+    {
+      "titulo": "Geladeiras smart da Samsung estragam alimentos após falha de atualização",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/geladeiras-smart-da-samsung-estragam-alimentos-apos-atualizacao-errada/",
+      "data": "2026-09-23T20:05:40+00:00"
+    },
+    {
+      "titulo": "A melhor série de terror da história da TV tem só 2 temporadas, segundo Stephen King",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/a-melhor-serie-de-terror-da-historia-da-tv-tem-so-2-temporadas-segundo-stephen-king/",
+      "data": "2026-09-23T20:04:00+00:00"
+    },
+    {
+      "titulo": "Hyundai derruba preço do HB20 e hatch sai mais em conta que VW Polo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/hyundai-derruba-preco-do-hb20-e-hatch-sai-mais-em-conta-que-vw-polo/",
+      "data": "2026-09-23T20:00:02+00:00"
+    },
+    {
+      "titulo": "Novo Snapdragon abre caminho para fones com câmera, tradução em tempo real e IA",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/fone-de-ouvido/novo-snapdragon-abre-caminho-para-fones-com-camera-traducao-em-tempo-real-e-ia/",
+      "data": "2026-09-23T19:50:04+00:00"
+    },
+    {
+      "titulo": "Raspberry Pi irrita usuários ao bloquear upgrade de memória RAM",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/raspberry-pi-irrita-usuarios-ao-bloquear-upgrade-de-memoria-ram/",
+      "data": "2026-09-23T19:42:46+00:00"
+    },
     {
       "titulo": "Oi diz ter R$ 0,01 em caixa e não sabe quando pagará ex-funcionários",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/oi-diz-ter-r-001-em-caixa-e-nao-sabe-quando-pagara-ex-funcionarios/",
       "data": "2026-09-23T19:04:06+00:00"
-    },
-    {
-      "titulo": "Tela magnética grava vídeos e faz selfies com a câmera traseira do celular",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/tela-magnetica-grava-videos-e-faz-selfies-com-a-camera-traseira-do-celular/",
-      "data": "2026-09-23T18:30:02+00:00"
-    },
-    {
-      "titulo": "Logitech lança mouse PRO X3 Superstrike e novos periféricos no Brasil; veja preços",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/logitech-lanca-mouse-pro-x3-superstrike-e-novos-perifericos-no-brasil-veja-precos/",
-      "data": "2026-09-23T18:30:00+00:00"
-    },
-    {
-      "titulo": "Edifier cria caixa de som retrô que dura até 30 horas longe da tomada",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/caixa-de-som/edifier-cria-caixa-de-som-retro-que-dura-ate-30-horas-longe-da-tomada/",
-      "data": "2026-09-23T18:22:21+00:00"
     },
     {
       "titulo": "Motorola Edge 70 Fusion Plus tem queda histórica de preço no Magalu",
@@ -32,70 +98,16 @@
       "data": "2026-09-23T18:11:18+00:00"
     },
     {
-      "titulo": "Samsung quer consertar limitações de apps que não conseguem barrar spam",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/samsung-quer-consertar-limitacoes-de-apps-que-nao-conseguem-barrar-spam/",
-      "data": "2026-09-23T18:09:00+00:00"
-    },
-    {
-      "titulo": "9 filmes para assistir antes de Vingadores Ultimato: Encore",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/9-filmes-para-assistir-antes-de-vingadores-ultimato-encore/",
-      "data": "2026-09-23T18:02:00+00:00"
-    },
-    {
-      "titulo": "Celular da Xiaomi ganha design vermelho transparente que mostra até “entranhas”",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celular-da-xiaomi-ganha-design-vermelho-transparente-que-mostra-ate-entranhas/",
-      "data": "2026-09-23T17:39:08+00:00"
-    },
-    {
-      "titulo": "Quem é Jensen Huang? Conheça a história do CEO da Nvidia",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/quem-e-jensen-huang-conheca-a-historia-do-ceo-da-nvidia/",
-      "data": "2026-09-23T17:34:37+00:00"
-    },
-    {
-      "titulo": "Samsung é investigada na Índia por pagamento de imposto em TVs OLED",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/samsung-e-investigada-na-india-por-pagamento-de-imposto-em-tvs-oled/",
-      "data": "2026-09-23T17:33:29+00:00"
-    },
-    {
-      "titulo": "Gasolina sem etanol? Entenda o Projeto de Lei que quer mudar o combustível",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/gasolina-sem-etanol-entenda-o-projeto-de-lei-que-quer-mudar-o-combustivel/",
-      "data": "2026-09-23T17:30:01+00:00"
-    },
-    {
       "titulo": "Micron encerra GDDR7 de 2 GB usada nas GeForce RTX 50 e deixa NVIDIA com menos fornecedores",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/micron-encerra-gddr7-2gb-geforce-rtx-50/",
       "data": "2026-09-23T16:52:44+00:00"
     },
     {
-      "titulo": "Notebook Acer Aspire Go 15 com 16 GB de RAM tem promoção em 10x sem juros",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/notebook-acer-aspire-go-15-com-16-gb-de-ram-tem-promocao-em-10x-sem-juros/",
-      "data": "2026-09-23T16:51:32+00:00"
-    },
-    {
-      "titulo": "Vendas de óculos com IA disparam 263% em um ano",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/vendas-de-oculos-com-ia-disparam-263-em-um-ano/",
-      "data": "2026-09-23T16:49:10+00:00"
-    },
-    {
       "titulo": "Novo Snapdragon roda modelos de IA de até 30 bilhões de parâmetros direto no celular",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/snapdragon-8-elite-gen-6-ia-30-bilhoes-parametros/",
       "data": "2026-09-23T16:39:41+00:00"
-    },
-    {
-      "titulo": "ChatGPT continua líder, mas perde espaço para Gemini e Claude",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/chatgpt-continua-lider-mas-perde-espaco-para-gemini-e-claude/",
-      "data": "2026-09-23T16:39:19+00:00"
     },
     {
       "titulo": "Justiça brasileira manda Apple reforçar verificação de idade para apps de cassino na App Store",
@@ -108,18 +120,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/ia-prejudica-usuarios-sinal-semelhante-dor-estudo/",
       "data": "2026-09-23T16:02:26+00:00"
-    },
-    {
-      "titulo": "Primeiro telefone com três câmeras de 200 MP já pode ser vendido no Brasil",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/primeiro-telefone-com-tres-cameras-de-200-mp-ja-pode-ser-vendido-no-brasil/",
-      "data": "2026-09-23T15:44:30+00:00"
-    },
-    {
-      "titulo": "WhatsApp banido: reclamações sobre contas bloqueadas sobem 152%",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/whatsapp-banido-reclamacoes-sobre-bloqueios-de-contas-sobem-152/",
-      "data": "2026-09-23T15:42:20+00:00"
     },
     {
       "titulo": "Xiaomi 18 Pro chega com novo Snapdragon, bateria de 7.000 mAh e câmeras de 200 MP",
@@ -144,42 +144,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/mouse-logitech-lift-vertical-com-23-de-desconto-alivio-para-os-pulsos-e-mais-conforto-no-dia-a-dia/",
       "data": "2026-09-23T13:30:12+00:00"
-    },
-    {
-      "titulo": "Ataque hacker expõe dados de quase 9 milhões de passageiros de três aeroportos do Reino Unido",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/seguranca/415617-ataque-hacker-expoe-dados-de-quase-9-milhoes-de-passageiros-de-tres-aeroportos-do-reino-unido.htm",
-      "data": "2026-08-28T12:00:00+00:00"
-    },
-    {
-      "titulo": "10 filmes e séries de peso para ver na Netflix no fim de semana (28)! Veja indicações",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604519-10-filmes-e-series-de-peso-para-ver-na-netflix-no-fim-de-semana-28-veja-indicacoes.htm",
-      "data": "2026-08-28T11:45:00+00:00"
-    },
-    {
-      "titulo": "Fones de ouvido premium: quando e em quais modelos vale a pena pagar mais",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/guia-de-compras/415597-fones-de-ouvido-premium-quando-e-em-quais-modelos-vale-a-pena-pagar-mais.htm",
-      "data": "2026-08-28T11:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung lança monitor gamer com taxa de atualização absurda de 1.100 Hz",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415614-samsung-lanca-monitor-gamer-com-taxa-de-atualizacao-absurda-de-1100-hz.htm",
-      "data": "2026-08-28T11:00:00+00:00"
-    },
-    {
-      "titulo": "O que é GPMI? Conheça o cabo chinês que pode substituir o HDMI",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415273-o-que-e-gpmi-conheca-o-cabo-chines-que-pode-substituir-o-hdmi.htm",
-      "data": "2026-08-28T10:15:00+00:00"
-    },
-    {
-      "titulo": "Startup relança site Twitter como rede social, mas por enquanto com acesso pago",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/redes-sociais/415613-startup-relanca-site-twitter-como-rede-social-mas-por-enquanto-com-acesso-pago.htm",
-      "data": "2026-08-28T10:00:00+00:00"
     }
   ]
 }
