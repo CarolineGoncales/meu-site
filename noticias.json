@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-09-22T22:20:12.633013+00:00",
+  "atualizado_em": "2026-09-23T00:45:29.329362+00:00",
   "noticias": [
+    {
+      "titulo": "Adobe Premiere chega grátis ao Android com exportação em 4K sem marca d’água",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/adobe-premiere-chega-gratis-ao-android-com-exportacao-em-4k-sem-marca-dagua/",
+      "data": "2026-09-23T00:01:00+00:00"
+    },
+    {
+      "titulo": "OpenAI lança GPT-6 Sol e Luna com menos erros pela metade do preço",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-sol-e-luna-com-menos-erros-pela-metade-do-preco/",
+      "data": "2026-09-22T23:06:00+00:00"
+    },
     {
       "titulo": "Sony testa recurso no PS5 que 'devolve' dinheiro na compra de jogos",
       "fonte": "Canaltech",
@@ -62,22 +74,10 @@
       "data": "2026-09-22T20:30:02+00:00"
     },
     {
-      "titulo": "Harman aposta no luxo e lança caixas de som de até R$ 220 mil no Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/caixa-de-som/harman-aposta-no-luxo-e-lanca-caixas-de-som-de-ate-r-220-mil-no-brasil/",
-      "data": "2026-09-22T20:10:53+00:00"
-    },
-    {
       "titulo": "Perfil perdeu alcance? X agora vai te mostrar o motivo",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/perfil-perdeu-alcance-x-agora-vai-te-mostrar-o-motivo/",
       "data": "2026-09-22T20:05:22+00:00"
-    },
-    {
-      "titulo": "VW derruba preços do T-Cross e SUV sai mais em conta que Nissan Kicks",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/vw-derruba-precos-do-t-cross-e-suv-sai-mais-em-conta-que-nissan-kicks/",
-      "data": "2026-09-22T20:05:04+00:00"
     },
     {
       "titulo": "Galaxy Tab S10 Lite (256 GB) com S Pen fica mais barato na Magalu",
