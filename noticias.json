@@ -1,101 +1,101 @@
 {
-  "atualizado_em": "2026-09-23T10:09:20.315628+00:00",
+  "atualizado_em": "2026-09-23T15:06:54.859806+00:00",
   "noticias": [
     {
-      "titulo": "Apple lança fones com almofadas trocáveis e bateria de 32 horas por R$ 1.800",
+      "titulo": "Spotify está prestes a resolver um problema antigo: o quanto come seu armazenamento",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/fone-de-ouvido/apple-lanca-fones-com-almofadas-trocaveis-e-bateria-de-32-horas-por-r-1800/",
-      "data": "2026-09-23T09:55:39+00:00"
+      "link": "https://canaltech.com.br/apps/spotify-esta-prestes-a-resolver-um-problema-antigo-o-quanto-come-seu-armazenamento/",
+      "data": "2026-09-23T15:06:00+00:00"
     },
     {
-      "titulo": "Adobe Premiere chega grátis ao Android com exportação em 4K sem marca d’água",
+      "titulo": "Habeas Corpus: Drama jurídico brasileiro inspirado em casos reais estreia na Netflix",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/adobe-premiere-chega-gratis-ao-android-com-exportacao-em-4k-sem-marca-dagua/",
-      "data": "2026-09-23T00:01:00+00:00"
+      "link": "https://canaltech.com.br/entretenimento/habeas-corpus-drama-juridico-brasileiro-inspirado-em-casos-reais-estreia-na-netflix/",
+      "data": "2026-09-23T15:01:00+00:00"
     },
     {
-      "titulo": "OpenAI lança GPT-6 Sol e Luna com menos erros pela metade do preço",
+      "titulo": "Galaxy Watch Ultra suporta sensores do Watch Ultra 2 e tem 63% OFF na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-suporta-sensores-do-watch-ultra-2-e-tem-63-off-na-amazon/",
+      "data": "2026-09-23T14:44:30+00:00"
+    },
+    {
+      "titulo": "Governo quer investigar IAs de \"companhia\" para crianças por risco de dependência",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-sol-e-luna-com-menos-erros-pela-metade-do-preco/",
-      "data": "2026-09-22T23:06:00+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/governo-quer-investigar-ias-de-companhia-para-criancas-por-risco-de-dependencia/",
+      "data": "2026-09-23T14:32:00+00:00"
     },
     {
-      "titulo": "Sony testa recurso no PS5 que 'devolve' dinheiro na compra de jogos",
+      "titulo": "YouTube vai deixar você criar feeds próprios na página inicial",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/youtube-vai-deixar-voce-criar-feeds-proprios-na-pagina-inicial/",
+      "data": "2026-09-23T14:30:00+00:00"
+    },
+    {
+      "titulo": "Como recuperar um SSD corrompido (guia prático)",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/publieditoriais/como-recuperar-um-ssd-corrompido-guia-pratico/",
+      "data": "2026-09-23T14:20:00+00:00"
+    },
+    {
+      "titulo": "Bancos alertam para perigos de deixar IA fazer compras por você; veja os riscos",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/sony-testa-recurso-no-ps5-que-devolve-dinheiro-na-compra-de-jogos/",
-      "data": "2026-09-22T22:19:00+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/bancos-alertam-para-perigos-de-deixar-ia-fazer-compras-por-voce-veja-os-riscos/",
+      "data": "2026-09-23T14:02:00+00:00"
     },
     {
-      "titulo": "Não deixe para domingo: e-Título deve ser baixado e ativado até sábado antes da eleição",
+      "titulo": "Toy Story 5 chega ao Disney+ com disputa entre brinquedos e tecnologia",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/nao-deixe-para-domingo-e-titulo-deve-ser-baixado-e-ativado-ate-sabado-antes-da-eleicao/",
-      "data": "2026-09-22T22:03:00+00:00"
+      "link": "https://canaltech.com.br/entretenimento/toy-story-5-chega-ao-disney-com-disputa-entre-brinquedos-e-tecnologia/",
+      "data": "2026-09-23T14:02:00+00:00"
     },
     {
-      "titulo": "Sequência de Superman vai focar em quem é Lex Luthor e aliança do vilão com herói",
+      "titulo": "Entenda como o corte de um único cabo de fibra óptica parou aeroportos nos EUA",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/sequencia-de-superman-vai-focar-em-quem-e-lex-luthor-e-alianca-do-vilao-com-heroi/",
-      "data": "2026-09-22T21:33:00+00:00"
+      "link": "https://canaltech.com.br/carros/entenda-como-o-corte-de-um-unico-cabo-de-fibra-optica-parou-aeroportos-nos-eua/",
+      "data": "2026-09-23T14:00:00+00:00"
     },
     {
-      "titulo": "Motorola mostra o Signature 27, com Snapdragon Extreme e câmera periscópica de 200 MP",
+      "titulo": "Motorola Edge 70 (256 GB) tem 54% OFF na melhor oferta desde julho",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/motorola-mostra-o-signature-27-com-snapdragon-extreme-e-camera-periscopica-de-200-mp/",
-      "data": "2026-09-22T21:13:01+00:00"
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-256-gb-tem-54-off-na-melhor-oferta-desde-julho/",
+      "data": "2026-09-23T13:59:31+00:00"
     },
     {
-      "titulo": "Samsung Notes passa a avisar quando texto é criado por IA; veja como será",
+      "titulo": "Depois das demissões, o que restou do Xbox Game Studios?",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/samsung-notes-passa-a-avisar-quando-texto-e-criado-por-ia-veja-como-sera/",
-      "data": "2026-09-22T21:04:00+00:00"
+      "link": "https://canaltech.com.br/games/depois-das-demissoes-o-que-restou-do-xbox-game-studios/",
+      "data": "2026-09-23T13:30:02+00:00"
     },
     {
-      "titulo": "Googlebooks vs Chromebooks: 6 diferenças entre os notebooks do Google",
+      "titulo": "OpenAI expande GPT-6 com modelos Sol e Luna; vejas as diferenças",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/openai-expande-gpt-6-com-modelos-sol-e-luna-vejas-as-diferencas/",
+      "data": "2026-09-23T13:26:37+00:00"
+    },
+    {
+      "titulo": "Claude lança Opus 5.5 e derruba conta em 31%; veja dicas para economizar tokens",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/googlebooks-vs-chromebooks-6-diferencas-entre-os-notebooks-do-google/",
-      "data": "2026-09-22T20:54:00+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-lanca-opus-55-e-derruba-conta-em-31-veja-dicas-para-economizar-tokens/",
+      "data": "2026-09-23T13:05:01+00:00"
     },
     {
-      "titulo": "Apple pensa em lançar pulseira fitness sem tela",
+      "titulo": "Programa de pontos do Nubank estreia níveis, sorteios e descontos",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/apple-pensa-em-lancar-pulseira-fitness-sem-tela/",
-      "data": "2026-09-22T20:38:25+00:00"
+      "link": "https://tecnoblog.net/noticias/programa-de-pontos-do-nubank-estreia-niveis-sorteios-e-descontos/",
+      "data": "2026-09-23T13:00:00+00:00"
     },
     {
-      "titulo": "Como traçar rotas ponto a ponto no Google Maps (a pé ou com veículos)",
+      "titulo": "Meta colocou seres humanos para concluírem tarefas de agentes de IA",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/como-criar-rotas-no-google-maps-pc-e-celular/",
-      "data": "2026-09-22T20:36:47+00:00"
+      "link": "https://tecnoblog.net/noticias/meta-colocou-seres-humanos-para-concluirem-tarefas-de-agentes-de-ia/",
+      "data": "2026-09-23T10:24:23+00:00"
     },
     {
-      "titulo": "AirPods Pro 3 com sensor cardíaco tem a maior queda de preço desde julho",
+      "titulo": "Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/airpods-pro-3-com-sensor-cardiaco-tem-a-maior-queda-de-preco-desde-julho/",
-      "data": "2026-09-22T20:32:39+00:00"
-    },
-    {
-      "titulo": "Perfil perdeu alcance? X agora vai te mostrar o motivo",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/perfil-perdeu-alcance-x-agora-vai-te-mostrar-o-motivo/",
-      "data": "2026-09-22T20:05:22+00:00"
-    },
-    {
-      "titulo": "Galaxy Tab S10 Lite (256 GB) com S Pen fica mais barato na Magalu",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-256-gb-com-s-pen-fica-mais-barato-na-magalu/",
-      "data": "2026-09-22T18:24:38+00:00"
-    },
-    {
-      "titulo": "Galaxy A57 (256 GB) atinge 48% OFF com cupom na melhor oferta já registrada",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-a57-256-gb-atinge-48-off-com-cupom-na-melhor-oferta-ja-registrada/",
-      "data": "2026-09-22T17:34:15+00:00"
-    },
-    {
-      "titulo": "Xiaomi afunda 34% no Brasil após crise de componentes",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/xiaomi-afunda-34-no-brasil-apos-crise-de-componentes/",
-      "data": "2026-09-22T17:32:07+00:00"
+      "link": "https://tecnoblog.net/noticias/anthropic-anuncia-novo-claude-opus-5-5-com-capacidade-ainda-maior/",
+      "data": "2026-09-23T10:13:42+00:00"
     },
     {
       "titulo": "CEO da Acer diz que falta de memória não vai durar até 2030, mas PCs podem seguir subindo de preço ainda em 2026",
