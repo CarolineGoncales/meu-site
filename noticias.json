@@ -1,17 +1,95 @@
 {
-  "atualizado_em": "2026-09-24T19:33:31.980622+00:00",
+  "atualizado_em": "2026-09-24T22:46:32.821291+00:00",
   "noticias": [
     {
-      "titulo": "Veterano da Microsoft lamenta “fim” da barra de rolagem clássica do Windows",
+      "titulo": "Melhor MacBook em 2026: qual modelo comprar?",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/veterano-da-microsoft-lamenta-fim-da-barra-de-rolagem-classica-do-windows/",
-      "data": "2026-09-24T19:29:31+00:00"
+      "link": "https://tecnoblog.net/guias/melhor-macbook/",
+      "data": "2026-09-24T22:40:35+00:00"
     },
     {
-      "titulo": "Gmail troca cor de estrelas e marcadores na versão web",
+      "titulo": "Melhor notebook até R$ 2.000: 5 modelos para comprar em 2026",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/gmail-troca-cor-de-estrelas-e-marcadores-na-versao-web/",
-      "data": "2026-09-24T19:19:03+00:00"
+      "link": "https://tecnoblog.net/guias/melhor-notebook-ate-2000-reais/",
+      "data": "2026-09-24T22:27:35+00:00"
+    },
+    {
+      "titulo": "Huawei Watch GT 6 para ciclismo sai quase pela metade do preço com cupom",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/huawei-watch-gt-6-para-ciclismo-sai-quase-pela-metade-do-preco-com-cupom/",
+      "data": "2026-09-24T21:35:47+00:00"
+    },
+    {
+      "titulo": "Como recuperar a senha do aplicativo e-Título",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/como-recuperar-a-senha-do-aplicativo-e-titulo/",
+      "data": "2026-09-24T21:18:07+00:00"
+    },
+    {
+      "titulo": "Garmin Forerunner 965 com GPS e mapas coloridos tem desconto agressivo",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/garmin-forerunner-965-com-gps-e-mapas-coloridos-tem-desconto-agressivo/",
+      "data": "2026-09-24T21:15:44+00:00"
+    },
+    {
+      "titulo": "WhatsApp testa lembretes de aniversário para você não passar vergonha",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/whatsapp-testa-lembretes-de-aniversario-para-voce-nao-passar-vergonha/",
+      "data": "2026-09-24T21:08:00+00:00"
+    },
+    {
+      "titulo": "IA do Google vai fazer ligações por você",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/ia-do-google-vai-fazer-ligacoes-por-voce/",
+      "data": "2026-09-24T20:56:45+00:00"
+    },
+    {
+      "titulo": "Casio lança relógio de luxo com platina de verdade por R$ 35 mil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartwatch/casio-lanca-relogio-de-luxo-com-platina-de-verdade-por-r-35-mil/",
+      "data": "2026-09-24T20:52:09+00:00"
+    },
+    {
+      "titulo": "Japão vende livros por tonelada; compra pode abastecer IAs nos EUA",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/livros-sao-comprados-por-tonelada-no-japao-destino-pode-ser-ias-nos-eua/",
+      "data": "2026-09-24T20:48:46+00:00"
+    },
+    {
+      "titulo": "O que falta para o Google construir um novo data center no Brasil?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/o-que-falta-para-o-google-construir-um-novo-data-center-no-brasil/",
+      "data": "2026-09-24T20:45:01+00:00"
+    },
+    {
+      "titulo": "Galaxy Tab S10 FE Plus cai 46% para presente de Dia das Crianças",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-cai-46-para-presente-de-dia-das-criancas/",
+      "data": "2026-09-24T20:31:25+00:00"
+    },
+    {
+      "titulo": "Hyundai derruba preços do Kona e SUV fica mais barato que Haval H6",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/hyundai-derruba-precos-do-kona-e-suv-fica-mais-barato-que-haval-h6/",
+      "data": "2026-09-24T20:05:00+00:00"
+    },
+    {
+      "titulo": "Google libera IA de criação de vídeo de graça para todo mundo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-libera-ia-de-criacao-de-video-de-graca-para-todo-mundo/",
+      "data": "2026-09-24T20:04:00+00:00"
+    },
+    {
+      "titulo": "Black Friday pode ter TVs mais caras após fabricantes chineses aumentarem preços",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tv/black-friday-pode-ter-tvs-mais-caras-apos-fabricantes-chineses-aumentarem-precos/",
+      "data": "2026-09-24T19:53:00+00:00"
+    },
+    {
+      "titulo": "Motorola Signature 27 ganha suporte a sistema Android ultrasseguro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/motorola-signature-27-ganha-suporte-a-sistema-android-ultrasseguro/",
+      "data": "2026-09-24T19:44:04+00:00"
     },
     {
       "titulo": "Xiaomi lança novo smartwatch com bateria para 14 dias",
@@ -20,82 +98,22 @@
       "data": "2026-09-24T19:06:18+00:00"
     },
     {
-      "titulo": "Como espelhar o celular no PC ou notebook",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/como-espelhar-a-tela-do-celular-no-pc/",
-      "data": "2026-09-24T19:05:54+00:00"
+      "titulo": "Piada pronta: edição de colecionador de GTA 6 custa US$ 400, não inclui o jogo e vira alvo de zoeira",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/gta-6-caixa-colecionador-400-dolares-sem-jogo/",
+      "data": "2026-09-24T17:57:22+00:00"
     },
     {
-      "titulo": "IA da OpenAI não achou o que queria, então hackeou site do governo por conta própria",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-da-openai-nao-achou-o-que-queria-entao-hackeou-site-do-governo-por-conta-propria/",
-      "data": "2026-09-24T19:03:00+00:00"
+      "titulo": "Gamer aplica DLSS 5 em L.A. Noire e se surpreende com o resultado em um jogo de 201: “impressionante”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/la-noire-dlss-5-jogo-2011-resultado-impressionante/",
+      "data": "2026-09-24T16:30:33+00:00"
     },
     {
-      "titulo": "Trailer bizarro mostra criadora da Theranos insistindo que foi injustiçada; assista",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/trailer-bizarro-mostra-criadora-da-theranos-insistindo-que-foi-injusticada-assista/",
-      "data": "2026-09-24T19:02:00+00:00"
-    },
-    {
-      "titulo": "Galaxy Tab S11 Ultra cai para R$ 6.749 com teclado e S Pen inclusos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tablet/galaxy-tab-s11-ultra-cai-para-r-6749-com-teclado-e-s-pen-inclusos/",
-      "data": "2026-09-24T18:40:39+00:00"
-    },
-    {
-      "titulo": "TV de 65\" tem ar-condicionado integrado e ainda controla a casa toda; entenda",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/tv-de-65-tem-ar-condicionado-integrado-e-ainda-controla-a-casa-toda-entenda/",
-      "data": "2026-09-24T18:17:53+00:00"
-    },
-    {
-      "titulo": "9 celulares que vão funcionar com Starlink sem antena; Lista atualizada",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/9-celulares-que-vao-funcionar-com-starlink-sem-antena-lista-atualizada/",
-      "data": "2026-09-24T18:06:56+00:00"
-    },
-    {
-      "titulo": "Gemini agora clona sua voz em 30 segundos e atua com risos e sussurros",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-agora-clona-sua-voz-em-30-segundos-e-atua-com-risos-e-sussurros/",
-      "data": "2026-09-24T18:06:00+00:00"
-    },
-    {
-      "titulo": "Review Onimusha: Way of the Sword | Um retorno quase foi triunfal",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/review-onimusha-way-of-the-sword/",
-      "data": "2026-09-24T18:00:00+00:00"
-    },
-    {
-      "titulo": "Google vai lançar satélite com IA para testar computação no espaço",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/google-vai-lancar-satelite-com-ia-para-testar-computacao-no-espaco/",
-      "data": "2026-09-24T17:11:47+00:00"
-    },
-    {
-      "titulo": "Nintendo ganha US$ 4,5 milhões em processo contra pirataria no Switch",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/nintendo-ganha-us-45-milhoes-em-processo-contra-pirataria-no-switch/",
-      "data": "2026-09-24T16:57:49+00:00"
-    },
-    {
-      "titulo": "Aproveite: Galaxy Watch 8 LTE fica 61% mais barato por até 10x sem juros",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/aproveite-galaxy-watch-8-lte-fica-61-mais-barato-por-ate-10x-sem-juros/",
-      "data": "2026-09-24T16:32:24+00:00"
-    },
-    {
-      "titulo": "Mais uma alta de preço no Disney+",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/mais-uma-alta-de-preco-no-disney/",
-      "data": "2026-09-24T16:32:11+00:00"
-    },
-    {
-      "titulo": "Moto G77 (256 GB) com ampla bateria volta a ter melhor oferta no Mercado Livre",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/moto-g77-256-gb-com-ampla-bateria-volta-a-ter-melhor-oferta-no-mercado-livre/",
-      "data": "2026-09-24T16:14:36+00:00"
+      "titulo": "Homem transforma porão em cinema particular com tela de 165 polegadas, Dolby Atmos e rack dedicado aos equipamentos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/porao-cinema-165-polegadas-dolby-atmos-rack-dedicado/",
+      "data": "2026-09-24T16:13:14+00:00"
     },
     {
       "titulo": "JBL Live Buds 3 com 45% de desconto: o fone com tela no estojo que vai muito além do básico",
@@ -126,24 +144,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/4-recursos-do-edits-do-instagram-para-editar-reels-mais-rapido/",
       "data": "2026-09-24T15:00:43+00:00"
-    },
-    {
-      "titulo": "Quem cria vídeos com IA deveria conhecer este site com 46 movimentos de câmera prontos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/site-movimentos-camera-prompts-videos-ia/",
-      "data": "2026-09-24T14:37:27+00:00"
-    },
-    {
-      "titulo": "Combo Samsung Galaxy Tab A11 + Galaxy Buds Core com 24% de desconto: produtividade e entretenimento em um só pacote",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/combo-samsung-galaxy-tab-a11-galaxy-buds-core-com-24-de-desconto-produtividade-e-entretenimento-em-um-so-pacote/",
-      "data": "2026-09-24T14:33:11+00:00"
-    },
-    {
-      "titulo": "Brasileiro transforma rede de casa em um pequeno homelab com 5 pontos Wi-Fi 7, câmeras e rack construído por ele mesmo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/brasileiro-transforma-rede-de-casa-em-um-pequeno-homelab-com-5-pontos-wi-fi-7-cameras-e-rack-construido-por-ele-mesmo/",
-      "data": "2026-09-24T14:30:24+00:00"
     }
   ]
 }
