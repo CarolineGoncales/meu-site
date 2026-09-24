@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-09-24T00:37:25.263865+00:00",
+  "atualizado_em": "2026-09-24T05:35:19.247591+00:00",
   "noticias": [
+    {
+      "titulo": "Meta revela inéditos óculos com VR e versão sem câmera",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/meta-revela-ineditos-oculos-com-vr-e-versao-sem-camera/",
+      "data": "2026-09-24T02:42:19+00:00"
+    },
     {
       "titulo": "Smart TV LG QNED73 de 50” está em oferta com 46% OFF no Mercado Livre",
       "fonte": "Tecnoblog",
@@ -86,16 +92,10 @@
       "data": "2026-09-23T19:42:46+00:00"
     },
     {
-      "titulo": "Oi diz ter R$ 0,01 em caixa e não sabe quando pagará ex-funcionários",
+      "titulo": "Oi está com a conta quase zerada e sem condições de pagar ex-funcionários",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/oi-diz-ter-r-001-em-caixa-e-nao-sabe-quando-pagara-ex-funcionarios/",
       "data": "2026-09-23T19:04:06+00:00"
-    },
-    {
-      "titulo": "Motorola Edge 70 Fusion Plus tem queda histórica de preço no Magalu",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-fusion-plus-tem-queda-historica-de-preco-no-magalu/",
-      "data": "2026-09-23T18:11:18+00:00"
     },
     {
       "titulo": "Micron encerra GDDR7 de 2 GB usada nas GeForce RTX 50 e deixa NVIDIA com menos fornecedores",
