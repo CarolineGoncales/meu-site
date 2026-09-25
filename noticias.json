@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-09-24T22:46:32.821291+00:00",
+  "atualizado_em": "2026-09-25T00:58:16.326858+00:00",
   "noticias": [
+    {
+      "titulo": "GTA 6 ganha edição de colecionador por R$ 2 mil, mas jogo não está incluso",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/gta-6-ganha-edicao-de-colecionador-por-r-2-mil-mas-o-jogo-nao-esta-incluido/",
+      "data": "2026-09-24T22:58:37+00:00"
+    },
+    {
+      "titulo": "Huawei lança Watch GT 7 e mais aparelhos no Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/huawei-lanca-watch-gt-7-e-mais-aparelhos-no-brasil/",
+      "data": "2026-09-24T22:44:25+00:00"
+    },
     {
       "titulo": "Melhor MacBook em 2026: qual modelo comprar?",
       "fonte": "Tecnoblog",
@@ -50,22 +62,10 @@
       "data": "2026-09-24T20:52:09+00:00"
     },
     {
-      "titulo": "Japão vende livros por tonelada; compra pode abastecer IAs nos EUA",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/livros-sao-comprados-por-tonelada-no-japao-destino-pode-ser-ias-nos-eua/",
-      "data": "2026-09-24T20:48:46+00:00"
-    },
-    {
       "titulo": "O que falta para o Google construir um novo data center no Brasil?",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/mercado/o-que-falta-para-o-google-construir-um-novo-data-center-no-brasil/",
       "data": "2026-09-24T20:45:01+00:00"
-    },
-    {
-      "titulo": "Galaxy Tab S10 FE Plus cai 46% para presente de Dia das Crianças",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-cai-46-para-presente-de-dia-das-criancas/",
-      "data": "2026-09-24T20:31:25+00:00"
     },
     {
       "titulo": "Hyundai derruba preços do Kona e SUV fica mais barato que Haval H6",
@@ -144,6 +144,42 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/4-recursos-do-edits-do-instagram-para-editar-reels-mais-rapido/",
       "data": "2026-09-24T15:00:43+00:00"
+    },
+    {
+      "titulo": "Phil Collins, Travis Scott e mais! Confira os artistas confirmados nas rádios de GTA 6 até agora",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/phil-collins-travis-scott-e-mais-confira-os-artistas-confirmados-nas-radios-de-gta-6-ate-agora/",
+      "data": "2026-09-16T13:15:00+00:00"
+    },
+    {
+      "titulo": "Falha no Telegram Desktop expõe histórico de conversas em arquivos exportados",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-no-telegram-desktop-expoe-historico-de-conversas-em-arquivos-exportados/",
+      "data": "2026-09-16T13:00:00+00:00"
+    },
+    {
+      "titulo": "Logitech começa a vender mouse G305 X Superlight no Brasil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/logitech-comeca-a-vender-mouse-g305-x-superlight-no-brasil/",
+      "data": "2026-09-16T12:45:00+00:00"
+    },
+    {
+      "titulo": "Fire Emblem: Fortune’s Weave melhora fórmula de seus antecessores, mas peca fora da campanha",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/fire-emblem-fortunes-weave-melhora-formula-de-seus-antecessores-mas-peca-fora-da-campanha/",
+      "data": "2026-09-16T12:00:00+00:00"
+    },
+    {
+      "titulo": "Smart TV OLED Samsung: dicas para escolher a ideal para você",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/smart-tv-oled-samsung-dicas-para-escolher-a-ideal-para-voce/",
+      "data": "2026-09-16T11:15:00+00:00"
+    },
+    {
+      "titulo": "Google lança novas IAs para busca por voz no Modo IA e no Gemini",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/google-lanca-novas-ias-para-busca-por-voz-no-modo-ia-e-no-gemini/",
+      "data": "2026-09-16T11:00:00+00:00"
     }
   ]
 }
