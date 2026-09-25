@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-09-25T05:44:26.457865+00:00",
+  "atualizado_em": "2026-09-25T10:40:49.155405+00:00",
   "noticias": [
+    {
+      "titulo": "Samsung vai lançar Galaxy Buds que se prendem na orelha; veja o design vazado",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/fone-de-ouvido/samsung-vai-lancar-galaxy-buds-que-se-prendem-na-orelha-veja-o-design-vazado/",
+      "data": "2026-09-25T10:17:18+00:00"
+    },
+    {
+      "titulo": "Truque no Android permite ler mensagens apagadas do WhatsApp; veja como",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/como-ler-mensagens-apagadas-whatsapp-android/",
+      "data": "2026-09-25T10:00:00+00:00"
+    },
+    {
+      "titulo": "Xiaomi lança câmera de visão noturna com IA que acompanha pessoas e animais",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/xiaomi-lanca-camera-de-visao-noturna-com-ia-que-acompanha-pessoas-e-animais/",
+      "data": "2026-09-25T09:38:13+00:00"
+    },
     {
       "titulo": "GTA 6 ganha edição de colecionador por R$ 2 mil, mas jogo não está incluso",
       "fonte": "Tecnoblog",
@@ -78,24 +96,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/inteligencia-artificial/google-libera-ia-de-criacao-de-video-de-graca-para-todo-mundo/",
       "data": "2026-09-24T20:04:00+00:00"
-    },
-    {
-      "titulo": "Black Friday pode ter TVs mais caras após fabricantes chineses aumentarem preços",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/black-friday-pode-ter-tvs-mais-caras-apos-fabricantes-chineses-aumentarem-precos/",
-      "data": "2026-09-24T19:53:00+00:00"
-    },
-    {
-      "titulo": "Motorola Signature 27 ganha suporte a sistema Android ultrasseguro",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/motorola-signature-27-ganha-suporte-a-sistema-android-ultrasseguro/",
-      "data": "2026-09-24T19:44:04+00:00"
-    },
-    {
-      "titulo": "Xiaomi lança novo smartwatch com bateria para 14 dias",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartwatch/xiaomi-lanca-novo-smartwatch-com-bateria-para-14-dias/",
-      "data": "2026-09-24T19:06:18+00:00"
     },
     {
       "titulo": "Piada pronta: edição de colecionador de GTA 6 custa US$ 400, não inclui o jogo e vira alvo de zoeira",
