@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-09-26T18:38:52.718675+00:00",
+  "atualizado_em": "2026-09-26T21:39:41.959284+00:00",
   "noticias": [
+    {
+      "titulo": "Motorola diz que segue regras de transparência, mas as evidências mostram o contrário",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/motorola-diz-que-segue-regras-de-transparencia-mas-as-evidencias-mostram-o-contrario/",
+      "data": "2026-09-26T21:04:39+00:00"
+    },
+    {
+      "titulo": "Quem são os 10 personagens mais importantes dos X-Men?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/quem-sao-os-x-men-mais-importantes/",
+      "data": "2026-09-26T21:00:01+00:00"
+    },
+    {
+      "titulo": "Quanto o BYD Dolphin Mini desvalorizou dois anos após o lançamento?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/quanto-o-byd-dolphin-mini-desvalorizou-dois-anos-apos-o-lancamento/",
+      "data": "2026-09-26T20:02:00+00:00"
+    },
+    {
+      "titulo": "Bill Gates cobra regras para empresas de IA",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/bill-gates-cobra-regras-para-empresas-de-ia/",
+      "data": "2026-09-26T20:01:23+00:00"
+    },
+    {
+      "titulo": "Controle do XBOX One funciona no Series X/S?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/controle-do-xbox-one-funciona-no-series-xs/",
+      "data": "2026-09-26T19:30:00+00:00"
+    },
     {
       "titulo": "Como usar os Gemini Gems?",
       "fonte": "Canaltech",
@@ -18,6 +48,12 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/eletro/air-fryer-precisa-pre-aquecer-saiba-quando-isso-realmente-faz-diferenca/",
       "data": "2026-09-26T17:30:02+00:00"
+    },
+    {
+      "titulo": "Conforto e resistência: Cadeira ThunderX3 YAMA1BK entra em promoção com 29% de desconto na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/cadeira-thunderx3-yama1bk-promocao-amazon/",
+      "data": "2026-09-26T16:48:01+00:00"
     },
     {
       "titulo": "Ar-condicionado no 17ºC gasta mais luz que no 23ºC? Veja o que diz especialista",
@@ -56,12 +92,6 @@
       "data": "2026-09-26T15:15:09+00:00"
     },
     {
-      "titulo": "Projetor 4K substitui a Smart TV? Testamos a experiência em sala clara",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/projetor-4k-substitui-a-smart-tv-testamos-a-experiencia-em-sala-clara/",
-      "data": "2026-09-26T15:00:02+00:00"
-    },
-    {
       "titulo": "Lives do Discord continuam suspensas no Brasil após nova decisão da ANPD",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/anpd-nega-recurso-discord-lives-suspensas-brasil/",
@@ -78,24 +108,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/artigos/galaxy-buds-core-cai-para-r250-com-cupom-cancelamento-de-ruido-e-interprete-inteligente-com-preco-em-conta/",
       "data": "2026-09-26T14:35:07+00:00"
-    },
-    {
-      "titulo": "NVIDIA planeja assistente de IA para ajudar desenvolvedores a encontrar gargalos de desempenho em jogos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/nvidia-assistente-ia-desenvolvedores-gargalos-jogos/",
-      "data": "2026-09-26T14:35:07+00:00"
-    },
-    {
-      "titulo": "9 recursos surpreendentes da One UI 9.0 para testar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/one-ui-9-recursos-surpreendentes-para-testar/",
-      "data": "2026-09-26T14:30:02+00:00"
-    },
-    {
-      "titulo": "Microsoft vai vender o XBOX? Relembre 5 vezes em que a marca esteve perto do fim",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/microsoft-vai-vender-xbox/",
-      "data": "2026-09-26T14:00:00+00:00"
     },
     {
       "titulo": "Galaxy Tab S11 (256 GB) para jogos tem 34% OFF com cupom",
@@ -132,18 +144,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/carteira-de-identidade-nacional-libera-conta-gov-br-ouro-reforca-governo/",
       "data": "2026-09-25T19:17:37+00:00"
-    },
-    {
-      "titulo": "Asus Vivobook Go 15 para estudos despenca de preço na melhor oferta recente",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/asus-vivobook-go-15-para-estudos-despenca-de-preco-para-melhor-oferta-recente/",
-      "data": "2026-09-25T19:17:25+00:00"
-    },
-    {
-      "titulo": "Linux entra nos planos da Holanda para substituir o Windows",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/linux-entra-nos-planos-da-holanda-para-substituir-o-windows/",
-      "data": "2026-09-25T18:59:25+00:00"
     }
   ]
 }
