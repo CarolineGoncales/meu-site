@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-09-26T21:39:41.959284+00:00",
+  "atualizado_em": "2026-09-26T23:58:29.077702+00:00",
   "noticias": [
+    {
+      "titulo": "6 jogos da franquia The Legend of Zelda que revolucionaram os games",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-the-legend-of-zelda-revolucionarios/",
+      "data": "2026-09-26T22:00:00+00:00"
+    },
     {
       "titulo": "Motorola diz que segue regras de transparência, mas as evidências mostram o contrário",
       "fonte": "Tecnoblog",
@@ -12,6 +18,12 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/entretenimento/quem-sao-os-x-men-mais-importantes/",
       "data": "2026-09-26T21:00:01+00:00"
+    },
+    {
+      "titulo": "Logitech G29 SE com volante, pedais e câmbio está com seu menor preço nos últimos 365 dias",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/logitech-g29-se-promocao-na-amazon/",
+      "data": "2026-09-26T20:10:35+00:00"
     },
     {
       "titulo": "Quanto o BYD Dolphin Mini desvalorizou dois anos após o lançamento?",
@@ -74,12 +86,6 @@
       "data": "2026-09-26T16:10:15+00:00"
     },
     {
-      "titulo": "Carro usado mais barato: veja qual é a melhor época para conseguir desconto",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/carro-usado-mais-barato-veja-qual-e-a-melhor-epoca-para-conseguir-desconto/",
-      "data": "2026-09-26T16:05:00+00:00"
-    },
-    {
       "titulo": "Esse cara encontrou à venda no Japão um lendário Toshiba Libretto 50, notebook de 1997 que pesava só 850 gramas",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/toshiba-libretto-50-notebook-1997-850-gramas-japao/",
@@ -102,12 +108,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/lg-s95tr-com-com-desconto-amazon/",
       "data": "2026-09-26T14:50:26+00:00"
-    },
-    {
-      "titulo": "Galaxy Buds Core cai para R$250: cancelamento de ruído e intérprete inteligente com preço em conta!",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/galaxy-buds-core-cai-para-r250-com-cupom-cancelamento-de-ruido-e-interprete-inteligente-com-preco-em-conta/",
-      "data": "2026-09-26T14:35:07+00:00"
     },
     {
       "titulo": "Galaxy Tab S11 (256 GB) para jogos tem 34% OFF com cupom",
@@ -144,6 +144,42 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/carteira-de-identidade-nacional-libera-conta-gov-br-ouro-reforca-governo/",
       "data": "2026-09-25T19:17:37+00:00"
+    },
+    {
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
