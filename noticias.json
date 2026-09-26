@@ -1,11 +1,89 @@
 {
-  "atualizado_em": "2026-09-26T15:12:50.422012+00:00",
+  "atualizado_em": "2026-09-26T18:38:52.718675+00:00",
   "noticias": [
+    {
+      "titulo": "Como usar os Gemini Gems?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-os-gemini-gems/",
+      "data": "2026-09-26T18:30:02+00:00"
+    },
+    {
+      "titulo": "Por que séries demoram tanto para lançar novas temporadas?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/por-que-novas-temporadas-series-demoram-tanto/",
+      "data": "2026-09-26T18:00:00+00:00"
+    },
+    {
+      "titulo": "Air fryer precisa pré-aquecer? Saiba quando isso realmente faz diferença",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/air-fryer-precisa-pre-aquecer-saiba-quando-isso-realmente-faz-diferenca/",
+      "data": "2026-09-26T17:30:02+00:00"
+    },
+    {
+      "titulo": "Ar-condicionado no 17ºC gasta mais luz que no 23ºC? Veja o que diz especialista",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/ar-condicionado-no-17-c-gasta-mais-luz-que-no-23-c-veja-o-que-diz-especialista/",
+      "data": "2026-09-26T16:30:00+00:00"
+    },
+    {
+      "titulo": "Resident Evil Requiem ultrapassa US$ 500 milhões em receita, mas vendas no Xbox são um fracasso",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/resident-evil-requiem-us-500-milhoes-receita-vendas-xbox/",
+      "data": "2026-09-26T16:27:03+00:00"
+    },
+    {
+      "titulo": "Marathon não atingiu o público esperado e Bungie muda seus planos para tentar recuperar jogadores",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/marathon-bungie-muda-planos-recuperar-jogadores/",
+      "data": "2026-09-26T16:10:15+00:00"
+    },
+    {
+      "titulo": "Carro usado mais barato: veja qual é a melhor época para conseguir desconto",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/carro-usado-mais-barato-veja-qual-e-a-melhor-epoca-para-conseguir-desconto/",
+      "data": "2026-09-26T16:05:00+00:00"
+    },
+    {
+      "titulo": "Esse cara encontrou à venda no Japão um lendário Toshiba Libretto 50, notebook de 1997 que pesava só 850 gramas",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/toshiba-libretto-50-notebook-1997-850-gramas-japao/",
+      "data": "2026-09-26T15:40:03+00:00"
+    },
+    {
+      "titulo": "Brasileiro reaproveita notebooks antigos e gasta só R$ 130 para montar homelab com servidor de Minecraft e NAS",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/brasileiro-notebooks-antigos-homelab-minecraft-nas/",
+      "data": "2026-09-26T15:15:09+00:00"
+    },
     {
       "titulo": "Projetor 4K substitui a Smart TV? Testamos a experiência em sala clara",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/tv/projetor-4k-substitui-a-smart-tv-testamos-a-experiencia-em-sala-clara/",
       "data": "2026-09-26T15:00:02+00:00"
+    },
+    {
+      "titulo": "Lives do Discord continuam suspensas no Brasil após nova decisão da ANPD",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/anpd-nega-recurso-discord-lives-suspensas-brasil/",
+      "data": "2026-09-26T14:58:40+00:00"
+    },
+    {
+      "titulo": "LG S95TR com 20% de desconto: soundbar com Dolby Atmos e 810 W transforma sua sala em cinema",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/lg-s95tr-com-com-desconto-amazon/",
+      "data": "2026-09-26T14:50:26+00:00"
+    },
+    {
+      "titulo": "Galaxy Buds Core cai para R$250: cancelamento de ruído e intérprete inteligente com preço em conta!",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/galaxy-buds-core-cai-para-r250-com-cupom-cancelamento-de-ruido-e-interprete-inteligente-com-preco-em-conta/",
+      "data": "2026-09-26T14:35:07+00:00"
+    },
+    {
+      "titulo": "NVIDIA planeja assistente de IA para ajudar desenvolvedores a encontrar gargalos de desempenho em jogos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/nvidia-assistente-ia-desenvolvedores-gargalos-jogos/",
+      "data": "2026-09-26T14:35:07+00:00"
     },
     {
       "titulo": "9 recursos surpreendentes da One UI 9.0 para testar",
@@ -18,36 +96,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/games/microsoft-vai-vender-xbox/",
       "data": "2026-09-26T14:00:00+00:00"
-    },
-    {
-      "titulo": "6 filmes de terror assustadores para quem tem estômago forte",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/filmes-de-terror-assustadores/",
-      "data": "2026-09-26T13:30:03+00:00"
-    },
-    {
-      "titulo": "Sol ou Luna? Entenda a diferença entre os novos modelos da OpenAI e saiba qual escolher",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gpt-sol-luna-entenda-diferencas-e-qual-escolher/",
-      "data": "2026-09-26T13:00:00+00:00"
-    },
-    {
-      "titulo": "8 clichês em jogos de super-heróis que ninguém aguenta mais",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/maiores-cliches-jogos-de-super-herois/",
-      "data": "2026-09-26T12:30:00+00:00"
-    },
-    {
-      "titulo": "Motor de carro elétrico: entenda por que ele é melhor que o a combustão",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/motor-de-carro-eletrico-entenda-por-que-ele-e-melhor-que-o-a-combustao/",
-      "data": "2026-09-26T12:03:00+00:00"
-    },
-    {
-      "titulo": "Usar o celular carregando no powerbank vicia ou estraga a bateria?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/usar-o-celular-carregando-no-power-bank-vicia-ou-estraga-a-bateria/",
-      "data": "2026-09-26T11:30:01+00:00"
     },
     {
       "titulo": "Galaxy Tab S11 (256 GB) para jogos tem 34% OFF com cupom",
@@ -96,90 +144,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/linux-entra-nos-planos-da-holanda-para-substituir-o-windows/",
       "data": "2026-09-25T18:59:25+00:00"
-    },
-    {
-      "titulo": "Desenvolvedor com passagens por Minecraft, Batman e The Walking Dead é encontrado morto no Paraná",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/desenvolvedor-minecraft-batman-morto-parana/",
-      "data": "2026-09-25T18:33:23+00:00"
-    },
-    {
-      "titulo": "GPU chinesa Lisuan LX 7G100 fica três vezes atrás da RTX 5060 em jogos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/lisuan-lx-7g100-desempenho-rtx-5060/",
-      "data": "2026-09-25T18:14:07+00:00"
-    },
-    {
-      "titulo": "Microsoft começa a abandonar a marca Copilot+ PC após estreia turbulenta",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/microsoft-abandona-marca-copilot-plus-pc/",
-      "data": "2026-09-25T17:58:39+00:00"
-    },
-    {
-      "titulo": "Noctua testa tecnologia com microcanais que pode levar refrigeração a ar dos PCs a outro nível",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/noctua-refrigeracao-ar-microcanais-pcs/",
-      "data": "2026-09-25T17:50:06+00:00"
-    },
-    {
-      "titulo": "Governo brasileiro coloca 13 apps de “namorados virtuais” com IA na mira por riscos a crianças e adolescentes",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/governo-apps-namorados-virtuais-ia-riscos-menores/",
-      "data": "2026-09-25T17:37:23+00:00"
-    },
-    {
-      "titulo": "Missão cumprida: como Hardware.com.br e GameVicio chegaram à nuvem com a Skyone",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/missao-cumprida-o-que-mudou-apos-hardware-gamevicio-migrarem-nuvem-skyone/",
-      "data": "2026-09-25T17:22:22+00:00"
-    },
-    {
-      "titulo": "Logitech G515 LIGHTSPEED com 40% de desconto: teclado gamer mecânico sem fio ultrafino",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/logitech-g515-lightspeed-com-40-de-desconto-teclado-gamer-mecanico-sem-fio-ultrafino/",
-      "data": "2026-09-25T15:30:15+00:00"
-    },
-    {
-      "titulo": "Queridinho dos gamers! mouse Logitech G502 HERO está com 33% OFF e traz sensor 25K, RGB e 11 botões programáveis",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/queridinho-dos-gamers-mouse-logitech-g502-hero-esta-com-r130-off-e-traz-sensor-25k-rgb-e-11-botoes-programaveis/",
-      "data": "2026-09-25T15:00:08+00:00"
-    },
-    {
-      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
-      "data": "2026-09-07T21:15:00+00:00"
-    },
-    {
-      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
-      "data": "2026-09-07T20:30:00+00:00"
-    },
-    {
-      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
-      "data": "2026-09-07T19:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
-      "data": "2026-09-07T19:00:00+00:00"
-    },
-    {
-      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
-      "data": "2026-09-07T18:15:00+00:00"
-    },
-    {
-      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
-      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
