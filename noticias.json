@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-09-26T06:13:16.817883+00:00",
+  "atualizado_em": "2026-09-26T11:36:27.662141+00:00",
   "noticias": [
+    {
+      "titulo": "Usar o celular carregando no powerbank vicia ou estraga a bateria?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/usar-o-celular-carregando-no-power-bank-vicia-ou-estraga-a-bateria/",
+      "data": "2026-09-26T11:30:01+00:00"
+    },
+    {
+      "titulo": "Como funciona a memória do Claude?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-claude/",
+      "data": "2026-09-26T11:00:00+00:00"
+    },
+    {
+      "titulo": "Como é medida a potência de uma caixa de som? Acompanhamos um teste da LG",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/caixa-de-som/como-e-medida-a-potencia-de-uma-caixa-de-som-acompanhamos-um-teste-da-lg/",
+      "data": "2026-09-26T10:30:00+00:00"
+    },
     {
       "titulo": "Governo proíbe bets e cassino online no Brasil; veja prazo para retirada do dinheiro",
       "fonte": "Canaltech",
@@ -56,22 +74,10 @@
       "data": "2026-09-25T20:07:00+00:00"
     },
     {
-      "titulo": "Volkswagen derruba preço do Nivus, que fica mais em conta que Polo GTS",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/volkswagen-derruba-preco-do-nivus-que-fica-mais-em-conta-que-polo-gts/",
-      "data": "2026-09-25T20:00:00+00:00"
-    },
-    {
       "titulo": "Galaxy S25 Plus (512 GB) tem melhor preço desde agosto no Magalu",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-tem-melhor-preco-desde-agosto-no-magalu/",
       "data": "2026-09-25T19:56:30+00:00"
-    },
-    {
-      "titulo": "Prince of Persia, Sonic Mania Plus e mais jogos grátis do fim de semana",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-gratis-fim-de-semana-prince-of-persia-sonic-mania-plus-e-mais/",
-      "data": "2026-09-25T19:50:24+00:00"
     },
     {
       "titulo": "Carteira de Identidade Nacional libera conta Gov.br Ouro, reforça governo",
@@ -84,12 +90,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/asus-vivobook-go-15-para-estudos-despenca-de-preco-para-melhor-oferta-recente/",
       "data": "2026-09-25T19:17:25+00:00"
-    },
-    {
-      "titulo": "Celular da Huawei vai ganhar lente externa com sensor gigante, segundo vazamento",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celular-da-huawei-vai-ganhar-lente-externa-com-sensor-gigante-segundo-vazamento/",
-      "data": "2026-09-25T19:05:43+00:00"
     },
     {
       "titulo": "Linux entra nos planos da Holanda para substituir o Windows",
