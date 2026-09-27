@@ -1,6 +1,84 @@
 {
-  "atualizado_em": "2026-09-27T14:52:05.511165+00:00",
+  "atualizado_em": "2026-09-27T18:43:11.719967+00:00",
   "noticias": [
+    {
+      "titulo": "Quais países além do Brasil usam urna eletrônica?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/quais-paises-tambem-usam-urna-eletronica/",
+      "data": "2026-09-27T18:30:00+00:00"
+    },
+    {
+      "titulo": "O Batman existe no universo de Lanternas?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/o-batman-existe-no-universo-de-lanternas/",
+      "data": "2026-09-27T18:00:00+00:00"
+    },
+    {
+      "titulo": "Kindle Scribe 3 me fez voltar a escrever à mão, mas não aposentou meu Kindle Paperwhite",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/e-reader/kindle-scribe-3-me-fez-voltar-a-escrever-mas-nao-aposentou-meu-kindle-paperwhite/",
+      "data": "2026-09-27T17:30:01+00:00"
+    },
+    {
+      "titulo": "PS5 modificado já consegue rodar jogos de Nintendo Switch diretamente no console",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/ps5-modificado-roda-jogos-nintendo-switch-emulador-prosperoeden/",
+      "data": "2026-09-27T16:57:08+00:00"
+    },
+    {
+      "titulo": "Ex-Bethesda diz que Starfield não fez sucesso suficiente para justificar uma sequência: “não acho que tenha chegado nem perto de ser bem-sucedido”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/starfield-nao-fez-sucesso-suficiente-para-ter-sequencia/",
+      "data": "2026-09-27T16:41:56+00:00"
+    },
+    {
+      "titulo": "Celular superaquecendo: quando é normal e quando pode danificar a bateria",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/celular-superaquecendo-quando-e-normal-e-quando-pode-danificar-a-bateria/",
+      "data": "2026-09-27T16:30:01+00:00"
+    },
+    {
+      "titulo": "Em vez de aposentar notebook antigo, usuário o transforma em servidor pessoal de fotos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/notebook-hp-antigo-servidor-fotos-1tb/",
+      "data": "2026-09-27T16:23:02+00:00"
+    },
+    {
+      "titulo": "Um dos maiores fracassos de 2025 cobra seu preço: estúdio de MindsEye entra em insolvência após dívida milionária",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/mindseye-estudio-insolvencia-divida-milionaria/",
+      "data": "2026-09-27T16:11:22+00:00"
+    },
+    {
+      "titulo": "Google completa 28 anos hoje; este era o primeiro servidor da empresa, com 40 GB e peças de LEGO",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/google-28-anos-primeiro-servidor-40-gb-lego/",
+      "data": "2026-09-27T16:00:30+00:00"
+    },
+    {
+      "titulo": "Dia das Crianças: Blocos Magnéticos com 114 Peças em promoção na Amazon são o presente ideal",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/blocos-magneticos-114-pecas-amazon/",
+      "data": "2026-09-27T15:55:55+00:00"
+    },
+    {
+      "titulo": "CEO da Microsoft diz se sentir “fantástico” com futuro do Xbox após 3,2 mil demissões",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/satya-nadella-xbox-32-mil-demissoes-futuro/",
+      "data": "2026-09-27T15:33:37+00:00"
+    },
+    {
+      "titulo": "Bill Gates pede regulação da IA e alerta para cenário capaz de causar 1 bilhão de mortes",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/bill-gates-regulamentacao-ia-risco-1-bilhao-mortes/",
+      "data": "2026-09-27T15:22:42+00:00"
+    },
+    {
+      "titulo": "Comparativo: bateria do Fold 8 Ultra dura 5 horas a mais que Fold 7; vale trocar?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/comparativo-bateria-do-fold-8-ultra-dura-5-horas-a-mais-que-fold-7-vale-trocar/",
+      "data": "2026-09-27T15:00:00+00:00"
+    },
     {
       "titulo": "Quais são os benefícios para quem assina o Meta One?",
       "fonte": "Canaltech",
@@ -20,94 +98,16 @@
       "data": "2026-09-27T13:30:01+00:00"
     },
     {
-      "titulo": "O que é a antropomorfização da IA?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-a-antropomorfizacao-da-ia/",
-      "data": "2026-09-27T13:00:00+00:00"
-    },
-    {
-      "titulo": "10 maiores traições no mundo dos games",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/maiores-traicoes-mundo-dos-games/",
-      "data": "2026-09-27T12:30:02+00:00"
-    },
-    {
-      "titulo": "Quanto pode custar a troca da bateria dos carros híbridos? Veja estimativas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/quanto-pode-custar-a-troca-da-bateria-dos-carros-hibridos-veja-estimativas/",
-      "data": "2026-09-27T12:01:00+00:00"
-    },
-    {
-      "titulo": "Como escolher o ventilador ideal? 10 dicas para acertar na compra",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/como-escolher-o-ventilador-ideal-10-dicas-para-acertar-na-compra/",
-      "data": "2026-09-27T11:00:00+00:00"
-    },
-    {
-      "titulo": "6 jogos da franquia The Legend of Zelda que revolucionaram os games",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-the-legend-of-zelda-revolucionarios/",
-      "data": "2026-09-26T22:00:00+00:00"
-    },
-    {
       "titulo": "Motorola diz que segue regras de transparência, mas as evidências mostram o contrário",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/motorola-diz-que-segue-regras-de-transparencia-mas-as-evidencias-mostram-o-contrario/",
       "data": "2026-09-26T21:04:39+00:00"
     },
     {
-      "titulo": "Logitech G29 SE com volante, pedais e câmbio está com seu menor preço nos últimos 365 dias",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/logitech-g29-se-promocao-na-amazon/",
-      "data": "2026-09-26T20:10:35+00:00"
-    },
-    {
       "titulo": "Bill Gates cobra regras para empresas de IA",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/bill-gates-cobra-regras-para-empresas-de-ia/",
       "data": "2026-09-26T20:01:23+00:00"
-    },
-    {
-      "titulo": "Conforto e resistência: Cadeira ThunderX3 YAMA1BK entra em promoção com 29% de desconto na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/cadeira-thunderx3-yama1bk-promocao-amazon/",
-      "data": "2026-09-26T16:48:01+00:00"
-    },
-    {
-      "titulo": "Resident Evil Requiem ultrapassa US$ 500 milhões em receita, mas vendas no Xbox são um fracasso",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/resident-evil-requiem-us-500-milhoes-receita-vendas-xbox/",
-      "data": "2026-09-26T16:27:03+00:00"
-    },
-    {
-      "titulo": "Marathon não atingiu o público esperado e Bungie muda seus planos para tentar recuperar jogadores",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/marathon-bungie-muda-planos-recuperar-jogadores/",
-      "data": "2026-09-26T16:10:15+00:00"
-    },
-    {
-      "titulo": "Esse cara encontrou à venda no Japão um lendário Toshiba Libretto 50, notebook de 1997 que pesava só 850 gramas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/toshiba-libretto-50-notebook-1997-850-gramas-japao/",
-      "data": "2026-09-26T15:40:03+00:00"
-    },
-    {
-      "titulo": "Brasileiro reaproveita notebooks antigos e gasta só R$ 130 para montar homelab com servidor de Minecraft e NAS",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/brasileiro-notebooks-antigos-homelab-minecraft-nas/",
-      "data": "2026-09-26T15:15:09+00:00"
-    },
-    {
-      "titulo": "Lives do Discord continuam suspensas no Brasil após nova decisão da ANPD",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/anpd-nega-recurso-discord-lives-suspensas-brasil/",
-      "data": "2026-09-26T14:58:40+00:00"
-    },
-    {
-      "titulo": "LG S95TR com 20% de desconto: soundbar com Dolby Atmos e 810 W transforma sua sala em cinema",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/lg-s95tr-com-com-desconto-amazon/",
-      "data": "2026-09-26T14:50:26+00:00"
     },
     {
       "titulo": "Galaxy Tab S11 (256 GB) para jogos tem 34% OFF com cupom",
@@ -144,42 +144,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/carteira-de-identidade-nacional-libera-conta-gov-br-ouro-reforca-governo/",
       "data": "2026-09-25T19:17:37+00:00"
-    },
-    {
-      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
-      "data": "2026-09-07T21:15:00+00:00"
-    },
-    {
-      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
-      "data": "2026-09-07T20:30:00+00:00"
-    },
-    {
-      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
-      "data": "2026-09-07T19:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
-      "data": "2026-09-07T19:00:00+00:00"
-    },
-    {
-      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
-      "data": "2026-09-07T18:15:00+00:00"
-    },
-    {
-      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
-      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
