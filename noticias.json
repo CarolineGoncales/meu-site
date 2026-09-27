@@ -1,6 +1,30 @@
 {
-  "atualizado_em": "2026-09-27T18:43:11.719967+00:00",
+  "atualizado_em": "2026-09-27T21:42:07.406211+00:00",
   "noticias": [
+    {
+      "titulo": "Kindle x Galaxy Z Fold 8: qual é melhor para ler quadrinhos?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/kindle-x-galaxy-z-fold-8-qual-e-melhor-para-ler-quadrinhos/",
+      "data": "2026-09-27T21:00:00+00:00"
+    },
+    {
+      "titulo": "Quanto custaria um Volkswagen Pointer GTI hoje, com a inflação?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/quanto-custaria-um-volkswagen-pointer-gti-hoje-com-a-inflacao/",
+      "data": "2026-09-27T20:03:00+00:00"
+    },
+    {
+      "titulo": "6 diferenças entre emulação comercial e emulação da comunidade",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/diferencas-entre-emulacao-comercial-e-da-comunidade/",
+      "data": "2026-09-27T19:30:02+00:00"
+    },
+    {
+      "titulo": "Carro sem força na subida? O culpado pode ser este recurso \"invisível\"",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/carro-sem-forca-na-subida-o-culpado-pode-ser-este-recurso-invisivel/",
+      "data": "2026-09-27T19:00:04+00:00"
+    },
     {
       "titulo": "Quais países além do Brasil usam urna eletrônica?",
       "fonte": "Canaltech",
@@ -18,6 +42,12 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/e-reader/kindle-scribe-3-me-fez-voltar-a-escrever-mas-nao-aposentou-meu-kindle-paperwhite/",
       "data": "2026-09-27T17:30:01+00:00"
+    },
+    {
+      "titulo": "Cadeira gamer por menos de R$360? Confira essa promoção imperdível na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/cadeira-gamer-por-menos-de-360-reais-na-amazon/",
+      "data": "2026-09-27T17:08:01+00:00"
     },
     {
       "titulo": "PS5 modificado já consegue rodar jogos de Nintendo Switch diretamente no console",
@@ -68,36 +98,6 @@
       "data": "2026-09-27T15:33:37+00:00"
     },
     {
-      "titulo": "Bill Gates pede regulação da IA e alerta para cenário capaz de causar 1 bilhão de mortes",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/bill-gates-regulamentacao-ia-risco-1-bilhao-mortes/",
-      "data": "2026-09-27T15:22:42+00:00"
-    },
-    {
-      "titulo": "Comparativo: bateria do Fold 8 Ultra dura 5 horas a mais que Fold 7; vale trocar?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/comparativo-bateria-do-fold-8-ultra-dura-5-horas-a-mais-que-fold-7-vale-trocar/",
-      "data": "2026-09-27T15:00:00+00:00"
-    },
-    {
-      "titulo": "Quais são os benefícios para quem assina o Meta One?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/beneficios-assinantes-do-meta-one/",
-      "data": "2026-09-27T14:30:01+00:00"
-    },
-    {
-      "titulo": "O que você precisa saber antes de começar a jogar Castlevania?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/castlevania-tudo-que-voce-precisa-saber-antes-de-jogar/",
-      "data": "2026-09-27T14:00:00+00:00"
-    },
-    {
-      "titulo": "6 melhores séries de advogados para quem gosta de dramas jurídicos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/melhores-series-de-advogados-dramas-juridicos/",
-      "data": "2026-09-27T13:30:01+00:00"
-    },
-    {
       "titulo": "Motorola diz que segue regras de transparência, mas as evidências mostram o contrário",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/motorola-diz-que-segue-regras-de-transparencia-mas-as-evidencias-mostram-o-contrario/",
@@ -144,6 +144,42 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/carteira-de-identidade-nacional-libera-conta-gov-br-ouro-reforca-governo/",
       "data": "2026-09-25T19:17:37+00:00"
+    },
+    {
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
