@@ -1,6 +1,48 @@
 {
-  "atualizado_em": "2026-09-27T09:35:20.140657+00:00",
+  "atualizado_em": "2026-09-27T14:52:05.511165+00:00",
   "noticias": [
+    {
+      "titulo": "Quais são os benefícios para quem assina o Meta One?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/beneficios-assinantes-do-meta-one/",
+      "data": "2026-09-27T14:30:01+00:00"
+    },
+    {
+      "titulo": "O que você precisa saber antes de começar a jogar Castlevania?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/castlevania-tudo-que-voce-precisa-saber-antes-de-jogar/",
+      "data": "2026-09-27T14:00:00+00:00"
+    },
+    {
+      "titulo": "6 melhores séries de advogados para quem gosta de dramas jurídicos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/melhores-series-de-advogados-dramas-juridicos/",
+      "data": "2026-09-27T13:30:01+00:00"
+    },
+    {
+      "titulo": "O que é a antropomorfização da IA?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-a-antropomorfizacao-da-ia/",
+      "data": "2026-09-27T13:00:00+00:00"
+    },
+    {
+      "titulo": "10 maiores traições no mundo dos games",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/maiores-traicoes-mundo-dos-games/",
+      "data": "2026-09-27T12:30:02+00:00"
+    },
+    {
+      "titulo": "Quanto pode custar a troca da bateria dos carros híbridos? Veja estimativas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/quanto-pode-custar-a-troca-da-bateria-dos-carros-hibridos-veja-estimativas/",
+      "data": "2026-09-27T12:01:00+00:00"
+    },
+    {
+      "titulo": "Como escolher o ventilador ideal? 10 dicas para acertar na compra",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/como-escolher-o-ventilador-ideal-10-dicas-para-acertar-na-compra/",
+      "data": "2026-09-27T11:00:00+00:00"
+    },
     {
       "titulo": "6 jogos da franquia The Legend of Zelda que revolucionaram os games",
       "fonte": "Canaltech",
@@ -14,22 +56,10 @@
       "data": "2026-09-26T21:04:39+00:00"
     },
     {
-      "titulo": "Quem são os 10 personagens mais importantes dos X-Men?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/quem-sao-os-x-men-mais-importantes/",
-      "data": "2026-09-26T21:00:01+00:00"
-    },
-    {
       "titulo": "Logitech G29 SE com volante, pedais e câmbio está com seu menor preço nos últimos 365 dias",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/logitech-g29-se-promocao-na-amazon/",
       "data": "2026-09-26T20:10:35+00:00"
-    },
-    {
-      "titulo": "Quanto o BYD Dolphin Mini desvalorizou dois anos após o lançamento?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/quanto-o-byd-dolphin-mini-desvalorizou-dois-anos-apos-o-lancamento/",
-      "data": "2026-09-26T20:02:00+00:00"
     },
     {
       "titulo": "Bill Gates cobra regras para empresas de IA",
@@ -38,40 +68,10 @@
       "data": "2026-09-26T20:01:23+00:00"
     },
     {
-      "titulo": "Controle do XBOX One funciona no Series X/S?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/controle-do-xbox-one-funciona-no-series-xs/",
-      "data": "2026-09-26T19:30:00+00:00"
-    },
-    {
-      "titulo": "Como usar os Gemini Gems?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-os-gemini-gems/",
-      "data": "2026-09-26T18:30:02+00:00"
-    },
-    {
-      "titulo": "Por que séries demoram tanto para lançar novas temporadas?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/por-que-novas-temporadas-series-demoram-tanto/",
-      "data": "2026-09-26T18:00:00+00:00"
-    },
-    {
-      "titulo": "Air fryer precisa pré-aquecer? Saiba quando isso realmente faz diferença",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/air-fryer-precisa-pre-aquecer-saiba-quando-isso-realmente-faz-diferenca/",
-      "data": "2026-09-26T17:30:02+00:00"
-    },
-    {
       "titulo": "Conforto e resistência: Cadeira ThunderX3 YAMA1BK entra em promoção com 29% de desconto na Amazon",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/cadeira-thunderx3-yama1bk-promocao-amazon/",
       "data": "2026-09-26T16:48:01+00:00"
-    },
-    {
-      "titulo": "Ar-condicionado no 17ºC gasta mais luz que no 23ºC? Veja o que diz especialista",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/ar-condicionado-no-17-c-gasta-mais-luz-que-no-23-c-veja-o-que-diz-especialista/",
-      "data": "2026-09-26T16:30:00+00:00"
     },
     {
       "titulo": "Resident Evil Requiem ultrapassa US$ 500 milhões em receita, mas vendas no Xbox são um fracasso",
@@ -144,6 +144,42 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/carteira-de-identidade-nacional-libera-conta-gov-br-ouro-reforca-governo/",
       "data": "2026-09-25T19:17:37+00:00"
+    },
+    {
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
