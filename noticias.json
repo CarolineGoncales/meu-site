@@ -1,185 +1,149 @@
 {
-  "atualizado_em": "2026-09-28T12:09:26.040309+00:00",
+  "atualizado_em": "2026-09-28T19:44:30.795553+00:00",
   "noticias": [
     {
-      "titulo": "Máscara bizarra mede seu metabolismo pela respiração e dá dicas de treino",
+      "titulo": "Além do setup fixo: como a flexibilidade está redefinindo a experiência gamer",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/mascara-bizarra-mede-seu-metabolismo-pela-respiracao-e-da-dicas-de-treino/",
-      "data": "2026-09-28T11:45:50+00:00"
+      "link": "https://canaltech.com.br/games/alem-do-setup-fixo-como-a-flexibilidade-esta-redefinindo-a-experiencia-gamer/",
+      "data": "2026-09-28T19:40:00+00:00"
     },
     {
-      "titulo": "Adeus ao Copilot+ PC? Microsoft, silenciosamente, mata selo em novos notebooks",
+      "titulo": "TCL desafia Samsung com TV que parece quadro e fica quase colada na parede",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/adeus-ao-copilot-pc-microsoft-silenciosamente-mata-selo-em-novos-notebooks/",
-      "data": "2026-09-28T11:43:23+00:00"
+      "link": "https://canaltech.com.br/tv/tcl-desafia-samsung-com-tv-que-parece-quadro-e-fica-quase-colada-na-parede/",
+      "data": "2026-09-28T19:39:09+00:00"
     },
     {
-      "titulo": "Campainha usa realidade virtual para mostrar tudo ao redor de quem toca a porta",
+      "titulo": "Dobrável da Motorola tem design vazado e é mais compacto que o Galaxy Z Fold 8",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/campainha-usa-realidade-virtual-para-mostrar-tudo-ao-redor-de-quem-toca-a-porta/",
-      "data": "2026-09-28T10:40:40+00:00"
+      "link": "https://canaltech.com.br/smartphone/dobravel-da-motorola-tem-design-vazado-e-e-mais-compacto-que-o-galaxy-z-fold-8/",
+      "data": "2026-09-28T19:38:05+00:00"
     },
     {
-      "titulo": "Como funciona o software das urnas eletrônicas?",
+      "titulo": "Apple libera iOS 27.0.1 para corrigir bug que reinicia iPhones",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/apple-libera-ios-27-0-1-para-corrigir-bug-que-reinicia-iphones/",
+      "data": "2026-09-28T19:36:01+00:00"
+    },
+    {
+      "titulo": "Operadoras terão que bloquear sites de bets no Brasil a partir de 6 de outubro",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/como-funciona-o-software-das-urnas-eletronicas/",
-      "data": "2026-09-28T10:00:00+00:00"
+      "link": "https://canaltech.com.br/telecom/operadoras-terao-que-bloquear-sites-de-bets-no-brasil-a-partir-de-6-de-outubro/",
+      "data": "2026-09-28T19:20:11+00:00"
     },
     {
-      "titulo": "Xiaomi 18 pode surpreender com bateria gigante de 7.200 mAh; veja quando chega",
+      "titulo": "Novo recurso do Gemini faz ligações por você para marcar compromissos",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/xiaomi-18-pode-surpreender-com-bateria-gigante-de-7200-mah-veja-quando-chega/",
-      "data": "2026-09-28T09:59:20+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/novo-recurso-do-gemini-faz-ligacoes-por-voce-para-marcar-compromissos/",
+      "data": "2026-09-28T19:04:00+00:00"
     },
     {
-      "titulo": "Mais pás deixam o ventilador mais forte? O que realmente importa na compra",
+      "titulo": "God of War Laufey ganha data de pré-venda e edições especiais; veja o que cada uma terá",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/mais-pas-deixam-o-ventilador-mais-forte-o-que-realmente-importa-na-compra/",
-      "data": "2026-09-28T09:30:03+00:00"
+      "link": "https://canaltech.com.br/games/god-of-war-laufey-ganha-data-de-pre-venda-e-edicoes-especiais-veja-o-que-cada-uma-tera/",
+      "data": "2026-09-28T18:50:02+00:00"
     },
     {
-      "titulo": "O que um tablet de R$ 800 realmente consegue fazer na prática em 2026?",
+      "titulo": "HomePod mini 2 vaza no código da Apple com visual conhecido e cores inéditas",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tablet/o-que-um-tablet-de-r-800-realmente-consegue-fazer-na-pratica-em-2026/",
-      "data": "2026-09-28T09:00:02+00:00"
+      "link": "https://canaltech.com.br/caixa-de-som/homepod-mini-2-vaza-no-codigo-da-apple-com-visual-conhecido-e-cores-ineditas/",
+      "data": "2026-09-28T18:45:46+00:00"
     },
     {
-      "titulo": "8 polêmicas mais estranhas da história da Nintendo",
+      "titulo": "Google acaba com o Gemini Gems e anuncia migração para nova ferramenta",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/google-acaba-com-o-gemini-gems-e-anuncia-migracao-para-nova-ferramenta/",
+      "data": "2026-09-28T18:44:50+00:00"
+    },
+    {
+      "titulo": "Apple perde disputa de R$ 30 bilhões por patentes",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/apple-perde-disputa-de-r-30-bilhoes-por-patentes/",
+      "data": "2026-09-28T18:16:41+00:00"
+    },
+    {
+      "titulo": "Adeus, Gems: Google vai transformar robôs do Gemini em 'Skills' muito mais poderosas",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/polemicas-estranhas-da-nintendo/",
-      "data": "2026-09-27T22:00:00+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/adeus-gems-google-vai-transformar-robos-do-gemini-em-skills-muito-mais-poderosas/",
+      "data": "2026-09-28T18:02:00+00:00"
     },
     {
-      "titulo": "Cadeira gamer por menos de R$360? Confira essa promoção imperdível na Amazon",
+      "titulo": "Controle para jogos retrô: GameSir Pocket Taco entra em promoção com menor preço do ano na Amazon",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/cadeira-gamer-por-menos-de-360-reais-na-amazon/",
-      "data": "2026-09-27T17:08:01+00:00"
+      "link": "https://www.hardware.com.br/hardware-indica/gamesir-pocket-taco-disconto-amazon-menor-preco/",
+      "data": "2026-09-28T16:56:24+00:00"
     },
     {
-      "titulo": "PS5 modificado já consegue rodar jogos de Nintendo Switch diretamente no console",
+      "titulo": "China prepara modelos de IA com até 10 trilhões de parâmetros para elevar disputa com gigantes dos EUA",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/ps5-modificado-roda-jogos-nintendo-switch-emulador-prosperoeden/",
-      "data": "2026-09-27T16:57:08+00:00"
+      "link": "https://www.hardware.com.br/noticias/china-ia-modelos-10-trilhoes-parametros/",
+      "data": "2026-09-28T16:44:58+00:00"
     },
     {
-      "titulo": "Ex-Bethesda diz que Starfield não fez sucesso suficiente para justificar uma sequência: “não acho que tenha chegado nem perto de ser bem-sucedido”",
+      "titulo": "Gov.br sofre falha e fica fora do ar nesta segunda-feira",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/gov-br-sofre-falha-e-fica-fora-do-ar-nesta-segunda-feira/",
+      "data": "2026-09-28T16:44:04+00:00"
+    },
+    {
+      "titulo": "Google: Chromebooks não morrerão com a chegada dos Googlebooks (ainda não)",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/google-chromebooks-nao-morrerao-com-a-chegada-dos-googlebooks-ainda-nao/",
+      "data": "2026-09-28T16:40:11+00:00"
+    },
+    {
+      "titulo": "Europa quer impedir que o rádio desapareça dos carros e prepara regra para obrigar FM e DAB+",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/starfield-nao-fez-sucesso-suficiente-para-ter-sequencia/",
-      "data": "2026-09-27T16:41:56+00:00"
+      "link": "https://www.hardware.com.br/noticias/europa-radio-fm-dab-obrigatorio-carros-novos/",
+      "data": "2026-09-28T16:30:54+00:00"
     },
     {
-      "titulo": "Em vez de aposentar notebook antigo, usuário o transforma em servidor pessoal de fotos",
+      "titulo": "Lustrosos: homem passa cera de moto em PS2, PS3 e PS4 e mostra o resultado",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/notebook-hp-antigo-servidor-fotos-1tb/",
-      "data": "2026-09-27T16:23:02+00:00"
+      "link": "https://www.hardware.com.br/noticias/homem-cera-moto-ps2-ps3-ps4/",
+      "data": "2026-09-28T16:06:43+00:00"
     },
     {
-      "titulo": "Um dos maiores fracassos de 2025 cobra seu preço: estúdio de MindsEye entra em insolvência após dívida milionária",
+      "titulo": "GTA 6 terá sistema climático avançado que promete levar o clima imprevisível da Flórida para Leonida",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/mindseye-estudio-insolvencia-divida-milionaria/",
-      "data": "2026-09-27T16:11:22+00:00"
+      "link": "https://www.hardware.com.br/games/gta-6-tera-sistema-climatico-avancado-que-promete-levar-o-clima-imprevisivel-da-florida-para-leonida/",
+      "data": "2026-09-28T15:49:21+00:00"
     },
     {
-      "titulo": "Google completa 28 anos hoje; este era o primeiro servidor da empresa, com 40 GB e peças de LEGO",
+      "titulo": "Galaxy Watch 9 com nova função surge com 34% OFF por até 12x sem juros",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-9-com-nova-funcao-surge-com-34-off-por-ate-12x-sem-juros/",
+      "data": "2026-09-28T15:16:52+00:00"
+    },
+    {
+      "titulo": "Como tirar o visto das mensagens do Instagram",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/como-visualizar-mensagem-do-instagram-e-nao-ser-visto/",
+      "data": "2026-09-28T15:16:23+00:00"
+    },
+    {
+      "titulo": "God of War Laufey mostra arco de Faye em novo gameplay frenético e cheio de combos",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/google-28-anos-primeiro-servidor-40-gb-lego/",
-      "data": "2026-09-27T16:00:30+00:00"
+      "link": "https://www.hardware.com.br/games/god-of-war-laufey-gameplay-arco/",
+      "data": "2026-09-28T15:08:40+00:00"
     },
     {
-      "titulo": "Dia das Crianças: Blocos Magnéticos com 114 Peças em promoção na Amazon são o presente ideal",
+      "titulo": "LEGO Classic Caixa Média de Peças Criativas: 42% de desconto e uma ótima ideia para o Dia das Crianças",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/blocos-magneticos-114-pecas-amazon/",
-      "data": "2026-09-27T15:55:55+00:00"
+      "link": "https://www.hardware.com.br/hardware-indica/lego-classic-caixa-media-de-pecas-criativas-42-de-desconto-e-uma-otima-ideia-para-o-dia-das-criancas/",
+      "data": "2026-09-28T15:00:05+00:00"
     },
     {
-      "titulo": "CEO da Microsoft diz se sentir “fantástico” com futuro do Xbox após 3,2 mil demissões",
+      "titulo": "Nvidia lança plataforma para barrar agentes de IA",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/nvidia-lanca-plataforma-para-barrar-agentes-de-ia/",
+      "data": "2026-09-28T14:51:44+00:00"
+    },
+    {
+      "titulo": "iPhone 17e por menos de R$4.050 vale a pena? Comparamos com o iPhone 16 e o iPhone 17 para você decidir",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/satya-nadella-xbox-32-mil-demissoes-futuro/",
-      "data": "2026-09-27T15:33:37+00:00"
-    },
-    {
-      "titulo": "Motorola diz que segue regras de transparência, mas as evidências mostram o contrário",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/motorola-diz-que-segue-regras-de-transparencia-mas-as-evidencias-mostram-o-contrario/",
-      "data": "2026-09-26T21:04:39+00:00"
-    },
-    {
-      "titulo": "Bill Gates cobra regras para empresas de IA",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/bill-gates-cobra-regras-para-empresas-de-ia/",
-      "data": "2026-09-26T20:01:23+00:00"
-    },
-    {
-      "titulo": "Galaxy Tab S11 (256 GB) para jogos tem 34% OFF com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-256-gb-para-jogos-tem-34-off-com-cupom/",
-      "data": "2026-09-25T21:35:14+00:00"
-    },
-    {
-      "titulo": "Melhor notebook Asus: 9 modelos para comprar em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-notebook-asus/",
-      "data": "2026-09-25T21:29:23+00:00"
-    },
-    {
-      "titulo": "Galaxy S26 Ultra registra um dos menores preços que já encontramos com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-registra-um-dos-menores-precos-que-ja-encontramos-com-cupom/",
-      "data": "2026-09-25T20:13:10+00:00"
-    },
-    {
-      "titulo": "Como justificar o voto pelo aplicativo do e-Título nas eleições",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/como-justificar-o-voto-pelo-aplicativo-do-e-titulo-nas-eleicoes/",
-      "data": "2026-09-25T20:10:10+00:00"
-    },
-    {
-      "titulo": "Galaxy S25 Plus (512 GB) tem melhor preço desde agosto no Magalu",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-tem-melhor-preco-desde-agosto-no-magalu/",
-      "data": "2026-09-25T19:56:30+00:00"
-    },
-    {
-      "titulo": "Carteira de Identidade Nacional libera conta Gov.br Ouro, reforça governo",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/carteira-de-identidade-nacional-libera-conta-gov-br-ouro-reforca-governo/",
-      "data": "2026-09-25T19:17:37+00:00"
-    },
-    {
-      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
-      "data": "2026-09-07T21:15:00+00:00"
-    },
-    {
-      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
-      "data": "2026-09-07T20:30:00+00:00"
-    },
-    {
-      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
-      "data": "2026-09-07T19:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
-      "data": "2026-09-07T19:00:00+00:00"
-    },
-    {
-      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
-      "data": "2026-09-07T18:15:00+00:00"
-    },
-    {
-      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
-      "data": "2026-09-07T18:00:00+00:00"
+      "link": "https://www.hardware.com.br/hardware-indica/iphone-17e-por-r4-200-vale-a-pena-comparamos-com-o-iphone-16-e-o-iphone-17-para-voce-decidir/",
+      "data": "2026-09-28T14:30:29+00:00"
     }
   ]
 }
