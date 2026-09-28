@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-09-27T21:42:07.406211+00:00",
+  "atualizado_em": "2026-09-28T00:04:29.816404+00:00",
   "noticias": [
+    {
+      "titulo": "8 polêmicas mais estranhas da história da Nintendo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/polemicas-estranhas-da-nintendo/",
+      "data": "2026-09-27T22:00:00+00:00"
+    },
     {
       "titulo": "Kindle x Galaxy Z Fold 8: qual é melhor para ler quadrinhos?",
       "fonte": "Canaltech",
@@ -60,12 +66,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/starfield-nao-fez-sucesso-suficiente-para-ter-sequencia/",
       "data": "2026-09-27T16:41:56+00:00"
-    },
-    {
-      "titulo": "Celular superaquecendo: quando é normal e quando pode danificar a bateria",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celular-superaquecendo-quando-e-normal-e-quando-pode-danificar-a-bateria/",
-      "data": "2026-09-27T16:30:01+00:00"
     },
     {
       "titulo": "Em vez de aposentar notebook antigo, usuário o transforma em servidor pessoal de fotos",
