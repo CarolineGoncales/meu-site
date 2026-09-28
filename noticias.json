@@ -1,53 +1,53 @@
 {
-  "atualizado_em": "2026-09-28T05:37:03.796172+00:00",
+  "atualizado_em": "2026-09-28T12:09:26.040309+00:00",
   "noticias": [
+    {
+      "titulo": "Máscara bizarra mede seu metabolismo pela respiração e dá dicas de treino",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/mascara-bizarra-mede-seu-metabolismo-pela-respiracao-e-da-dicas-de-treino/",
+      "data": "2026-09-28T11:45:50+00:00"
+    },
+    {
+      "titulo": "Adeus ao Copilot+ PC? Microsoft, silenciosamente, mata selo em novos notebooks",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/adeus-ao-copilot-pc-microsoft-silenciosamente-mata-selo-em-novos-notebooks/",
+      "data": "2026-09-28T11:43:23+00:00"
+    },
+    {
+      "titulo": "Campainha usa realidade virtual para mostrar tudo ao redor de quem toca a porta",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/campainha-usa-realidade-virtual-para-mostrar-tudo-ao-redor-de-quem-toca-a-porta/",
+      "data": "2026-09-28T10:40:40+00:00"
+    },
+    {
+      "titulo": "Como funciona o software das urnas eletrônicas?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/software/como-funciona-o-software-das-urnas-eletronicas/",
+      "data": "2026-09-28T10:00:00+00:00"
+    },
+    {
+      "titulo": "Xiaomi 18 pode surpreender com bateria gigante de 7.200 mAh; veja quando chega",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/xiaomi-18-pode-surpreender-com-bateria-gigante-de-7200-mah-veja-quando-chega/",
+      "data": "2026-09-28T09:59:20+00:00"
+    },
+    {
+      "titulo": "Mais pás deixam o ventilador mais forte? O que realmente importa na compra",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/mais-pas-deixam-o-ventilador-mais-forte-o-que-realmente-importa-na-compra/",
+      "data": "2026-09-28T09:30:03+00:00"
+    },
+    {
+      "titulo": "O que um tablet de R$ 800 realmente consegue fazer na prática em 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tablet/o-que-um-tablet-de-r-800-realmente-consegue-fazer-na-pratica-em-2026/",
+      "data": "2026-09-28T09:00:02+00:00"
+    },
     {
       "titulo": "8 polêmicas mais estranhas da história da Nintendo",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/games/polemicas-estranhas-da-nintendo/",
       "data": "2026-09-27T22:00:00+00:00"
-    },
-    {
-      "titulo": "Kindle x Galaxy Z Fold 8: qual é melhor para ler quadrinhos?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/kindle-x-galaxy-z-fold-8-qual-e-melhor-para-ler-quadrinhos/",
-      "data": "2026-09-27T21:00:00+00:00"
-    },
-    {
-      "titulo": "Quanto custaria um Volkswagen Pointer GTI hoje, com a inflação?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/quanto-custaria-um-volkswagen-pointer-gti-hoje-com-a-inflacao/",
-      "data": "2026-09-27T20:03:00+00:00"
-    },
-    {
-      "titulo": "6 diferenças entre emulação comercial e emulação da comunidade",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/diferencas-entre-emulacao-comercial-e-da-comunidade/",
-      "data": "2026-09-27T19:30:02+00:00"
-    },
-    {
-      "titulo": "Carro sem força na subida? O culpado pode ser este recurso \"invisível\"",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/carro-sem-forca-na-subida-o-culpado-pode-ser-este-recurso-invisivel/",
-      "data": "2026-09-27T19:00:04+00:00"
-    },
-    {
-      "titulo": "Quais países além do Brasil usam urna eletrônica?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/quais-paises-tambem-usam-urna-eletronica/",
-      "data": "2026-09-27T18:30:00+00:00"
-    },
-    {
-      "titulo": "O Batman existe no universo de Lanternas?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/o-batman-existe-no-universo-de-lanternas/",
-      "data": "2026-09-27T18:00:00+00:00"
-    },
-    {
-      "titulo": "Kindle Scribe 3 me fez voltar a escrever à mão, mas não aposentou meu Kindle Paperwhite",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/e-reader/kindle-scribe-3-me-fez-voltar-a-escrever-mas-nao-aposentou-meu-kindle-paperwhite/",
-      "data": "2026-09-27T17:30:01+00:00"
     },
     {
       "titulo": "Cadeira gamer por menos de R$360? Confira essa promoção imperdível na Amazon",
@@ -144,6 +144,42 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/carteira-de-identidade-nacional-libera-conta-gov-br-ouro-reforca-governo/",
       "data": "2026-09-25T19:17:37+00:00"
+    },
+    {
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
