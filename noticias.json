@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-09-29T00:00:28.028804+00:00",
+  "atualizado_em": "2026-09-29T05:54:20.997357+00:00",
   "noticias": [
+    {
+      "titulo": "Microsoft transforma Copilot em “super app” de trabalho que promete ser o Office das IAs",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/microsoft-copilot-super-app-2/",
+      "data": "2026-09-29T02:09:37+00:00"
+    },
+    {
+      "titulo": "Emulador de Nintendo Switch roda nativo no PlayStation 5 e bate 60 FPS",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/emulador-de-nintendo-switch-roda-nativo-no-playstation-5-e-bate-60-fps/",
+      "data": "2026-09-29T00:21:00+00:00"
+    },
+    {
+      "titulo": "Bill Gates dispara novo alerta e diz que IA pode causar 1 bilhão de mortes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/bill-gates-dispara-novo-alerta-e-diz-que-ia-pode-causar-1-bilhao-de-mortes/",
+      "data": "2026-09-29T00:01:00+00:00"
+    },
     {
       "titulo": "Elogiado por militares, clássico perturbador de Stanley Kubrick dispara no Top 5 do streaming",
       "fonte": "Canaltech",
@@ -86,22 +104,10 @@
       "data": "2026-09-28T21:02:00+00:00"
     },
     {
-      "titulo": "Recursos do WhatsApp: como enviar fotos em HD, criar enquetes, figurinhas e usar canais",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/recursos-do-whatsapp-como-enviar-fotos-em-hd-criar-enquetes-figurinhas-e-usar-canais/",
-      "data": "2026-09-28T20:55:42+00:00"
-    },
-    {
       "titulo": "Cadeira Ergonômica 3D despenca de preço na Amazon e vira opção perfeita para home office",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/artigos/cadeira-ergonomica-3d-despenca-de-preco-na-amazon/",
       "data": "2026-09-28T20:45:04+00:00"
-    },
-    {
-      "titulo": "Honor lança projetor que ajusta a imagem sozinho e funciona até com luz acesa",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/honor-lanca-projetor-que-ajusta-a-imagem-sozinho-e-funciona-ate-com-luz-acesa/",
-      "data": "2026-09-28T20:39:19+00:00"
     },
     {
       "titulo": "Notebooks bons e baratos: 8 modelos que valem a pena em 2026",
@@ -138,12 +144,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/jensen-huang-diz-que-esquecer-matematica-basica-pode-nao-ser-um-problema-por-causa-da-ia/",
       "data": "2026-09-28T17:34:35+00:00"
-    },
-    {
-      "titulo": "Aproveite: Smart TV Samsung de 75 polegadas recebe 15% de desconto na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/smart-tv-samsung-75-polegadas-desconto/",
-      "data": "2026-09-28T17:22:15+00:00"
     }
   ]
 }
