@@ -1,6 +1,48 @@
 {
-  "atualizado_em": "2026-09-29T05:54:20.997357+00:00",
+  "atualizado_em": "2026-09-29T11:40:58.654154+00:00",
   "noticias": [
+    {
+      "titulo": "5G do Brasil é o mais rápido do mundo pelo terceiro ano seguido",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/5g-do-brasil-e-o-mais-rapido-do-mundo-pelo-terceiro-ano-seguido/",
+      "data": "2026-09-29T11:29:19+00:00"
+    },
+    {
+      "titulo": "Ataques de IA miram ONU e governos e revelam robôs criando língua própria",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ataques-de-ia-miram-onu-e-governos-e-revelam-robos-criando-lingua-propria/",
+      "data": "2026-09-29T11:02:00+00:00"
+    },
+    {
+      "titulo": "Invocação do Mal vai colocar você para investigar assombração na Netflix",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/invocacao-do-mal-vai-colocar-voce-para-investigar-assombracao-na-netflix/",
+      "data": "2026-09-29T11:01:00+00:00"
+    },
+    {
+      "titulo": "Novo jogo dos criadores de Yakuza recria Tupac sem IA e escala Snoop Dogg",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/novo-jogo-dos-criadores-de-yakuza-recria-tupac-sem-ia-e-escala-snoop-dogg/",
+      "data": "2026-09-29T10:30:00+00:00"
+    },
+    {
+      "titulo": "Nova caixa de som se desmonta em 3 partes e espalha o áudio pela casa",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/nova-caixa-de-som-se-desmonta-em-3-partes-e-espalha-o-audio-pela-casa/",
+      "data": "2026-09-29T10:22:45+00:00"
+    },
+    {
+      "titulo": "BYD faz recall de 180 mil carros por problema em peça simples",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/byd-faz-recall-de-180-mil-carros-por-problema-em-peca-simples/",
+      "data": "2026-09-29T10:16:56+00:00"
+    },
+    {
+      "titulo": "Burro e barato: vaza celular de apenas R$ 50 com bateria removível",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/burro-e-barato-vaza-celular-de-apenas-r-50-com-bateria-removivel/",
+      "data": "2026-09-29T09:57:10+00:00"
+    },
     {
       "titulo": "Microsoft transforma Copilot em “super app” de trabalho que promete ser o Office das IAs",
       "fonte": "Hardware.com.br",
@@ -12,18 +54,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/games/emulador-de-nintendo-switch-roda-nativo-no-playstation-5-e-bate-60-fps/",
       "data": "2026-09-29T00:21:00+00:00"
-    },
-    {
-      "titulo": "Bill Gates dispara novo alerta e diz que IA pode causar 1 bilhão de mortes",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/bill-gates-dispara-novo-alerta-e-diz-que-ia-pode-causar-1-bilhao-de-mortes/",
-      "data": "2026-09-29T00:01:00+00:00"
-    },
-    {
-      "titulo": "Elogiado por militares, clássico perturbador de Stanley Kubrick dispara no Top 5 do streaming",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/elogiado-por-militares-classico-perturbador-de-stanley-kubrick-dispara-no-top-5-do-streaming/",
-      "data": "2026-09-28T22:50:04+00:00"
     },
     {
       "titulo": "Claude Sonnet 5.5: Anthropic lança modelo com mais eficiência no uso de tokens",
@@ -38,22 +68,10 @@
       "data": "2026-09-28T22:02:25+00:00"
     },
     {
-      "titulo": "OpenAI prepara nova versão do ChatGPT que nunca dorme e cuida do seu e-mail",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-prepara-nova-versao-do-chatgpt-que-nunca-dorme-e-cuida-do-seu-e-mail/",
-      "data": "2026-09-28T22:00:03+00:00"
-    },
-    {
       "titulo": "Headset Gamer Fuxi-H7 surge com 42% de desconto e vira ótima oportunidade",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/artigos/headset-gamer-fuxi-h7-surge-com-42-de-desconto-e-vira-otima-oportunidade/",
       "data": "2026-09-28T21:54:16+00:00"
-    },
-    {
-      "titulo": "Castlevania: um legado de décadas finalmente voltará ao \"seu lar\"",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/castlevania-um-legado-de-decadas-finalmente-voltara-ao-seu-lar/",
-      "data": "2026-09-28T21:48:00+00:00"
     },
     {
       "titulo": "Melhor notebook Positivo em 2026: 5 modelos básicos para o dia a dia",
@@ -66,12 +84,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/melhor-notebook-lenovo/",
       "data": "2026-09-28T21:26:49+00:00"
-    },
-    {
-      "titulo": "E o processinho? Devs anunciam port nativo de Super Mario Galaxy para PC",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/e-o-processinho-devs-anunciam-port-nativo-de-super-mario-galaxy-para-pc/",
-      "data": "2026-09-28T21:18:00+00:00"
     },
     {
       "titulo": "Galaxy Buds 4 com ANC volta a receber 38% de desconto no Mercado Livre",
@@ -90,18 +102,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware/nvidia-apresenta-tecnologia-para-conter-agentes-de-ia-fora-de-controle/",
       "data": "2026-09-28T21:15:37+00:00"
-    },
-    {
-      "titulo": "Estudante usa bot de IA e invade banco da Microsoft com 17 trilhões de linhas de dados",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/estudante-usa-bot-de-ia-e-invade-banco-da-microsoft-com-17-trilhoes-de-linhas-de-dados/",
-      "data": "2026-09-28T21:03:00+00:00"
-    },
-    {
-      "titulo": "OpenAI paralisa treinos de IA após botão de emergência falhar e agente burlar bloqueios",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-paralisa-treinos-de-ia-apos-botao-de-emergencia-falhar-e-agente-burlar-bloqueios/",
-      "data": "2026-09-28T21:02:00+00:00"
     },
     {
       "titulo": "Cadeira Ergonômica 3D despenca de preço na Amazon e vira opção perfeita para home office",
@@ -144,6 +144,42 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/jensen-huang-diz-que-esquecer-matematica-basica-pode-nao-ser-um-problema-por-causa-da-ia/",
       "data": "2026-09-28T17:34:35+00:00"
+    },
+    {
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
