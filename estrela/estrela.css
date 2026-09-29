@@ -1,0 +1,393 @@
+/* ==========================================
+   CPG — ESTRELA
+   Visual do assistente
+   ========================================== */
+
+#estrela-bot {
+    position: fixed;
+    right: 24px;
+    bottom: 24px;
+    z-index: 99999;
+    font-family: Arial, sans-serif;
+}
+
+/* Botão flutuante */
+
+.estrela-botao {
+    width: 64px;
+    height: 64px;
+    border: 1px solid rgba(35, 190, 255, 0.8);
+    border-radius: 50%;
+    background:
+        linear-gradient(
+            145deg,
+            #071a32,
+            #03101f
+        );
+    color: #23beff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow:
+        0 0 12px rgba(35, 190, 255, 0.45),
+        0 0 30px rgba(0, 174, 255, 0.22);
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease;
+}
+
+.estrela-botao:hover {
+    transform: scale(1.08);
+    box-shadow:
+        0 0 18px rgba(35, 190, 255, 0.65),
+        0 0 40px rgba(0, 174, 255, 0.30);
+}
+
+.estrela-icone {
+    font-size: 28px;
+    line-height: 1;
+}
+
+/* Janela */
+
+.estrela-janela {
+    position: absolute;
+    right: 0;
+    bottom: 78px;
+
+    width: 370px;
+    max-width: calc(100vw - 30px);
+    height: 540px;
+    max-height: calc(100vh - 110px);
+
+    display: flex;
+    flex-direction: column;
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(5, 22, 45, 0.98),
+            rgba(3, 14, 29, 0.98)
+        );
+
+    border: 1px solid rgba(35, 190, 255, 0.65);
+    border-radius: 20px;
+
+    box-shadow:
+        0 20px 60px rgba(0, 0, 0, 0.45),
+        0 0 20px rgba(35, 190, 255, 0.18),
+        0 0 45px rgba(0, 174, 255, 0.10);
+
+    overflow: hidden;
+
+    opacity: 0;
+    visibility: hidden;
+    transform:
+        translateY(15px)
+        scale(0.97);
+
+    transition:
+        opacity 0.25s ease,
+        transform 0.25s ease,
+        visibility 0.25s ease;
+}
+
+.estrela-janela.aberta {
+    opacity: 1;
+    visibility: visible;
+    transform:
+        translateY(0)
+        scale(1);
+}
+
+/* Cabeçalho */
+
+.estrela-cabecalho {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    padding: 16px 18px;
+
+    border-bottom:
+        1px solid rgba(35, 190, 255, 0.22);
+}
+
+.estrela-avatar {
+    width: 42px;
+    height: 42px;
+
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background:
+        rgba(35, 190, 255, 0.08);
+
+    border:
+        1px solid rgba(35, 190, 255, 0.55);
+
+    color: #23beff;
+
+    font-size: 21px;
+
+    box-shadow:
+        0 0 12px rgba(35, 190, 255, 0.22);
+}
+
+.estrela-identidade {
+    flex: 1;
+}
+
+.estrela-nome {
+    margin: 0;
+
+    color: #ffffff;
+
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.estrela-status {
+    margin-top: 3px;
+
+    color: #7ddfff;
+
+    font-size: 12px;
+}
+
+.estrela-fechar {
+    width: 32px;
+    height: 32px;
+
+    border: 0;
+    background: transparent;
+
+    color: #8aa6bb;
+
+    font-size: 22px;
+
+    cursor: pointer;
+
+    border-radius: 8px;
+}
+
+.estrela-fechar:hover {
+    background: rgba(255, 255, 255, 0.06);
+    color: #ffffff;
+}
+
+/* Área das mensagens */
+
+.estrela-mensagens {
+    flex: 1;
+
+    padding: 18px;
+
+    overflow-y: auto;
+
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+    scrollbar-width: thin;
+    scrollbar-color:
+        rgba(35, 190, 255, 0.35)
+        rgba(255, 255, 255, 0.03);
+}
+
+/* Mensagens */
+
+.estrela-mensagem {
+    max-width: 88%;
+
+    padding: 11px 14px;
+
+    border-radius: 14px;
+
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.estrela-mensagem.bot {
+    align-self: flex-start;
+
+    color: #d9f7ff;
+
+    background:
+        rgba(35, 190, 255, 0.08);
+
+    border:
+        1px solid rgba(35, 190, 255, 0.16);
+
+    border-bottom-left-radius: 4px;
+}
+
+.estrela-mensagem.usuario {
+    align-self: flex-end;
+
+    color: #ffffff;
+
+    background:
+        rgba(35, 190, 255, 0.16);
+
+    border:
+        1px solid rgba(35, 190, 255, 0.22);
+
+    border-bottom-right-radius: 4px;
+}
+
+/* Área de entrada */
+
+.estrela-entrada {
+    padding: 12px;
+
+    border-top:
+        1px solid rgba(35, 190, 255, 0.20);
+
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.estrela-input {
+    flex: 1;
+
+    min-width: 0;
+
+    padding: 12px 13px;
+
+    border:
+        1px solid rgba(35, 190, 255, 0.25);
+
+    border-radius: 12px;
+
+    background:
+        rgba(0, 0, 0, 0.18);
+
+    color: #ffffff;
+
+    outline: none;
+
+    font-size: 14px;
+}
+
+.estrela-input::placeholder {
+    color: #7690a3;
+}
+
+.estrela-input:focus {
+    border-color:
+        rgba(35, 190, 255, 0.65);
+
+    box-shadow:
+        0 0 10px rgba(35, 190, 255, 0.10);
+}
+
+.estrela-enviar {
+    width: 44px;
+    height: 44px;
+
+    border: 1px solid rgba(35, 190, 255, 0.55);
+    border-radius: 12px;
+
+    background:
+        rgba(35, 190, 255, 0.10);
+
+    color: #23beff;
+
+    cursor: pointer;
+
+    font-size: 18px;
+}
+
+.estrela-enviar:hover {
+    background:
+        rgba(35, 190, 255, 0.20);
+}
+
+/* Celular */
+
+@media (max-width: 600px) {
+
+    #estrela-bot {
+        right: 16px;
+        bottom: 16px;
+    }
+
+    .estrela-janela {
+        right: 0;
+        bottom: 76px;
+
+        width: calc(100vw - 30px);
+
+        height: min(540px, calc(100vh - 100px));
+
+        border-radius: 18px;
+    }
+
+    .estrela-botao {
+        width: 58px;
+        height: 58px;
+    }
+
+}
+
+/* ================================
+   AÇÕES DO CABEÇALHO
+================================ */
+
+.estrela-acoes {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+
+/* ================================
+   BOTÃO NOVA CONVERSA
+================================ */
+
+.estrela-nova {
+    width: 30px;
+    height: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 1px solid rgba(0, 229, 255, 0.35);
+    border-radius: 8px;
+
+    background: rgba(0, 229, 255, 0.06);
+
+    color: #7eefff;
+
+    font-size: 18px;
+    line-height: 1;
+
+    cursor: pointer;
+
+    transition:
+        background 0.2s ease,
+        border-color 0.2s ease,
+        transform 0.2s ease;
+}
+
+.estrela-nova:hover {
+    background: rgba(0, 229, 255, 0.15);
+    border-color: rgba(0, 229, 255, 0.65);
+
+    transform: rotate(-25deg);
+}
+
+
+/* garante que o botão fechar continue funcionando */
+
+.estrela-acoes .estrela-fechar {
+    margin-left: 0;
+}

@@ -32,6 +32,41 @@
 }
 </style>
 
+<link rel="stylesheet" href="estrela/estrela.css">
+
+
+<style>
+/* =========================================================
+   CPG HOME — NOVA HIERARQUIA / ECOSSISTEMA
+   ========================================================= */
+.cpg-eyebrow{font-size:12px;letter-spacing:3px;color:#27c8f4;font-weight:800;margin:0 0 18px;text-transform:uppercase}
+.cpg-ecossistema,.cpg-projetos{width:100%;max-width:1180px;margin:20px auto 70px;padding:0 20px;box-sizing:border-box}
+.cpg-section-head{text-align:center;max-width:780px;margin:0 auto 30px}
+.cpg-section-head>span{font-size:11px;letter-spacing:3px;color:#27c8f4;font-weight:800}
+.cpg-section-head h2{font-size:34px;line-height:1.15;color:#fff;margin:10px 0 12px;font-weight:800}
+.cpg-section-head h2 strong{color:#27c8f4}
+.cpg-section-head p{color:#c8d5e3;font-size:15px;line-height:1.6;margin:0}
+.cpg-duo{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.cpg-duo-card{display:grid;grid-template-columns:58px 1fr;gap:18px;padding:30px;border:1px solid rgba(35,190,255,.55);border-radius:20px;background:linear-gradient(135deg,rgba(5,22,45,.96),rgba(4,17,34,.92));box-shadow:0 0 20px rgba(0,174,255,.08),0 18px 45px rgba(0,0,0,.25);transition:.25s ease}
+.cpg-duo-card:hover{transform:translateY(-3px);box-shadow:0 0 28px rgba(35,190,255,.15),0 20px 50px rgba(0,0,0,.3)}
+.duo-icon{width:50px;height:50px;border-radius:14px;display:flex;align-items:center;justify-content:center;background:rgba(35,190,255,.10);border:1px solid rgba(35,190,255,.35);color:#27c8f4;font-size:25px}
+.duo-kicker{font-size:10px;letter-spacing:2px;color:#27c8f4;font-weight:800}
+.cpg-duo-card h3{margin:7px 0 8px;color:#fff;font-size:23px}
+.cpg-duo-card p{margin:0;color:#cbd8e6;font-size:14px;line-height:1.55}
+.duo-pills{display:flex;flex-wrap:wrap;gap:7px;margin:16px 0 18px}.duo-pills span{font-size:11px;color:#dcecff;border:1px solid rgba(255,255,255,.14);border-radius:999px;padding:5px 9px;background:rgba(255,255,255,.035)}
+.duo-link,.project-link{color:#27c8f4;text-decoration:none;font-size:13px;font-weight:800}.duo-link:hover,.project-link:hover{text-decoration:underline}
+.cpg-learning-journey{display:flex;align-items:center;justify-content:center;gap:9px;margin-top:20px;padding:12px 10px;border-top:1px solid rgba(255,255,255,.09);font-size:10px;letter-spacing:1.3px;font-weight:800;color:#dcecff}.cpg-learning-journey b{color:#27c8f4;font-size:15px}
+.cpg-projetos{margin-top:10px}
+.cpg-project-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:18px}
+.cpg-project-card{grid-column:span 2}
+.cpg-project-card:nth-child(4){grid-column:2 / span 2}
+.cpg-project-card:nth-child(5){grid-column:4 / span 2}
+.cpg-project-card{position:relative;min-height:190px;padding:26px;border:1px solid rgba(35,190,255,.38);border-radius:18px;background:rgba(4,15,31,.75);box-shadow:0 15px 40px rgba(0,0,0,.22);overflow:hidden}.cpg-project-card:before{content:"";position:absolute;left:0;top:0;width:100%;height:2px;background:linear-gradient(90deg,transparent,#27c8f4,transparent);opacity:.7}
+.project-number{font-size:11px;letter-spacing:2px;color:#27c8f4;font-weight:800}.cpg-project-card h3{color:#fff;font-size:24px;margin:10px 0 8px}.cpg-project-card p{color:#bfcddd;font-size:14px;line-height:1.55;margin:0 0 20px}
+.cpg-final-cta{max-width:1180px;margin:15px auto 70px;padding:34px 36px;box-sizing:border-box;border-radius:22px;border:1px solid rgba(35,190,255,.62);background:linear-gradient(135deg,rgba(5,23,45,.98),rgba(4,14,29,.96));box-shadow:0 0 25px rgba(0,174,255,.10),0 20px 55px rgba(0,0,0,.28);display:flex;align-items:center;justify-content:space-between;gap:30px}.cpg-final-cta span{font-size:10px;letter-spacing:2.4px;color:#27c8f4;font-weight:800}.cpg-final-cta h2{margin:8px 0;color:#fff;font-size:28px;line-height:1.15}.cpg-final-cta h2 strong{color:#27c8f4}.cpg-final-cta p{margin:0;color:#c8d5e3;font-size:14px}.cta-actions{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}.cta-primary,.cta-secondary{padding:12px 18px;border-radius:10px;text-decoration:none;font-size:13px;font-weight:800}.cta-primary{background:linear-gradient(135deg,#1bc3f3,#0798df);color:#fff;box-shadow:0 8px 24px rgba(0,165,235,.20)}.cta-secondary{border:1px solid rgba(39,200,244,.5);color:#dff8ff;background:rgba(255,255,255,.03)}
+@media(max-width:850px){.cpg-duo,.cpg-project-grid{grid-template-columns:1fr}.cpg-final-cta{flex-direction:column;align-items:flex-start}.cta-actions{justify-content:flex-start}}
+@media(max-width:600px){.cpg-ecossistema,.cpg-projetos{padding:0 14px;margin-bottom:50px}.cpg-section-head h2{font-size:28px}.cpg-duo-card{grid-template-columns:1fr;padding:24px}.cpg-learning-journey{gap:5px;font-size:8px;letter-spacing:.8px}.cpg-final-cta{margin:10px 14px 50px;padding:26px 22px}.cpg-final-cta h2{font-size:24px}}
+</style>
 </head>
 
 <body
@@ -64,6 +99,8 @@ data-voice="Maravilha. Nós estamos na página principal. Aqui temos informaçõ
 <div class="hero-container">
 
 <div class="hero-text">
+
+<div class="cpg-eyebrow">TECNOLOGIA • EDUCAÇÃO • INOVAÇÃO</div>
 
 <h1>
 Tecnologia para negócios.
@@ -941,6 +978,42 @@ alt="Logo CPG"
 }
 </style>
 
+
+<!-- =========================================================
+     NOVA SEÇÃO — ECOSSISTEMA CPG
+     ========================================================= -->
+<section class="cpg-ecossistema">
+  <div class="cpg-section-head">
+    <span>O ECOSSISTEMA CPG</span>
+    <h2>Uma CPG para quem <strong>constrói</strong> e para quem <strong>aprende</strong>.</h2>
+    <p>Do desafio de uma empresa à evolução profissional de uma pessoa, conectamos tecnologia, conhecimento e prática.</p>
+  </div>
+
+  <div class="cpg-duo">
+    <article class="cpg-duo-card empresa">
+      <div class="duo-icon">◈</div>
+      <div>
+        <span class="duo-kicker">PARA EMPRESAS</span>
+        <h3>Tecnologia aplicada ao negócio</h3>
+        <p>Soluções, dados e projetos pensados para transformar necessidades reais em resultados.</p>
+        <div class="duo-pills"><span>Tecnologia</span><span>Dados</span><span>Projetos</span></div>
+        <a href="contato.html" class="duo-link">Conhecer soluções →</a>
+      </div>
+    </article>
+
+    <article class="cpg-duo-card pessoa">
+      <div class="duo-icon">✦</div>
+      <div>
+        <span class="duo-kicker">PARA PESSOAS</span>
+        <h3>Conhecimento que vira prática</h3>
+        <p>Cursos, trilhas, desafios e certificação para quem quer aprender, evoluir e se preparar para o mercado.</p>
+        <div class="duo-pills"><span>Estude Comigo</span><span>CPG Play</span><span>Certificação</span></div>
+        <a href="estude-comigo.html" class="duo-link">Começar a aprender →</a>
+      </div>
+    </article>
+  </div>
+</section>
+
 <section class="estude-news-layout">
 
 <section class="estude-login-faixa">
@@ -1002,7 +1075,7 @@ alt="Logo CPG"
                             <span>📄</span>
 
                             <div>
-                                Apostilas e<br>
+                                Conteúdos e<br>
                                 Materiais
                             </div>
 
@@ -1014,7 +1087,7 @@ alt="Logo CPG"
                             <span>🏅</span>
 
                             <div>
-                                Acompanhe seu<br>
+                                Prática e<br>
                                 Progresso
                             </div>
 
@@ -1103,6 +1176,29 @@ alt="Logo CPG"
 
 </section>
 
+
+
+<!-- =========================================================
+     NOVA SEÇÃO — TECNOLOGIA QUE A CPG CONSTRÓI
+     ========================================================= -->
+<section class="cpg-projetos">
+  <div class="cpg-section-head">
+    <span>TECNOLOGIA QUE A CPG CONSTRÓI</span>
+    <h2>Não apenas ensinamos tecnologia.<br><strong>Também colocamos em prática.</strong></h2>
+    <p>Projetos e experiências próprias conectam conhecimento, experimentação e aplicação.</p>
+  </div>
+  <div class="cpg-project-grid">
+    <article class="cpg-project-card"><div class="project-number">01</div><h3>CPG Play</h3><p>Desafios e experiências interativas para aprender fazendo.</p><a href="#" class="project-link" onclick="abrirPlayPopup(); return false;">Explorar →</a></article>
+
+    <article class="cpg-project-card"><div class="project-number">02</div><h3>Estude Comigo</h3><p>Capacitação, trilhas, progresso e certificação em um único ambiente.</p><a href="estude-comigo.html" class="project-link">Conhecer →</a></article>
+
+    <article class="cpg-project-card"><div class="project-number">03</div><h3>CPG News</h3><p>Informação atualizada sobre tecnologia, IA, computação e inovação.</p><a href="#painel-noticias" class="project-link">Ler notícias →</a></article>
+
+    <article class="cpg-project-card"><div class="project-number">04</div><h3>Busca Preços</h3><p>Compare preços e descubra onde encontrar os melhores valores.</p><a href="#" class="project-link" onclick="return false;">Mais informações em breve →</a></article>
+
+    <article class="cpg-project-card"><div class="project-number">05</div><h3>CPG Access Júri</h3><p>Uma nova experiência da CPG está chegando para mudar a sua rotina.</p><a href="#" class="project-link" onclick="return false;">Mais informações em breve →</a></article>
+  </div>
+</section>
 
 <!-- =========================================================
      FAIXA DE LOGOS ORIGINAL
@@ -1505,6 +1601,16 @@ onclick="abrirPopup('Gonçales')">
      FOOTER ORIGINAL
 ========================================================= -->
 
+
+<section class="cpg-final-cta">
+  <div>
+    <span>CPG • TECNOLOGIA • CONHECIMENTO</span>
+    <h2>Conhecimento só ganha valor quando<br><strong>vira prática.</strong></h2>
+    <p>Explore a CPG, encontre seu caminho e comece a sua próxima evolução.</p>
+  </div>
+  <div class="cta-actions"><a href="estude-comigo.html" class="cta-primary">Estude Comigo</a><a href="contato.html" class="cta-secondary">Fale com a CPG</a></div>
+</section>
+
 <footer class="footer">
 
 <div class="footer-content">
@@ -1665,6 +1771,34 @@ type="audio/mp4">
 
 
 <script src="noticias.js"></script>
+
+<div id="estrela-container"></div>
+
+<script>
+fetch("estrela/estrela.html")
+    .then(resposta => resposta.text())
+    .then(html => {
+
+        document.getElementById("estrela-container").innerHTML = html;
+
+        const scriptEstrela =
+            document.createElement("script");
+
+        scriptEstrela.src =
+            "estrela/estrela.js";
+
+        document.body.appendChild(scriptEstrela);
+
+    })
+    .catch(erro => {
+
+        console.error(
+            "Erro ao carregar a Estrela:",
+            erro
+        );
+
+    });
+</script>
 
 </body>
 
