@@ -1,35 +1,71 @@
 {
-  "atualizado_em": "2026-09-30T06:05:12.307448+00:00",
+  "atualizado_em": "2026-09-30T12:49:16.779920+00:00",
   "noticias": [
     {
-      "titulo": "3 novos recursos que vão transformar o seu iPhone com o iOS 27.2",
+      "titulo": "“AirTag da Samsung” funciona com iPhone e tem bateria para mais de 2 anos",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/3-novos-recursos-que-vao-transformar-o-seu-iphone-com-o-ios-272/",
-      "data": "2026-09-29T23:02:03+00:00"
+      "link": "https://canaltech.com.br/produtos/airtag-da-samsung-funciona-com-iphone-e-tem-bateria-para-mais-de-2-anos/",
+      "data": "2026-09-30T12:42:31+00:00"
     },
     {
-      "titulo": "Injogável no time vermelho: The Witcher 3 Remastered chega quebrado nas placas AMD",
+      "titulo": "GTA 6 ganha enxurrada de detalhes; veja todas as novidades reveladas",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/injogavel-no-time-vermelho-the-witcher-3-remastered-chega-quebrado-nas-placas-amd/",
-      "data": "2026-09-29T23:02:00+00:00"
+      "link": "https://canaltech.com.br/games/gta-6-ganha-enxurrada-de-detalhes-veja-todas-as-novidades-reveladas/",
+      "data": "2026-09-30T12:35:00+00:00"
+    },
+    {
+      "titulo": "Qual o melhor notebook para carregar e ter praticidade no dia a dia?",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/publieditoriais/qual-o-melhor-notebook-para-carregar-e-ter-praticidade-no-dia-a-dia/",
+      "data": "2026-09-30T12:30:00+00:00"
+    },
+    {
+      "titulo": "Suas fotos podem “desaparecer”: Samsung encerra integração com Microsoft",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/suas-fotos-podem-desaparecer-samsung-encerra-integracao-com-microsoft/",
+      "data": "2026-09-30T12:23:35+00:00"
+    },
+    {
+      "titulo": "Governo pede bloqueio de 5,2 mil sites de bets e manda banir apps de celulares",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/governo-pede-bloqueio-de-52-mil-sites-de-bets-e-manda-banir-apps-de-celulares/",
+      "data": "2026-09-30T12:21:55+00:00"
+    },
+    {
+      "titulo": "Chery e Huawei se juntam para criar \"cópia\" da Ferrari Purosangue",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/chery-e-huawei-se-juntam-para-criar-copia-da-ferrari-purosangue/",
+      "data": "2026-09-30T12:11:00+00:00"
+    },
+    {
+      "titulo": "Novo Kindle vaza com design renovado e tela que parece muito com a do Paperwhite",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/e-reader/novo-kindle-vaza-com-design-renovado-e-tela-que-parece-muito-com-a-do-paperwhite/",
+      "data": "2026-09-30T12:10:55+00:00"
+    },
+    {
+      "titulo": "Por que a EVGA abandonou o mercado de GPUs? Ex-funcionário revela bastidores sombrios",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/por-que-a-evga-abandonou-o-mercado-de-gpus-ex-funcionario-revela-bastidores-sombrios/",
+      "data": "2026-09-30T12:05:01+00:00"
+    },
+    {
+      "titulo": "Golpe da quilometragem? Sistema do Detran \"esconde\" adulteração do hodômetro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/golpe-da-quilometragem-sistema-do-detran-esconde-adulteracao-do-hodometro/",
+      "data": "2026-09-30T11:19:16+00:00"
+    },
+    {
+      "titulo": "Rumor: iPhone Duo enfrenta problemas na produção antes de chegar às lojas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/rumor-iphone-duo-enfrenta-problemas-na-producao-antes-de-chegar-as-lojas/",
+      "data": "2026-09-30T11:06:08+00:00"
     },
     {
       "titulo": "Nova Samsung One UI chega a mais celulares brasileiros",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/nova-samsung-one-ui-chega-a-mais-celulares-brasileiros/",
       "data": "2026-09-29T22:34:16+00:00"
-    },
-    {
-      "titulo": "MacBook Pro passará por redesign brutal com 3 mudanças muito aguardadas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/macbook-pro-passara-por-redesign-brutal-com-3-mudancas-muito-aguardadas/",
-      "data": "2026-09-29T22:08:00+00:00"
-    },
-    {
-      "titulo": "Gemini prepara nova tela flutuante com tarefas e atalhos rápidos sem abrir o app",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-prepara-nova-tela-flutuante-com-tarefas-e-atalhos-rapidos-sem-abrir-o-app/",
-      "data": "2026-09-29T22:06:00+00:00"
     },
     {
       "titulo": "Xbox ganha novo sistema de platina para quem zerar 100% dos games",
@@ -50,34 +86,10 @@
       "data": "2026-09-29T21:36:18+00:00"
     },
     {
-      "titulo": "Apple TV revela novo suspense com serial killer baseado em best-seller",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/apple-tv-revela-novo-suspense-com-serial-killer-baseado-em-best-seller/",
-      "data": "2026-09-29T21:31:00+00:00"
-    },
-    {
-      "titulo": "5 fabricantes detêm quase 80% do mercado de memórias do planeta; veja o ranking",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/5-fabricantes-detem-quase-80-do-mercado-de-memorias-do-planeta-veja-o-ranking/",
-      "data": "2026-09-29T21:07:00+00:00"
-    },
-    {
-      "titulo": "Hackers agora miram roubo de contas de IA para acessar dados sensíveis de empresas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/hackers-agora-miram-roubo-de-contas-de-ia-para-acessar-dados-sensiveis-de-empresas/",
-      "data": "2026-09-29T21:01:00+00:00"
-    },
-    {
       "titulo": "Até um “obrigado” custa caro: Reino Unido pede para funcionários não agradecerem à IA",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/governo-do-reino-unido-nao-agrade-ia/",
       "data": "2026-09-29T20:33:10+00:00"
-    },
-    {
-      "titulo": "Vício em celular? Apple cria guia para ajudar família a reduzir o tempo de tela",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/vicio-em-celular-apple-cria-guia-para-ajudar-familia-a-reduzir-o-tempo-de-tela/",
-      "data": "2026-09-29T20:20:01+00:00"
     },
     {
       "titulo": "Como ver quem não te segue de volta no Instagram",
@@ -98,22 +110,10 @@
       "data": "2026-09-29T20:10:21+00:00"
     },
     {
-      "titulo": "TVs superam PCs e viram novo carrinho de compras",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/tvs-superam-pcs-e-viram-novo-carrinho-de-compras/",
-      "data": "2026-09-29T19:52:40+00:00"
-    },
-    {
       "titulo": "Usuário tem garantia negada após Zotac alegar que prazo não começa no momento da compra",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/zotac-rtx-3060-garantia-negada/",
       "data": "2026-09-29T19:42:35+00:00"
-    },
-    {
-      "titulo": "Mozilla aposta no novo Firefox para conquistar usuários do Chrome",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/mozilla-aposta-no-novo-firefox-para-conquistar-usuarios-do-chrome/",
-      "data": "2026-09-29T19:31:10+00:00"
     },
     {
       "titulo": "Modders fazem DLSS 5 rodar em placas AMD Radeon e desempenho dispara com novas atualizações",
@@ -144,42 +144,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/mousepad-comeca-a-derreter-na-mesa-e-usuario-descobre-causa/",
       "data": "2026-09-29T16:25:26+00:00"
-    },
-    {
-      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
-      "data": "2026-09-07T21:15:00+00:00"
-    },
-    {
-      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
-      "data": "2026-09-07T20:30:00+00:00"
-    },
-    {
-      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
-      "data": "2026-09-07T19:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
-      "data": "2026-09-07T19:00:00+00:00"
-    },
-    {
-      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
-      "data": "2026-09-07T18:15:00+00:00"
-    },
-    {
-      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
-      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
