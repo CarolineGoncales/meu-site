@@ -1,35 +1,137 @@
 {
-  "atualizado_em": "2026-09-30T18:10:54.319946+00:00",
+  "atualizado_em": "2026-09-30T22:25:28.107320+00:00",
   "noticias": [
     {
-      "titulo": "A Leste do Éden: Nova série com Florence Pugh é grande aposta da Netflix; conheça",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/a-leste-do-eden-nova-serie-com-florence-pugh-e-grande-aposta-da-netflix-conheca/",
-      "data": "2026-09-30T18:03:00+00:00"
-    },
-    {
-      "titulo": "Até quando dá para resgatar o dinheiro das bets?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/ate-quando-da-para-resgatar-o-dinheiro-das-bets/",
-      "data": "2026-09-30T18:00:00+00:00"
-    },
-    {
-      "titulo": "Nova pulseira da Xiaomi chega ao Brasil com 50 treinos e bateria de 21 dias",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartwatch/nova-pulseira-da-xiaomi-chega-ao-brasil-com-50-treinos-e-bateria-de-21-dias/",
-      "data": "2026-09-30T17:52:22+00:00"
-    },
-    {
-      "titulo": "Golpistas exploram brecha da Apple e dão fraude de R$ 100 milhões em iPhone 18",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/golpistas-exploram-brecha-da-apple-e-dao-fraude-de-r-100-milhoes-em-iphone-18/",
-      "data": "2026-09-30T17:50:36+00:00"
-    },
-    {
-      "titulo": "McDonald’s usa IA para mudar preços e pressionar franqueados",
+      "titulo": "A Sony quer provas de que você joga PlayStation",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/mcdonalds-usa-ia-para-mudar-precos-e-pressionar-franqueados/",
-      "data": "2026-09-30T17:28:16+00:00"
+      "link": "https://tecnoblog.net/noticias/a-sony-quer-provas-de-que-voce-joga-playstation/",
+      "data": "2026-09-30T22:21:17+00:00"
+    },
+    {
+      "titulo": "Top de linha: Galaxy Book 6 Ultra tem R$ 4 mil OFF na melhor oferta vista",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/top-de-linha-galaxy-book-6-ultra-tem-r-4-mil-off-na-melhor-oferta-vista/",
+      "data": "2026-09-30T22:14:10+00:00"
+    },
+    {
+      "titulo": "Notebook com 16 GB de RAM: 10 modelos para comprar em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-notebook-16-gb/",
+      "data": "2026-09-30T22:12:56+00:00"
+    },
+    {
+      "titulo": "Emulador de PS5 já consegue rodar Marvel’s Wolverine, mas \"cobra\" caro por isso",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/emulador-de-ps5-ja-consegue-rodar-marvels-wolverine-mas-cobra-caro-por-isso/",
+      "data": "2026-09-30T22:04:00+00:00"
+    },
+    {
+      "titulo": "Meta nega que sua nova IA está espionando mensagens dos usuários; entenda polêmica",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/meta-nega-que-sua-nova-ia-esta-espionando-mensagens-dos-usuarios-entenda-polemica/",
+      "data": "2026-09-30T22:03:00+00:00"
+    },
+    {
+      "titulo": "Tom Cruise está irreconhecível em nova comédia do diretor de O Regresso; saiba mais",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/tom-cruise-esta-irreconhecivel-em-nova-comedia-do-diretor-de-o-regresso-saiba-mais/",
+      "data": "2026-09-30T21:02:00+00:00"
+    },
+    {
+      "titulo": "OpenAI freia abertura de capital em nome da segurança; entenda motivos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/openai-freia-abertura-de-capital-em-nome-da-seguranca-entenda-motivos/",
+      "data": "2026-09-30T21:00:00+00:00"
+    },
+    {
+      "titulo": "Moto G77 5G (256 GB) despenca 42% e fica ainda mais acessível",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/moto-g77-5g-256-gb-despenca-42-e-fica-ainda-mais-acessivel/",
+      "data": "2026-09-30T20:39:19+00:00"
+    },
+    {
+      "titulo": "Vivo estreia no ChatGPT com promessa de recarga e 2ª via no futuro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/vivo-estreia-no-chatgpt-com-promessa-de-recarga-e-2-via-no-futuro/",
+      "data": "2026-09-30T20:37:02+00:00"
+    },
+    {
+      "titulo": "Xbox libera função para “digitalizar” discos de jogos; veja como fazer",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/xbox-libera-funcao-para-digitalizar-discos-de-jogos-veja-como-fazer/",
+      "data": "2026-09-30T20:35:45+00:00"
+    },
+    {
+      "titulo": "CEO da XBOX nega boatos em meio a chuva de demissões: \"Não estamos à venda\"",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/ceo-da-xbox-nega-boatos-em-meio-a-chuva-de-demissoes-nao-estamos-a-venda/",
+      "data": "2026-09-30T20:31:14+00:00"
+    },
+    {
+      "titulo": "Celular para crianças troca redes sociais por “missões” fora de casa",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/celular-para-criancas-troca-redes-sociais-por-missoes-fora-de-casa/",
+      "data": "2026-09-30T20:15:56+00:00"
+    },
+    {
+      "titulo": "ChatGPT quer substituir o Google Docs com o Space; conheça o novo recurso",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-substituir-o-google-docs-com-o-space-conheca-o-novo-recurso/",
+      "data": "2026-09-30T20:09:00+00:00"
+    },
+    {
+      "titulo": "WhatsApp agora permite que pais controlem contas de adolescentes",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/whatsapp-agora-permite-que-pais-controlem-contas-de-adolescentes/",
+      "data": "2026-09-30T19:41:34+00:00"
+    },
+    {
+      "titulo": "Para não ficar sem bateria: Power Bank de 10000mAh está 27% OFF na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/power-bank-10000mah-27-off-na-amazon/",
+      "data": "2026-09-30T19:28:57+00:00"
+    },
+    {
+      "titulo": "Como reclamar na Uber? Veja o passo a passo para entrar em contato com o suporte",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/como-fazer-uma-reclamacao-no-uber/",
+      "data": "2026-09-30T19:21:53+00:00"
+    },
+    {
+      "titulo": "Três Resident Evil em um pacote só: Generation Pack para Switch 2 cai de preço na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/tres-resident-evil-cai-de-preco-na-amazon/",
+      "data": "2026-09-30T18:59:06+00:00"
+    },
+    {
+      "titulo": "iPhone 17 (512 GB) com Apple A19 baixa de preço com cupom",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/iphone-17-512-gb-com-apple-a19-baixa-de-preco-com-cupom/",
+      "data": "2026-09-30T18:57:44+00:00"
+    },
+    {
+      "titulo": "Celular, smartwatch e óculos inteligentes: veja o que pode e o que não pode levar para a cabine de votação das Eleições 2026",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/eleicoes-2026-celular-smartwatch-oculos-inteligentes-cabine-votacao/",
+      "data": "2026-09-30T18:43:20+00:00"
+    },
+    {
+      "titulo": "Google passa a pagar sites por conteúdo usado em IA e um publisher recebeu mais de US$ 1 milhão",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/google-passa-a-pagar-sites-por-conteudo-usado-em-ia/",
+      "data": "2026-09-30T18:27:34+00:00"
+    },
+    {
+      "titulo": "Novo bundle do Switch 2 entra em pré-venda com Nintendo Switch Sports Resort e 3 meses de NSO",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/novo-bundle-do-switch-2-entra-em-pre-venda/",
+      "data": "2026-09-30T18:05:21+00:00"
+    },
+    {
+      "titulo": "“3.209 e contando”: colecionador mostra acervo de Blu-rays, DVDs e 4K UHD que continua crescendo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/colecao-3209-midias-fisicas-blu-ray-dvd/",
+      "data": "2026-09-30T17:36:34+00:00"
     },
     {
       "titulo": "Jogador no Canadá compra RTX 5090 na Amazon e recebe apenas o cooler da placa",
@@ -38,112 +140,10 @@
       "data": "2026-09-30T17:20:34+00:00"
     },
     {
-      "titulo": "Xiaomi lança sensor de US$ 6 que sabe quando você abre portas e gavetas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/xiaomi-lanca-sensor-de-us-6-que-sabe-quando-voce-abre-portas-e-gavetas/",
-      "data": "2026-09-30T17:19:40+00:00"
-    },
-    {
-      "titulo": "Microsoft melhora ainda mais a integração entre Linux e Windows",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/microsoft-melhora-ainda-mais-a-integracao-entre-linux-e-windows/",
-      "data": "2026-09-30T17:10:12+00:00"
-    },
-    {
-      "titulo": "Closet digital do Google Fotos ganhará recurso para corrigir erro irritante",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/closet-digital-do-google-fotos-ganhara-recurso-para-corrigir-erro-irritante/",
-      "data": "2026-09-30T17:07:00+00:00"
-    },
-    {
-      "titulo": "Jaecoo 5 chega ao Brasil para tirar sono do T-Cross; veja preços e versões",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/jaecoo-5-chega-ao-brasil-para-tirar-sono-do-t-cross-veja-precos-e-versoes/",
-      "data": "2026-09-30T17:01:00+00:00"
-    },
-    {
       "titulo": "“Qualidade do som insuperável” Galaxy Buds4 Pro com 34% de desconto garante som premium, ANC inteligente e design sofisticado",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/galaxy-buds4-pro-com-33-de-desconto-som-premium-anc-inteligente-e-design-sofisticado/",
       "data": "2026-09-30T17:00:57+00:00"
-    },
-    {
-      "titulo": "Xbox não está à venda, garante Asha Sharma em meio a grande reestruturação",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/xbox-nao-esta-a-venda-entenda-o-plano-de-reestruturacao/",
-      "data": "2026-09-30T16:43:40+00:00"
-    },
-    {
-      "titulo": "Desbloqueio do PS5 e PS5 Pro alcança videogames desatualizados, confira",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/desbloqueio-do-ps5-e-ps5-pro-alcanca-videogames-desatualizados-confira/",
-      "data": "2026-09-30T16:36:41+00:00"
-    },
-    {
-      "titulo": "Pressão da Denuvo funciona: grupo responsável por bypass do DRM anuncia dissolução",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/denuvowo-se-desfaz-apos-acao-legal/",
-      "data": "2026-09-30T16:34:40+00:00"
-    },
-    {
-      "titulo": "Monitor curvo é melhor? Conheça o modelo da Samsung que faz sucesso",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/monitor-curvo-e-melhor-conheca-o-modelo-da-samsung-que-faz-sucesso/",
-      "data": "2026-09-30T16:30:17+00:00"
-    },
-    {
-      "titulo": "TV barata para filmes, séries e jogos? Hisense de 40″ aposta no custo-benefício",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/tv-barata-hisense-de-40-custo-beneficio/",
-      "data": "2026-09-30T16:29:09+00:00"
-    },
-    {
-      "titulo": "Briga dos agentes autônomos: quais as diferenças entre o Muse da Meta e o dots da OpenAI?",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/openai-dots-meta-muse-diferencas/",
-      "data": "2026-09-30T16:11:53+00:00"
-    },
-    {
-      "titulo": "Monitor Samsung Odyssey G5 34″ com tela curva QHD e 165Hz está praticamente metade do preço",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/monitor-samsung-odyssey-g5-34-com-tela-curva-qhd-e-165hz-esta-praticamente-metade-do-preco/",
-      "data": "2026-09-30T16:00:46+00:00"
-    },
-    {
-      "titulo": "Motorola Razr 60 atinge menor preço dos últimos meses em oferta na Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/motorola-razr-60-atinge-menor-preco-dos-ultimos-meses-em-oferta-na-amazon/",
-      "data": "2026-09-30T15:38:55+00:00"
-    },
-    {
-      "titulo": "Samsung lança tablets Galaxy Tab S12 com bateria de até 23 horas",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/samsung-lanca-novos-tablets-premium-com-bateria-de-ate-23-horas/",
-      "data": "2026-09-30T15:36:29+00:00"
-    },
-    {
-      "titulo": "TV TCL C6K com painel MiniLED de 55” cai quase R$ 1 mil no Magalu",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/tv-tcl-c6k-com-painel-miniled-de-55-cai-quase-r-1-mil-no-magalu/",
-      "data": "2026-09-30T15:06:44+00:00"
-    },
-    {
-      "titulo": "Novo Amazon Fire TV Stick 4K traz mais desempenho e melhora controle remoto",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/novo-amazon-fire-tv-stick-4k-traz-mais-desempenho-e-melhora-controle-remoto/",
-      "data": "2026-09-30T14:20:38+00:00"
-    },
-    {
-      "titulo": "Trump anuncia IA própria do governo dos Estados Unidos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/trump-anuncia-nova-ia-propria-do-governo-dos-estados-unidos/",
-      "data": "2026-09-30T14:16:44+00:00"
-    },
-    {
-      "titulo": "Promoção relâmpago: Galaxy Buds 3 FE com ANC despenca 56% com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/promocao-relampago-galaxy-buds-3-fe-com-anc-despenca-56-com-cupom/",
-      "data": "2026-09-30T14:05:47+00:00"
     },
     {
       "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
