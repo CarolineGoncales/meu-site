@@ -1,149 +1,185 @@
 {
-  "atualizado_em": "2026-09-30T12:49:16.779920+00:00",
+  "atualizado_em": "2026-09-30T18:10:54.319946+00:00",
   "noticias": [
     {
-      "titulo": "“AirTag da Samsung” funciona com iPhone e tem bateria para mais de 2 anos",
+      "titulo": "A Leste do Éden: Nova série com Florence Pugh é grande aposta da Netflix; conheça",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/airtag-da-samsung-funciona-com-iphone-e-tem-bateria-para-mais-de-2-anos/",
-      "data": "2026-09-30T12:42:31+00:00"
+      "link": "https://canaltech.com.br/entretenimento/a-leste-do-eden-nova-serie-com-florence-pugh-e-grande-aposta-da-netflix-conheca/",
+      "data": "2026-09-30T18:03:00+00:00"
     },
     {
-      "titulo": "GTA 6 ganha enxurrada de detalhes; veja todas as novidades reveladas",
+      "titulo": "Até quando dá para resgatar o dinheiro das bets?",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/gta-6-ganha-enxurrada-de-detalhes-veja-todas-as-novidades-reveladas/",
-      "data": "2026-09-30T12:35:00+00:00"
+      "link": "https://canaltech.com.br/mercado/ate-quando-da-para-resgatar-o-dinheiro-das-bets/",
+      "data": "2026-09-30T18:00:00+00:00"
     },
     {
-      "titulo": "Qual o melhor notebook para carregar e ter praticidade no dia a dia?",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/publieditoriais/qual-o-melhor-notebook-para-carregar-e-ter-praticidade-no-dia-a-dia/",
-      "data": "2026-09-30T12:30:00+00:00"
-    },
-    {
-      "titulo": "Suas fotos podem “desaparecer”: Samsung encerra integração com Microsoft",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/suas-fotos-podem-desaparecer-samsung-encerra-integracao-com-microsoft/",
-      "data": "2026-09-30T12:23:35+00:00"
-    },
-    {
-      "titulo": "Governo pede bloqueio de 5,2 mil sites de bets e manda banir apps de celulares",
+      "titulo": "Nova pulseira da Xiaomi chega ao Brasil com 50 treinos e bateria de 21 dias",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/governo-pede-bloqueio-de-52-mil-sites-de-bets-e-manda-banir-apps-de-celulares/",
-      "data": "2026-09-30T12:21:55+00:00"
+      "link": "https://canaltech.com.br/smartwatch/nova-pulseira-da-xiaomi-chega-ao-brasil-com-50-treinos-e-bateria-de-21-dias/",
+      "data": "2026-09-30T17:52:22+00:00"
     },
     {
-      "titulo": "Chery e Huawei se juntam para criar \"cópia\" da Ferrari Purosangue",
+      "titulo": "Golpistas exploram brecha da Apple e dão fraude de R$ 100 milhões em iPhone 18",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/chery-e-huawei-se-juntam-para-criar-copia-da-ferrari-purosangue/",
-      "data": "2026-09-30T12:11:00+00:00"
+      "link": "https://canaltech.com.br/smartphone/golpistas-exploram-brecha-da-apple-e-dao-fraude-de-r-100-milhoes-em-iphone-18/",
+      "data": "2026-09-30T17:50:36+00:00"
     },
     {
-      "titulo": "Novo Kindle vaza com design renovado e tela que parece muito com a do Paperwhite",
+      "titulo": "McDonald’s usa IA para mudar preços e pressionar franqueados",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/mcdonalds-usa-ia-para-mudar-precos-e-pressionar-franqueados/",
+      "data": "2026-09-30T17:28:16+00:00"
+    },
+    {
+      "titulo": "Jogador no Canadá compra RTX 5090 na Amazon e recebe apenas o cooler da placa",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/jogador-no-canada-compra-rtx-5090-na-amazon-recebe-apenas-cooler/",
+      "data": "2026-09-30T17:20:34+00:00"
+    },
+    {
+      "titulo": "Xiaomi lança sensor de US$ 6 que sabe quando você abre portas e gavetas",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/e-reader/novo-kindle-vaza-com-design-renovado-e-tela-que-parece-muito-com-a-do-paperwhite/",
-      "data": "2026-09-30T12:10:55+00:00"
+      "link": "https://canaltech.com.br/produtos/xiaomi-lanca-sensor-de-us-6-que-sabe-quando-voce-abre-portas-e-gavetas/",
+      "data": "2026-09-30T17:19:40+00:00"
     },
     {
-      "titulo": "Por que a EVGA abandonou o mercado de GPUs? Ex-funcionário revela bastidores sombrios",
+      "titulo": "Microsoft melhora ainda mais a integração entre Linux e Windows",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/microsoft-melhora-ainda-mais-a-integracao-entre-linux-e-windows/",
+      "data": "2026-09-30T17:10:12+00:00"
+    },
+    {
+      "titulo": "Closet digital do Google Fotos ganhará recurso para corrigir erro irritante",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/por-que-a-evga-abandonou-o-mercado-de-gpus-ex-funcionario-revela-bastidores-sombrios/",
-      "data": "2026-09-30T12:05:01+00:00"
+      "link": "https://canaltech.com.br/apps/closet-digital-do-google-fotos-ganhara-recurso-para-corrigir-erro-irritante/",
+      "data": "2026-09-30T17:07:00+00:00"
     },
     {
-      "titulo": "Golpe da quilometragem? Sistema do Detran \"esconde\" adulteração do hodômetro",
+      "titulo": "Jaecoo 5 chega ao Brasil para tirar sono do T-Cross; veja preços e versões",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/golpe-da-quilometragem-sistema-do-detran-esconde-adulteracao-do-hodometro/",
-      "data": "2026-09-30T11:19:16+00:00"
+      "link": "https://canaltech.com.br/carros/jaecoo-5-chega-ao-brasil-para-tirar-sono-do-t-cross-veja-precos-e-versoes/",
+      "data": "2026-09-30T17:01:00+00:00"
     },
     {
-      "titulo": "Rumor: iPhone Duo enfrenta problemas na produção antes de chegar às lojas",
+      "titulo": "“Qualidade do som insuperável” Galaxy Buds4 Pro com 34% de desconto garante som premium, ANC inteligente e design sofisticado",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/galaxy-buds4-pro-com-33-de-desconto-som-premium-anc-inteligente-e-design-sofisticado/",
+      "data": "2026-09-30T17:00:57+00:00"
+    },
+    {
+      "titulo": "Xbox não está à venda, garante Asha Sharma em meio a grande reestruturação",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/xbox-nao-esta-a-venda-entenda-o-plano-de-reestruturacao/",
+      "data": "2026-09-30T16:43:40+00:00"
+    },
+    {
+      "titulo": "Desbloqueio do PS5 e PS5 Pro alcança videogames desatualizados, confira",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/rumor-iphone-duo-enfrenta-problemas-na-producao-antes-de-chegar-as-lojas/",
-      "data": "2026-09-30T11:06:08+00:00"
+      "link": "https://canaltech.com.br/games/desbloqueio-do-ps5-e-ps5-pro-alcanca-videogames-desatualizados-confira/",
+      "data": "2026-09-30T16:36:41+00:00"
     },
     {
-      "titulo": "Nova Samsung One UI chega a mais celulares brasileiros",
+      "titulo": "Pressão da Denuvo funciona: grupo responsável por bypass do DRM anuncia dissolução",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/denuvowo-se-desfaz-apos-acao-legal/",
+      "data": "2026-09-30T16:34:40+00:00"
+    },
+    {
+      "titulo": "Monitor curvo é melhor? Conheça o modelo da Samsung que faz sucesso",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/monitor-curvo-e-melhor-conheca-o-modelo-da-samsung-que-faz-sucesso/",
+      "data": "2026-09-30T16:30:17+00:00"
+    },
+    {
+      "titulo": "TV barata para filmes, séries e jogos? Hisense de 40″ aposta no custo-benefício",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/tv-barata-hisense-de-40-custo-beneficio/",
+      "data": "2026-09-30T16:29:09+00:00"
+    },
+    {
+      "titulo": "Briga dos agentes autônomos: quais as diferenças entre o Muse da Meta e o dots da OpenAI?",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/openai-dots-meta-muse-diferencas/",
+      "data": "2026-09-30T16:11:53+00:00"
+    },
+    {
+      "titulo": "Monitor Samsung Odyssey G5 34″ com tela curva QHD e 165Hz está praticamente metade do preço",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/monitor-samsung-odyssey-g5-34-com-tela-curva-qhd-e-165hz-esta-praticamente-metade-do-preco/",
+      "data": "2026-09-30T16:00:46+00:00"
+    },
+    {
+      "titulo": "Motorola Razr 60 atinge menor preço dos últimos meses em oferta na Amazon",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/nova-samsung-one-ui-chega-a-mais-celulares-brasileiros/",
-      "data": "2026-09-29T22:34:16+00:00"
+      "link": "https://tecnoblog.net/achados/motorola-razr-60-atinge-menor-preco-dos-ultimos-meses-em-oferta-na-amazon/",
+      "data": "2026-09-30T15:38:55+00:00"
     },
     {
-      "titulo": "Xbox ganha novo sistema de platina para quem zerar 100% dos games",
+      "titulo": "Samsung lança tablets Galaxy Tab S12 com bateria de até 23 horas",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/xbox-ganha-novo-sistema-de-platina-para-quem-zerar-100-dos-games/",
-      "data": "2026-09-29T21:43:33+00:00"
+      "link": "https://tecnoblog.net/noticias/samsung-lanca-novos-tablets-premium-com-bateria-de-ate-23-horas/",
+      "data": "2026-09-30T15:36:29+00:00"
     },
     {
-      "titulo": "Dell 15 com tela de 120 Hz tem R$ 1.000 OFF em até 12x sem juros",
+      "titulo": "TV TCL C6K com painel MiniLED de 55” cai quase R$ 1 mil no Magalu",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/dell-15-com-tela-de-120-hz-tem-r-1-000-off-em-ate-12x-sem-juros/",
-      "data": "2026-09-29T21:43:14+00:00"
+      "link": "https://tecnoblog.net/achados/tv-tcl-c6k-com-painel-miniled-de-55-cai-quase-r-1-mil-no-magalu/",
+      "data": "2026-09-30T15:06:44+00:00"
     },
     {
-      "titulo": "Notebook Lenovo IdeaPad Slim 3 cai de preço com cupom no Mercado Livre",
+      "titulo": "Novo Amazon Fire TV Stick 4K traz mais desempenho e melhora controle remoto",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/notebook-lenovo-ideapad-slim-3-cai-de-preco-com-cupom-no-mercado-livre/",
-      "data": "2026-09-29T21:36:18+00:00"
+      "link": "https://tecnoblog.net/noticias/novo-amazon-fire-tv-stick-4k-traz-mais-desempenho-e-melhora-controle-remoto/",
+      "data": "2026-09-30T14:20:38+00:00"
     },
     {
-      "titulo": "Até um “obrigado” custa caro: Reino Unido pede para funcionários não agradecerem à IA",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/governo-do-reino-unido-nao-agrade-ia/",
-      "data": "2026-09-29T20:33:10+00:00"
-    },
-    {
-      "titulo": "Como ver quem não te segue de volta no Instagram",
+      "titulo": "Trump anuncia IA própria do governo dos Estados Unidos",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/como-ver-quem-nao-me-segue-de-volta-no-instagram/",
-      "data": "2026-09-29T20:13:29+00:00"
+      "link": "https://tecnoblog.net/noticias/trump-anuncia-nova-ia-propria-do-governo-dos-estados-unidos/",
+      "data": "2026-09-30T14:16:44+00:00"
     },
     {
-      "titulo": "Vazam imagens do novo Kindle, com mais cores e botão lateral",
+      "titulo": "Promoção relâmpago: Galaxy Buds 3 FE com ANC despenca 56% com cupom",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/vazam-imagens-do-novo-kindle-com-mais-cores-e-botao-lateral/",
-      "data": "2026-09-29T20:10:40+00:00"
+      "link": "https://tecnoblog.net/achados/promocao-relampago-galaxy-buds-3-fe-com-anc-despenca-56-com-cupom/",
+      "data": "2026-09-30T14:05:47+00:00"
     },
     {
-      "titulo": "Modder faz o improvável e leva GeForce NOW ao Nintendo 3DS",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/modder-faz-o-improvavel-e-leva-geforce-now-ao-nintendo-3ds/",
-      "data": "2026-09-29T20:10:21+00:00"
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
     },
     {
-      "titulo": "Usuário tem garantia negada após Zotac alegar que prazo não começa no momento da compra",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/zotac-rtx-3060-garantia-negada/",
-      "data": "2026-09-29T19:42:35+00:00"
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
     },
     {
-      "titulo": "Modders fazem DLSS 5 rodar em placas AMD Radeon e desempenho dispara com novas atualizações",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/modders-fazem-dlss-5-rodar-em-placas-amd-radeon/",
-      "data": "2026-09-29T19:02:38+00:00"
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
     },
     {
-      "titulo": "Caixa de som gamer AOC com microfone atinge menor preço do ano na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/caixa-de-som-gamer-menor-preco-amazon/",
-      "data": "2026-09-29T18:26:21+00:00"
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
     },
     {
-      "titulo": "RTX 40 pode rodar DLSS Multi Frame Generation com mod não oficial; Veja como fazer",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware/rtx-40-pode-rodar-dlss-multi-frame-generation-com-mod-nao-oficial/",
-      "data": "2026-09-29T17:43:16+00:00"
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
     },
     {
-      "titulo": "Novo desbloqueio do PS5 cobre vários firmwares e inclui o PS5 Pro",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/novo-desbloqueio-do-ps5/",
-      "data": "2026-09-29T17:20:26+00:00"
-    },
-    {
-      "titulo": "Mousepad de usuário começa a “derreter” na mesa e comunidade revela possível causa inusitada",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/mousepad-comeca-a-derreter-na-mesa-e-usuario-descobre-causa/",
-      "data": "2026-09-29T16:25:26+00:00"
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
