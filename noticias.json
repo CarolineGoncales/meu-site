@@ -1,6 +1,60 @@
 {
-  "atualizado_em": "2026-09-29T21:27:48.854281+00:00",
+  "atualizado_em": "2026-09-30T00:38:35.132757+00:00",
   "noticias": [
+    {
+      "titulo": "3 novos recursos que vão transformar o seu iPhone com o iOS 27.2",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/3-novos-recursos-que-vao-transformar-o-seu-iphone-com-o-ios-272/",
+      "data": "2026-09-29T23:02:03+00:00"
+    },
+    {
+      "titulo": "Injogável no time vermelho: The Witcher 3 Remastered chega quebrado nas placas AMD",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/injogavel-no-time-vermelho-the-witcher-3-remastered-chega-quebrado-nas-placas-amd/",
+      "data": "2026-09-29T23:02:00+00:00"
+    },
+    {
+      "titulo": "Nova Samsung One UI chega a mais celulares brasileiros",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/nova-samsung-one-ui-chega-a-mais-celulares-brasileiros/",
+      "data": "2026-09-29T22:34:16+00:00"
+    },
+    {
+      "titulo": "MacBook Pro passará por redesign brutal com 3 mudanças muito aguardadas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/macbook-pro-passara-por-redesign-brutal-com-3-mudancas-muito-aguardadas/",
+      "data": "2026-09-29T22:08:00+00:00"
+    },
+    {
+      "titulo": "Gemini prepara nova tela flutuante com tarefas e atalhos rápidos sem abrir o app",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-prepara-nova-tela-flutuante-com-tarefas-e-atalhos-rapidos-sem-abrir-o-app/",
+      "data": "2026-09-29T22:06:00+00:00"
+    },
+    {
+      "titulo": "Xbox ganha novo sistema de platina para quem zerar 100% dos games",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/xbox-ganha-novo-sistema-de-platina-para-quem-zerar-100-dos-games/",
+      "data": "2026-09-29T21:43:33+00:00"
+    },
+    {
+      "titulo": "Dell 15 com tela de 120 Hz tem R$ 1.000 OFF em até 12x sem juros",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/dell-15-com-tela-de-120-hz-tem-r-1-000-off-em-ate-12x-sem-juros/",
+      "data": "2026-09-29T21:43:14+00:00"
+    },
+    {
+      "titulo": "Notebook Lenovo IdeaPad Slim 3 cai de preço com cupom no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/notebook-lenovo-ideapad-slim-3-cai-de-preco-com-cupom-no-mercado-livre/",
+      "data": "2026-09-29T21:36:18+00:00"
+    },
+    {
+      "titulo": "Apple TV revela novo suspense com serial killer baseado em best-seller",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/apple-tv-revela-novo-suspense-com-serial-killer-baseado-em-best-seller/",
+      "data": "2026-09-29T21:31:00+00:00"
+    },
     {
       "titulo": "5 fabricantes detêm quase 80% do mercado de memórias do planeta; veja o ranking",
       "fonte": "Canaltech",
@@ -12,6 +66,12 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/seguranca/hackers-agora-miram-roubo-de-contas-de-ia-para-acessar-dados-sensiveis-de-empresas/",
       "data": "2026-09-29T21:01:00+00:00"
+    },
+    {
+      "titulo": "Até um “obrigado” custa caro: Reino Unido pede para funcionários não agradecerem à IA",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/governo-do-reino-unido-nao-agrade-ia/",
+      "data": "2026-09-29T20:33:10+00:00"
     },
     {
       "titulo": "Vício em celular? Apple cria guia para ajudar família a reduzir o tempo de tela",
@@ -26,34 +86,16 @@
       "data": "2026-09-29T20:13:29+00:00"
     },
     {
-      "titulo": "Cartões de benefícios: pagamento por aproximação pelo celular avança no Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/cartoes-de-beneficios-pagamento-por-aproximacao-pelo-celular-avanca-no-brasil/",
-      "data": "2026-09-29T20:13:25+00:00"
-    },
-    {
       "titulo": "Vazam imagens do novo Kindle, com mais cores e botão lateral",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/vazam-imagens-do-novo-kindle-com-mais-cores-e-botao-lateral/",
       "data": "2026-09-29T20:10:40+00:00"
     },
     {
-      "titulo": "BYD derrete preços e vende King pelo valor do Geely EX2 em setembro",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/byd-derrete-precos-e-vende-king-pelo-valor-do-geely-ex2-em-setembro/",
-      "data": "2026-09-29T20:05:03+00:00"
-    },
-    {
-      "titulo": "Novo visual do Firefox dá mais espaço para navegar e traz modo querido de volta",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/novo-visual-do-firefox-da-mais-espaco-para-navegar-e-traz-modo-querido-de-volta/",
-      "data": "2026-09-29T20:04:00+00:00"
-    },
-    {
-      "titulo": "Para evitar cambistas, Sony cria \"loteria\" inusitada para liberar venda do PS5 Pro",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/para-evitar-cambistas-sony-cria-loteria-inusitada-para-liberar-venda-do-ps5-pro/",
-      "data": "2026-09-29T19:58:00+00:00"
+      "titulo": "Modder faz o improvável e leva GeForce NOW ao Nintendo 3DS",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/modder-faz-o-improvavel-e-leva-geforce-now-ao-nintendo-3ds/",
+      "data": "2026-09-29T20:10:21+00:00"
     },
     {
       "titulo": "TVs superam PCs e viram novo carrinho de compras",
@@ -62,10 +104,10 @@
       "data": "2026-09-29T19:52:40+00:00"
     },
     {
-      "titulo": "Novo CEO da Apple planeja demissões e mudanças profundas na empresa",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/novo-ceo-da-apple-planeja-demissoes-e-mudancas-profundas-na-empresa/",
-      "data": "2026-09-29T19:44:07+00:00"
+      "titulo": "Usuário tem garantia negada após Zotac alegar que prazo não começa no momento da compra",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/zotac-rtx-3060-garantia-negada/",
+      "data": "2026-09-29T19:42:35+00:00"
     },
     {
       "titulo": "Mozilla aposta no novo Firefox para conquistar usuários do Chrome",
@@ -74,22 +116,10 @@
       "data": "2026-09-29T19:31:10+00:00"
     },
     {
-      "titulo": "AMD compra startup de IA que cria mundos 3D por R$ 43 bilhões",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/amd-compra-startup-de-ia-que-cria-mundos-3d-por-r-43-bilhoes/",
-      "data": "2026-09-29T19:04:45+00:00"
-    },
-    {
       "titulo": "Modders fazem DLSS 5 rodar em placas AMD Radeon e desempenho dispara com novas atualizações",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/modders-fazem-dlss-5-rodar-em-placas-amd-radeon/",
       "data": "2026-09-29T19:02:38+00:00"
-    },
-    {
-      "titulo": "Anthropic gasta mais dinheiro do que fatura para bancar IA",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/anthropic-gasta-mais-dinheiro-do-que-fatura-para-bancar-ia/",
-      "data": "2026-09-29T18:53:37+00:00"
     },
     {
       "titulo": "Caixa de som gamer AOC com microfone atinge menor preço do ano na Amazon",
@@ -98,22 +128,10 @@
       "data": "2026-09-29T18:26:21+00:00"
     },
     {
-      "titulo": "Mapa? Não: 90% dos brasileiros priorizam internet em viagens",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/mapa-nao-90-dos-brasileiros-priorizam-internet-em-viagens/",
-      "data": "2026-09-29T18:20:16+00:00"
-    },
-    {
       "titulo": "RTX 40 pode rodar DLSS Multi Frame Generation com mod não oficial; Veja como fazer",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware/rtx-40-pode-rodar-dlss-multi-frame-generation-com-mod-nao-oficial/",
       "data": "2026-09-29T17:43:16+00:00"
-    },
-    {
-      "titulo": "Melhor notebook custo-benefício: 7 modelos para comprar em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-notebook-custo-beneficio-7-modelos-para-comprar-em-2026/",
-      "data": "2026-09-29T17:31:13+00:00"
     },
     {
       "titulo": "Novo desbloqueio do PS5 cobre vários firmwares e inclui o PS5 Pro",
@@ -128,22 +146,40 @@
       "data": "2026-09-29T16:25:26+00:00"
     },
     {
-      "titulo": "Por menos de R$ 160, este controle da 8BitDo é difícil de ignorar para quem joga no PC",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/controle-da-8bitdo-por-menos-de-160/",
-      "data": "2026-09-29T15:53:42+00:00"
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
     },
     {
-      "titulo": "GameSir G7 SE: controle sem drift com 34% de desconto para quem joga no PC",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/gamesir-g7-se-controle-sem-drift-com-34-de-desconto-para-quem-joga-no-pc/",
-      "data": "2026-09-29T15:33:01+00:00"
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
     },
     {
-      "titulo": "“Estou furioso”: usuário diz que Razer cobrou quase o preço de um notebook com RTX 5090 para consertar modelo com RTX 4090",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/razer-cobrou-preco-notebook-rtx-5090-consertar-modelo-com-rtx-4090/",
-      "data": "2026-09-29T15:25:04+00:00"
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
