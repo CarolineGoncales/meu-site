@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-09-30T22:25:28.107320+00:00",
+  "atualizado_em": "2026-10-01T01:22:03.462220+00:00",
   "noticias": [
+    {
+      "titulo": "Deepfakes: como saber se um vídeo de candidato é verdadeiro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/deepfakes-como-saber-se-um-video-de-candidato-e-verdadeiro/",
+      "data": "2026-09-30T23:00:00+00:00"
+    },
+    {
+      "titulo": "Melhor notebook Core i5 em 2026: 7 modelos com processador Intel para comprar",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-notebook-core-i5/",
+      "data": "2026-09-30T22:38:17+00:00"
+    },
     {
       "titulo": "A Sony quer provas de que você joga PlayStation",
       "fonte": "Tecnoblog",
@@ -74,10 +86,16 @@
       "data": "2026-09-30T20:15:56+00:00"
     },
     {
-      "titulo": "ChatGPT quer substituir o Google Docs com o Space; conheça o novo recurso",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-substituir-o-google-docs-com-o-space-conheca-o-novo-recurso/",
-      "data": "2026-09-30T20:09:00+00:00"
+      "titulo": "Reddit aperta o cerco contra bots de IA e limita acesso ao “Old Reddit”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/reddit-aperta-o-cerco-contra-bots-de-ia/",
+      "data": "2026-09-30T20:01:36+00:00"
+    },
+    {
+      "titulo": "Usuário quebra limite de overclock da RTX 5070 Ti e passa de 28 para incríveis 39 Gbps de memória",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/geforce-rtx-5070-ti-gddr7-39gbps-overclock/",
+      "data": "2026-09-30T20:01:24+00:00"
     },
     {
       "titulo": "WhatsApp agora permite que pais controlem contas de adolescentes",
@@ -104,12 +122,6 @@
       "data": "2026-09-30T18:59:06+00:00"
     },
     {
-      "titulo": "iPhone 17 (512 GB) com Apple A19 baixa de preço com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/iphone-17-512-gb-com-apple-a19-baixa-de-preco-com-cupom/",
-      "data": "2026-09-30T18:57:44+00:00"
-    },
-    {
       "titulo": "Celular, smartwatch e óculos inteligentes: veja o que pode e o que não pode levar para a cabine de votação das Eleições 2026",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/artigos/eleicoes-2026-celular-smartwatch-oculos-inteligentes-cabine-votacao/",
@@ -132,18 +144,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/colecao-3209-midias-fisicas-blu-ray-dvd/",
       "data": "2026-09-30T17:36:34+00:00"
-    },
-    {
-      "titulo": "Jogador no Canadá compra RTX 5090 na Amazon e recebe apenas o cooler da placa",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/jogador-no-canada-compra-rtx-5090-na-amazon-recebe-apenas-cooler/",
-      "data": "2026-09-30T17:20:34+00:00"
-    },
-    {
-      "titulo": "“Qualidade do som insuperável” Galaxy Buds4 Pro com 34% de desconto garante som premium, ANC inteligente e design sofisticado",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/galaxy-buds4-pro-com-33-de-desconto-som-premium-anc-inteligente-e-design-sofisticado/",
-      "data": "2026-09-30T17:00:57+00:00"
     },
     {
       "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
