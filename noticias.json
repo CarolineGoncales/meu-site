@@ -1,59 +1,125 @@
 {
-  "atualizado_em": "2026-10-02T09:05:36.466224+00:00",
+  "atualizado_em": "2026-10-02T15:54:02.620595+00:00",
   "noticias": [
     {
-      "titulo": "Mod faz o inimaginável e traz DLSS 4.5 para placas de vídeo AMD",
+      "titulo": "Como usar o celular como roteador de Wi-Fi e compartilhar internet com o PC",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/mod-faz-o-inimaginavel-e-traz-dlss-45-para-placas-de-video-amd/",
-      "data": "2026-10-02T00:07:00+00:00"
+      "link": "https://canaltech.com.br/apps/como-usar-o-celular-como-roteador-de-wi-fi-e-compartilhar-internet-com-o-pc/",
+      "data": "2026-10-02T15:49:08+00:00"
     },
     {
-      "titulo": "Micron avisa que crise de memória RAM vai piorar nos próximos anos",
+      "titulo": "IA caloteira: Gemini 4 é pego recusando reembolsos e mentindo para lucrar",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/micron-avisa-que-crise-de-memoria-ram-vai-piorar-nos-proximos-anos/",
-      "data": "2026-10-01T23:06:00+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-caloteira-gemini-4-e-pego-recusando-reembolsos-e-mentindo-para-lucrar/",
+      "data": "2026-10-02T15:12:00+00:00"
     },
     {
-      "titulo": "Melhor Notebook HP: 7 modelos para comprar em 2026",
+      "titulo": "Apple pode lançar câmera residencial com IA (mas que não grava vídeos)",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-notebook-hp/",
-      "data": "2026-10-01T22:16:36+00:00"
+      "link": "https://tecnoblog.net/noticias/apple-pode-lancar-camera-residencial-com-ia-mas-que-nao-grava-videos/",
+      "data": "2026-10-02T14:47:03+00:00"
     },
     {
-      "titulo": "Huawei MatePad SE 11 com tela ampla para leitura cai 50% na Amazon",
+      "titulo": "Perfil da Microsoft no X prometeu volta do Clippy, mas foi uma ação hacker",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/huawei-matepad-se-11-com-tela-ampla-para-leitura-cai-50-na-amazon/",
-      "data": "2026-10-01T22:14:44+00:00"
+      "link": "https://tecnoblog.net/noticias/perfil-da-microsoft-no-x-prometeu-volta-do-clippy-mas-foi-uma-acao-hacker/",
+      "data": "2026-10-02T14:43:18+00:00"
     },
     {
-      "titulo": "Novo PS5 Slim chega mais silencioso e sem risco de vazar metal líquido; conheça",
+      "titulo": "Edits do Instagram ganha IA que faz raio-x dos seus Reels e ensina a reter público",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/novo-ps5-slim-chega-mais-silencioso-e-sem-risco-de-vazar-metal-liquido-conheca/",
-      "data": "2026-10-01T21:45:00+00:00"
+      "link": "https://canaltech.com.br/apps/edits-do-instagram-ganha-ia-que-faz-raio-x-dos-seus-reels-e-ensina-a-reter-publico/",
+      "data": "2026-10-02T14:30:00+00:00"
     },
     {
-      "titulo": "HP lança rival do MacBook Neo com tela OLED e chip Intel",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/hp-lanca-rival-do-macbook-neo-com-tela-oled-e-chip-intel/",
-      "data": "2026-10-01T20:55:02+00:00"
-    },
-    {
-      "titulo": "iPhone 15 (256 GB) volta a cair de preço com cupom exclusivo Amazon Prime",
+      "titulo": "AirPods Pro 3 seguem com a melhor oferta registrada dos últimos três meses",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/iphone-15-256-gb-volta-a-cair-de-preco-com-cupom-exclusivo-amazon-prime/",
-      "data": "2026-10-01T20:54:12+00:00"
+      "link": "https://tecnoblog.net/achados/airpods-pro-3-seguem-com-a-melhor-oferta-registrada-dos-ultimos-tres-meses/",
+      "data": "2026-10-02T14:26:54+00:00"
     },
     {
-      "titulo": "Geladeira cheia ou vazia: qual gasta menos energia?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/geladeira-cheia-ou-vazia-qual-gasta-menos-energia/",
-      "data": "2026-10-01T20:30:02+00:00"
-    },
-    {
-      "titulo": "Galaxy Buds On: Samsung anuncia fone de ouvido em formato de brinco",
+      "titulo": "Custo-benefício: Garmin Forerunner 55 sai por menos da metade do preço",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/galaxy-buds-on-samsung-anuncia-fone-de-ouvido-em-formato-de-brinco/",
-      "data": "2026-10-01T20:19:10+00:00"
+      "link": "https://tecnoblog.net/achados/custo-beneficio-garmin-forerunner-55-sai-por-menos-da-metade-do-preco/",
+      "data": "2026-10-02T14:04:14+00:00"
+    },
+    {
+      "titulo": "Promoção de Primavera do Steam começa com grandes jogos a preço de pinga",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/promocao-de-primavera-do-steam-comeca-com-grandes-jogos-a-preco-de-pinga/",
+      "data": "2026-10-02T14:04:00+00:00"
+    },
+    {
+      "titulo": "Como consultar e pagar a multa por não votar nas Eleições 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/como-consultar-e-pagar-multa-por-nao-votar-nas-eleicoes-2026/",
+      "data": "2026-10-02T14:00:06+00:00"
+    },
+    {
+      "titulo": "Flagra mostra que novo Fiat Argo X é mais parecido com Grande Panda do que esperávamos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/flagra-mostra-que-novo-fiat-argo-x-e-mais-parecido-com-grande-panda-do-que-esperavamos/",
+      "data": "2026-10-02T14:00:02+00:00"
+    },
+    {
+      "titulo": "Nintendo 64 completa 30 anos! Veja como ele mudou a história dos games",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/especiais/nintendo-64-completa-30-anos-veja-como-ele-mudou-a-historia-dos-games/",
+      "data": "2026-10-02T13:40:44+00:00"
+    },
+    {
+      "titulo": "Tablet para criança: Galaxy Tab A11 cai 47% na melhor oferta desde julho",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/tablet-para-crianca-galaxy-tab-a11-cai-47-na-melhor-oferta-desde-julho/",
+      "data": "2026-10-02T13:22:58+00:00"
+    },
+    {
+      "titulo": "DualSense de LISA chega à Amazon e já pode ser reservado no Brasil",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/dualsense-de-lisa-chega-a-amazon-e-ja-pode-ser-reservado-no-brasil/",
+      "data": "2026-10-02T13:04:09+00:00"
+    },
+    {
+      "titulo": "Conversar com Drácula? Audible ganha IA que coloca você para falar com personagens de livros",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/conversar-com-dracula-audible-ganha-ia-que-coloca-voce-para-falar-com-personagens-de-livros/",
+      "data": "2026-10-02T13:03:00+00:00"
+    },
+    {
+      "titulo": "Vídeos curtos, IA e algoritmos: como a desinformação viraliza nas eleições",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/videos-curtos-ia-e-algoritmos-como-a-desinformacao-viraliza-nas-eleicoes/",
+      "data": "2026-10-02T13:00:04+00:00"
+    },
+    {
+      "titulo": "Melhor notebook Acer: 10 modelos para comprar em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-notebook-acer/",
+      "data": "2026-10-02T13:00:00+00:00"
+    },
+    {
+      "titulo": "Galaxy S25 Plus (512 GB) com cupom atinge menor preço em meses",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-com-cupom-atinge-menor-preco-em-meses/",
+      "data": "2026-10-02T12:56:05+00:00"
+    },
+    {
+      "titulo": "Ghost of Yōtei Complete Edition entra em pré-venda na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/ghost-of-yotei-complete-edition-entra-em-pre-venda-na-amazon/",
+      "data": "2026-10-02T12:53:59+00:00"
+    },
+    {
+      "titulo": "PewDiePie revela IA “sem censura” para rodar em PCs domésticos e diz ter sido banido duas vezes pela OpenAI",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/pewdiepie-revela-ia-sem-censura/",
+      "data": "2026-10-02T12:23:40+00:00"
+    },
+    {
+      "titulo": "Um LEGO para dominar todos: Capacete do Sauron está 33% mais barato na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/lego-capacete-do-sauron-33-barato-amazon/",
+      "data": "2026-10-02T12:05:08+00:00"
     },
     {
       "titulo": "Secretário de Saúde dos EUA afirma que IA acabará com a “tirania médica”",
@@ -62,40 +128,10 @@
       "data": "2026-10-01T20:05:35+00:00"
     },
     {
-      "titulo": "SUV da Kia em promoção sai mais barato que rivais de BYD e GWM",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/suv-da-kia-em-promocao-sai-mais-barato-que-rivais-de-byd-e-gwm/",
-      "data": "2026-10-01T20:01:00+00:00"
-    },
-    {
-      "titulo": "Amazon anuncia controle remoto para avançar página no Kindle",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/amazon-anuncia-controle-remoto-para-avancar-de-pagina-no-kindle/",
-      "data": "2026-10-01T19:59:02+00:00"
-    },
-    {
-      "titulo": "XBOX pagou bem menos do que se pensava por \"jogo abandonado\" de Kojima",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/xbox-pagou-bem-menos-do-que-se-pensava-por-jogo-abandonado-de-kojima/",
-      "data": "2026-10-01T19:59:00+00:00"
-    },
-    {
       "titulo": "Cuidado ao comprar Blu-ray: devs do emulador de PS3 alertam sobre “drives falsificados”",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/cuidado-ao-comprar-blu-ray-ps3-alertam/",
       "data": "2026-10-01T19:42:11+00:00"
-    },
-    {
-      "titulo": "TV de 120 Hz vale a pena para quem só assiste Netflix?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/tv-de-120-hz-vale-a-pena-para-quem-so-assiste-netflix/",
-      "data": "2026-10-01T19:30:02+00:00"
-    },
-    {
-      "titulo": "Notebook com Windows 11: 10 modelos atualizados para comprar em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/notebook-com-windows-11/",
-      "data": "2026-10-01T19:07:28+00:00"
     },
     {
       "titulo": "2 jogos estão gratuitos no PC, incluindo o aclamado System Shock 2 Remaster",
@@ -104,46 +140,10 @@
       "data": "2026-10-01T18:50:06+00:00"
     },
     {
-      "titulo": "Galaxy S26 sofre reajuste e fica até R$ 1.300 mais caro",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/galaxy-s26-sofre-reajuste-e-fica-ate-r-1-300-mais-caro/",
-      "data": "2026-10-01T18:49:37+00:00"
-    },
-    {
       "titulo": "Por menos de R$ 70, caixa de som da inava traz Bluetooth 5.4, RGB e resistência à água",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/artigos/por-menos-de-r-70-caixa-de-som-da-inava/",
       "data": "2026-10-01T18:42:25+00:00"
-    },
-    {
-      "titulo": "MX Master 4: um dos melhores mouses da Logitech está 15% mais barato",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/logitech-mx-master-4-15-mais-barato/",
-      "data": "2026-10-01T18:21:32+00:00"
-    },
-    {
-      "titulo": "Raspberry Pi anuncia mais um reajuste de preços",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/raspberry-pi-anuncia-mais-um-reajuste-de-precos/",
-      "data": "2026-10-01T18:16:45+00:00"
-    },
-    {
-      "titulo": "Dica para o Dia das Crianças: Bitzee, o “tamagotchi” interativo, está com 55% de desconto na Amazon!",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/dica-para-o-dia-das-criancas-bitzee-o-tamagotchi-interativo-esta-com-55-de-desconto-na-amazon/",
-      "data": "2026-10-01T18:00:40+00:00"
-    },
-    {
-      "titulo": "Conheça o Gboard Conveyor Belt: Google cria teclado com esteira que leva as teclas até seus dedos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/gboard-conveyor-belt-teclado-google-japan/",
-      "data": "2026-10-01T17:22:20+00:00"
-    },
-    {
-      "titulo": "Soundcore AeroClip: fone open ear está no menor preço do ano nas 4 cores",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/supera-as-expectativas-soundcore-aeroclipe-traz-sofisticacao-leveza-e-conforto-no-uso/",
-      "data": "2026-10-01T17:00:36+00:00"
     }
   ]
 }
