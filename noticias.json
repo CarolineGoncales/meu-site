@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-10-02T23:52:42.332541+00:00",
+  "atualizado_em": "2026-10-03T02:33:56.426153+00:00",
   "noticias": [
+    {
+      "titulo": "Eleições 2026: Como checar seu local de votação pelo e-Título ou pela internet",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/eleicoes-2026-como-checar-local-de-votacao-e-titulo-ou-internet/",
+      "data": "2026-10-03T00:30:03+00:00"
+    },
     {
       "titulo": "Quais mecanismos de segurança protegem o seu voto na urna eletrônica?",
       "fonte": "Canaltech",
@@ -60,12 +66,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/smartwatch/xiaomi-watch-s5-e-um-smartwatch-perfeito-menos-em-ser-smart/",
       "data": "2026-10-02T21:00:00+00:00"
-    },
-    {
-      "titulo": "Castlevania, Five Nights at Freddy's e mais jogos grátis do fim de semana",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-gratis-do-fim-de-semana-castlevania-five-nights-at-freddys-e-mais/",
-      "data": "2026-10-02T20:59:00+00:00"
     },
     {
       "titulo": "Você sabia? Nem todos os filmes indicados ao Oscar de Melhor Filme podem ser assistidos hoje",
@@ -144,42 +144,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/huawei-mate-90-pro-max-camera-modular-1-polegada-zoom-10x/",
       "data": "2026-10-02T16:20:28+00:00"
-    },
-    {
-      "titulo": "Phil Collins, Travis Scott e mais! Confira os artistas confirmados nas rádios de GTA 6 até agora",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/phil-collins-travis-scott-e-mais-confira-os-artistas-confirmados-nas-radios-de-gta-6-ate-agora/",
-      "data": "2026-09-16T13:15:00+00:00"
-    },
-    {
-      "titulo": "Falha no Telegram Desktop expõe histórico de conversas em arquivos exportados",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-no-telegram-desktop-expoe-historico-de-conversas-em-arquivos-exportados/",
-      "data": "2026-09-16T13:00:00+00:00"
-    },
-    {
-      "titulo": "Logitech começa a vender mouse G305 X Superlight no Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/logitech-comeca-a-vender-mouse-g305-x-superlight-no-brasil/",
-      "data": "2026-09-16T12:45:00+00:00"
-    },
-    {
-      "titulo": "Fire Emblem: Fortune’s Weave melhora fórmula de seus antecessores, mas peca fora da campanha",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/fire-emblem-fortunes-weave-melhora-formula-de-seus-antecessores-mas-peca-fora-da-campanha/",
-      "data": "2026-09-16T12:00:00+00:00"
-    },
-    {
-      "titulo": "Smart TV OLED Samsung: dicas para escolher a ideal para você",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/smart-tv-oled-samsung-dicas-para-escolher-a-ideal-para-voce/",
-      "data": "2026-09-16T11:15:00+00:00"
-    },
-    {
-      "titulo": "Google lança novas IAs para busca por voz no Modo IA e no Gemini",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/google-lanca-novas-ias-para-busca-por-voz-no-modo-ia-e-no-gemini/",
-      "data": "2026-09-16T11:00:00+00:00"
     }
   ]
 }
