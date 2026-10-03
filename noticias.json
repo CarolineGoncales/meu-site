@@ -1,11 +1,59 @@
 {
-  "atualizado_em": "2026-10-03T18:02:23.502008+00:00",
+  "atualizado_em": "2026-10-03T21:30:40.070278+00:00",
   "noticias": [
+    {
+      "titulo": "Como ativar o controle parental para crianças e adolescentes no WhatsApp",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/whatsapp-como-ativar-controle-parental/",
+      "data": "2026-10-03T21:00:02+00:00"
+    },
+    {
+      "titulo": "Economia? Por que alguns carros chineses não têm limpador traseiro?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/economia-por-que-alguns-carros-chineses-nao-tem-limpador-traseiro/",
+      "data": "2026-10-03T20:02:00+00:00"
+    },
+    {
+      "titulo": "Celular de 128 GB ainda vale a pena em 2026? Fizemos as contas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/celular-de-128-gb-ainda-vale-a-pena-em-2026-fizemos-as-contas/",
+      "data": "2026-10-03T19:30:02+00:00"
+    },
+    {
+      "titulo": "10 erros e acertos de Gears of War: E-Day",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/gears-of-war-e-day--erros-e-acertos/",
+      "data": "2026-10-03T19:00:02+00:00"
+    },
+    {
+      "titulo": "NVIDIA aumenta preço do Shield TV Pro em 50% e passa a cobrar US$ 300 por hardware de 2019",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/nvidia-shield-tv-pro-299/",
+      "data": "2026-10-03T18:48:06+00:00"
+    },
+    {
+      "titulo": "A mentira de bilhões: relembre o caso Theranos, escândalo que volta à tona em novo filme",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/relembre-caso-theranos-que-vai-virar-filme/",
+      "data": "2026-10-03T18:30:00+00:00"
+    },
     {
       "titulo": "Como funciona a memória do ChatGPT?",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-chatgpt/",
       "data": "2026-10-03T18:00:00+00:00"
+    },
+    {
+      "titulo": "“O ChatGPT disse que está certo”: trabalhadores enfrentam nova onda de conflitos causados por erros da IA",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/chatgpt-alucinacoes-clientes/",
+      "data": "2026-10-03T17:57:06+00:00"
+    },
+    {
+      "titulo": "Capcom revela REX, uma nova versão da sua engine feita para uma “geração de IA”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/re-engine-capcom-rex-ia/",
+      "data": "2026-10-03T17:02:15+00:00"
     },
     {
       "titulo": "Impressora de fotos vale a pena? 5 melhores modelos para comprar em 2026",
@@ -20,10 +68,22 @@
       "data": "2026-10-03T16:30:00+00:00"
     },
     {
-      "titulo": "3 sinais que o corpo dá de que você está prestes a dormir ao volante",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/3-sinais-que-o-corpo-da-de-que-voce-esta-prestes-a-dormir-ao-volante/",
-      "data": "2026-10-03T16:02:00+00:00"
+      "titulo": "Óculos inteligentes da Samsung podem chegar em novembro com Gemini e até 9 horas de bateria",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/oculos-inteligentes-samsung-novembro-gemini-bateria/",
+      "data": "2026-10-03T16:20:56+00:00"
+    },
+    {
+      "titulo": "Homem reaproveita case de HTPC antigo e monta PC gamer com Ryzen 7 5700X3D e Radeon RX 9070 XT",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/homem-reaproveita-htpc-antigo-pc-gamer-rx-9070-xt/",
+      "data": "2026-10-03T16:20:23+00:00"
+    },
+    {
+      "titulo": "PS5 e PS5 Pro ganham novo desbloqueio: 5 pontos importantes sobre o Relapse",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/ps5-ps5-pro-desbloqueio-relapse/",
+      "data": "2026-10-03T16:12:21+00:00"
     },
     {
       "titulo": "Califórnia proíbe empresas de deixar IA decidir sozinha quem será demitido",
@@ -36,66 +96,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/jensen-huang-destilacao-ia-competicao-nao-roubo/",
       "data": "2026-10-03T15:50:39+00:00"
-    },
-    {
-      "titulo": "Clippy vai retornar? Conta da Microsoft no X é hackeada e usa o clássico mascote para promover golpe de criptomoedas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/clippy-conta-microsoft-x-hackeada/",
-      "data": "2026-10-03T15:38:49+00:00"
-    },
-    {
-      "titulo": "Bebedouro automático com 43% de desconto: entenda como ele pode ajudar no bem-estar e na saúde do seu pet",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/como-um-bebedouro-automatico-pode-ajudar-no-bem-estar-e-na-saude-do-seu-pet/",
-      "data": "2026-10-03T15:30:36+00:00"
-    },
-    {
-      "titulo": "Caos: Agentes de IA publicaram mais de 13 mil imagens internas de empresas no GitHub",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/agentes-ia-vazaram-screenshots-internos-empresas-github/",
-      "data": "2026-10-03T15:00:51+00:00"
-    },
-    {
-      "titulo": "Quanto custaria o Nokia N95 hoje, corrigido pela inflação?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/quanto-custaria-o-nokia-n95-hoje-corrigido-pela-inflacao/",
-      "data": "2026-10-03T15:00:00+00:00"
-    },
-    {
-      "titulo": "NVIDIA lança DGX Spark de 64 GB por US$ 4.999, muito mais caro que o modelo de 128 GB",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/nvidia-dgx-spark-64gb-custa-mais/",
-      "data": "2026-10-03T14:46:44+00:00"
-    },
-    {
-      "titulo": "Jogos de tabuleiro para o Dia das Crianças com descontos imperdíveis na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/jogos-de-tabuleiro-para-o-dia-das-criancas-com-descontos-imperdiveis-na-amazon/",
-      "data": "2026-10-03T14:34:27+00:00"
-    },
-    {
-      "titulo": "Como adicionar instruções personalizadas no ChatGPT?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-personalizadas-no-chatgpt/",
-      "data": "2026-10-03T14:30:03+00:00"
-    },
-    {
-      "titulo": "China é inundada por séries feitas com IA, e o público já começou a cansar",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/series-ia-china-ai-slop-publico-cansa/",
-      "data": "2026-10-03T14:30:01+00:00"
-    },
-    {
-      "titulo": "Cyberpunk Mercenários 2 começa do zero e surpreende com novos protagonistas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/preview-cyberpunk-mercenarios-2/",
-      "data": "2026-10-03T14:00:01+00:00"
-    },
-    {
-      "titulo": "Power bank pode ir na mala despachada? Veja o que é permitido",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/power-bank-pode-ir-na-mala-despachada-veja-o-que-e-permitido/",
-      "data": "2026-10-03T13:30:02+00:00"
     },
     {
       "titulo": "Notebook ultrafino: 6 modelos leves e compactos para comprar em 2026",
