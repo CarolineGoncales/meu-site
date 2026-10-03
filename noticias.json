@@ -1,6 +1,90 @@
 {
-  "atualizado_em": "2026-10-03T14:00:29.684695+00:00",
+  "atualizado_em": "2026-10-03T18:02:23.502008+00:00",
   "noticias": [
+    {
+      "titulo": "Como funciona a memória do ChatGPT?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-chatgpt/",
+      "data": "2026-10-03T18:00:00+00:00"
+    },
+    {
+      "titulo": "Impressora de fotos vale a pena? 5 melhores modelos para comprar em 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/impressora-de-fotos-vale-a-pena-5-melhores-modelos-para-comprar-em-2026/",
+      "data": "2026-10-03T17:00:00+00:00"
+    },
+    {
+      "titulo": "6 detalhes importantes para ver antes de comprar um notebook para jogar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/notebook-gamer-detalhes-importantes-antes-de-comprar/",
+      "data": "2026-10-03T16:30:00+00:00"
+    },
+    {
+      "titulo": "3 sinais que o corpo dá de que você está prestes a dormir ao volante",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/3-sinais-que-o-corpo-da-de-que-voce-esta-prestes-a-dormir-ao-volante/",
+      "data": "2026-10-03T16:02:00+00:00"
+    },
+    {
+      "titulo": "Califórnia proíbe empresas de deixar IA decidir sozinha quem será demitido",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/california-proibe-ia-decidir-demissao-sozinha/",
+      "data": "2026-10-03T16:00:56+00:00"
+    },
+    {
+      "titulo": "CEO da NVIDIA diz que treinar IAs com respostas de modelos rivais faz parte da competição",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/jensen-huang-destilacao-ia-competicao-nao-roubo/",
+      "data": "2026-10-03T15:50:39+00:00"
+    },
+    {
+      "titulo": "Clippy vai retornar? Conta da Microsoft no X é hackeada e usa o clássico mascote para promover golpe de criptomoedas",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/clippy-conta-microsoft-x-hackeada/",
+      "data": "2026-10-03T15:38:49+00:00"
+    },
+    {
+      "titulo": "Bebedouro automático com 43% de desconto: entenda como ele pode ajudar no bem-estar e na saúde do seu pet",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/como-um-bebedouro-automatico-pode-ajudar-no-bem-estar-e-na-saude-do-seu-pet/",
+      "data": "2026-10-03T15:30:36+00:00"
+    },
+    {
+      "titulo": "Caos: Agentes de IA publicaram mais de 13 mil imagens internas de empresas no GitHub",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/agentes-ia-vazaram-screenshots-internos-empresas-github/",
+      "data": "2026-10-03T15:00:51+00:00"
+    },
+    {
+      "titulo": "Quanto custaria o Nokia N95 hoje, corrigido pela inflação?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/quanto-custaria-o-nokia-n95-hoje-corrigido-pela-inflacao/",
+      "data": "2026-10-03T15:00:00+00:00"
+    },
+    {
+      "titulo": "NVIDIA lança DGX Spark de 64 GB por US$ 4.999, muito mais caro que o modelo de 128 GB",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/nvidia-dgx-spark-64gb-custa-mais/",
+      "data": "2026-10-03T14:46:44+00:00"
+    },
+    {
+      "titulo": "Jogos de tabuleiro para o Dia das Crianças com descontos imperdíveis na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/jogos-de-tabuleiro-para-o-dia-das-criancas-com-descontos-imperdiveis-na-amazon/",
+      "data": "2026-10-03T14:34:27+00:00"
+    },
+    {
+      "titulo": "Como adicionar instruções personalizadas no ChatGPT?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-personalizadas-no-chatgpt/",
+      "data": "2026-10-03T14:30:03+00:00"
+    },
+    {
+      "titulo": "China é inundada por séries feitas com IA, e o público já começou a cansar",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/series-ia-china-ai-slop-publico-cansa/",
+      "data": "2026-10-03T14:30:01+00:00"
+    },
     {
       "titulo": "Cyberpunk Mercenários 2 começa do zero e surpreende com novos protagonistas",
       "fonte": "Canaltech",
@@ -12,48 +96,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/produtos/power-bank-pode-ir-na-mala-despachada-veja-o-que-e-permitido/",
       "data": "2026-10-03T13:30:02+00:00"
-    },
-    {
-      "titulo": "Castlevania, Gears of War e mais lançamentos de jogos em outubro de 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/lancamentos-jogos-novos-outubro-2026/",
-      "data": "2026-10-03T13:00:00+00:00"
-    },
-    {
-      "titulo": "30 anos de urna eletrônica: como a tecnologia protege o seu voto",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/30-anos-de-urna-eletronica-como-a-tecnologia-protege-o-seu-voto/",
-      "data": "2026-10-03T12:54:02+00:00"
-    },
-    {
-      "titulo": "Vale a pena fazer jailbreak no Kindle?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/jailbreak-kindle-vale-a-pena/",
-      "data": "2026-10-03T12:30:02+00:00"
-    },
-    {
-      "titulo": "O custo escondido na troca de um carro elétrico: a dança dos wallboxes",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/o-custo-escondido-na-troca-de-um-carro-eletrico-a-danca-dos-wallboxes/",
-      "data": "2026-10-03T12:08:00+00:00"
-    },
-    {
-      "titulo": "Criador do PlayStation diz que games estão estagnados e alerta indústria: “No momento em que perde a curiosidade, acabou”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/criador-do-playstation-diz-que-games-estao-estagnados/",
-      "data": "2026-10-03T12:02:33+00:00"
-    },
-    {
-      "titulo": "TV OLED ainda sofre burn-in em 2026? Qual é o risco real?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/tv-oled-ainda-sofre-burn-in-em-2026-qual-e-o-risco-real/",
-      "data": "2026-10-03T11:00:00+00:00"
-    },
-    {
-      "titulo": "Série do Visão: quando VisionQuest estreia no Disney+?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/serie-do-visao-quando-visionquest-estreia-no-disney/",
-      "data": "2026-10-03T10:30:00+00:00"
     },
     {
       "titulo": "Notebook ultrafino: 6 modelos leves e compactos para comprar em 2026",
@@ -74,12 +116,6 @@
       "data": "2026-10-02T21:17:35+00:00"
     },
     {
-      "titulo": "Você sabia? Nem todos os filmes indicados ao Oscar de Melhor Filme podem ser assistidos hoje",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/entretenimento/filmes-indicados-oscar-melhor-filme-nao-podem-ser-assistidos/",
-      "data": "2026-10-02T20:43:41+00:00"
-    },
-    {
       "titulo": "Notebook Vaio é bom? Conheça os 5 melhores modelos para comprar em 2026",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/melhor-notebook-vaio/",
@@ -98,12 +134,6 @@
       "data": "2026-10-02T20:14:40+00:00"
     },
     {
-      "titulo": "Entusiasta faz inFAMOUS Second Son rodar em 4K no PC com shadPS4 e ajuda do Claude: “Fiz isso em 24 horas”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/entusiasta-faz-infamous-second-son-rodar-em-4k-no-pc/",
-      "data": "2026-10-02T20:04:52+00:00"
-    },
-    {
       "titulo": "Últimas unidades: Huawei Watch Fit 5 Pro tem queda de 43% na Amazon",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/ultimas-unidades-huawei-watch-fit-5-pro-tem-queda-de-43-na-amazon/",
@@ -114,36 +144,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/openai-demite-pesquisadores-por-suposto-vazamento-de-dados/",
       "data": "2026-10-02T19:41:17+00:00"
-    },
-    {
-      "titulo": "Campeonato de Valorant sofre com falhas em mouses e Riot culpa as mesas utilizadas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/valorant-champions-shanghai-mesas-metal-interferencia/",
-      "data": "2026-10-02T19:40:13+00:00"
-    },
-    {
-      "titulo": "“Violência extrema, drogas e mais”: GTA 6 ganha novos detalhes em classificação indicativa",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-ganha-novos-detalhes-em-classificacao-indicativa/",
-      "data": "2026-10-02T18:59:02+00:00"
-    },
-    {
-      "titulo": "Desenvolvedor brasileiro transformou uma TV Box antiga em um mini servidor Linux com Plex, nuvem pessoal e bloqueio de anúncios",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/tv-box-antiga-mini-servidor-linux-plex/",
-      "data": "2026-10-02T17:54:05+00:00"
-    },
-    {
-      "titulo": "Overwatch em Elden Ring? Ferramenta de mod com IA começa a tornar fusões de jogos uma realidade",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/universal-modder-revoluciona-mods/",
-      "data": "2026-10-02T17:05:17+00:00"
-    },
-    {
-      "titulo": "Gamer compra CPU usada e herda banimento do Valorant aplicado ao antigo dono: “Agora todos os meus componentes estão bloqueados”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/gamer-compra-cpu-usada-e-herda-banimento-do-valorant/",
-      "data": "2026-10-02T16:42:19+00:00"
     }
   ]
 }
