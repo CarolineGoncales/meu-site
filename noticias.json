@@ -1,6 +1,30 @@
 {
-  "atualizado_em": "2026-10-04T06:04:33.860663+00:00",
+  "atualizado_em": "2026-10-04T12:35:23.398715+00:00",
   "noticias": [
+    {
+      "titulo": "Por que a OpenAI desistiu dos GPTs personalizados",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-a-openai-desistiu-dos-gpts-personalizados/",
+      "data": "2026-10-04T12:30:00+00:00"
+    },
+    {
+      "titulo": "Posso registrar meu carro em outro estado para pagar menos IPVA?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/posso-registrar-meu-carro-em-outro-estado-para-pagar-menos-ipva/",
+      "data": "2026-10-04T12:04:00+00:00"
+    },
+    {
+      "titulo": "10 clássicos do Super Nintendo que você pode jogar nos consoles atuais",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-classicos-super-nintendo-para-jogar-consoles-atuais/",
+      "data": "2026-10-04T11:00:00+00:00"
+    },
+    {
+      "titulo": "10 HQs indispensáveis do Homem-Aranha para iniciantes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/homem-aranha-hqs-indispensaveis-para-iniciantes/",
+      "data": "2026-10-04T10:30:01+00:00"
+    },
     {
       "titulo": "Verity, A Empregada e mais 5 filmes de suspense com reviravoltas surpreendentes",
       "fonte": "Canaltech",
@@ -26,34 +50,10 @@
       "data": "2026-10-03T21:00:02+00:00"
     },
     {
-      "titulo": "Economia? Por que alguns carros chineses não têm limpador traseiro?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/economia-por-que-alguns-carros-chineses-nao-tem-limpador-traseiro/",
-      "data": "2026-10-03T20:02:00+00:00"
-    },
-    {
-      "titulo": "Celular de 128 GB ainda vale a pena em 2026? Fizemos as contas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celular-de-128-gb-ainda-vale-a-pena-em-2026-fizemos-as-contas/",
-      "data": "2026-10-03T19:30:02+00:00"
-    },
-    {
-      "titulo": "10 erros e acertos de Gears of War: E-Day",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/gears-of-war-e-day--erros-e-acertos/",
-      "data": "2026-10-03T19:00:02+00:00"
-    },
-    {
       "titulo": "NVIDIA aumenta preço do Shield TV Pro: hardware de 2019 está custando 50% a mais",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/nvidia-shield-tv-pro-299/",
       "data": "2026-10-03T18:48:06+00:00"
-    },
-    {
-      "titulo": "A mentira de bilhões: relembre o caso Theranos, escândalo que volta à tona em novo filme",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/relembre-caso-theranos-que-vai-virar-filme/",
-      "data": "2026-10-03T18:30:00+00:00"
     },
     {
       "titulo": "“O ChatGPT disse que está certo”: trabalhadores enfrentam nova onda de conflitos causados por erros da IA",
@@ -144,42 +144,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/openai-demite-pesquisadores-por-suposto-vazamento-de-dados/",
       "data": "2026-10-02T19:41:17+00:00"
-    },
-    {
-      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
-      "data": "2026-09-07T21:15:00+00:00"
-    },
-    {
-      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
-      "data": "2026-09-07T20:30:00+00:00"
-    },
-    {
-      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
-      "data": "2026-09-07T19:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
-      "data": "2026-09-07T19:00:00+00:00"
-    },
-    {
-      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
-      "data": "2026-09-07T18:15:00+00:00"
-    },
-    {
-      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
-      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
