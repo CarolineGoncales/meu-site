@@ -1,6 +1,48 @@
 {
-  "atualizado_em": "2026-10-04T17:08:46.886209+00:00",
+  "atualizado_em": "2026-10-04T20:15:13.896874+00:00",
   "noticias": [
+    {
+      "titulo": "Entenda por que usar pano de microfibra pode destruir o vidro do carro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/entenda-por-que-usar-pano-de-microfibra-pode-destruir-o-vidro-do-carro/",
+      "data": "2026-10-04T20:05:00+00:00"
+    },
+    {
+      "titulo": "JBL Boombox 4: como saber se a caixa de som gigante é original",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/caixa-de-som/jbl-boombox-4-como-saber-se-a-caixa-de-som-gigante-e-original/",
+      "data": "2026-10-04T19:30:03+00:00"
+    },
+    {
+      "titulo": "Quais são as diferenças entre notebooks de entrada, premium e gamer?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/diferencas-entre-notebooks-entrada-premium-e-gamer/",
+      "data": "2026-10-04T19:00:00+00:00"
+    },
+    {
+      "titulo": "De Resident Evil a The Last of Us: o que faz uma adaptação de videogame ser boa?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/de-resident-evil-a-the-last-of-us-o-que-faz-uma-adaptacao-de-videogame-ser-boa/",
+      "data": "2026-10-04T18:30:00+00:00"
+    },
+    {
+      "titulo": "Como migrar GPTs personalizados para plugins no ChatGPT?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-migrar-gpts-personalizados-para-plugins-no-chatgpt/",
+      "data": "2026-10-04T18:00:01+00:00"
+    },
+    {
+      "titulo": "Air fryer ou micro-ondas: qual gasta menos energia para esquentar comida?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/air-fryer-ou-micro-ondas-qual-gasta-menos-energia-para-esquentar-comida/",
+      "data": "2026-10-04T17:30:00+00:00"
+    },
+    {
+      "titulo": "Este é o Freckle, novo celular para crianças não tem redes sociais, YouTube nem navegador e aposta em “missões” no mundo real",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/freckle-celular-criancas-sem-redes-sociais-youtube/",
+      "data": "2026-10-04T17:00:30+00:00"
+    },
     {
       "titulo": "Impressora 3D para renda extra vale a pena? Veja quando ela se paga",
       "fonte": "Canaltech",
@@ -8,10 +50,22 @@
       "data": "2026-10-04T16:30:00+00:00"
     },
     {
+      "titulo": "Nokia N95 roda cena de Resident Evil 4 e reacende críticas à otimização dos jogos modernos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/resident-evil-4-nokia-n95/",
+      "data": "2026-10-04T16:18:31+00:00"
+    },
+    {
       "titulo": "BYD tem caminhão elétrico que roda \"uma vida\" por carga; conheça",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/carros/byd-tem-caminhao-eletrico-que-roda-uma-vida-por-carga-conheca/",
       "data": "2026-10-04T16:05:00+00:00"
+    },
+    {
+      "titulo": "App transforma o iPhone dobrável em um “Walkman” com fitas cassete virtuais e até barulho de botões reais",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/duo-man-iphone-duo-walkman-fita-cassete/",
+      "data": "2026-10-04T16:00:30+00:00"
     },
     {
       "titulo": "Netflix prevê um futuro “pós-console” para a indústria e aposta no cloud gaming",
@@ -32,13 +86,7 @@
       "data": "2026-10-04T15:00:18+00:00"
     },
     {
-      "titulo": "Ventilador de mesa, coluna ou teto: qual refresca mais cada ambiente?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/ventilador-de-mesa-coluna-ou-teto-qual-refresca-mais-cada-ambiente/",
-      "data": "2026-10-04T15:00:06+00:00"
-    },
-    {
-      "titulo": "170 animais, furacões e cidades mais vivas: GTA 6 está tentando resolver um dos maiores problemas dos jogos de mundo aberto",
+      "titulo": "170 espécies de animais, furacões e cidades mais vivas: GTA 6 está tentando resolver um dos maiores problemas dos jogos de mundo aberto",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/artigos/gta-6-mundo-aberto-resolver-um-problema/",
       "data": "2026-10-04T14:30:30+00:00"
@@ -48,54 +96,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/mesa-portatil-para-notebook-com-56-de-desconto-alivia-dor-nas-costas-e-evita-superaquecimento/",
       "data": "2026-10-04T14:30:18+00:00"
-    },
-    {
-      "titulo": "Mod leva path tracing ao GTA 2 e transforma completamente o clássico de 1999",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/gta-2-path-tracing-tempo-real-rtx-remix/",
-      "data": "2026-10-04T14:30:10+00:00"
-    },
-    {
-      "titulo": "Kindle travando? 7 coisas que podem estar causando o problema",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/kindle-travando-o-pode-estar-causando-problema/",
-      "data": "2026-10-04T14:30:02+00:00"
-    },
-    {
-      "titulo": "China apostou bilhões em robôs humanoides, mas investidores agora querem saber se eles conseguem trabalhar de verdade",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/china-robos-humanoides-investidores-cobram-resultados/",
-      "data": "2026-10-04T14:00:45+00:00"
-    },
-    {
-      "titulo": "Por que a Disney domina \"quase sozinha\" o ranking dos filmes de maior bilheteria?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/por-que-disney-domina-ranking-maiores-bilheterias/",
-      "data": "2026-10-04T14:00:00+00:00"
-    },
-    {
-      "titulo": "Robô aspirador WAP W400 cai 51% no preço: varre, aspira e passa pano com controle remoto",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/robo-aspirador-wap-w400-cai-51-no-preco-varre-aspira-e-passa-pano-com-controle-remoto/",
-      "data": "2026-10-04T13:30:13+00:00"
-    },
-    {
-      "titulo": "Quanto custaria um iPod nano hoje, corrigido pela inflação?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/quanto-custaria-um-ipod-nano-hoje-corrigido-pela-inflacao/",
-      "data": "2026-10-04T13:30:01+00:00"
-    },
-    {
-      "titulo": "Como saber quantos anos um notebook vai durar?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/como-saber-quantos-anos-um-notebook-vai-durar/",
-      "data": "2026-10-04T13:00:04+00:00"
-    },
-    {
-      "titulo": "Por que a OpenAI desistiu dos GPTs personalizados",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-a-openai-desistiu-dos-gpts-personalizados/",
-      "data": "2026-10-04T12:30:00+00:00"
     },
     {
       "titulo": "Notebook ultrafino: 6 modelos leves e compactos para comprar em 2026",
