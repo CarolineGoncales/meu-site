@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-10-03T21:30:40.070278+00:00",
+  "atualizado_em": "2026-10-04T00:10:21.558424+00:00",
   "noticias": [
+    {
+      "titulo": "Verity, A Empregada e mais 5 filmes de suspense com reviravoltas surpreendentes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/verity-a-empregada-e-mais-filmes-suspense-com-reviravoltas-surpreendentes/",
+      "data": "2026-10-04T00:00:00+00:00"
+    },
+    {
+      "titulo": "10 jogos que ficaram presos no PlayStation 2",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-presos-no-playstation-2/",
+      "data": "2026-10-03T23:00:00+00:00"
+    },
+    {
+      "titulo": "Rival do Dolphin e mais: Leapmotor vai lançar 3 novos carros no Brasil em 2027",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/rival-do-dolphin-e-mais-leapmotor-vai-lancar-3-novos-carros-no-brasil-em-2027/",
+      "data": "2026-10-03T22:05:01+00:00"
+    },
     {
       "titulo": "Como ativar o controle parental para crianças e adolescentes no WhatsApp",
       "fonte": "Canaltech",
@@ -26,7 +44,7 @@
       "data": "2026-10-03T19:00:02+00:00"
     },
     {
-      "titulo": "NVIDIA aumenta preço do Shield TV Pro em 50% e passa a cobrar US$ 300 por hardware de 2019",
+      "titulo": "NVIDIA aumenta preço do Shield TV Pro: hardware de 2019 está custando 50% a mais",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/nvidia-shield-tv-pro-299/",
       "data": "2026-10-03T18:48:06+00:00"
@@ -36,12 +54,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/entretenimento/relembre-caso-theranos-que-vai-virar-filme/",
       "data": "2026-10-03T18:30:00+00:00"
-    },
-    {
-      "titulo": "Como funciona a memória do ChatGPT?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-chatgpt/",
-      "data": "2026-10-03T18:00:00+00:00"
     },
     {
       "titulo": "“O ChatGPT disse que está certo”: trabalhadores enfrentam nova onda de conflitos causados por erros da IA",
@@ -54,18 +66,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/re-engine-capcom-rex-ia/",
       "data": "2026-10-03T17:02:15+00:00"
-    },
-    {
-      "titulo": "Impressora de fotos vale a pena? 5 melhores modelos para comprar em 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/impressora-de-fotos-vale-a-pena-5-melhores-modelos-para-comprar-em-2026/",
-      "data": "2026-10-03T17:00:00+00:00"
-    },
-    {
-      "titulo": "6 detalhes importantes para ver antes de comprar um notebook para jogar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/notebook-gamer-detalhes-importantes-antes-de-comprar/",
-      "data": "2026-10-03T16:30:00+00:00"
     },
     {
       "titulo": "Óculos inteligentes da Samsung podem chegar em novembro com Gemini e até 9 horas de bateria",
@@ -144,6 +144,42 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/openai-demite-pesquisadores-por-suposto-vazamento-de-dados/",
       "data": "2026-10-02T19:41:17+00:00"
+    },
+    {
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
