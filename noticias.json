@@ -1,11 +1,47 @@
 {
-  "atualizado_em": "2026-10-04T20:15:13.896874+00:00",
+  "atualizado_em": "2026-10-04T23:19:40.183851+00:00",
   "noticias": [
+    {
+      "titulo": "A Blizzard voltou? 5 sinais de que o estúdio está mais vivo do que nunca",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/sinais-de-que-a-blizzard-voltou/",
+      "data": "2026-10-04T23:00:04+00:00"
+    },
+    {
+      "titulo": "Quanto custaria um Nissan Livina hoje, com a inflação?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/quanto-custaria-um-nissan-livina-hoje-com-a-inflacao/",
+      "data": "2026-10-04T22:06:00+00:00"
+    },
+    {
+      "titulo": "Guia completo para substituir os seus Gems pelas novas Skills do Gemini",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/guia-completo-como-substituir-gems-por-skills-gemini/",
+      "data": "2026-10-04T21:00:01+00:00"
+    },
+    {
+      "titulo": "Novo controle da Nacon para PS5 tem tela embutida e permite mixar áudio do celular com o jogo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/nacon-revolution-5-unlimited-controle-ps5/",
+      "data": "2026-10-04T20:39:15+00:00"
+    },
+    {
+      "titulo": "Volante Kalkan G500 ProRacing está com 41% de desconto na Amazon, o menor preço do ano",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/volante-kalkan-g500-proracing-desconto-amazon-menor-preco-ano/",
+      "data": "2026-10-04T20:27:22+00:00"
+    },
     {
       "titulo": "Entenda por que usar pano de microfibra pode destruir o vidro do carro",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/carros/entenda-por-que-usar-pano-de-microfibra-pode-destruir-o-vidro-do-carro/",
       "data": "2026-10-04T20:05:00+00:00"
+    },
+    {
+      "titulo": "Lojas nos EUA começam a exigir que compradores assinem compromisso de não revender GPUs nem enviá-las para fora do país",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/nvidia-rtx-5090-compromisso-nao-revenda/",
+      "data": "2026-10-04T19:33:49+00:00"
     },
     {
       "titulo": "JBL Boombox 4: como saber se a caixa de som gigante é original",
@@ -20,6 +56,12 @@
       "data": "2026-10-04T19:00:00+00:00"
     },
     {
+      "titulo": "Steam Frame ganha até 12% mais autonomia com nova atualização do SteamOS",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/steam-frame-steamos-0-4-3-ate-12pct-bateria/",
+      "data": "2026-10-04T18:36:47+00:00"
+    },
+    {
       "titulo": "De Resident Evil a The Last of Us: o que faz uma adaptação de videogame ser boa?",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/entretenimento/de-resident-evil-a-the-last-of-us-o-que-faz-uma-adaptacao-de-videogame-ser-boa/",
@@ -32,10 +74,10 @@
       "data": "2026-10-04T18:00:01+00:00"
     },
     {
-      "titulo": "Air fryer ou micro-ondas: qual gasta menos energia para esquentar comida?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/air-fryer-ou-micro-ondas-qual-gasta-menos-energia-para-esquentar-comida/",
-      "data": "2026-10-04T17:30:00+00:00"
+      "titulo": "Dia das Crianças: 5 conjuntos LEGO Minecraft incríveis com até 37% de desconto na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/dia-das-criancas-lego-minecraft-desconto-amazon/",
+      "data": "2026-10-04T17:44:46+00:00"
     },
     {
       "titulo": "Este é o Freckle, novo celular para crianças não tem redes sociais, YouTube nem navegador e aposta em “missões” no mundo real",
@@ -44,58 +86,16 @@
       "data": "2026-10-04T17:00:30+00:00"
     },
     {
-      "titulo": "Impressora 3D para renda extra vale a pena? Veja quando ela se paga",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/impressora-3d-para-renda-extra-vale-a-pena-veja-quando-ela-se-paga/",
-      "data": "2026-10-04T16:30:00+00:00"
-    },
-    {
       "titulo": "Nokia N95 roda cena de Resident Evil 4 e reacende críticas à otimização dos jogos modernos",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/resident-evil-4-nokia-n95/",
       "data": "2026-10-04T16:18:31+00:00"
     },
     {
-      "titulo": "BYD tem caminhão elétrico que roda \"uma vida\" por carga; conheça",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/byd-tem-caminhao-eletrico-que-roda-uma-vida-por-carga-conheca/",
-      "data": "2026-10-04T16:05:00+00:00"
-    },
-    {
       "titulo": "App transforma o iPhone dobrável em um “Walkman” com fitas cassete virtuais e até barulho de botões reais",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/duo-man-iphone-duo-walkman-fita-cassete/",
       "data": "2026-10-04T16:00:30+00:00"
-    },
-    {
-      "titulo": "Netflix prevê um futuro “pós-console” para a indústria e aposta no cloud gaming",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/netflix-cloud-gaming-aposta-tv-pos-console/",
-      "data": "2026-10-04T15:41:04+00:00"
-    },
-    {
-      "titulo": "JBL Quantum 950 fica 30% mais barato: áudio 3D, ANC e até 50 horas de bateria",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/jbl-quantum-950-fica-30-mais-barato-audio-3d-anc-e-ate-50-horas-de-bateria/",
-      "data": "2026-10-04T15:30:19+00:00"
-    },
-    {
-      "titulo": "Usuário monta homelab compacto com 3 servidores, NAS de 16 TB e Proxmox",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/homelab-3-servidores-96gb-ram-16tb/",
-      "data": "2026-10-04T15:00:18+00:00"
-    },
-    {
-      "titulo": "170 espécies de animais, furacões e cidades mais vivas: GTA 6 está tentando resolver um dos maiores problemas dos jogos de mundo aberto",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/gta-6-mundo-aberto-resolver-um-problema/",
-      "data": "2026-10-04T14:30:30+00:00"
-    },
-    {
-      "titulo": "Mesa portátil para notebook com 53% de desconto: alivia dor nas costas e evita superaquecimento",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/mesa-portatil-para-notebook-com-56-de-desconto-alivia-dor-nas-costas-e-evita-superaquecimento/",
-      "data": "2026-10-04T14:30:18+00:00"
     },
     {
       "titulo": "Notebook ultrafino: 6 modelos leves e compactos para comprar em 2026",
