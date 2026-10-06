@@ -1,53 +1,107 @@
 {
-  "atualizado_em": "2026-10-06T06:35:36.727583+00:00",
+  "atualizado_em": "2026-10-06T13:43:00.690411+00:00",
   "noticias": [
     {
-      "titulo": "ChatGPT copia o Claude e também começa a \"carimbar\" textos feitos por sua IA",
+      "titulo": "Motorola Razr 60 fica em 12x de R$ 249,99 em oferta imperdível",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-copia-o-claude-e-tambem-comeca-a-carimbar-textos-feitos-por-sua-ia/",
-      "data": "2026-10-06T00:04:00+00:00"
+      "link": "https://canaltech.com.br/smartphone/motorola-razr-60-fica-em-12x-de-r-24999-em-oferta-imperdivel/",
+      "data": "2026-10-06T13:39:03+00:00"
     },
     {
-      "titulo": "Mais leve, mas a que custo? Novo MacBook Pro OLED gera medo de cortes em portas e bateria",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/mais-leve-mas-a-que-custo-novo-macbook-pro-oled-gera-medo-de-cortes-em-portas-e-bateria/",
-      "data": "2026-10-05T23:11:00+00:00"
+      "titulo": "Presente gamer: Nintendo Switch Lite compacto baixa 34% com cupom",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/presente-gamer-nintendo-switch-lite-compacto-baixa-34-com-cupom/",
+      "data": "2026-10-06T13:33:17+00:00"
     },
     {
-      "titulo": "ChatGPT vai ganhar carteira digital para fazer compras por você",
+      "titulo": "The Batman 2 pausa filmagens após saída do diretor; lançamento pode atrasar",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-vai-ganhar-carteira-digital-para-fazer-compras-por-voce/",
-      "data": "2026-10-05T23:02:00+00:00"
+      "link": "https://canaltech.com.br/entretenimento/the-batman-2-pausa-filmagens-apos-saida-do-diretor-lancamento-pode-atrasar/",
+      "data": "2026-10-06T13:31:00+00:00"
     },
     {
-      "titulo": "Gemini ganha botão de mapa para você circular onde quer pesquisar; veja como funciona",
+      "titulo": "ChatGPT no trabalho e estudos: como usar para resumos, e-mails, pesquisas e textos",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-botao-de-mapa-para-voce-circular-onde-quer-pesquisar-veja-como-funciona/",
-      "data": "2026-10-05T22:07:00+00:00"
+      "link": "https://canaltech.com.br/apps/chatgpt-no-trabalho-e-estudos-como-usar-para-resumos-e-mails-pesquisas-e-textos/",
+      "data": "2026-10-06T13:26:54+00:00"
     },
     {
-      "titulo": "Quem são as 3 bruxas misteriosas do novo pôster de Vingadores: Doutor Destino?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/quem-sao-as-3-bruxas-misteriosas-do-novo-poster-de-vingadores-doutor-destino/",
-      "data": "2026-10-05T21:56:00+00:00"
+      "titulo": "iPhone 16 Plus com tela grande chega à melhor oferta em meses",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/iphone-16-plus-com-tela-grande-chega-a-melhor-oferta-em-meses/",
+      "data": "2026-10-06T13:24:27+00:00"
     },
     {
-      "titulo": "Apesar da crise, novo padrão na Steam é de PCs gamer com 32 GB de RAM e CPUs AMD",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/apesar-da-crise-novo-padrao-na-steam-e-de-pcs-gamer-com-32-gb-de-ram-e-cpus-amd/",
-      "data": "2026-10-05T21:05:00+00:00"
+      "titulo": "Globoplay vai exibir anúncios até na tela de login",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/globoplay-vai-exibir-anuncios-na-tela-de-login/",
+      "data": "2026-10-06T13:22:53+00:00"
     },
     {
-      "titulo": "Imagens de abuso infantil criadas por IA explodem e faz autoridades alertarem famílias",
+      "titulo": "Instagram estuda navegação invisível para assinantes espiarem sem deixar rastros",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/imagens-de-abuso-infantil-criadas-por-ia-explodem-e-faz-autoridades-alertarem-familias/",
-      "data": "2026-10-05T21:04:00+00:00"
+      "link": "https://canaltech.com.br/apps/instagram-estuda-navegacao-invisivel-para-assinantes-espiarem-sem-deixar-rastros/",
+      "data": "2026-10-06T13:06:00+00:00"
     },
     {
-      "titulo": "Favelas de 8 estados vão ganhar 4G e 5G após investimento de R$ 73 milhões",
+      "titulo": "Nubank ativa bloqueio de ligações indesejadas no NuCel",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/nubank-ativa-bloqueio-de-ligacoes-indesejadas-no-nucel/",
+      "data": "2026-10-06T13:04:38+00:00"
+    },
+    {
+      "titulo": "Dia das Crianças: PlayStation 5 Slim (825 GB) cai de preço em até 10x sem juros",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/dia-das-criancas-playstation-5-slim-825-gb-cai-de-preco-em-ate-10x-sem-juros/",
+      "data": "2026-10-06T13:03:20+00:00"
+    },
+    {
+      "titulo": "Gree apresenta novo ar-condicionado com IA, Wi-Fi e condensadora horizontal",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/favelas-de-8-estados-vao-ganhar-4g-e-5g-apos-investimento-de-r-73-milhoes/",
-      "data": "2026-10-05T21:03:53+00:00"
+      "link": "https://canaltech.com.br/eletro/gree-apresenta-novo-ar-condicionado-com-ia-wi-fi-e-condensadora-horizontal/",
+      "data": "2026-10-06T13:00:00+00:00"
+    },
+    {
+      "titulo": "Uncharted 5: Ator de Nathan Drake topa novo jogo, mas faz exigência incomum",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/uncharted-5-ator-de-nathan-drake-topa-novo-jogo-mas-faz-exigencia-incomum/",
+      "data": "2026-10-06T12:53:00+00:00"
+    },
+    {
+      "titulo": "Pesadelo sem fim: dono de Intel Raptor Lake relata até 4 trocas de CPU por degradação",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/pesadelo-sem-fim-donos-de-intel-raptor-lake-relatam-ate-4-trocas-de-cpu-por-degradacao/",
+      "data": "2026-10-06T12:37:00+00:00"
+    },
+    {
+      "titulo": "Jogadores se surpreendem com os 30 FPS de GTA 6: “Parece muito mais fluido”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/jogadores-se-surpreendem-com-os-30-fps-de-gta-6/",
+      "data": "2026-10-06T12:36:36+00:00"
+    },
+    {
+      "titulo": "GWM Haval H7 entra em pré-venda no Brasil: veja preço, motor e detalhes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/gwm-haval-h7-entra-em-pre-venda-no-brasil-veja-preco-motor-e-detalhes/",
+      "data": "2026-10-06T12:36:02+00:00"
+    },
+    {
+      "titulo": "GTA 6 está chegando e este PS5 com 2 jogos entrou em oferta na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-ps5-com-2-jogos-entrou-em-oferta/",
+      "data": "2026-10-06T11:55:00+00:00"
+    },
+    {
+      "titulo": "Após queda de Yuzu e Ryujinx, Zelda: Breath of the Wild surge rodando em 4K no PS5",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/zelda-breath-of-the-wild-surge-rodando-em-4k-no-ps5/",
+      "data": "2026-10-06T11:42:10+00:00"
+    },
+    {
+      "titulo": "R$ 58 milhões: governo vai levar fibra a 2 mil CRAS",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/governo-libera-r-58-milhoes-para-levar-fibra-a-2-mil-cras/",
+      "data": "2026-10-06T10:15:08+00:00"
     },
     {
       "titulo": "Kindle Colorsoft (1ª geração) surge com 25% OFF em oferta por 10x sem juros",
@@ -74,12 +128,6 @@
       "data": "2026-10-05T20:04:14+00:00"
     },
     {
-      "titulo": "OpenAI anuncia marca-d’água invisível para textos do ChatGPT",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/openai-anuncia-marca-dagua-invisivel-para-textos-do-chatgpt/",
-      "data": "2026-10-05T19:44:32+00:00"
-    },
-    {
       "titulo": "32 GB de RAM são o novo padrão? Jogadores do Steam fazem upgrade mesmo em meio à crise de memória",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/32gb-ram-supera-16gb-no-steam/",
@@ -92,58 +140,10 @@
       "data": "2026-10-05T19:10:58+00:00"
     },
     {
-      "titulo": "Como saber se a caixa ou o fone da JBL são originais",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/como-saber-se-o-seu-fone-jbl-e-original/",
-      "data": "2026-10-05T18:59:42+00:00"
-    },
-    {
       "titulo": "CEO da OpenAI diz que sociedade precisa aceitar danos colaterais para colher benefícios da IA",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/sam-altman-beneficios-ia-justificam-algumas-coisas-ruins/",
       "data": "2026-10-05T18:56:20+00:00"
-    },
-    {
-      "titulo": "P.T. está voltando: fã reconstrói clássico de Hideo Kojima como port nativo para PC",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/p-t-esta-voltando-fa-reconstroi-classico-de-hideo-kojima-como-port-nativo-para-pc/",
-      "data": "2026-10-05T18:37:35+00:00"
-    },
-    {
-      "titulo": "WhatsApp vai barrar o login em celulares com sistema desatualizado",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/whatsapp-vai-barrar-o-login-em-celulares-com-sistema-operacional-desatualizado/",
-      "data": "2026-10-05T18:28:57+00:00"
-    },
-    {
-      "titulo": "Controle DualShock 4 recebe descontão de 33% na Mega Oferta Amazon Prime",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/controle-dualshock-4-recebe-descontao-de-33-na-mega-oferta-amazon-prime/",
-      "data": "2026-10-05T18:23:02+00:00"
-    },
-    {
-      "titulo": "ChatGPT começa a testar anúncios com imagens",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/chatgpt-comeca-a-testar-anuncios-com-imagens/",
-      "data": "2026-10-05T18:20:05+00:00"
-    },
-    {
-      "titulo": "Presente para crianças: Nintendo Switch OLED alcança o menor preço de 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/presente-para-criancas-nintendo-switch-oled-alcanca-o-menor-preco-de-2026/",
-      "data": "2026-10-05T18:08:00+00:00"
-    },
-    {
-      "titulo": "9 jogos de PS5 com até 58% de desconto na Amazon para turbinar sua biblioteca",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/9-jogos-de-ps5-com-ate-58-de-desconto-na-amazon-para-turbinar-sua-biblioteca/",
-      "data": "2026-10-05T18:00:51+00:00"
-    },
-    {
-      "titulo": "Gemini vai ficar mais limitado para usuários de contas gratuitas",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/gemini-vai-ficar-mais-limitado-para-usuarios-de-contas-gratuitas/",
-      "data": "2026-10-05T17:58:14+00:00"
     }
   ]
 }
