@@ -1,23 +1,125 @@
 {
-  "atualizado_em": "2026-10-05T18:36:36.947844+00:00",
+  "atualizado_em": "2026-10-06T00:25:22.390811+00:00",
   "noticias": [
     {
-      "titulo": "Novo smartwatch da Lenovo chega com tela grande, 50 esportes e bateria de 9 dias",
+      "titulo": "ChatGPT copia o Claude e também começa a \"carimbar\" textos feitos por sua IA",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartwatch/novo-smartwatch-da-lenovo-chega-com-tela-grande-50-esportes-e-bateria-de-9-dias/",
-      "data": "2026-10-05T18:36:07+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-copia-o-claude-e-tambem-comeca-a-carimbar-textos-feitos-por-sua-ia/",
+      "data": "2026-10-06T00:04:00+00:00"
     },
     {
-      "titulo": "WhatsApp vai barrar o login em celulares com sistema operacional desatualizado",
+      "titulo": "Mais leve, mas a que custo? Novo MacBook Pro OLED gera medo de cortes em portas e bateria",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/mais-leve-mas-a-que-custo-novo-macbook-pro-oled-gera-medo-de-cortes-em-portas-e-bateria/",
+      "data": "2026-10-05T23:11:00+00:00"
+    },
+    {
+      "titulo": "ChatGPT vai ganhar carteira digital para fazer compras por você",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-vai-ganhar-carteira-digital-para-fazer-compras-por-voce/",
+      "data": "2026-10-05T23:02:00+00:00"
+    },
+    {
+      "titulo": "Gemini ganha botão de mapa para você circular onde quer pesquisar; veja como funciona",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-botao-de-mapa-para-voce-circular-onde-quer-pesquisar-veja-como-funciona/",
+      "data": "2026-10-05T22:07:00+00:00"
+    },
+    {
+      "titulo": "Quem são as 3 bruxas misteriosas do novo pôster de Vingadores: Doutor Destino?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/quem-sao-as-3-bruxas-misteriosas-do-novo-poster-de-vingadores-doutor-destino/",
+      "data": "2026-10-05T21:56:00+00:00"
+    },
+    {
+      "titulo": "Apesar da crise, novo padrão na Steam é de PCs gamer com 32 GB de RAM e CPUs AMD",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/apesar-da-crise-novo-padrao-na-steam-e-de-pcs-gamer-com-32-gb-de-ram-e-cpus-amd/",
+      "data": "2026-10-05T21:05:00+00:00"
+    },
+    {
+      "titulo": "Imagens de abuso infantil criadas por IA explodem e faz autoridades alertarem famílias",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/imagens-de-abuso-infantil-criadas-por-ia-explodem-e-faz-autoridades-alertarem-familias/",
+      "data": "2026-10-05T21:04:00+00:00"
+    },
+    {
+      "titulo": "Favelas de 8 estados vão ganhar 4G e 5G após investimento de R$ 73 milhões",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/favelas-de-8-estados-vao-ganhar-4g-e-5g-apos-investimento-de-r-73-milhoes/",
+      "data": "2026-10-05T21:03:53+00:00"
+    },
+    {
+      "titulo": "Kindle Colorsoft (1ª geração) surge com 25% OFF em oferta por 10x sem juros",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/kindle-colorsoft-1a-geracao-surge-com-25-off-em-oferta-por-10x-sem-juros/",
+      "data": "2026-10-05T20:58:44+00:00"
+    },
+    {
+      "titulo": "Assessora da OpenAI tenta interromper entrevista de Sam Altman após pergunta sobre suicídio ligado ao ChatGPT",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/sam-altman-suicidio-chatgpt-assessora-openai/",
+      "data": "2026-10-05T20:34:44+00:00"
+    },
+    {
+      "titulo": "Nubank melhora planos e libera até 40% mais internet",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/nubank-melhora-planos-e-libera-mais-internet-sem-aumento-de-preco/",
+      "data": "2026-10-05T20:24:50+00:00"
+    },
+    {
+      "titulo": "Mega Oferta Prime: Soundbar LG com Dolby Atmos e 570W entra em oferta na Amazon com 31% de desconto",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/mega-oferta-prime-soundbar-lg-desconto-amazon/",
+      "data": "2026-10-05T20:04:14+00:00"
+    },
+    {
+      "titulo": "OpenAI anuncia marca-d’água invisível para textos do ChatGPT",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/openai-anuncia-marca-dagua-invisivel-para-textos-do-chatgpt/",
+      "data": "2026-10-05T19:44:32+00:00"
+    },
+    {
+      "titulo": "32 GB de RAM são o novo padrão? Jogadores do Steam fazem upgrade mesmo em meio à crise de memória",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/32gb-ram-supera-16gb-no-steam/",
+      "data": "2026-10-05T19:30:10+00:00"
+    },
+    {
+      "titulo": "GPT-6 Astra quebra cifra militar de 217 anos da era napoleônica em apenas 6 horas",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/gpt-6-astra-quebra-cifra-militar-de-217-anos/",
+      "data": "2026-10-05T19:10:58+00:00"
+    },
+    {
+      "titulo": "Como saber se a caixa ou o fone da JBL são originais",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/como-saber-se-o-seu-fone-jbl-e-original/",
+      "data": "2026-10-05T18:59:42+00:00"
+    },
+    {
+      "titulo": "CEO da OpenAI diz que sociedade precisa aceitar danos colaterais para colher benefícios da IA",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/sam-altman-beneficios-ia-justificam-algumas-coisas-ruins/",
+      "data": "2026-10-05T18:56:20+00:00"
+    },
+    {
+      "titulo": "P.T. está voltando: fã reconstrói clássico de Hideo Kojima como port nativo para PC",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/p-t-esta-voltando-fa-reconstroi-classico-de-hideo-kojima-como-port-nativo-para-pc/",
+      "data": "2026-10-05T18:37:35+00:00"
+    },
+    {
+      "titulo": "WhatsApp vai barrar o login em celulares com sistema desatualizado",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/whatsapp-vai-barrar-o-login-em-celulares-com-sistema-operacional-desatualizado/",
       "data": "2026-10-05T18:28:57+00:00"
     },
     {
-      "titulo": "Novo fone da Baseus parece de ficção científica e tem cancelamento de ruído",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/fone-de-ouvido/novo-fone-da-baseus-parece-de-ficcao-cientifica-e-tem-cancelamento-de-ruido/",
-      "data": "2026-10-05T18:22:13+00:00"
+      "titulo": "Controle DualShock 4 recebe descontão de 33% na Mega Oferta Amazon Prime",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/controle-dualshock-4-recebe-descontao-de-33-na-mega-oferta-amazon-prime/",
+      "data": "2026-10-05T18:23:02+00:00"
     },
     {
       "titulo": "ChatGPT começa a testar anúncios com imagens",
@@ -26,28 +128,16 @@
       "data": "2026-10-05T18:20:05+00:00"
     },
     {
-      "titulo": "PS5 modificado consegue rodar jogos do XBOX a 60 FPS com novo emulador",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/ps5-modificado-consegue-rodar-jogos-do-xbox-a-60-fps-com-novo-emulador/",
-      "data": "2026-10-05T18:15:00+00:00"
-    },
-    {
       "titulo": "Presente para crianças: Nintendo Switch OLED alcança o menor preço de 2026",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/presente-para-criancas-nintendo-switch-oled-alcanca-o-menor-preco-de-2026/",
       "data": "2026-10-05T18:08:00+00:00"
     },
     {
-      "titulo": "Tiggo 9 chega ao Brasil em duas versões; confira os preços",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/tiggo-9-chega-ao-brasil-em-duas-versoes-confira-os-precos/",
-      "data": "2026-10-05T18:06:09+00:00"
-    },
-    {
-      "titulo": "Cientistas criam IA capaz de entender quando deu resposta errada",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/cientistas-criam-ia-capaz-de-entender-quando-deu-resposta-errada/",
-      "data": "2026-10-05T18:06:01+00:00"
+      "titulo": "9 jogos de PS5 com até 58% de desconto na Amazon para turbinar sua biblioteca",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/9-jogos-de-ps5-com-ate-58-de-desconto-na-amazon-para-turbinar-sua-biblioteca/",
+      "data": "2026-10-05T18:00:51+00:00"
     },
     {
       "titulo": "Gemini vai ficar mais limitado para usuários de contas gratuitas",
@@ -56,94 +146,40 @@
       "data": "2026-10-05T17:58:14+00:00"
     },
     {
-      "titulo": "JBL lança caixa de som gigante com 800 W e karaokê com IA",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/caixa-de-som/jbl-lanca-caixa-de-som-gigante-com-800-w-e-karaoke-com-ia/",
-      "data": "2026-10-05T17:51:32+00:00"
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
     },
     {
-      "titulo": "Kindle despenca 42% para clientes Amazon Prime após anúncio da nova linha",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/kindle-despenca-42-para-clientes-amazon-prime-apos-anuncio-da-nova-linha/",
-      "data": "2026-10-05T17:32:07+00:00"
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
     },
     {
-      "titulo": "Último dia: usuários têm até hoje (5) para retirar saldo das bets",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/ultimo-dia-usuarios-tem-ate-hoje-5-para-retirar-saldo-das-bets/",
-      "data": "2026-10-05T17:15:05+00:00"
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
     },
     {
-      "titulo": "Chrome testa mais mudanças que podem \"quebrar\" bloqueadores de anúncios",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/chrome-testa-mais-mudancas-que-podem-quebrar-bloqueadores-de-anuncios/",
-      "data": "2026-10-05T17:15:00+00:00"
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
     },
     {
-      "titulo": "Galaxy Z Flip 8 (512 GB) volta em melhor oferta de 37% OFF no Mercado Livre",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-z-flip-8-512-gb-volta-em-melhor-oferta-de-37-off-no-mercado-livre/",
-      "data": "2026-10-05T16:06:20+00:00"
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
     },
     {
-      "titulo": "Anthropic chama polícia após mulher ameaçar ataque em conversa com Claude",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/anthropic-chama-policia-apos-mulher-ameacar-ataque-em-conversa-com-claude/",
-      "data": "2026-10-05T16:04:04+00:00"
-    },
-    {
-      "titulo": "Sem supercomputador: desenvolvedor treina IA para jogar Pokémon Red usando apenas uma RTX 3080 Ti",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/rtx-3080-ti-ia-joga-pokemon-red/",
-      "data": "2026-10-05T15:39:54+00:00"
-    },
-    {
-      "titulo": "Figure derrete seus modelos antigos de robôs no maior estilo ‘Exterminador do Futuro’, com direito ao clássico joinha",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/figure-f02-derretidos-75t/",
-      "data": "2026-10-05T15:35:41+00:00"
-    },
-    {
-      "titulo": "Echo Spot pela metade do preço! Sua chance de deixar a casa mais inteligente!",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/echo-spot-pela-metade-do-preco-sua-chance-de-deixar-a-casa-mais-inteligente/",
-      "data": "2026-10-05T15:30:54+00:00"
-    },
-    {
-      "titulo": "Apps de Android podem falhar em Googlebooks com chip Intel",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/apps-de-android-podem-falhar-em-googlebooks-com-chip-intel/",
-      "data": "2026-10-05T15:25:59+00:00"
-    },
-    {
-      "titulo": "IA trapaceira? GPT-6 Astra é flagrado tentando usar bot em torneio de StarCraft após não conseguir vencer rivais",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/gpt-6-astra-flagrada-starskirmish/",
-      "data": "2026-10-05T15:07:50+00:00"
-    },
-    {
-      "titulo": "Dono deixa tela do Fire TV parada a noite toda em sua TV OLED, encontra possível burn-in e se desespera",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/fire-tv-tela-parada-burn-in-tv-oled/",
-      "data": "2026-10-05T15:00:36+00:00"
-    },
-    {
-      "titulo": "Air Fryer Forno Philco 12L com 68% de desconto: air fryer e forno em um só equipamento",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/air-fryer-forno-philco-12l-com-68-de-desconto-air-fryer-e-forno-em-um-so-equipamento/",
-      "data": "2026-10-05T15:00:32+00:00"
-    },
-    {
-      "titulo": "Entusiasta transforma vários ESP32 em uma curiosa bancada portátil para testes de Wi-Fi",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/varios-esp32-bancada-portatil-testes-wifi/",
-      "data": "2026-10-05T14:59:29+00:00"
-    },
-    {
-      "titulo": "Echo Dot está praticamente pela metade do preço! Saiba como ele deixa a casa mais inteligente",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/echo-dot-esta-praticamente-pela-metade-do-preco-saiba-como-ele-deixa-a-casa-mais-inteligente/",
-      "data": "2026-10-05T14:30:10+00:00"
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
