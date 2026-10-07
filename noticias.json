@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-10-07T02:30:13.126545+00:00",
+  "atualizado_em": "2026-10-07T09:26:42.115650+00:00",
   "noticias": [
+    {
+      "titulo": "Audiobooks do Spotify chegam ao Brasil com benefício para assinantes Premium",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/audiobooks-do-spotify-chegam-ao-brasil-com-beneficio-para-assinantes-premium/",
+      "data": "2026-10-07T07:00:04+00:00"
+    },
+    {
+      "titulo": "Spotify abre catálogo de audiolivros no Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/spotify-abre-catalogo-de-audiolivros-no-brasil/",
+      "data": "2026-10-07T07:00:00+00:00"
+    },
     {
       "titulo": "Concorrente do Office e do Google, LibreOffice diz que não ter IA é vantagem",
       "fonte": "Canaltech",
@@ -74,12 +86,6 @@
       "data": "2026-10-06T20:51:00+00:00"
     },
     {
-      "titulo": "Celular top da Xiaomi pode ter sido cancelado após ganhar preço de R$ 8 mil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celular-top-da-xiaomi-pode-ter-sido-cancelado-apos-ganhar-preco-de-r-8-mil/",
-      "data": "2026-10-06T20:23:27+00:00"
-    },
-    {
       "titulo": "Jogador encontra PC com Intel Core i9 e RTX 2060 Super no lixo de seu prédio, e peças ainda estavam funcionando",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/jogador-encontra-pc-intel-core-i9-e-rtx-2060-super-no-lixo-predio/",
@@ -102,12 +108,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/the-conjuring-unspoken-netflix-jogo-celular/",
       "data": "2026-10-06T20:03:00+00:00"
-    },
-    {
-      "titulo": "Motorola Edge 60 Pro (256 GB) com frontal de 50 MP recebe 49% OFF no Mercado Livre",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-com-frontal-de-50-mp-recebe-49-off-no-mercado-livre/",
-      "data": "2026-10-06T19:54:13+00:00"
     },
     {
       "titulo": "LA Noire 2 pode ser o próximo grande jogo da Rockstar após GTA 6, aponta vazamento",
