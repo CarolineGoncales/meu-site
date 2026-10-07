@@ -1,185 +1,149 @@
 {
-  "atualizado_em": "2026-10-07T09:26:42.115650+00:00",
+  "atualizado_em": "2026-10-07T16:43:46.910922+00:00",
   "noticias": [
     {
-      "titulo": "Audiobooks do Spotify chegam ao Brasil com benefício para assinantes Premium",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/audiobooks-do-spotify-chegam-ao-brasil-com-beneficio-para-assinantes-premium/",
-      "data": "2026-10-07T07:00:04+00:00"
-    },
-    {
-      "titulo": "Spotify abre catálogo de audiolivros no Brasil",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/spotify-abre-catalogo-de-audiolivros-no-brasil/",
-      "data": "2026-10-07T07:00:00+00:00"
-    },
-    {
-      "titulo": "Concorrente do Office e do Google, LibreOffice diz que não ter IA é vantagem",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/internet-e-redes-sociais/concorrente-do-office-e-do-google-libreoffice-diz-que-nao-ter-ia-e-vantagem/",
-      "data": "2026-10-06T23:01:00+00:00"
-    },
-    {
-      "titulo": "Quando é a BGS 2026? Veja data e local",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/quando-e-a-bgs-2026-veja-data-e-local/",
-      "data": "2026-10-06T22:45:01+00:00"
-    },
-    {
-      "titulo": "SEGA barra inteligência artificial e promete jogos feitos por humanos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/sega-barra-inteligencia-artificial-e-promete-jogos-feitos-por-humanos/",
-      "data": "2026-10-06T22:19:00+00:00"
-    },
-    {
-      "titulo": "Mais uma leva de celulares Samsung recebe One UI 9.0; veja se o seu está na lista",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/mais-uma-leva-de-celulares-samsung-recebe-one-ui-90-veja-se-o-seu-esta-na-lista/",
-      "data": "2026-10-06T22:00:00+00:00"
-    },
-    {
-      "titulo": "Melhor notebook com touchscreen: 6 modelos com tela sensível ao toque em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-notebook-com-touchscreen/",
-      "data": "2026-10-06T21:46:57+00:00"
-    },
-    {
-      "titulo": "TV TCL de 55″ com 144 Hz tem mais de R$ 1.000 OFF com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/tv-tcl-de-55-com-144-hz-tem-mais-de-r-1-000-off-com-cupom/",
-      "data": "2026-10-06T21:46:05+00:00"
-    },
-    {
-      "titulo": "Baixou: Huawei MatePad SE 11 fica 57% mais barato em promoção na Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/baixou-huawei-matepad-se-11-fica-57-mais-barato-em-promocao-na-amazon/",
-      "data": "2026-10-06T21:10:45+00:00"
-    },
-    {
-      "titulo": "Como descobrir um espião no WhatsApp: verifique se seu celular é monitorado",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/como-descobrir-um-aplicativo-espiao-no-seu-celular/",
-      "data": "2026-10-06T21:06:29+00:00"
-    },
-    {
-      "titulo": "Notebook com teclado retroiluminado: 7 modelos para comprar em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-notebook-com-teclado-retroiluminado/",
-      "data": "2026-10-06T21:04:48+00:00"
-    },
-    {
-      "titulo": "A única que não fugiu: por que a Nintendo peitou GTA 6 com o remake de Zelda Ocarina of Time?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/a-unica-que-nao-fugiu-por-que-a-nintendo-peitou-gta-6-com-o-remake-de-zelda-ocarina-of-time/",
-      "data": "2026-10-06T21:03:00+00:00"
-    },
-    {
-      "titulo": "IAs estão roubando shows de stand-up completos para vender OnlyFans",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ias-estao-roubando-shows-de-stand-up-completos-para-vender-onlyfans/",
-      "data": "2026-10-06T21:02:00+00:00"
-    },
-    {
-      "titulo": "BYD estuda bateria imersa em líquido para evitar superaquecimento",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/byd-estuda-bateria-imersa-em-liquido-para-evitar-superaquecimento/",
-      "data": "2026-10-06T20:51:00+00:00"
-    },
-    {
-      "titulo": "Jogador encontra PC com Intel Core i9 e RTX 2060 Super no lixo de seu prédio, e peças ainda estavam funcionando",
+      "titulo": "Amazon revela o que seu algoritmo acha de você e as conclusões são bizarras",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/jogador-encontra-pc-intel-core-i9-e-rtx-2060-super-no-lixo-predio/",
-      "data": "2026-10-06T20:22:06+00:00"
+      "link": "https://www.hardware.com.br/noticias/amazon-rotulos-usuarios/",
+      "data": "2026-10-07T16:21:56+00:00"
     },
     {
-      "titulo": "Modo stalker? Instagram testa navegação sem deixar rastros em perfis",
+      "titulo": "CEO confirma que novo Xbox terá versão portátil e família de aparelhos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/ceo-confirma-que-novo-xbox-tera-versao-portatil-e-familia-de-aparelhos/",
+      "data": "2026-10-07T16:13:00+00:00"
+    },
+    {
+      "titulo": "Preço dinâmico definido por IA no McDonald's rende processo na Justiça",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/preco-dinamico-definido-por-ia-no-mcdonalds-rende-processo-na-justica/",
+      "data": "2026-10-07T16:10:00+00:00"
+    },
+    {
+      "titulo": "Renault Niagara chega em novembro para desafiar Toro e Hilux; saiba mais",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/renault-niagara-chega-em-novembro-para-desafiar-toro-e-hilux-saiba-mais/",
+      "data": "2026-10-07T16:09:00+00:00"
+    },
+    {
+      "titulo": "Ryzen 5 8600G entra em promoção e vira opção de entrada para montar PC AM5",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/ryzen-5-8600g-entra-em-promocao/",
+      "data": "2026-10-07T16:04:39+00:00"
+    },
+    {
+      "titulo": "Kindle Colorsoft Signature com menor preço do ano: modelo colorido com mais armazenamento e carregamento sem fio.",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/kindle-colorsoft-signature-entra-em-oferta-com-tela-colorida-economia-de-r350/",
+      "data": "2026-10-07T16:00:41+00:00"
+    },
+    {
+      "titulo": "Desenvolvedor faz iPad Air M2 rodar jogo de PS5 sem streaming ou Remote Play; entenda como foi possível",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/ipad-air-m2-roda-jogo-ps5-sem-streaming/",
+      "data": "2026-10-07T15:53:15+00:00"
+    },
+    {
+      "titulo": "Google libera detector de IA para qualquer pessoa",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/modo-stalker-instagram-testa-navegacao-sem-deixar-rastros-em-perfis/",
-      "data": "2026-10-06T20:14:30+00:00"
+      "link": "https://tecnoblog.net/noticias/google-libera-detector-de-ia-para-qualquer-pessoa/",
+      "data": "2026-10-07T15:45:02+00:00"
     },
     {
-      "titulo": "Proibição das bets começa a valer e R$ 1,32 bilhão ainda não foi devolvido",
+      "titulo": "Acer Nitro V15 com RTX 4050: notebook gamer potente, já pronto e com ótimo custo-benefício",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/acer-nitro-v15-com-rtx-4050-notebook-gamer-potente-ja-pronto-e-com-otimo-custo-beneficio/",
+      "data": "2026-10-07T15:32:35+00:00"
+    },
+    {
+      "titulo": "AnyPS5: projeto de código aberto encontra outro caminho para rodar jogos de PS5 no PC e já tem título rodando a 60 FPS",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/anyps5-jogos-ps5-pc-sem-emulacao/",
+      "data": "2026-10-07T15:29:53+00:00"
+    },
+    {
+      "titulo": "Usuário relata que PS5 foi banido após desbloqueio e console perde acesso à PSN",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/usuario-relata-que-ps5-foi-banido-apos-desbloqueio/",
+      "data": "2026-10-07T15:26:12+00:00"
+    },
+    {
+      "titulo": "iPhone 17 (512 GB) com tela de 120 Hz registra queda de preço em oferta",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/proibicao-das-bets-comeca-a-valer-e-r-132-bilhao-ainda-nao-foi-devolvido/",
-      "data": "2026-10-06T20:08:29+00:00"
+      "link": "https://tecnoblog.net/achados/iphone-17-512-gb-com-tela-de-120-hz-registra-queda-de-preco-em-oferta/",
+      "data": "2026-10-07T15:18:42+00:00"
     },
     {
-      "titulo": "Netflix lançará jogo de Invocação do Mal em outubro e aposta em terror interativo sem consoles",
+      "titulo": "Mundo deveria aceitar “algumas coisas ruins” da IA, diz Altman",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/mundo-deveria-aceitar-algumas-coisas-ruins-da-ia-diz-altman/",
+      "data": "2026-10-07T15:16:09+00:00"
+    },
+    {
+      "titulo": "AIDA64 confirma novos processadores Intel Core Ultra 4000; veja o que esperar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/aida64-confirma-novos-processadores-intel-core-ultra-4000-veja-o-que-esperar/",
+      "data": "2026-10-07T15:14:00+00:00"
+    },
+    {
+      "titulo": "Chrome para Android vai confirmar cadastros na web sozinho; entenda o funcionamento",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/chrome-para-android-vai-confirmar-cadastros-na-web-sozinho-entenda-o-funcionamento/",
+      "data": "2026-10-07T15:11:00+00:00"
+    },
+    {
+      "titulo": "Por que você deveria ter uma churrasqueira de mesa: modelo por menos de R$80 com bandeja antifumaça",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/the-conjuring-unspoken-netflix-jogo-celular/",
-      "data": "2026-10-06T20:03:00+00:00"
+      "link": "https://www.hardware.com.br/hardware-indica/por-que-voce-deveria-ter-uma-churrasqueira-de-mesa-modelo-por-menos-de-r100-com-bandeja-antifumaca/",
+      "data": "2026-10-07T15:00:34+00:00"
     },
     {
-      "titulo": "LA Noire 2 pode ser o próximo grande jogo da Rockstar após GTA 6, aponta vazamento",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/la-noire-2-pode-ser-o-proximo-grande-jogo-da-rockstar-apos-gta-6-aponta-vazamento/",
-      "data": "2026-10-06T19:00:24+00:00"
+      "titulo": "Motorola Edge 70 (512 GB) tem oferta histórica em 12x sem juros na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-512-gb-tem-oferta-historica-em-12x-sem-juros-na-amazon/",
+      "data": "2026-10-07T14:57:35+00:00"
     },
     {
-      "titulo": "Stanley Aerolight Transit com 41% OFF: a garrafa de 591ml que é 1/3 mais leve do que as de aço inoxidável",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/stanley-aerolight-transit-com-41-off-a-garrafa-de-591ml-que-e-1-3-mais-leve-do-que-as-de-aco-inoxidavel/",
-      "data": "2026-10-06T18:00:59+00:00"
+      "titulo": "Samsung lança nova geração de tablets top de linha com Galaxy Tab S12 Ultra",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tablet/samsung-lanca-nova-geracao-de-tablets-top-de-linha-com-galaxy-tab-s12-ultra/",
+      "data": "2026-10-07T14:54:30+00:00"
     },
     {
-      "titulo": "Pré-venda de Ghost of Yōtei Complete Edition tem cupom de R$ 100 na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/ghost-of-yotei-complete-edition-cupom-de-r-100/",
-      "data": "2026-10-06T17:50:31+00:00"
+      "titulo": "Celular mais top da Samsung para 2027 vaza com bateria turbinada",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/celular-mais-top-da-samsung-para-2027-vaza-com-bateria-turbinada/",
+      "data": "2026-10-07T14:50:21+00:00"
     },
     {
-      "titulo": "Boom dos data centers faz gastos com construção baterem recorde de US$ 85 bilhões",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/construcao-de-data-centers-85-bilhoes/",
-      "data": "2026-10-06T17:30:19+00:00"
+      "titulo": "Amazon faz queima de AirPods 4: fone da Apple aparece com parcela de R$ 94",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/fone-de-ouvido/amazon-faz-queima-de-airpods-4-fone-da-apple-aparece-com-parcela-de-r-94/",
+      "data": "2026-10-07T14:48:37+00:00"
     },
     {
-      "titulo": "HBO Max e Paramount+ vão se fundir em um único serviço após aquisição de US$ 110 bilhões",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/skydance-unifica-hbo-max-paramount-plus/",
-      "data": "2026-10-06T17:10:04+00:00"
+      "titulo": "iPhone 15 sai quase pela metade do preço em oferta no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/iphone-15-sai-quase-pela-metade-do-preco-em-oferta-no-mercado-livre/",
+      "data": "2026-10-07T14:38:13+00:00"
     },
     {
-      "titulo": "I2GO Pocket 5000mAh com 34% de desconto: o power bank que cabe no bolso e dispensa cabo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/i2go-pocket-5000mah-com-34-de-desconto-o-power-bank-que-cabe-no-bolso-e-dispensa-cabo/",
-      "data": "2026-10-06T17:00:01+00:00"
+      "titulo": "Lenovo IdeaPad Slim 3 para estudos cai 36% com nosso cupom exclusivo",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/lenovo-ideapad-slim-3-para-estudos-cai-36-com-nosso-cupom-exclusivo/",
+      "data": "2026-10-07T14:37:57+00:00"
     },
     {
-      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
-      "data": "2026-09-07T21:15:00+00:00"
+      "titulo": "Google Playground permite criar jogos sem saber programar",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/google-playground-permite-criar-jogos-sem-saber-programar/",
+      "data": "2026-10-07T14:18:54+00:00"
     },
     {
-      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
-      "data": "2026-09-07T20:30:00+00:00"
-    },
-    {
-      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
-      "data": "2026-09-07T19:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
-      "data": "2026-09-07T19:00:00+00:00"
-    },
-    {
-      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
-      "data": "2026-09-07T18:15:00+00:00"
-    },
-    {
-      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
-      "fonte": "TecMundo",
-      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
-      "data": "2026-09-07T18:00:00+00:00"
+      "titulo": "Samsung lança tablets S12 no Brasil; preços sobem até R$ 2 mil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/samsung-lanca-tablets-s12-no-brasil-precos-sobem-ate-r-2-mil/",
+      "data": "2026-10-07T14:07:28+00:00"
     }
   ]
 }
