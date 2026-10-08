@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-10-07T21:40:19.720802+00:00",
+  "atualizado_em": "2026-10-08T01:23:45.290054+00:00",
   "noticias": [
+    {
+      "titulo": "Novo visual do YouTube no PC polui tela e desagrada os usuários; veja como ficou",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/novo-visual-do-youtube-no-pc-polui-tela-e-desagrada-os-usuarios-veja-como-ficou/",
+      "data": "2026-10-08T00:01:00+00:00"
+    },
+    {
+      "titulo": "Após testes, pesquisadores concluem que ChatGPT para adolescentes não protege jovens",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/apos-testes-pesquisadores-concluem-que-chatgpt-para-adolescentes-nao-protege-jovens/",
+      "data": "2026-10-07T23:01:00+00:00"
+    },
+    {
+      "titulo": "Microsoft coloca Copilot e IA até na barra de busca do Windows",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/microsoft-coloca-copilot-e-ia-ate-na-barra-de-busca-do-windows/",
+      "data": "2026-10-07T22:25:40+00:00"
+    },
+    {
+      "titulo": "Como chegar à BGS 2026: metrô, ônibus e transfer gratuito para o Distrito Anhembi",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/como-chegar-a-bgs-2026-metro-onibus-e-transfer-gratuito-para-o-distrito-anhembi/",
+      "data": "2026-10-07T22:19:00+00:00"
+    },
+    {
+      "titulo": "Truque no Rufus instala Windows 11 tão leve que usa só 16% de RAM",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/software/truque-no-rufus-instala-windows-11-tao-leve-que-usa-so-16-de-ram/",
+      "data": "2026-10-07T22:00:00+00:00"
+    },
     {
       "titulo": "Google lança IA que deixa você criar jogos sem saber programar",
       "fonte": "Canaltech",
@@ -36,30 +66,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-book-4-tem-melhor-preco-com-cupom-do-tb-no-magazine-luiza/",
       "data": "2026-10-07T20:36:26+00:00"
-    },
-    {
-      "titulo": "Como criar e editar imagens com IA: ferramentas gratuitas e melhores comandos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/como-criar-e-editar-imagens-com-ia-ferramentas-gratuitas-e-melhores-comandos/",
-      "data": "2026-10-07T20:35:08+00:00"
-    },
-    {
-      "titulo": "Hyundai dá \"quase um Dolphin Mini\" de desconto para desencalhar SUV de luxo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/hyundai-da-quase-um-dolphin-mini-de-desconto-para-desencalhar-suv-de-luxo/",
-      "data": "2026-10-07T20:15:04+00:00"
-    },
-    {
-      "titulo": "Simulador recria Windows 98 no navegador com internet discada e DOOM",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/simulador-recria-windows-98-no-navegador-com-internet-discada-e-doom/",
-      "data": "2026-10-07T20:15:00+00:00"
-    },
-    {
-      "titulo": "PC gamers se animam com parceria entre GTA 6 e Discord; empolgação faz sentido?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/pc-gamers-se-animam-com-parceria-entre-gta-6-e-discord-empolgacao-faz-sentido/",
-      "data": "2026-10-07T20:08:00+00:00"
     },
     {
       "titulo": "Microsoft dará mais poder ao Copilot, permitindo que a IA acesse arquivos e gerencie o Windows",
@@ -104,7 +110,7 @@
       "data": "2026-10-07T18:46:25+00:00"
     },
     {
-      "titulo": "Como funciona a NuCel? O que você precisa saber antes de contratar",
+      "titulo": "Como funciona o NuCel? O que você precisa saber antes de contratar",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/responde/como-funciona-a-nucel-o-que-voce-precisa-saber-antes-de-contratar/",
       "data": "2026-10-07T18:37:47+00:00"
@@ -120,12 +126,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/microsoft-nega-exclusividade-de-gta-6-no-xbox-cloud-gaming/",
       "data": "2026-10-07T18:00:29+00:00"
-    },
-    {
-      "titulo": "Novo ícone de 5G aparece em celulares da Vivo após testes de VoNR",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/novo-icone-de-5g-aparece-em-celulares-da-vivo-apos-testes-de-vonr/",
-      "data": "2026-10-07T17:53:11+00:00"
     },
     {
       "titulo": "Homem compra LG OLED de 77 polegadas e relata possível burn-in após apenas dois dias e desabafa: “nem preciso dizer que vou devolver essa porcaria”",
@@ -144,6 +144,42 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/google-playground-criar-jogos-ia/",
       "data": "2026-10-07T17:33:02+00:00"
+    },
+    {
+      "titulo": "Moonlight Quest: Tudo sobre o jogo de mundo aberto das Winx",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505315-moonlight-quest-tudo-sobre-o-jogo-de-mundo-aberto-das-winx.htm",
+      "data": "2026-09-07T21:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604562-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-07.htm",
+      "data": "2026-09-07T20:30:00+00:00"
+    },
+    {
+      "titulo": "Montech PureFlow ARGB 360: um water cooler de R$ 300 com muita potência",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/voxel/505251-montech-pureflow-argb-360-um-water-cooler-de-r-300-com-muita-potencia.htm",
+      "data": "2026-09-07T19:15:00+00:00"
+    },
+    {
+      "titulo": "Samsung estaria desativando contas de usuários por 'questões de segurança'",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/software/415742-samsung-estaria-desativando-contas-de-usuarios-por-questoes-de-seguranca.htm",
+      "data": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titulo": "10 personagens que poderiam voltar em Rancho Dutton",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/minha-serie/604560-10-personagens-que-poderiam-voltar-em-rancho-dutton.htm",
+      "data": "2026-09-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Da estratosfera: iPhone 17 Pro resiste a queda de 30 km de altitude e bate recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.tecmundo.com.br/produto/415821-da-estratosfera-iphone-17-pro-resiste-a-queda-de-30-km-de-altitude-e-bate-recorde.htm",
+      "data": "2026-09-07T18:00:00+00:00"
     }
   ]
 }
