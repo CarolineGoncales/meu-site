@@ -1,6 +1,84 @@
 {
-  "atualizado_em": "2026-10-08T20:31:26.755435+00:00",
+  "atualizado_em": "2026-10-09T00:44:52.903253+00:00",
   "noticias": [
+    {
+      "titulo": "Preview Phantom Blade Zero | Viajamos à China para conferir o game",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/preview-phantom-blade-zero/",
+      "data": "2026-10-09T00:00:04+00:00"
+    },
+    {
+      "titulo": "Anel inteligente: o que saber antes de comprar um smart ring",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/o-que-voce-precisa-saber-antes-de-comprar-um-anel-inteligente/",
+      "data": "2026-10-08T23:15:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 é tão grande que até a Rockstar se surpreende com o jogo: “Não sei se alguém conhece tudo”",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-e-tao-grande-que-ate-a-rockstar-se-surpreende-com-o-jogo-nao-sei-se-alguem-conhece-tudo/",
+      "data": "2026-10-08T23:15:00+00:00"
+    },
+    {
+      "titulo": "Saros e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/saros-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store/",
+      "data": "2026-10-08T22:30:00+00:00"
+    },
+    {
+      "titulo": "OpenAI ‘corrige’ projeção de receita anual e reduz ganhos em US$ 20 bi",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/openai-corrige-projecao-de-receita-anual-e-reduz-ganhos-em-us-20-bi/",
+      "data": "2026-10-08T22:00:00+00:00"
+    },
+    {
+      "titulo": "Inventora da engenharia de software morre aos 90 anos; conheça Margaret Hamilton",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/software/inventora-da-engenharia-de-software-morre-aos-90-anos-conheca-margaret-hamilton/",
+      "data": "2026-10-08T22:00:00+00:00"
+    },
+    {
+      "titulo": "Steam libera jogo com ótimas avaliações de graça por tempo limitado! Resgate agora (08)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/steam-libera-jogo-com-otimas-avaliacoes-de-graca-por-tempo-limitado-resgate-agora-08/",
+      "data": "2026-10-08T21:15:00+00:00"
+    },
+    {
+      "titulo": "Novo recurso do Google Fotos facilitará busca por pessoas e pets em álbuns gigantes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/novo-recurso-do-google-fotos-facilitara-busca-por-pessoas-e-pets-em-albuns-gigantes/",
+      "data": "2026-10-08T21:00:00+00:00"
+    },
+    {
+      "titulo": "Anthropic proíbe comportamento “abusivo ou cruel” contra Claude em nova política de uso",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/anthropic-proibe-comportamento-abusivo-ou-cruel-contra-claude/",
+      "data": "2026-10-08T20:58:41+00:00"
+    },
+    {
+      "titulo": "Echo Dot tem 35% OFF para quem busca Alexa custo-benefício",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/echo-dot-tem-35-off-para-quem-busca-alexa-custo-beneficio/",
+      "data": "2026-10-08T20:50:25+00:00"
+    },
+    {
+      "titulo": "Amazon deixa Fire de lado e lança “tablets normais” com Play Store",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tablet/amazon-deixa-fire-de-lado-e-lanca-tablets-normais-com-play-store/",
+      "data": "2026-10-08T20:43:50+00:00"
+    },
+    {
+      "titulo": "Galaxy A37 despenca 56% com cupom exclusivo na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-a37-despenca-56-com-cupom-exclusivo-na-amazon/",
+      "data": "2026-10-08T20:39:46+00:00"
+    },
+    {
+      "titulo": "BYD derruba preços e parcela do Dolphin Mini sai por menos de R$ 1 mil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/byd-derruba-precos-e-parcela-do-dolphin-mini-sai-por-menos-de-r-1-mil/",
+      "data": "2026-10-08T20:33:00+00:00"
+    },
     {
       "titulo": "Trump suspende Microsoft de programa que contrata estrangeiros nos EUA",
       "fonte": "Tecnoblog",
@@ -26,28 +104,10 @@
       "data": "2026-10-08T20:15:34+00:00"
     },
     {
-      "titulo": "GTA 6: Governo australiano explica como tirar licença no trabalho para o lançamento do jogo",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-governo-australiano-explica-como-tirar-licenca-no-trabalho-para-o-lancamento-do-jogo/",
-      "data": "2026-10-08T20:15:00+00:00"
-    },
-    {
-      "titulo": "Quem não usar ‘superinteligência’ em vez de IA será inimigo, diz Trump",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/quem-nao-usar-superinteligencia-em-vez-de-ia-sera-inimigo-diz-trump/",
-      "data": "2026-10-08T20:10:00+00:00"
-    },
-    {
       "titulo": "WhatsApp testa nova aba de contatos \"estilo MSN\" que mostra quem está online",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/apps/whatsapp-testa-nova-aba-de-contatos-estilo-msn-que-mostra-quem-esta-online/",
       "data": "2026-10-08T20:02:00+00:00"
-    },
-    {
-      "titulo": "Motorola Signature ganha versão mais barata no Brasil; confira o preço",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/motorola-signature-ganha-versao-mais-barata-no-brasil-confira-o-preco/",
-      "data": "2026-10-08T20:00:00+00:00"
     },
     {
       "titulo": "Empresa aérea vai colocar antenas da Starlink em 1.030 aviões",
@@ -68,28 +128,10 @@
       "data": "2026-10-08T19:31:46+00:00"
     },
     {
-      "titulo": "Governo dos EUA alega ‘abuso’ e suspende programa de vistos da Microsoft e outras empresas",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/governo-dos-eua-alega-abuso-e-suspende-programa-de-vistos-da-microsoft-e-outras-empresas/",
-      "data": "2026-10-08T19:30:00+00:00"
-    },
-    {
       "titulo": "Qual é o melhor videogame da atualidade? 9 modelos para comprar em 2026",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/melhor-console-de-video-game/",
       "data": "2026-10-08T19:25:42+00:00"
-    },
-    {
-      "titulo": "Silent Hill chinês? Conheça JIAOHUN, novo game de terror que chega em 2027",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/silent-hill-chines-conheca-jiaohun-novo-game-de-terror-que-chega-em-2027/",
-      "data": "2026-10-08T19:15:00+00:00"
-    },
-    {
-      "titulo": "Dia das Crianças: Nintendo Switch OLED tem preço inédito para clientes Prime",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/dia-das-criancas-nintendo-switch-oled-tem-preco-inedito-para-clientes-prime/",
-      "data": "2026-10-08T19:13:17+00:00"
     },
     {
       "titulo": "Microsoft cria divisão XBOX XP para levar Call of Duty, Minecraft e Diablo ao cinema e TV",
@@ -98,28 +140,10 @@
       "data": "2026-10-08T19:03:00+00:00"
     },
     {
-      "titulo": "Samsung prevê lucro histórico de US$ 80 bilhões graças à corrida da IA",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/samsung-preve-lucro-historico-de-us-80-bilhoes-gracas-a-corrida-da-ia/",
-      "data": "2026-10-08T19:01:00+00:00"
-    },
-    {
       "titulo": "Homem compra PC gamer usado, abre o gabinete e se espanta com a quantidade de sujeira",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/pc-gamer-usado-sujeira-ventoinhas-poeira/",
       "data": "2026-10-08T19:00:52+00:00"
-    },
-    {
-      "titulo": "Gemini Agent: Google lança agente de IA ‘universal para o trabalho’",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/gemini-agent-google-lanca-agente-de-ia-universal-para-o-trabalho/",
-      "data": "2026-10-08T19:00:00+00:00"
-    },
-    {
-      "titulo": "Melhor console portátil em 2026: qual modelo comprar?",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-console-portatil/",
-      "data": "2026-10-08T18:50:32+00:00"
     },
     {
       "titulo": "Da infraestrutura antiga à nuvem: a história da migração do Hardware.com.br para a nuvem com a Skyone",
@@ -128,40 +152,22 @@
       "data": "2026-10-08T18:43:23+00:00"
     },
     {
-      "titulo": "Preço não é mais tudo: o que está fazendo o consumidor escolher uma loja em 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/preco-nao-e-mais-tudo-o-que-esta-fazendo-o-consumidor-escolher-uma-loja-em-2026/",
-      "data": "2026-10-08T18:41:34+00:00"
-    },
-    {
       "titulo": "Gamer encontra em vídeo de GTA 6 carro quase idêntico ao da mãe de 75 anos e diz: “agora até ela quer jogar”",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/gta-6-video-carro-igual-mae-75-anos/",
       "data": "2026-10-08T18:40:35+00:00"
     },
     {
-      "titulo": "Marca que abriu caminho para carros chineses no Brasil se afunda na crise",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/marca-que-abriu-caminho-para-carros-chineses-no-brasil-se-afunda-na-crise/",
-      "data": "2026-10-08T18:31:00+00:00"
-    },
-    {
-      "titulo": "Evento da Apple em 13/10 é confirmado; veja tudo que pode ser lançado",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/casa-conectada/evento-da-apple-em-1310-e-confirmado-veja-tudo-que-pode-ser-lancado/",
-      "data": "2026-10-08T18:20:32+00:00"
-    },
-    {
-      "titulo": "Bateria do novo iPhone dura bem mais que de Galaxy; assista ao teste",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/bateria-do-novo-iphone-dura-bem-mais-que-de-galaxy-assista-ao-teste/",
-      "data": "2026-10-08T18:19:31+00:00"
-    },
-    {
       "titulo": "Jogador de Fortnite é preso pelo FBI após ameaças feitas em chat de voz durante partida",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/jogador-de-fortnite-e-preso-pelo-fbi-apos-ameacas-feitas-em-chat/",
       "data": "2026-10-08T18:15:15+00:00"
+    },
+    {
+      "titulo": "Samsung projeta lucro trimestral recorde com a alta demanda por chips de IA",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/samsung-projeta-lucro-trimestral-recorde-com-a-alta-demanda-por-chips-de-ia/",
+      "data": "2026-10-08T18:00:00+00:00"
     },
     {
       "titulo": "Quer experimentar o VR? Meta Quest 3S está em promoção com 10% de desconto na Amazon",
@@ -174,12 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/amd-chegada-do-fsr-4-portateis/",
       "data": "2026-10-08T17:36:07+00:00"
-    },
-    {
-      "titulo": "43% de desconto: Motorola Moto G35 5G por menos de R$830 é bom? Descubra o que ele pode fazer e para quem é indicado",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/43-de-desconto-motorola-moto-g35-5g-por-menos-de-r830-e-bom-descubra-o-que-ele-pode-fazer-e-para-quem-e-indicado/",
-      "data": "2026-10-08T17:00:56+00:00"
     }
   ]
 }
