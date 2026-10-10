@@ -1,23 +1,53 @@
 {
-  "atualizado_em": "2026-10-10T02:28:01.289219+00:00",
+  "atualizado_em": "2026-10-10T08:45:56.251056+00:00",
   "noticias": [
     {
-      "titulo": "Desenvolvedores de GTA 6 se penduraram para fora de um helicóptero para fotografar Miami e acabaram distraindo público de show de Beyoncé",
+      "titulo": "Gamer leva Xbox Series X em viagem de trabalho e encontra console destruído após inspeção no aeroporto",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/gta-6-desenvolvedores-helicoptero-miami-beyonce/",
-      "data": "2026-10-10T01:28:11+00:00"
+      "link": "https://www.hardware.com.br/noticias/xbox-series-x-danificado-inspecao-aeroporto/",
+      "data": "2026-10-10T05:04:27+00:00"
     },
     {
-      "titulo": "Anthropic proíbe usuários de insultar o Claude e IA poderá encerrar conversas abusivas",
+      "titulo": "Até os pedestres de GTA 6 recebem atenção especial da Rockstar; estúdio revela trabalho nos bastidores",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/anthropic-proibe-usuarios-de-insultar-o-claude-e-ia-podera-encerrar-conversas-abusivas/",
-      "data": "2026-10-10T01:08:44+00:00"
+      "link": "https://www.hardware.com.br/noticias/gta-6-rockstar-equipe-dialogos-pedestres-npcs/",
+      "data": "2026-10-10T04:48:48+00:00"
     },
     {
-      "titulo": "GTA 6 recebe classificação para maiores de 18 anos no Brasil e documento revela detalhes do jogo",
+      "titulo": "Funcionário mostra o “cemitério de HDs” do seu trabalho e revela o que acontece com os discos descartados",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/gta-6-classificacao-18-anos-brasil-detalhes/",
-      "data": "2026-10-10T00:59:07+00:00"
+      "link": "https://www.hardware.com.br/noticias/funcionario-mostra-cemiterio-hds-trabalho-descarte/",
+      "data": "2026-10-10T04:30:52+00:00"
+    },
+    {
+      "titulo": "Com 4.096 LEDs e um ESP32, desenvolvedor cria uma tela retrô que mostra animações, relógio e clima",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/desenvolvedor-cria-tela-pixel-art-4096-leds-sem-soldagem/",
+      "data": "2026-10-10T04:18:18+00:00"
+    },
+    {
+      "titulo": "Criador de NieR diz que vai morrer em breve e não se importa com o futuro dos games",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticia/criador-nier-yoko-taro-morrer-em-breve-futuro-games/",
+      "data": "2026-10-10T04:07:22+00:00"
+    },
+    {
+      "titulo": "Samsung começa a liberar One UI 9 para Galaxy S25 e dobráveis no Brasil; veja o que muda",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/samsung-one-ui-9-galaxy-s25-dobraveis-brasil/",
+      "data": "2026-10-10T03:56:39+00:00"
+    },
+    {
+      "titulo": "Hackers invadem Galaxy S26 e Pixel 10 em competição que revelou 98 falhas de segurança",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/galaxy-s26-pixel-10-hackeados-pwn2own-2026/",
+      "data": "2026-10-10T03:40:37+00:00"
+    },
+    {
+      "titulo": "IA faz empresas produzirem 30% mais código, mas não acelera entrega de software, revela estudo de Harvard",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/estudo-harvard-ia-mais-codigo-sem-aumentar-entregas/",
+      "data": "2026-10-10T03:35:02+00:00"
     },
     {
       "titulo": "YouTube Music testa design mais moderno com capas gigantes em álbuns e playlists",
@@ -116,12 +146,6 @@
       "data": "2026-10-09T20:01:33+00:00"
     },
     {
-      "titulo": "Mercado de consoles dos EUA enfrenta pior momento desde os anos 80, alerta analista",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/ps5-pro-preco-dispara-mercado-eua-anos-80/",
-      "data": "2026-10-09T19:42:36+00:00"
-    },
-    {
       "titulo": "Como criar uma conversa fake de WhatsApp pelo celular ou PC",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/responde/como-criar-uma-conversa-fake-whatsapp-online/",
@@ -140,34 +164,10 @@
       "data": "2026-10-09T19:25:35+00:00"
     },
     {
-      "titulo": "Intel planeja lançar novos processadores para sockets antigos em 2027 em meio à alta da DDR5",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/intel-pode-lancar-novos-processadores-para-lga1700-em-2027/",
-      "data": "2026-10-09T18:34:37+00:00"
-    },
-    {
-      "titulo": "Galaxy S25 FE cai de preço: o celular premium da Samsung que agora compensa",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/otimo-custo-beneficio-galaxy-s25-fe-agrada-consumidores-e-esta-em-promocao/",
-      "data": "2026-10-09T18:00:05+00:00"
-    },
-    {
       "titulo": "Notebook com RTX 3050: 6 modelos que valem a pena em 2026",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/melhor-notebook-rtx-3050/",
       "data": "2026-10-09T17:14:14+00:00"
-    },
-    {
-      "titulo": "Ex-pesquisadores da OpenAI afirmam que foram demitidos após alertarem empresa sobre segurança da IA",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/ex-pesquisadores-da-openai-afirmam-que-foram-demitidos-apos-alertarem-empresa-sobre-seguranca-da-ia/",
-      "data": "2026-10-09T17:05:06+00:00"
-    },
-    {
-      "titulo": "Garrafa Stanley Quick Flip 710ml com 44% OFF saindo por R$150",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/garrafa-stanley-quick-flip-710ml-com-23-off-saindo-por-menos-de-r-190/",
-      "data": "2026-10-09T17:00:40+00:00"
     },
     {
       "titulo": "Galaxy A04s perde suporte após três anos no Brasil",
