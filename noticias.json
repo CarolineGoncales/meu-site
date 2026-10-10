@@ -1,17 +1,113 @@
 {
-  "atualizado_em": "2026-10-10T14:52:16.847480+00:00",
+  "atualizado_em": "2026-10-10T18:59:58.337247+00:00",
   "noticias": [
+    {
+      "titulo": "Caos e prejuízo: 7 casos em que a RTX 5090 teve conectores derretidos e virou um pesadelo para seus donos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/rtx-5090-conectores-derretidos-7-casos/",
+      "data": "2026-10-10T18:41:44+00:00"
+    },
+    {
+      "titulo": "Falsificadores criam réplica da RTX 4090 tão convincente que engana até técnicos especializados",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/rtx-4090-falsificadas-replicas/",
+      "data": "2026-10-10T18:36:54+00:00"
+    },
+    {
+      "titulo": "Quando os audiolivros do Spotify chegam ao Brasil?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/quando-os-audiolivros-do-spotify-chegam-ao-brasil/",
+      "data": "2026-10-10T18:30:00+00:00"
+    },
+    {
+      "titulo": "Como encontrar o cachorro em todas as áreas de Control Resonant",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-encontrar-o-cachorro-em-todas-as-areas-de-control-resonant/",
+      "data": "2026-10-10T18:15:00+00:00"
+    },
+    {
+      "titulo": "Galaxy Watch 8 LTE ficou mais barato: ainda vale comprar em 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartwatch/galaxy-watch-8-lte-ficou-mais-barato-ainda-vale-comprar-em-2026/",
+      "data": "2026-10-10T18:00:02+00:00"
+    },
+    {
+      "titulo": "PC travando ou esquentando? 5 programas grátis para descobrir problemas escondidos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/programas-gratis-para-descobrir-problemas-escondidos-pc/",
+      "data": "2026-10-10T17:30:02+00:00"
+    },
+    {
+      "titulo": "Amazon faz queima de Kindle com tela colorida e dá R$ 480 de desconto; parcela em 10x",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/e-reader/amazon-faz-queima-de-kindle-com-tela-colorida-e-da-r-480-de-desconto-parcelas-de-r10190/",
+      "data": "2026-10-10T17:29:34+00:00"
+    },
+    {
+      "titulo": "Por que Digger divide opiniões? Entenda polêmica sobre controverso filme de Tom Cruise",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/digger-filme-com-tom-cruise-polemica/",
+      "data": "2026-10-10T17:00:00+00:00"
+    },
+    {
+      "titulo": "A impressionante velocidade de adoção da TV: presença do aparelho saltou de 9% para 86% dos lares entre 1950 e 1959",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/entretenimento/a-impressionante-velocidade-de-adocao-da-tv/",
+      "data": "2026-10-10T16:48:41+00:00"
+    },
+    {
+      "titulo": "Tablet ou notebook: qual dar de presente para a criança estudar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tablet/tablet-ou-notebook-qual-dar-de-presente-para-a-crianca-estudar/",
+      "data": "2026-10-10T16:30:04+00:00"
+    },
+    {
+      "titulo": "Xbox Game Pass recebe Gears of War E-Day e mais jogos esta semana! Veja os lançamentos (10)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-gears-of-war-e-day-e-mais-jogos-esta-semana-veja-os-lancamentos-10/",
+      "data": "2026-10-10T16:15:00+00:00"
+    },
+    {
+      "titulo": "Preço do Galaxy A57 256 GB cai para R$ 1.769 no Mercado Livre; confira o cupom",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/preco-do-galaxy-a57-256-gb-cai-para-r-1769-no-mercado-livre-confira-o-cupom/",
+      "data": "2026-10-10T16:07:47+00:00"
+    },
+    {
+      "titulo": "Como o carro de trás sabe que um elétrico está freando sem pisar no pedal?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/como-o-carro-de-tras-sabe-que-um-eletrico-esta-freando-sem-pisar-no-pedal/",
+      "data": "2026-10-10T16:01:00+00:00"
+    },
+    {
+      "titulo": "O detalhe de Space Invaders que nasceu de uma limitação técnica e virou uma mecânica lendária",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/detalhe-space-invaders-nasceu-de-uma-limitacao-tecnica/",
+      "data": "2026-10-10T15:56:54+00:00"
+    },
+    {
+      "titulo": "Apple Watch SE 3: modelos de cores e tamanhos diferentes com até 37% de desconto",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/apple-watch-se-3-modelos-de-cores-e-tamanhos-diferentes-com-ate-25-de-desconto/",
+      "data": "2026-10-10T15:30:19+00:00"
+    },
+    {
+      "titulo": "Gears of War: E-Day vendeu só 62 mil cópias no Xbox enquanto 1,7 milhão joga no Game Pass, diz analista",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gears-of-war-e-day-vendas-xbox-game-pass/",
+      "data": "2026-10-10T15:14:16+00:00"
+    },
+    {
+      "titulo": "Zuckerberg ignorou riscos de segurança para acelerar lançamento do Muse, diz jornal",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/zuckerberg-ignorou-riscos-de-seguranca-para-acelerar-lancamento-do-muse-diz-jornal/",
+      "data": "2026-10-10T15:00:00+00:00"
+    },
     {
       "titulo": "Projeto que buscava simula dor em IAs acaba gerando críticas e até ameaças de morte contra seu criador",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/ai-torture-chamber-provoca-reacao-por-simular-dor-em-chatbots/",
       "data": "2026-10-10T14:39:41+00:00"
-    },
-    {
-      "titulo": "Lâmpada inteligente gasta luz desligada pelo Wi-Fi? Nós calculamos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/casa-conectada/lampada-inteligente-gasta-luz-desligada-pelo-wi-fi-nos-calculamos/",
-      "data": "2026-10-10T14:30:01+00:00"
     },
     {
       "titulo": "Alguém resolveu testar DLSS 5 no Pac-Man e o resultado é bizarro",
@@ -20,58 +116,10 @@
       "data": "2026-10-10T14:28:44+00:00"
     },
     {
-      "titulo": "WAP W400 cai 54% no preço: por que tanta gente está correndo para comprar esse robô?",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/wap-w400-cai-57-no-preco-por-que-tanta-gente-esta-correndo-para-comprar-esse-robo/",
-      "data": "2026-10-10T14:25:54+00:00"
-    },
-    {
       "titulo": "Indiana Jones e mais jogos para PC na Steam com até 90% OFF",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/indiana-jones-e-mais-jogos-para-pc-na-steam-com-ate-90-off/",
       "data": "2026-10-10T14:00:00+00:00"
-    },
-    {
-      "titulo": "O que é root no Android?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/o-que-e-root-no-android/",
-      "data": "2026-10-10T14:00:00+00:00"
-    },
-    {
-      "titulo": "Controle gamer com Hall Effect e conexão sem fio custa menos de R$ 150 na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/controle-gamer-com-hall-effect-150/",
-      "data": "2026-10-10T13:53:12+00:00"
-    },
-    {
-      "titulo": "Nvidia teria abandonado a produção da RTX 5090 para priorizar mercado de IA",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/nvidia-abandonado-rtx-5090/",
-      "data": "2026-10-10T13:39:14+00:00"
-    },
-    {
-      "titulo": "AMD Ryzen 5 8400F por menos de R$760: uma entrada inteligente para a plataforma AM5",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/amd-ryzen-5-8400f-por-menos-de-r780-uma-entrada-inteligente-para-a-plataforma-am5/",
-      "data": "2026-10-10T13:30:27+00:00"
-    },
-    {
-      "titulo": "Celular IP68 pode entrar na piscina? O que a garantia realmente cobre",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celular-ip68-pode-entrar-na-piscina-o-que-a-garantia-realmente-cobre/",
-      "data": "2026-10-10T13:30:00+00:00"
-    },
-    {
-      "titulo": "Quer um monitor OLED para jogar? Samsung Odyssey G5 entra em promoção na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/monitor-oled-samsung-odyssey-g5/",
-      "data": "2026-10-10T13:24:34+00:00"
-    },
-    {
-      "titulo": "8 jogos que ficaram presos no XBOX 360",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-que-ficaram-presos-no-xbox-360/",
-      "data": "2026-10-10T13:00:04+00:00"
     },
     {
       "titulo": "Tesla é obrigada a mudar nome de direção autônoma na União Europeia",
@@ -86,52 +134,10 @@
       "data": "2026-10-10T12:15:00+00:00"
     },
     {
-      "titulo": "Review Ford Maverick Lariat Hybrid: uma picape que “pensa” como carro",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/review-ford-maverick-lariat-hybrid-uma-picape-que-pensa-como-carro/",
-      "data": "2026-10-10T12:03:00+00:00"
-    },
-    {
-      "titulo": "Destaques do 10.10: ofertas e cupons na Shopee, Mercado Livre, Amazon e mais",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/destaques-do-1010-ofertas-e-cupons-na-shopee-mercado-livre-amazon-e-mais/",
-      "data": "2026-10-10T12:00:00+00:00"
-    },
-    {
-      "titulo": "6 melhores filmes de terror para assistir na Netflix",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/netflix-melhores-filmes-terror-assistir/",
-      "data": "2026-10-10T11:30:00+00:00"
-    },
-    {
-      "titulo": "Como descobrir novos lugares com ajuda do ChatGPT?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-descobrir-novos-lugares-com-o-chatgpt/",
-      "data": "2026-10-10T11:00:00+00:00"
-    },
-    {
-      "titulo": "Ainda dá tempo! 7 presentes tech para o Dia das Crianças que não têm erro",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/ainda-da-tempo-7-presentes-tech-para-o-dia-das-criancas-que-nao-tem-erro/",
-      "data": "2026-10-10T10:30:00+00:00"
-    },
-    {
       "titulo": "Quais celulares Samsung já receberam a One UI 9 no Brasil? Confira a lista",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/lista-celulares-samsung-atualizados-one-ui-9-android-17/",
       "data": "2026-10-10T09:00:00+00:00"
-    },
-    {
-      "titulo": "Gamer leva Xbox Series X em viagem de trabalho e encontra console destruído após inspeção no aeroporto",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/xbox-series-x-danificado-inspecao-aeroporto/",
-      "data": "2026-10-10T05:04:27+00:00"
-    },
-    {
-      "titulo": "OpenAI nega demissão por alertas de segurança e cita vazamento",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/openai-nega-demissao-por-alertas-de-seguranca-e-cita-vazamento/",
-      "data": "2026-10-09T23:00:00+00:00"
     },
     {
       "titulo": "TV TCL C7L 65” registra o menor preço desde lançamento em oferta no Magalu",
@@ -174,12 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/melhor-notebook-rtx-3050/",
       "data": "2026-10-09T17:14:14+00:00"
-    },
-    {
-      "titulo": "Galaxy A04s perde suporte após três anos no Brasil",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/galaxy-a04s-perde-suporte-apos-tres-anos-no-brasil/",
-      "data": "2026-10-09T16:43:24+00:00"
     }
   ]
 }
