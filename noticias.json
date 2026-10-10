@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-10-09T23:21:26.079165+00:00",
+  "atualizado_em": "2026-10-10T02:28:01.289219+00:00",
   "noticias": [
+    {
+      "titulo": "Desenvolvedores de GTA 6 se penduraram para fora de um helicóptero para fotografar Miami e acabaram distraindo público de show de Beyoncé",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/gta-6-desenvolvedores-helicoptero-miami-beyonce/",
+      "data": "2026-10-10T01:28:11+00:00"
+    },
+    {
+      "titulo": "Anthropic proíbe usuários de insultar o Claude e IA poderá encerrar conversas abusivas",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/anthropic-proibe-usuarios-de-insultar-o-claude-e-ia-podera-encerrar-conversas-abusivas/",
+      "data": "2026-10-10T01:08:44+00:00"
+    },
+    {
+      "titulo": "GTA 6 recebe classificação para maiores de 18 anos no Brasil e documento revela detalhes do jogo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/gta-6-classificacao-18-anos-brasil-detalhes/",
+      "data": "2026-10-10T00:59:07+00:00"
+    },
     {
       "titulo": "YouTube Music testa design mais moderno com capas gigantes em álbuns e playlists",
       "fonte": "Canaltech",
@@ -128,12 +146,6 @@
       "data": "2026-10-09T18:34:37+00:00"
     },
     {
-      "titulo": "Correios e AliExpress firmam acordo para entregas mais rápidas nas compras de fim de ano",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/correios-e-aliexpress-firmam-acordo-para-entregas-mais-rapidas-nas-compras-de-fim-de-ano/",
-      "data": "2026-10-09T18:30:00+00:00"
-    },
-    {
       "titulo": "Galaxy S25 FE cai de preço: o celular premium da Samsung que agora compensa",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/otimo-custo-beneficio-galaxy-s25-fe-agrada-consumidores-e-esta-em-promocao/",
@@ -158,28 +170,16 @@
       "data": "2026-10-09T17:00:40+00:00"
     },
     {
-      "titulo": "PS5SX2 oferece upscaling e frame generation para rodar jogos de PS2 a 120 FPS no PS5",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/ps5sx2-upscaling-frame-generation-120fps-ps5/",
-      "data": "2026-10-09T16:49:30+00:00"
-    },
-    {
       "titulo": "Galaxy A04s perde suporte após três anos no Brasil",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/galaxy-a04s-perde-suporte-apos-tres-anos-no-brasil/",
       "data": "2026-10-09T16:43:24+00:00"
     },
     {
-      "titulo": "DualShock 4 por menos de R$ 200? Amazon libera desconto com cupom",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/dualshock-4-por-menos-de-r-200/",
-      "data": "2026-10-09T16:26:45+00:00"
-    },
-    {
-      "titulo": "Homem usa músicas de IA e bots para faturar US$ 8 milhões, acaba preso e terá que devolver o dinheiro",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/homem-musicas-ia-bots-fraude-streaming-8-milhoes/",
-      "data": "2026-10-09T16:20:26+00:00"
+      "titulo": "O que é o 5G Advanced e o que muda em relação ao 5G?",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/o-que-e-o-5g-advanced-e-o-que-muda-em-relacao-ao-5g/",
+      "data": "2026-10-09T16:03:45+00:00"
     }
   ]
 }
