@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-10-10T22:15:12.091684+00:00",
+  "atualizado_em": "2026-10-11T01:04:56.542050+00:00",
   "noticias": [
+    {
+      "titulo": "6 adaptações de games que não saíram do papel",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/adaptacoes-de-games-cinema-que-nao-sairam-do-papel/",
+      "data": "2026-10-10T23:00:00+00:00"
+    },
+    {
+      "titulo": "Entenda os 5 diferentes finais de Silent Hill: Townfall",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/silent-hill-townfall-como-fazer-os-5-finais-do-jogo/",
+      "data": "2026-10-10T22:15:00+00:00"
+    },
     {
       "titulo": "Apresentador de TV dos Estados Unidos tem garagem de fazer inveja a Neymar",
       "fonte": "Canaltech",
@@ -68,12 +80,6 @@
       "data": "2026-10-10T18:15:00+00:00"
     },
     {
-      "titulo": "Galaxy Watch 8 LTE ficou mais barato: ainda vale comprar em 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartwatch/galaxy-watch-8-lte-ficou-mais-barato-ainda-vale-comprar-em-2026/",
-      "data": "2026-10-10T18:00:02+00:00"
-    },
-    {
       "titulo": "A impressionante velocidade de adoção da TV: presença do aparelho saltou de 9% para 86% dos lares entre 1950 e 1959",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/entretenimento/a-impressionante-velocidade-de-adocao-da-tv/",
@@ -126,12 +132,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/indiana-jones-e-mais-jogos-para-pc-na-steam-com-ate-90-off/",
       "data": "2026-10-10T14:00:00+00:00"
-    },
-    {
-      "titulo": "Tesla é obrigada a mudar nome de direção autônoma na União Europeia",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/tesla-e-obrigada-a-mudar-nome-de-direcao-autonoma-na-uniao-europeia/",
-      "data": "2026-10-10T13:00:00+00:00"
     },
     {
       "titulo": "Quais celulares Samsung já receberam a One UI 9 no Brasil? Confira a lista",
