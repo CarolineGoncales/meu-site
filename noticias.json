@@ -1,6 +1,72 @@
 {
-  "atualizado_em": "2026-10-11T19:02:44.835657+00:00",
+  "atualizado_em": "2026-10-11T22:59:47.513885+00:00",
   "noticias": [
+    {
+      "titulo": "Valor Mortis, Enshrouded, Castlevania Belmonts Curse e mais! Veja os lançamentos de games da semana",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/valor-mortis-enshrouded-castlevania-belmonts-curse-e-mais-veja-os-lancamentos-de-games-da-semana/",
+      "data": "2026-10-11T22:30:00+00:00"
+    },
+    {
+      "titulo": "Spider-Man: conheça os 6 principais jogos do Homem-Aranha",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/homem-aranha-6-jogos-que-marcaram-a-historia-do-heroi/",
+      "data": "2026-10-11T22:15:00+00:00"
+    },
+    {
+      "titulo": "Quanto custaria um JAC J3 hoje, com a correção da inflação?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/quanto-custaria-um-jac-j3-hoje-com-a-correcao-da-inflacao/",
+      "data": "2026-10-11T22:05:04+00:00"
+    },
+    {
+      "titulo": "Home office: 41 vagas para trabalho remoto internacional [11/10]",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/home-office-41-vagas-para-trabalho-remoto-internacional-1110/",
+      "data": "2026-10-11T22:00:00+00:00"
+    },
+    {
+      "titulo": "Como baixar e instalar o Windows 11 26H2 no seu PC",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/software/windows-11-26h2-como-baixar-e-instalar-pc/",
+      "data": "2026-10-11T21:00:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 poderá ser jogado no celular e direto na TV via nuvem? Entenda",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-podera-ser-jogado-no-celular-e-direto-na-tv-via-nuvem-entenda/",
+      "data": "2026-10-11T20:15:00+00:00"
+    },
+    {
+      "titulo": "Carro blindado: conheça os custos e os desafios da manutenção",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/carro-blindado-conheca-os-custos-e-os-desafios-da-manutencao/",
+      "data": "2026-10-11T20:08:00+00:00"
+    },
+    {
+      "titulo": "Lançamento de GTA 6 é ótimo para a indústria, dizem criadores de Call of Duty",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/lancamento-de-gta-6-e-bom-para-toda-a-industria-de-games-dizem-criadores-de-call-of-duty/",
+      "data": "2026-10-11T20:07:00+00:00"
+    },
+    {
+      "titulo": "10 franquias de jogos que completam 40 anos em 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-que-completam-40-anos-em-2026/",
+      "data": "2026-10-11T20:00:01+00:00"
+    },
+    {
+      "titulo": "Jogador teme deixar computador embaixo de ar-condicionado e usuários do Reddit alertam para risco",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/jogador-teme-deixar-computador-embaixo-de-ar-condicionado/",
+      "data": "2026-10-11T19:33:24+00:00"
+    },
+    {
+      "titulo": "Deixar TV ligada para o pet dormir gasta muita energia? Fizemos as contas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tv/deixar-a-tv-ligada-para-o-pet-dormir-gasta-muita-energia-fizemos-a-conta/",
+      "data": "2026-10-11T19:30:00+00:00"
+    },
     {
       "titulo": "A maioria dos RPGs é feito para adolescentes? Criador de Kingdom Come critica fórmulas do gênero e divide jogadores",
       "fonte": "Hardware.com.br",
@@ -56,12 +122,6 @@
       "data": "2026-10-11T17:09:06+00:00"
     },
     {
-      "titulo": "Quase invencível: por que o Doutor Destino será o maior pesadelo dos Vingadores em Doomsday",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/por-que-doutor-destino-sera-maior-pesadelo-dos-vingadores/",
-      "data": "2026-10-11T17:00:03+00:00"
-    },
-    {
       "titulo": "Claude ultrapassa limites durante teste e envia denúncia falsa sobre assassinato à polícia dos EUA",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/claude-ia-denuncia-falsa-assassinato-policia/",
@@ -74,76 +134,16 @@
       "data": "2026-10-11T16:33:02+00:00"
     },
     {
-      "titulo": "Novo emulador transforma jogos do Virtual Boy em versões coloridas com ajuda de inteligência artificial",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/emulador-virtual-boy-jogos-coloridos-ia/",
-      "data": "2026-10-11T16:23:53+00:00"
-    },
-    {
       "titulo": "Novo jogo de Invocação do Mal é assustador, mas pode não chegar ao Brasil",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/novo-jogo-de-invocacao-do-mal-e-assustador-mas-pode-nao-chegar-ao-brasil/",
       "data": "2026-10-11T16:15:00+00:00"
     },
     {
-      "titulo": "Filtro de linha protege a TV de raio? O que ele realmente faz",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/filtro-de-linha-protege-a-tv-de-raio-o-que-ele-realmente-faz/",
-      "data": "2026-10-11T16:00:00+00:00"
-    },
-    {
-      "titulo": "Como seu provedor de internet vigia o que você faz em casa e como impedir",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/como-seu-provedor-de-internet-vigia-o-que-voce-faz-em-casa-e-como-impedir/",
-      "data": "2026-10-11T15:00:00+00:00"
-    },
-    {
-      "titulo": "Fotos apagadas deixam rastros perigosos no Windows; veja como eliminar tudo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/como-eliminar-rastros-fotos-apagadas-windows/",
-      "data": "2026-10-11T14:30:03+00:00"
-    },
-    {
-      "titulo": "Celular burro: 5 modelos com \"bateria infinita\" para fugir do WhatsApp",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celular-burro-5-modelos-com-bateria-infinita-para-fugir-do-whatsapp/",
-      "data": "2026-10-11T14:00:02+00:00"
-    },
-    {
-      "titulo": "Metaphor: ReFantazio baratinho, Gears of War: E-Day na Game Pass e mais! Veja as indicações de games",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/metaphor-refantazio-baratinho-gears-of-war-e-day-na-game-pass-e-mais-veja-as-indicacoes-de-games/",
-      "data": "2026-10-11T14:00:00+00:00"
-    },
-    {
-      "titulo": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (11)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-11/",
-      "data": "2026-10-11T13:45:00+00:00"
-    },
-    {
-      "titulo": "As melhores ofertas do último dia da Mega Oferta Prime na Amazon",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/as-melhores-ofertas-do-ultimo-dia-da-mega-oferta-prime-na-amazon/",
-      "data": "2026-10-11T13:15:00+00:00"
-    },
-    {
       "titulo": "Cyberleek vaza gameplay de GTA 6 com Lucia nua e ameaça liberar build completa do jogo",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/cyberleek-vaza-gameplay-de-gta-6-com-lucia-nua-e-ameaca-liberar-build-completa-do-jogo/",
       "data": "2026-10-11T13:10:00+00:00"
-    },
-    {
-      "titulo": "Próximo fone de ouvido da Samsung deve se chamar Galaxy Studio, diz rumor",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/proximo-fone-de-ouvido-da-samsung-deve-se-chamar-galaxy-studio-diz-rumor/",
-      "data": "2026-10-11T12:00:00+00:00"
-    },
-    {
-      "titulo": "Entenda os 5 diferentes finais de Silent Hill: Townfall",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/silent-hill-townfall-como-fazer-os-5-finais-do-jogo/",
-      "data": "2026-10-10T22:15:00+00:00"
     },
     {
       "titulo": "TV TCL C7L 65” registra o menor preço desde lançamento em oferta no Magalu",
