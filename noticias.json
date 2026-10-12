@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-10-11T22:59:47.513885+00:00",
+  "atualizado_em": "2026-10-12T02:06:03.543235+00:00",
   "noticias": [
+    {
+      "titulo": "6 filmes que prometeram muito e floparam na estreia nos cinemas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/filmes-que-prometeram-muito-e-floparam-estreia-cinemas/",
+      "data": "2026-10-11T23:00:00+00:00"
+    },
     {
       "titulo": "Valor Mortis, Enshrouded, Castlevania Belmonts Curse e mais! Veja os lançamentos de games da semana",
       "fonte": "TecMundo",
@@ -108,12 +114,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/gta-6-caminhao-vice-city-miami-campanha-rockstar/",
       "data": "2026-10-11T17:37:40+00:00"
-    },
-    {
-      "titulo": "Quais são os benefícios de ter um 2º monitor?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/beneficios-de-ter-2-monitores/",
-      "data": "2026-10-11T17:30:00+00:00"
     },
     {
       "titulo": "Pesquisadores identificam novo malware em smartphones Android vendidos com vírus de fábrica; Brasil está entre os países afetados",
