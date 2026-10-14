@@ -1,17 +1,113 @@
 {
-  "atualizado_em": "2026-10-14T19:31:22.824726+00:00",
+  "atualizado_em": "2026-10-14T22:45:37.129100+00:00",
   "noticias": [
     {
-      "titulo": "PS Plus de outubro terá Horizon Forbidden West, Dino Crisis 2 e mais jogos! Veja a lista completa",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ps-plus-de-outubro-tera-horizon-forbidden-west-dino-crisis-2-e-mais-jogos-veja-a-lista-completa/",
-      "data": "2026-10-14T19:15:00+00:00"
+      "titulo": "Review do Motorola Edge 70: equilíbrio para o dia a dia",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/testamos/review-do-motorola-edge-70-equilibrio-para-o-dia-a-dia/",
+      "data": "2026-10-14T22:01:55+00:00"
     },
     {
-      "titulo": "Adriano Camacho, editor de cibersegurança no TecMundo, vence Prêmio ESET de Jornalismo",
+      "titulo": "Brasileiro viaja 2 mil km para encontrar ‘pretendente’ e descobre que mulher era IA",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/adriano-camacho-editor-de-ciberseguranca-no-tecmundo-vence-premio-eset-de-jornalismo/",
-      "data": "2026-10-14T19:15:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/brasileiro-viaja-2-mil-km-para-encontrar-pretendente-e-descobre-que-mulher-era-ia/",
+      "data": "2026-10-14T22:00:00+00:00"
+    },
+    {
+      "titulo": "Meta confirma roubo de código e dados pessoais no GitHub",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/meta-confirma-roubo-de-codigo-e-dados-pessoais-no-github/",
+      "data": "2026-10-14T21:50:47+00:00"
+    },
+    {
+      "titulo": "Estudo prevê fim dos consoles como os conhecemos até 2035; como será o futuro?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/estudo-preve-fim-dos-consoles-como-os-conhecemos-ate-2035-como-sera-o-futuro/",
+      "data": "2026-10-14T21:46:00+00:00"
+    },
+    {
+      "titulo": "Operação global derruba rede responsável por 1 bilhão de mensagens de golpe",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/operacao-global-derruba-rede-responsavel-por-1-bilhao-de-mensagens-de-golpe/",
+      "data": "2026-10-14T21:30:00+00:00"
+    },
+    {
+      "titulo": "Zesto: 99 lança sistema com IA para pequenos restaurantes; veja como funciona",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/zesto-99-lanca-sistema-com-ia-para-pequenos-restaurantes-veja-como-funciona/",
+      "data": "2026-10-14T21:24:55+00:00"
+    },
+    {
+      "titulo": "Para fãs de La Casa de Papel, nova série do Apple TV+ traz assalto tenso em 3 linhas do tempo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/para-fas-de-la-casa-de-papel-nova-serie-do-apple-tv-traz-assalto-tenso-em-3-linhas-do-tempo/",
+      "data": "2026-10-14T21:18:00+00:00"
+    },
+    {
+      "titulo": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (14)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-14/",
+      "data": "2026-10-14T21:15:00+00:00"
+    },
+    {
+      "titulo": "Elon Musk diz ter estar sofrendo episódios de ‘psicose por IA’; entenda o que é",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/elon-musk-diz-ter-estar-sofrendo-episodios-de-psicose-por-ia-entenda-o-que-e/",
+      "data": "2026-10-14T21:00:00+00:00"
+    },
+    {
+      "titulo": "Fiat derruba preços de toda a linha; veja modelos e condições",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/fiat-derruba-precos-de-toda-a-linha-veja-modelos-e-condicoes/",
+      "data": "2026-10-14T20:15:05+00:00"
+    },
+    {
+      "titulo": "Cyberleek encerra vazamentos de GTA 6 e desiste de liberar build completa",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-build-200gb-nao-sera-lancada/",
+      "data": "2026-10-14T20:11:49+00:00"
+    },
+    {
+      "titulo": "GameSir G7 Pro está com menor preço do ano e se destaca entre controles profissionais",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/gamesir-g7-pro-menor-preco-do-ano/",
+      "data": "2026-10-14T20:09:58+00:00"
+    },
+    {
+      "titulo": "HP lança PC com Ryzen AI que é literalmente um teclado; preço choca mais que formato",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/hp-lanca-pc-com-ryzen-ai-que-e-literalmente-um-teclado-preco-choca-mais-que-formato/",
+      "data": "2026-10-14T20:08:00+00:00"
+    },
+    {
+      "titulo": "Netflix demite 1.000 funcionários em maior corte desde 2022",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/netflix-demite-1-000-funcionarios-em-maior-corte-desde-2022/",
+      "data": "2026-10-14T20:05:49+00:00"
+    },
+    {
+      "titulo": "Galaxy Tab S11 tem oferta para quem busca tablet para jogos",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-tem-oferta-para-quem-busca-tablet-para-jogos/",
+      "data": "2026-10-14T19:53:02+00:00"
+    },
+    {
+      "titulo": "Vazamento expõe dados de contas da Ticketmaster no Brasil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/vazamento-expoe-dados-de-contas-da-ticketmaster-no-brasil/",
+      "data": "2026-10-14T19:46:47+00:00"
+    },
+    {
+      "titulo": "Como vender no Mercado Livre: cadastro de produtos, taxas, frete e reputação",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/como-vender-no-mercado-livre-cadastro-de-produtos-taxas-frete-e-reputacao/",
+      "data": "2026-10-14T19:34:57+00:00"
+    },
+    {
+      "titulo": "Como escanear o QR code do WhatsApp Web para entrar na sua conta",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/whatsapp-web-escanear-codigo-qr/",
+      "data": "2026-10-14T19:32:38+00:00"
     },
     {
       "titulo": "Notebook Acer Aspire 5 com RAM de 16 GB cai 45% em até 12x sem juros",
@@ -26,82 +122,16 @@
       "data": "2026-10-14T19:13:33+00:00"
     },
     {
-      "titulo": "Obsessão por detalhes em GTA 6 fez Rockstar abrir estúdio só para cuidar de NPCs",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/obsessao-por-detalhes-em-gta-6-fez-rockstar-abrir-estudio-so-para-cuidar-de-npcs/",
-      "data": "2026-10-14T19:05:00+00:00"
-    },
-    {
       "titulo": "Homem passa 36 horas em ônibus para encontrar mulher e descobre que ela não existe; foi criada por IA",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/homem-viaja-2-mil-km-descobre-namorada-era-ia/",
       "data": "2026-10-14T19:00:42+00:00"
     },
     {
-      "titulo": "Chamadas do WhatsApp agora aceitam até participantes sem conta no app",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/chamadas-do-whatsapp-agora-aceitam-ate-participantes-sem-conta-no-app/",
-      "data": "2026-10-14T19:00:00+00:00"
-    },
-    {
-      "titulo": "Troca da tela do iPhone Duo custa quase R$ 11 mil no Brasil, revela Apple",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/troca-da-tela-do-iphone-duo-custa-quase-r-11-mil-no-brasil-revela-apple/",
-      "data": "2026-10-14T18:57:19+00:00"
-    },
-    {
       "titulo": "Lula regulamenta Marco Legal dos Games e anuncia criação da Game Brasil para promover jogos brasileiros",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/lula-game-brasil-jogos-brasileiros/",
       "data": "2026-10-14T18:44:38+00:00"
-    },
-    {
-      "titulo": "Falha histórica no kernel do Linux permite escalada de privilégios a invasores",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-historica-no-kernel-do-linux-permite-escalada-de-privilegios-a-invasores/",
-      "data": "2026-10-14T18:40:00+00:00"
-    },
-    {
-      "titulo": "Meta é acusada de gerar imagens de Flávio Bolsonaro com IA, mas não de Lula; TecMundo verificou",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/meta-acusada-gerar-imagens-ia-flavio-bolsonaro-mas-nao-de-lula/",
-      "data": "2026-10-14T18:35:00+00:00"
-    },
-    {
-      "titulo": "Falha amadora: Senha '123456' expõe dados de todos os habitantes de um país europeu",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/falha-amadora-senha-123456-expoe-dados-de-todos-os-habitantes-de-um-pais-europeu/",
-      "data": "2026-10-14T18:33:00+00:00"
-    },
-    {
-      "titulo": "Apple divulga preços para consertar o iPhone Duo no Brasil: mais de R$ 16 mil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-divulga-precos-reparos-iphone-duo-brasil/",
-      "data": "2026-10-14T18:20:00+00:00"
-    },
-    {
-      "titulo": "Lula assina Marco dos Jogos Eletrônicos com Rouanet Games e plataforma grátis",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/lula-assina-marco-dos-jogos-eletronicos-que-inclui-a-lei-rouanet-games-e-plataforma-gratis/",
-      "data": "2026-10-14T18:16:00+00:00"
-    },
-    {
-      "titulo": "Novo sistema híbrido da Honda promete deixar chineses \"no chinelo\"",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/novo-sistema-hibrido-da-honda-promete-deixar-chineses-no-chinelo/",
-      "data": "2026-10-14T18:12:00+00:00"
-    },
-    {
-      "titulo": "Rockstar promete que próximo jogo não vai levar outros 8 anos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/rockstar-promete-que-proximo-jogo-nao-vai-levar-outros-8-anos/",
-      "data": "2026-10-14T18:07:00+00:00"
-    },
-    {
-      "titulo": "Celular em presídio acabou? Governo anuncia bloqueio definitivo de aparelhos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/celular-em-presidio-acabou-governo-anuncia-bloqueio-definitivo-de-aparelhos/",
-      "data": "2026-10-14T17:58:30+00:00"
     },
     {
       "titulo": "Motorola Razr 60 com tela dobrável está pela metade do preço, o menor valor do ano",
@@ -122,22 +152,10 @@
       "data": "2026-10-14T17:47:56+00:00"
     },
     {
-      "titulo": "Starlink limita acesso de soldados ucranianos e atrapalha missões de guerra",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/starlink-limita-acesso-de-soldados-ucranianos-e-atrapalha-missoes-de-guerra/",
-      "data": "2026-10-14T17:46:55+00:00"
-    },
-    {
       "titulo": "Ideal para jogar em 1080p, Radeon RX 7600 Challenger entra em promoção na Amazon",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/artigos/radeon-rx-7600-promocao-amazon/",
       "data": "2026-10-14T17:42:08+00:00"
-    },
-    {
-      "titulo": "Qualcomm vence Arm na Justiça, mas sai com apenas US$ 2",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/qualcomm-vence-arm-na-justica-mas-sai-com-apenas-us-2/",
-      "data": "2026-10-14T17:27:23+00:00"
     },
     {
       "titulo": "Peter Thiel acusa Obama e Papa de explorar medo da IA para ganhar popularidade",
@@ -152,34 +170,16 @@
       "data": "2026-10-14T17:22:30+00:00"
     },
     {
-      "titulo": "GameSir G8 Galileo, o gamepad sem drift para smartphones, está com menor preço do ano!",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/gamesir-g8-galileo-o-gamepad-sem-drift-para-smartphones-esta-com-menor-preco-do-ano/",
-      "data": "2026-10-14T17:00:27+00:00"
-    },
-    {
-      "titulo": "Amazon mantém produtos Apple, Samsung, Amazfit e mais com preços de Mega Oferta Prime; confira",
+      "titulo": "Nintendo não pretende abandonar a mídia física do Switch 2, confirma executivo",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/amazon-mantem-produtos-apple-samsung-amazfit-e-mais-com-precos-de-mega-oferta-prime-confira/",
-      "data": "2026-10-14T16:57:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/nintendo-nao-pretende-abandonar-a-midia-fisica-do-switch-2-confirma-executivo/",
+      "data": "2026-10-14T12:15:00+00:00"
     },
     {
-      "titulo": "Funcionário da OpenAI é preso após suspeita de espionagem",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/funcionario-da-openai-e-preso-apos-suspeita-de-espionagem/",
-      "data": "2026-10-14T16:41:19+00:00"
-    },
-    {
-      "titulo": "Kindle Paperwhite Signature (top de linha) com 29% OFF em 10x: leia mais sem distrações",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/kindle-paperwhite-signature-top-de-linha-com-28-off-em-10x-leia-mais-sem-distracoes/",
-      "data": "2026-10-14T16:00:33+00:00"
-    },
-    {
-      "titulo": "Huawei Watch GT 7 Pro cai 36% com cupom em oferta por até 10x sem juros",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/huawei-watch-gt-7-pro-cai-36-com-cupom-em-oferta-por-ate-10x-sem-juros/",
-      "data": "2026-10-14T15:09:48+00:00"
+      "titulo": "GTA 6 será lançado no PC em 2027, poucos meses após estreia no Xbox e PS5",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-sera-lancado-no-pc-em-2027-poucos-meses-apos-estreia-no-xbox-e-ps5/",
+      "data": "2026-10-13T18:18:00+00:00"
     }
   ]
 }
