@@ -1,11 +1,89 @@
 {
-  "atualizado_em": "2026-10-13T21:22:29.231044+00:00",
+  "atualizado_em": "2026-10-14T00:24:36.124266+00:00",
   "noticias": [
+    {
+      "titulo": "Meta lança novos agentes de IA com memória contínua e que não desistem de tarefas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/meta-lanca-novos-agentes-de-ia-com-memoria-continua-e-que-nao-desistem-de-tarefas/",
+      "data": "2026-10-14T00:05:03+00:00"
+    },
+    {
+      "titulo": "Disney confirma reboot de Arquivo X: conheça o elenco e a data de lançamento",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/disney-confirma-reboot-de-arquivo-x-conheca-o-elenco-e-a-data-de-lancamento/",
+      "data": "2026-10-14T00:00:00+00:00"
+    },
+    {
+      "titulo": "Motivo para comprar a caixinha: GTA 6 deve vir com mapa física, diz GameStop",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/motivo-para-comprar-a-caixinha-gta-6-deve-vir-com-mapa-fisica-diz-gamestop/",
+      "data": "2026-10-13T23:20:02+00:00"
+    },
+    {
+      "titulo": "Notebook com 32 GB de RAM: 7 modelos para comprar em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-notebook-32-gb/",
+      "data": "2026-10-13T23:16:14+00:00"
+    },
+    {
+      "titulo": "Mercado global de celulares encolhe 20%; Samsung segue no topo",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/mercado-global-de-celulares-encolhe-20-samsung-segue-no-topo/",
+      "data": "2026-10-13T23:00:00+00:00"
+    },
+    {
+      "titulo": "Elon Musk junta X Premium, Grok e Cursor em assinatura única e cara; veja valores",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/elon-musk-junta-x-premium-grok-e-cursor-em-assinatura-unica-e-cara-veja-valores/",
+      "data": "2026-10-13T23:00:00+00:00"
+    },
+    {
+      "titulo": "Control Resonant e mais jogos da Steam com até 91% OFF na Nuuvem",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/control-resonant-e-mais-jogos-da-steam-com-ate-91-off-na-nuuvem/",
+      "data": "2026-10-13T22:30:00+00:00"
+    },
+    {
+      "titulo": "NPM: GitHub corrige falha que expôs mais de 1.500 pacotes de software a invasões",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/npm-github-corrige-falha-que-expos-mais-de-1500-pacotes-de-software-a-invasoes/",
+      "data": "2026-10-13T22:15:00+00:00"
+    },
+    {
+      "titulo": "Dev cria “clone gratuito” do Photoshop, Word e Excel com ajuda da IA",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/dev-cria-clone-gratuito-do-photoshop-word-e-excel-com-ajuda-da-ia/",
+      "data": "2026-10-13T22:07:00+00:00"
+    },
+    {
+      "titulo": "Novo modelo do DLSS 5 consome 20% menos VRAM em 4K; veja o que mudou",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/novo-modelo-do-dlss-5-consome-20-menos-vram-em-4k-veja-o-que-mudou/",
+      "data": "2026-10-13T22:07:00+00:00"
+    },
+    {
+      "titulo": "Huawei Watch Fit 5 Pro custa menos que o Fit 4 Pro no Magazine Luiza",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/huawei-watch-fit-5-pro-custa-menos-que-o-fit-4-pro-no-magazine-luiza/",
+      "data": "2026-10-13T22:00:43+00:00"
+    },
+    {
+      "titulo": "Home office: 104 vagas para trabalho remoto [13/10]",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/trabalho-remoto-104-vagas-home-office/",
+      "data": "2026-10-13T22:00:00+00:00"
+    },
     {
       "titulo": "Review Dragon's Dogma 2: Dark Arisen | A melhor hora de jogar DD2 é agora",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/games/review-dragons-dogma-2-dark-arisen/",
       "data": "2026-10-13T21:20:48+00:00"
+    },
+    {
+      "titulo": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (13)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-13/",
+      "data": "2026-10-13T21:15:00+00:00"
     },
     {
       "titulo": "Realme confirma celulares atualizados para o Android 17; veja lista",
@@ -20,12 +98,6 @@
       "data": "2026-10-13T21:00:00+00:00"
     },
     {
-      "titulo": "Chefão da Epic Games manda devs usarem 100% de IA para criar jogos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/chefao-da-epic-games-manda-devs-usarem-100-de-ia-para-criar-jogos/",
-      "data": "2026-10-13T20:55:00+00:00"
-    },
-    {
       "titulo": "Galaxy Tab S10 FE 5G registra 40% OFF em oferta no Mercado Livre",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-5g-registra-40-off-em-oferta-no-mercado-livre/",
@@ -38,58 +110,10 @@
       "data": "2026-10-13T20:45:00+00:00"
     },
     {
-      "titulo": "NVIDIA tem planos de lançar RTX 5080 com 24 GB e aposentar modelo de 16 GB",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/nvidia-tem-planos-de-lancar-rtx-5080-com-24-gb-e-aposentar-modelo-de-16-gb/",
-      "data": "2026-10-13T20:34:01+00:00"
-    },
-    {
-      "titulo": "OpenAI encontra dispositivo espião em escritório e aciona FBI",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/openai-encontra-dispositivo-espiao-em-escritorio-e-aciona-fbi/",
-      "data": "2026-10-13T20:33:00+00:00"
-    },
-    {
-      "titulo": "BGS 2026 foi ruim? Criadores de conteúdo e visitantes criticam a edição deste ano",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/bgs-2026-foi-ruim-criadores-de-conteudo-e-visitantes-criticam-a-edicao-deste-ano/",
-      "data": "2026-10-13T20:15:00+00:00"
-    },
-    {
-      "titulo": "BYD faz queima e joga preços do Dolphin no chão para encarar GAC e Geely",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/byd-faz-queima-e-joga-precos-do-dolphin-no-chao-para-encarar-gac-e-geely/",
-      "data": "2026-10-13T20:13:00+00:00"
-    },
-    {
-      "titulo": "Apple e Samsung avançam enquanto crise da IA sufoca marcas chinesas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/apple-e-samsung-avancam-enquanto-crise-da-ia-sufoca-marcas-chinesas/",
-      "data": "2026-10-13T20:09:34+00:00"
-    },
-    {
-      "titulo": "XBOX testa recurso parecido com o Duolingo para incentivar jogadores a jogarem",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/xbox-testa-recurso-parecido-com-o-duolingo-para-incentivar-jogadores-a-jogarem/",
-      "data": "2026-10-13T20:05:00+00:00"
-    },
-    {
       "titulo": "SAC terá de atender 80% das chamadas em até 20 segundos",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/sac-tera-de-atender-80-das-chamadas-em-ate-20-segundos/",
       "data": "2026-10-13T20:03:27+00:00"
-    },
-    {
-      "titulo": "WhatsApp libera agendamento de mensagens no Android; veja como usar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/whatsapp-libera-agendamento-de-mensagens-no-android-veja-como-usar/",
-      "data": "2026-10-13T20:01:00+00:00"
-    },
-    {
-      "titulo": "Fitbit Edge: Google lança pulseira inteligente que disputa com a Xiaomi ‘Mi Band’",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/fitbit-edge-google-lanca-pulseira-inteligente-que-disputa-com-a-xiaomi-mi-band/",
-      "data": "2026-10-13T20:00:00+00:00"
     },
     {
       "titulo": "Linus Torvalds defende IA na programação: “Uso IA para fazer as coisas em que sou ruim”",
@@ -156,30 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/governo-autoriza-bloqueio-de-celulares-em-presidios-sem-ordem-judicial/",
       "data": "2026-10-13T17:12:38+00:00"
-    },
-    {
-      "titulo": "HyperX Pulsefire Core: mouse gamer de R$314 saindo por R$105 — e com nota 4.8 de 5 estrelas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/hyperx-pulsefire-core-mouse-gamer-de-r314-saindo-por-r8990-e-com-nota-4-8-de-5-estrelas/",
-      "data": "2026-10-13T17:00:26+00:00"
-    },
-    {
-      "titulo": "Robô humanoide é apreendido após tentar assediar adolescente na Alemanha",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/stem/robo-humanoide-e-apreendido-apos-tentar-assediar-adolescente-na-alemanha/",
-      "data": "2026-10-13T17:00:00+00:00"
-    },
-    {
-      "titulo": "Top 10 notebooks com placa de vídeo dedicada para comprar em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/notebook-com-placa-de-video-dedicada/",
-      "data": "2026-10-13T16:24:20+00:00"
-    },
-    {
-      "titulo": "Melhor TV 32 polegadas em 2026: 8 modelos smart para ambientes pequenos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-tv-32-polegadas/",
-      "data": "2026-10-13T16:15:46+00:00"
     }
   ]
 }
