@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-10-14T05:05:50.641249+00:00",
+  "atualizado_em": "2026-10-14T10:22:20.359851+00:00",
   "noticias": [
+    {
+      "titulo": "Intermediário da Samsung pode chegar em 2027 com câmera de 7 anos atrás; entenda",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/intermediario-da-samsung-pode-chegar-em-2027-com-camera-de-7-anos-atras-entenda/",
+      "data": "2026-10-14T10:03:28+00:00"
+    },
+    {
+      "titulo": "Por que alguns carros têm luz de ré só de um lado? Veja o que diz a lei",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/por-que-alguns-carros-tem-luz-de-re-so-de-um-lado-veja-o-que-diz-a-lei/",
+      "data": "2026-10-14T10:01:00+00:00"
+    },
+    {
+      "titulo": "‘Seu algoritmo’: Facebook agora usa IA para controlar conteúdos no feed e Reels",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/seu-algoritmo-facebook-agora-usa-ia-para-controlar-conteudos-no-feed-e-reels/",
+      "data": "2026-10-14T10:00:00+00:00"
+    },
+    {
+      "titulo": "Vazamento de dados do Grindr rende multa recorde de R$ 48,4 milhões à empresa publicitária",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/vazamento-de-dados-no-grindr-rende-multa-recorde-de-r-484-milhoes/",
+      "data": "2026-10-14T09:00:00+00:00"
+    },
+    {
+      "titulo": "AOC lança garantia estendida de até 3 anos para monitores AGON",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/aoc-lanca-garantia-estendida-de-ate-3-anos-para-monitores-agon/",
+      "data": "2026-10-14T08:00:00+00:00"
+    },
     {
       "titulo": "Meta lança novos agentes de IA com memória contínua e que não desistem de tarefas",
       "fonte": "Canaltech",
@@ -74,40 +104,10 @@
       "data": "2026-10-13T22:00:00+00:00"
     },
     {
-      "titulo": "Review Dragon's Dogma 2: Dark Arisen | A melhor hora de jogar DD2 é agora",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/review-dragons-dogma-2-dark-arisen/",
-      "data": "2026-10-13T21:20:48+00:00"
-    },
-    {
-      "titulo": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (13)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-13/",
-      "data": "2026-10-13T21:15:00+00:00"
-    },
-    {
-      "titulo": "Realme confirma celulares atualizados para o Android 17; veja lista",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/realme-confirma-celulares-atualizados-para-o-android-17-veja-lista/",
-      "data": "2026-10-13T21:00:00+00:00"
-    },
-    {
-      "titulo": "YouTube ganha nova ferramenta que vai mudar completamente como você busca vídeos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/youtube-ganha-nova-ferramenta-que-vai-mudar-completamente-como-voce-busca-videos/",
-      "data": "2026-10-13T21:00:00+00:00"
-    },
-    {
       "titulo": "Galaxy Tab S10 FE 5G registra 40% OFF em oferta no Mercado Livre",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-5g-registra-40-off-em-oferta-no-mercado-livre/",
       "data": "2026-10-13T20:50:41+00:00"
-    },
-    {
-      "titulo": "Após ‘desafios’, Brasil Game Show confirma retorno em 2027 com ingressos de até R$ 2 mil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/apos-desafios-brasil-game-show-confirma-retorno-em-2027-com-ingressos-de-ate-r-2-mil/",
-      "data": "2026-10-13T20:45:00+00:00"
     },
     {
       "titulo": "SAC terá de atender 80% das chamadas em até 20 segundos",
