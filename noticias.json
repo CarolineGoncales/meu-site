@@ -1,185 +1,185 @@
 {
-  "atualizado_em": "2026-10-14T10:22:20.359851+00:00",
+  "atualizado_em": "2026-10-14T15:16:31.664916+00:00",
   "noticias": [
     {
-      "titulo": "Intermediário da Samsung pode chegar em 2027 com câmera de 7 anos atrás; entenda",
+      "titulo": "IA atende ligações de golpistas, finge ser vítima e prende criminosos na linha por horas",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/intermediario-da-samsung-pode-chegar-em-2027-com-camera-de-7-anos-atras-entenda/",
-      "data": "2026-10-14T10:03:28+00:00"
+      "link": "https://canaltech.com.br/seguranca/ia-atende-ligacoes-de-golpistas-finge-ser-vitima-e-prende-criminosos-na-linha-por-horas/",
+      "data": "2026-10-14T15:14:00+00:00"
     },
     {
-      "titulo": "Por que alguns carros têm luz de ré só de um lado? Veja o que diz a lei",
+      "titulo": "Prepare o SSD: vazamento indica que GTA 6 vai ocupar pelo menos 200 GB",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/por-que-alguns-carros-tem-luz-de-re-so-de-um-lado-veja-o-que-diz-a-lei/",
-      "data": "2026-10-14T10:01:00+00:00"
+      "link": "https://canaltech.com.br/games/prepare-o-ssd-vazamento-indica-que-gta-6-vai-ocupar-pelo-menos-200-gb/",
+      "data": "2026-10-14T15:12:00+00:00"
     },
     {
-      "titulo": "‘Seu algoritmo’: Facebook agora usa IA para controlar conteúdos no feed e Reels",
+      "titulo": "Netflix demite 6% dos funcionários em maior corte desde 2022",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/seu-algoritmo-facebook-agora-usa-ia-para-controlar-conteudos-no-feed-e-reels/",
-      "data": "2026-10-14T10:00:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/netflix-demite-6-dos-funcionarios-em-maior-corte-desde-2022/",
+      "data": "2026-10-14T15:05:00+00:00"
     },
     {
-      "titulo": "Vazamento de dados do Grindr rende multa recorde de R$ 48,4 milhões à empresa publicitária",
+      "titulo": "Gabinete Redragon Eternal com 29% de desconto: o aquário que tem espaço até para a sua coleção de action figures",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/gabinete-redragon-eternal-com-29-de-desconto-o-aquario-que-tem-espaco-ate-para-a-sua-colecao-de-action-figures/",
+      "data": "2026-10-14T15:00:29+00:00"
+    },
+    {
+      "titulo": "FMI aumenta projeção de crescimento da economia global por causa da IA",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/vazamento-de-dados-no-grindr-rende-multa-recorde-de-r-484-milhoes/",
-      "data": "2026-10-14T09:00:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/fmi-aumenta-projecao-de-crescimento-da-economia-global-por-causa-da-ia/",
+      "data": "2026-10-14T15:00:00+00:00"
     },
     {
-      "titulo": "AOC lança garantia estendida de até 3 anos para monitores AGON",
+      "titulo": "OpenAI usa sua própria IA para identificar funcionário suspeito de espionagem",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/openai-funcionario-espionagem/",
+      "data": "2026-10-14T14:54:04+00:00"
+    },
+    {
+      "titulo": "Bluetooth 6: entenda o que muda nas versões 6.0, 6.1, 6.2 e 6.3",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/bluetooth-6-entenda-o-que-muda-nas-versoes-6-0-6-1-6-2-e-6-3/",
+      "data": "2026-10-14T14:52:06+00:00"
+    },
+    {
+      "titulo": "Apple ganha na Justiça acesso a documentos da OpenAI em processo por roubo de segredos comerciais",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/aoc-lanca-garantia-estendida-de-ate-3-anos-para-monitores-agon/",
-      "data": "2026-10-14T08:00:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/apple-ganha-na-justica-acesso-a-documentos-da-openai-em-processo-por-roubo-de-segredos-comerciais/",
+      "data": "2026-10-14T14:45:00+00:00"
     },
     {
-      "titulo": "Meta lança novos agentes de IA com memória contínua e que não desistem de tarefas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/meta-lanca-novos-agentes-de-ia-com-memoria-continua-e-que-nao-desistem-de-tarefas/",
-      "data": "2026-10-14T00:05:03+00:00"
-    },
-    {
-      "titulo": "Disney confirma reboot de Arquivo X: conheça o elenco e a data de lançamento",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/disney-confirma-reboot-de-arquivo-x-conheca-o-elenco-e-a-data-de-lancamento/",
-      "data": "2026-10-14T00:00:00+00:00"
-    },
-    {
-      "titulo": "Motivo para comprar a caixinha: GTA 6 deve vir com mapa física, diz GameStop",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/motivo-para-comprar-a-caixinha-gta-6-deve-vir-com-mapa-fisica-diz-gamestop/",
-      "data": "2026-10-13T23:20:02+00:00"
-    },
-    {
-      "titulo": "Notebook com 32 GB de RAM: 7 modelos para comprar em 2026",
+      "titulo": "Smart TV TCL C6K de 55” tem o melhor preço desde setembro na Amazon",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-notebook-32-gb/",
-      "data": "2026-10-13T23:16:14+00:00"
+      "link": "https://tecnoblog.net/achados/smart-tv-tcl-c6k-de-55-tem-o-melhor-preco-desde-setembro-na-amazon/",
+      "data": "2026-10-14T14:38:11+00:00"
     },
     {
-      "titulo": "Mercado global de celulares encolhe 20%; Samsung segue no topo",
+      "titulo": "Samsung Smart TV 55″ Crystal UHD 4K U8000H sai por menos de R$2.790: Vision AI Companion, Modo Estádio, Xbox Cloud Gaming e mais",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/samsung-smart-tv-55-crystal-uhd-4k-u8000h-sai-por-menos-de-r2-790-vision-ai-companion-modo-estadio-xbox-cloud-gaming-e-mais/",
+      "data": "2026-10-14T14:33:58+00:00"
+    },
+    {
+      "titulo": "Novas IAs de Google e OpenAI são facilmente burladas para gerar nudes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/novas-ias-de-google-e-openai-sao-facilmente-burladas-para-gerar-nudes/",
+      "data": "2026-10-14T14:32:00+00:00"
+    },
+    {
+      "titulo": "Xbox cria laboratório para dar nova vida a jogos antigos",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/xbox-cria-laboratorio-para-dar-nova-vida-a-jogos-antigos/",
+      "data": "2026-10-14T14:31:27+00:00"
+    },
+    {
+      "titulo": "99 lança IA que detecta possíveis acidentes de moto e aciona ajuda",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/99-lanca-ia-que-detecta-possiveis-acidentes-de-moto-e-aciona-ajuda/",
+      "data": "2026-10-14T14:26:09+00:00"
+    },
+    {
+      "titulo": "Galaxy Watch 8 LTE está 62% mais barato em oferta no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-esta-62-mais-barato-em-oferta-no-mercado-livre/",
+      "data": "2026-10-14T14:21:32+00:00"
+    },
+    {
+      "titulo": "Microsoft anuncia Xbox Labs para explorar recompilação de jogos e IA",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/xbox-labs-mods-ports-ia/",
+      "data": "2026-10-14T14:17:09+00:00"
+    },
+    {
+      "titulo": "Novo celular com \"tela achatada\" terá duas câmeras de 200 MP, diz leaker",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/novo-celular-com-tela-achatada-tera-duas-cameras-de-200-mp-diz-leaker/",
+      "data": "2026-10-14T14:11:18+00:00"
+    },
+    {
+      "titulo": "Rei da produtividade, Logitech MX Master 4 ganha Edição Especial com visual ousado",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/rei-da-produtividade-logitech-mx-master-4-ganha-edicao-especial-com-visual-ousado/",
+      "data": "2026-10-14T14:10:04+00:00"
+    },
+    {
+      "titulo": "Nova usina solar com hidrogênio chinesa \"ligaria\" capital brasileira por 37 dias",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/nova-usina-solar-com-hidrogenio-chinesa-ligaria-capital-brasileira-por-37-dias/",
+      "data": "2026-10-14T14:06:30+00:00"
+    },
+    {
+      "titulo": "Facebook agora deixa você treinar o algoritmo usando suas próprias palavras",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/facebook-agora-deixa-voce-treinar-o-algoritmo-usando-suas-proprias-palavras/",
+      "data": "2026-10-14T14:06:00+00:00"
+    },
+    {
+      "titulo": "Suprema Corte dos EUA julga caso que pode mudar regras de privacidade na internet",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/suprema-corte-dos-eua-julga-caso-que-pode-mudar-regras-de-privacidade-na-internet/",
+      "data": "2026-10-14T14:04:26+00:00"
+    },
+    {
+      "titulo": "DualSense de Marvel’s Wolverine está disponível na Amazon em duas versões especiais",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/dualsense-wolverine-amazon/",
+      "data": "2026-10-14T14:01:07+00:00"
+    },
+    {
+      "titulo": "Precisando de pilhas? A nova categoria Optimum da Duracell dura 30x mais e é a pedida certa!",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/precisando-de-pilhas-a-nova-categoria-optimum-da-duracell-dura-30x-mais-e-e-a-pedida-certa/",
+      "data": "2026-10-14T14:00:12+00:00"
+    },
+    {
+      "titulo": "Windows 11 24H2 Home e Pro perdem suporte da Microsoft; saiba o que fazer",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/mercado-global-de-celulares-encolhe-20-samsung-segue-no-topo/",
-      "data": "2026-10-13T23:00:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/windows-11-24h2-home-e-pro-perdem-suporte-da-microsoft-saiba-o-que-fazer/",
+      "data": "2026-10-14T14:00:00+00:00"
     },
     {
-      "titulo": "Elon Musk junta X Premium, Grok e Cursor em assinatura única e cara; veja valores",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/elon-musk-junta-x-premium-grok-e-cursor-em-assinatura-unica-e-cara-veja-valores/",
-      "data": "2026-10-13T23:00:00+00:00"
+      "titulo": "Nintendo Switch Lite tem queda de 28% no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/nintendo-switch-lite-entra-em-promocao-relampago-no-mercado-livre/",
+      "data": "2026-10-14T13:48:07+00:00"
     },
     {
-      "titulo": "Control Resonant e mais jogos da Steam com até 91% OFF na Nuuvem",
+      "titulo": "Cyberleek divulga ‘vazamento final’ de GTA 6 e promete parar com vídeos do jogo",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/control-resonant-e-mais-jogos-da-steam-com-ate-91-off-na-nuuvem/",
-      "data": "2026-10-13T22:30:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/cyberleek-divulga-vazamento-final-de-gta-6-e-promete-parar-de-publicar-videos-do-jogo/",
+      "data": "2026-10-14T13:43:00+00:00"
     },
     {
-      "titulo": "NPM: GitHub corrige falha que expôs mais de 1.500 pacotes de software a invasões",
+      "titulo": "Galaxy Buds Core cai para R$194: cancelamento de ruído e intérprete inteligente com preço em conta!",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/galaxy-buds-core-cai-para-r250-com-cupom-cancelamento-de-ruido-e-interprete-inteligente-com-preco-em-conta/",
+      "data": "2026-10-14T13:35:07+00:00"
+    },
+    {
+      "titulo": "Mercado de celulares atinge o pior nível desde 2012",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/mercado-de-celulares-atinge-o-pior-nivel-desde-2012/",
+      "data": "2026-10-14T13:32:55+00:00"
+    },
+    {
+      "titulo": "“Black” da 99 começa em outubro com carros melhores",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/black-da-99-comeca-em-outubro/",
+      "data": "2026-10-14T13:32:47+00:00"
+    },
+    {
+      "titulo": "Xiaomi lança Redmi Watch 6 Lite e Active no Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/xiaomi-lanca-redmi-watch-6-lite-e-active-no-brasil/",
+      "data": "2026-10-14T11:51:08+00:00"
+    },
+    {
+      "titulo": "Carregador por indução para iPhone: opções seguras para comprar",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/npm-github-corrige-falha-que-expos-mais-de-1500-pacotes-de-software-a-invasoes/",
-      "data": "2026-10-13T22:15:00+00:00"
-    },
-    {
-      "titulo": "Dev cria “clone gratuito” do Photoshop, Word e Excel com ajuda da IA",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/dev-cria-clone-gratuito-do-photoshop-word-e-excel-com-ajuda-da-ia/",
-      "data": "2026-10-13T22:07:00+00:00"
-    },
-    {
-      "titulo": "Novo modelo do DLSS 5 consome 20% menos VRAM em 4K; veja o que mudou",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/novo-modelo-do-dlss-5-consome-20-menos-vram-em-4k-veja-o-que-mudou/",
-      "data": "2026-10-13T22:07:00+00:00"
-    },
-    {
-      "titulo": "Huawei Watch Fit 5 Pro custa menos que o Fit 4 Pro no Magazine Luiza",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/huawei-watch-fit-5-pro-custa-menos-que-o-fit-4-pro-no-magazine-luiza/",
-      "data": "2026-10-13T22:00:43+00:00"
-    },
-    {
-      "titulo": "Home office: 104 vagas para trabalho remoto [13/10]",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/trabalho-remoto-104-vagas-home-office/",
-      "data": "2026-10-13T22:00:00+00:00"
-    },
-    {
-      "titulo": "Galaxy Tab S10 FE 5G registra 40% OFF em oferta no Mercado Livre",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-5g-registra-40-off-em-oferta-no-mercado-livre/",
-      "data": "2026-10-13T20:50:41+00:00"
-    },
-    {
-      "titulo": "SAC terá de atender 80% das chamadas em até 20 segundos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/sac-tera-de-atender-80-das-chamadas-em-ate-20-segundos/",
-      "data": "2026-10-13T20:03:27+00:00"
-    },
-    {
-      "titulo": "Linus Torvalds defende IA na programação: “Uso IA para fazer as coisas em que sou ruim”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/linus-torvalds-defende-ia-na-programacao/",
-      "data": "2026-10-13T19:45:18+00:00"
-    },
-    {
-      "titulo": "Firefox ganha versão paga com controle de dados e IA",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/firefox-ganha-versao-paga-com-controle-de-dados-e-ia/",
-      "data": "2026-10-13T19:23:13+00:00"
-    },
-    {
-      "titulo": "Ataque hacker eleva temperatura de freezers na França e faz 150 supermercados jogarem comida fora",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/ataque-hacker-na-franca-eleva-temperatura-de-freezers/",
-      "data": "2026-10-13T18:51:30+00:00"
-    },
-    {
-      "titulo": "Oferta Prime: Monitor Samsung Odyssey OLED G9 de 49 polegadas tem R$ 950 de desconto na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/oferta-prime-monitor-samsung-odyssey-oled-g9-49-polegadas/",
-      "data": "2026-10-13T18:50:15+00:00"
-    },
-    {
-      "titulo": "Bolha da IA pode derrubar a economia global, alerta FMI",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/bolha-da-ia-pode-derrubar-a-economia-global-alerta-fmi/",
-      "data": "2026-10-13T18:36:08+00:00"
-    },
-    {
-      "titulo": "Após 2.500 horas de Counter-Strike, jogador de 38 anos troca competitivo por jogos single-player: “Não poderia estar mais feliz”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/jogador-de-38-anos-troca-competitivo-por-jogos-single-player-para-relaxar/",
-      "data": "2026-10-13T18:18:47+00:00"
-    },
-    {
-      "titulo": "Edição de colecionador de God of War Laufey vem com tudo, menos o próprio jogo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/colecionador-god-of-war-laufey-jogo/",
-      "data": "2026-10-13T18:10:52+00:00"
-    },
-    {
-      "titulo": "GTA 6 pode chegar ao PC no início de 2027, diz site",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/gta-6-pode-chegar-ao-pc-no-inicio-de-2027-diz-site/",
-      "data": "2026-10-13T17:44:01+00:00"
-    },
-    {
-      "titulo": "JBL Tune 530BT, campeão de vendas da Amazon, está com 34% de desconto: Sem fio e até 76 horas de bateria",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/jbl-tune-530bt-o-fone-aberto-mais-vendido-da-amazon-esta-com-34-de-desconto/",
-      "data": "2026-10-13T17:30:51+00:00"
-    },
-    {
-      "titulo": "Créditos na carteira do Steam começarão a ter validade de seis meses no Japão",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/creditos-na-carteira-do-steam-comecarao-a-ter-validade-de-seis-meses-para-saldos-nao-utilizados-no-japao/",
-      "data": "2026-10-13T17:16:22+00:00"
-    },
-    {
-      "titulo": "Governo autoriza bloqueio de celulares em presídios sem ordem judicial",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/governo-autoriza-bloqueio-de-celulares-em-presidios-sem-ordem-judicial/",
-      "data": "2026-10-13T17:12:38+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/carregador-por-inducao-para-iphone-4-opcoes-para-comprar/",
+      "data": "2026-10-09T12:15:00+00:00"
     }
   ]
 }
