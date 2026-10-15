@@ -1,185 +1,185 @@
 {
-  "atualizado_em": "2026-10-15T10:56:06.718374+00:00",
+  "atualizado_em": "2026-10-15T15:24:19.615720+00:00",
   "noticias": [
+    {
+      "titulo": "Custo de violação de dados bate recorde no Brasil e chega a R$ 7,44 milhões",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/custo-de-violacao-de-dados-bate-recorde-no-brasil-e-chega-a-r-744-milhoes/",
+      "data": "2026-10-15T15:12:49+00:00"
+    },
+    {
+      "titulo": "Cansou de música feita por IA? YouTube Music começa a rotular faixas sintéticas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/cansou-de-musica-feita-por-ia-youtube-music-comeca-a-rotular-faixas-sinteticas/",
+      "data": "2026-10-15T15:12:01+00:00"
+    },
+    {
+      "titulo": "Fim da novela: 007 First Light define data de lançamento no Switch 2",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/fim-da-novela-007-first-light-define-data-de-lancamento-no-switch-2/",
+      "data": "2026-10-15T15:12:00+00:00"
+    },
+    {
+      "titulo": "Galaxy S25 Plus (256 GB) custa menos da metade do preço no Magalu",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-custa-menos-da-metade-do-preco-no-magalu/",
+      "data": "2026-10-15T15:05:50+00:00"
+    },
+    {
+      "titulo": "Como ganhar diamantes de graça no Free Fire",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/como-ganhar-diamantes-no-free-fire/",
+      "data": "2026-10-15T15:01:15+00:00"
+    },
+    {
+      "titulo": "Teclado Mecânico Gamer Redragon Valheim: 20% de desconto e qualidade reconhecida pelos usuários",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/teclado-mecanico-gamer-redragon-valheim-20-de-desconto-e-qualidade-reconhecida-pelos-usuarios/",
+      "data": "2026-10-15T15:00:09+00:00"
+    },
+    {
+      "titulo": "Apple se torna a 2ª empresa a bater US$ 5 trilhões em valor de mercado",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/apple-se-torna-a-2-empresa-a-bater-us-5-trilhoes-em-valor-de-mercado/",
+      "data": "2026-10-15T15:00:00+00:00"
+    },
+    {
+      "titulo": "LibreOffice oferece alternativa grátis após fim do Microsoft Publisher",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/libreoffice-oferece-alternativa-gratuita-apos-fim-do-microsoft-publisher/",
+      "data": "2026-10-15T14:52:38+00:00"
+    },
+    {
+      "titulo": "iPhone 17 Pro com alta performance atinge 30% de desconto no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/iphone-17-pro-com-alta-performance-atinge-30-de-desconto-no-mercado-livre/",
+      "data": "2026-10-15T14:52:03+00:00"
+    },
+    {
+      "titulo": "GTA 6 poderá concorrer ao GOTY 2026 antes mesmo de ser lançado",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-concorrer-goty-2026/",
+      "data": "2026-10-15T14:46:20+00:00"
+    },
+    {
+      "titulo": "Walkman está de volta? Sony prepara 3 novos modelos com bateria de 40h",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/walkman-esta-de-volta-sony-prepara-3-novos-modelos-com-bateria-de-40h/",
+      "data": "2026-10-15T14:43:31+00:00"
+    },
+    {
+      "titulo": "Para enfrentar Spotify e Audible, YouTube prepara lançamento de audiobooks",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/para-enfrentar-spotify-e-audible-youtube-prepara-lancamento-de-audiobooks/",
+      "data": "2026-10-15T14:32:00+00:00"
+    },
+    {
+      "titulo": "Acer Aspire 15 Go com 31% de desconto: Intel Core i7, 16GB de RAM e 512GB de armazenamento SSD",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/acer-aspire-15-go-com-r1-600-off-intel-core-i7-16gb-de-ram-e-512gb-de-armazenamento-ssd/",
+      "data": "2026-10-15T14:30:17+00:00"
+    },
+    {
+      "titulo": "iPhone 17 (256 GB) volta a cair de preço e tem 34% OFF no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/iphone-17-256-gb-volta-a-cair-de-preco-e-tem-34-off-no-mercado-livre/",
+      "data": "2026-10-15T14:29:30+00:00"
+    },
+    {
+      "titulo": "Galaxy A57 recebe One UI 9 no Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/galaxy-a57-recebe-one-ui-9-no-brasil/",
+      "data": "2026-10-15T14:26:45+00:00"
+    },
+    {
+      "titulo": "Microsoft anuncia controle Xbox Nano com preço no Brasil; conheça",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/microsoft-anuncia-controle-xbox-nano-com-preco-no-brasil-conheca/",
+      "data": "2026-10-15T14:15:00+00:00"
+    },
+    {
+      "titulo": "Motorola Razr 70 (256 GB) tem queda abrupta de preço na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/motorola-razr-70-256-gb-tem-queda-abrupta-de-preco-na-amazon/",
+      "data": "2026-10-15T14:14:58+00:00"
+    },
+    {
+      "titulo": "Fique pronto para GTA 6: Amazon oferece bundle com PS5 Slim e mais dois jogos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/fique-pronto-para-gta-6-ps5-amazon/",
+      "data": "2026-10-15T14:13:41+00:00"
+    },
+    {
+      "titulo": "Microsoft consulta fãs sobre decisão polêmica de tornar 3 franquias exclusivas do XBOX",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/microsoft-consulta-fas-sobre-decisao-polemica-de-tornar-3-franquias-exclusivas-do-xbox/",
+      "data": "2026-10-15T14:11:00+00:00"
+    },
+    {
+      "titulo": "Seu iPad usado vale quanto? Loja avalia tablets e notebooks pela internet",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tablet/seu-ipad-usado-vale-quanto-loja-avalia-tablets-e-notebooks-pela-internet/",
+      "data": "2026-10-15T14:03:37+00:00"
+    },
+    {
+      "titulo": "Google avisa que vai tirar modelos Pro do plano básico do Gemini",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-avisa-que-vai-tirar-modelos-pro-do-plano-basico-do-gemini/",
+      "data": "2026-10-15T14:01:00+00:00"
+    },
+    {
+      "titulo": "God of War Laufey já está em pré-venda na Amazon e com cupom de desconto por tempo limitado!",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/god-of-war-laufey-ja-esta-em-pre-venda-na-amazon-e-com-cupom-de-desconto-por-tempo-limitado/",
+      "data": "2026-10-15T14:00:07+00:00"
+    },
+    {
+      "titulo": "Musk diz que Micron é a única fabricante de memórias com preços razoáveis",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/musk-diz-que-micron-e-a-unica-fabricante-de-memorias-com-precos-razoaveis/",
+      "data": "2026-10-15T14:00:00+00:00"
+    },
+    {
+      "titulo": "FBI fecha fazendas de notebooks usadas em fraude norte-coreana",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/fbi-fecha-fazendas-de-notebooks-usadas-em-fraude-norte-coreana/",
+      "data": "2026-10-15T13:49:12+00:00"
+    },
+    {
+      "titulo": "GTA 6 ganha trailer de lançamento e aumenta expectativa para sua estreia",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-ganha-trailer-de-lancamento-e-aumenta-expectativa-para-sua-estreia/",
+      "data": "2026-10-15T13:36:32+00:00"
+    },
+    {
+      "titulo": "LG UltraGear: Monitor gamer de 27″ com 180Hz e 1ms por menos de R$ 926",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/lg-ultragear-monitor-gamer-de-27-com-180hz-e-1ms-por-menos-de-r-926/",
+      "data": "2026-10-15T13:34:21+00:00"
+    },
+    {
+      "titulo": "Imperdível: controle Dualshock para Playstation 4 por menos de R$ 160",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/controle-dualshock-para-palystation-4-fica-pelo-menor-valor-no-mercado-livre/",
+      "data": "2026-10-15T13:34:00+00:00"
+    },
+    {
+      "titulo": "Walkman não morreu: novo modelo da Sony pode custar mais que um iPhone 18 Pro",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/walkman-custar-mais-iphone-18-pro/",
+      "data": "2026-10-15T13:22:57+00:00"
+    },
+    {
+      "titulo": "GTA 6 ganha novo trailer antes do lançamento com cenas picantes e ação! Assista",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-ganha-novo-trailer-cinematografico-com-cenas-de-acao-e-tiroteios-desenfreados-assista/",
+      "data": "2026-10-15T13:12:00+00:00"
+    },
     {
       "titulo": "Lula diz que desenvolvedores de games brasileiros não serão inferiores aos estrangeiros",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/lula-diz-que-desenvolvedores-de-games-brasileiros-nao-serao-inferiores-aos-estrangeiros/",
       "data": "2026-10-15T10:26:00+00:00"
-    },
-    {
-      "titulo": "Tem eletrônico parado? Correios agora fazem o descarte gratuito",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/tem-eletronico-parado-correios-agora-fazem-o-descarte-gratuito/",
-      "data": "2026-10-15T10:17:15+00:00"
-    },
-    {
-      "titulo": "Melhores opções de Notebook gamer com 16GB de RAM",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/notebook-gamer-com-16-gb-de-ram-5-modelos-para-comprar-em-2026/",
-      "data": "2026-10-15T10:15:00+00:00"
-    },
-    {
-      "titulo": "Como a 99 calcula o preço das corridas e escolhe motoristas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/como-a-99-calcula-o-preco-das-corridas-e-escolhe-motoristas/",
-      "data": "2026-10-15T10:04:00+00:00"
-    },
-    {
-      "titulo": "Carregar o carro elétrico em casa aumenta quanto na conta de luz?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/carregar-o-carro-eletrico-em-casa-aumenta-quanto-na-conta-de-luz/",
-      "data": "2026-10-15T10:03:00+00:00"
-    },
-    {
-      "titulo": "Além da tela pior, intermediário da Samsung pode decepcionar na câmera; entenda",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/alem-da-tela-pior-intermediario-da-samsung-pode-decepcionar-na-camera-entenda/",
-      "data": "2026-10-15T09:55:15+00:00"
-    },
-    {
-      "titulo": "Crítica Street Fighter | Uma vitória no ringue e nos cinemas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/critica-street-fighter-uma-vitoria-no-ringue-e-nos-cinemas/",
-      "data": "2026-10-15T09:30:00+00:00"
-    },
-    {
-      "titulo": "OpenAI contra-ataca e acusa ex-funcionário de vazar informações para a Apple",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/openai-contra-ataca-e-acusa-ex-funcionario-de-vazar-informacoes-para-a-apple/",
-      "data": "2026-10-15T09:06:00+00:00"
-    },
-    {
-      "titulo": "Pesquisadores usam IA para encontrar falhas no Google Chrome e recebem R$ 1,4 milhão",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/pesquisadores-usam-ia-para-encontrar-falhas-no-google-chrome-e-recebem-r-14-milhao/",
-      "data": "2026-10-15T08:00:00+00:00"
-    },
-    {
-      "titulo": "Sucesso absurdo de ARC Raiders forçou a Embark a mudar de estratégia",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/sucesso-absurdo-de-arc-raiders-forcou-a-embark-a-mudar-de-estrategia/",
-      "data": "2026-10-14T23:15:00+00:00"
-    },
-    {
-      "titulo": "Starlink: quanto custa e vale a pena assinar a internet do Elon Musk?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/quanto-custa-a-starlink-no-brasil-conheca-os-planos/",
-      "data": "2026-10-14T23:15:00+00:00"
-    },
-    {
-      "titulo": "Notebooks vão ficar ainda mais caro: Intel aumenta preços de CPUs Panther Lake em até 20%",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/notebooks-vao-ficar-ainda-mais-caro-intel-aumenta-precos-de-cpus-panther-lake-em-ate-20/",
-      "data": "2026-10-14T23:09:00+00:00"
-    },
-    {
-      "titulo": "LEGO Batman e mais jogos de Xbox com até 90% OFF; confira",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/lego-batman-e-mais-jogos-de-xbox-com-ate-90-off-confira/",
-      "data": "2026-10-14T22:45:00+00:00"
-    },
-    {
-      "titulo": "Review do Motorola Edge 70: equilíbrio para o dia a dia",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/testamos/review-do-motorola-edge-70-equilibrio-para-o-dia-a-dia/",
-      "data": "2026-10-14T22:01:55+00:00"
-    },
-    {
-      "titulo": "Brasileiro viaja 2 mil km para encontrar ‘pretendente’ e descobre que mulher era IA",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/brasileiro-viaja-2-mil-km-para-encontrar-pretendente-e-descobre-que-mulher-era-ia/",
-      "data": "2026-10-14T22:00:00+00:00"
-    },
-    {
-      "titulo": "Meta confirma roubo de código e dados pessoais no GitHub",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/meta-confirma-roubo-de-codigo-e-dados-pessoais-no-github/",
-      "data": "2026-10-14T21:50:47+00:00"
-    },
-    {
-      "titulo": "Estudo prevê fim dos consoles como os conhecemos até 2035; como será o futuro?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/estudo-preve-fim-dos-consoles-como-os-conhecemos-ate-2035-como-sera-o-futuro/",
-      "data": "2026-10-14T21:46:00+00:00"
-    },
-    {
-      "titulo": "Zesto: 99 lança sistema com IA para pequenos restaurantes; veja como funciona",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/zesto-99-lanca-sistema-com-ia-para-pequenos-restaurantes-veja-como-funciona/",
-      "data": "2026-10-14T21:24:55+00:00"
-    },
-    {
-      "titulo": "Para fãs de La Casa de Papel, nova série do Apple TV+ traz assalto tenso em 3 linhas do tempo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/para-fas-de-la-casa-de-papel-nova-serie-do-apple-tv-traz-assalto-tenso-em-3-linhas-do-tempo/",
-      "data": "2026-10-14T21:18:00+00:00"
-    },
-    {
-      "titulo": "Cyberleek encerra vazamentos de GTA 6 e desiste de liberar build completa",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-build-200gb-nao-sera-lancada/",
-      "data": "2026-10-14T20:11:49+00:00"
-    },
-    {
-      "titulo": "GameSir G7 Pro está com menor preço do ano e se destaca entre controles profissionais",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/gamesir-g7-pro-menor-preco-do-ano/",
-      "data": "2026-10-14T20:09:58+00:00"
-    },
-    {
-      "titulo": "Netflix demite 1.000 funcionários em maior corte desde 2022",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/netflix-demite-1-000-funcionarios-em-maior-corte-desde-2022/",
-      "data": "2026-10-14T20:05:49+00:00"
-    },
-    {
-      "titulo": "Galaxy Tab S11 tem oferta para quem busca tablet para jogos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-tem-oferta-para-quem-busca-tablet-para-jogos/",
-      "data": "2026-10-14T19:53:02+00:00"
-    },
-    {
-      "titulo": "Como escanear o QR code do WhatsApp Web para entrar na sua conta",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/whatsapp-web-escanear-codigo-qr/",
-      "data": "2026-10-14T19:32:38+00:00"
-    },
-    {
-      "titulo": "Notebook Acer Aspire 5 com RAM de 16 GB cai 45% em até 12x sem juros",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/notebook-acer-aspire-5-com-ram-de-16-gb-cai-45-em-ate-12x-sem-juros/",
-      "data": "2026-10-14T19:14:12+00:00"
-    },
-    {
-      "titulo": "Homem passa 36 horas em ônibus para encontrar mulher e descobre que ela não existe; foi criada por IA",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/homem-viaja-2-mil-km-descobre-namorada-era-ia/",
-      "data": "2026-10-14T19:00:42+00:00"
-    },
-    {
-      "titulo": "Lula regulamenta Marco Legal dos Games e anuncia criação da Game Brasil para promover jogos brasileiros",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/lula-game-brasil-jogos-brasileiros/",
-      "data": "2026-10-14T18:44:38+00:00"
-    },
-    {
-      "titulo": "Motorola Razr 60 com tela dobrável está pela metade do preço, o menor valor do ano",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/motorola-razr-60-com-tela-dobravel-metade-do-preco/",
-      "data": "2026-10-14T17:55:34+00:00"
-    },
-    {
-      "titulo": "Meta AI barra Lula, mas gera imagens com referência a Flávio",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/meta-ai-barra-lula-mas-gera-imagens-com-referencia-a-flavio/",
-      "data": "2026-10-14T17:55:16+00:00"
-    },
-    {
-      "titulo": "Ideal para jogar em 1080p, Radeon RX 7600 Challenger entra em promoção na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/radeon-rx-7600-promocao-amazon/",
-      "data": "2026-10-14T17:42:08+00:00"
     }
   ]
 }
