@@ -1,6 +1,60 @@
 {
-  "atualizado_em": "2026-10-15T05:59:47.399926+00:00",
+  "atualizado_em": "2026-10-15T10:56:06.718374+00:00",
   "noticias": [
+    {
+      "titulo": "Lula diz que desenvolvedores de games brasileiros não serão inferiores aos estrangeiros",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/lula-diz-que-desenvolvedores-de-games-brasileiros-nao-serao-inferiores-aos-estrangeiros/",
+      "data": "2026-10-15T10:26:00+00:00"
+    },
+    {
+      "titulo": "Tem eletrônico parado? Correios agora fazem o descarte gratuito",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/tem-eletronico-parado-correios-agora-fazem-o-descarte-gratuito/",
+      "data": "2026-10-15T10:17:15+00:00"
+    },
+    {
+      "titulo": "Melhores opções de Notebook gamer com 16GB de RAM",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/notebook-gamer-com-16-gb-de-ram-5-modelos-para-comprar-em-2026/",
+      "data": "2026-10-15T10:15:00+00:00"
+    },
+    {
+      "titulo": "Como a 99 calcula o preço das corridas e escolhe motoristas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/como-a-99-calcula-o-preco-das-corridas-e-escolhe-motoristas/",
+      "data": "2026-10-15T10:04:00+00:00"
+    },
+    {
+      "titulo": "Carregar o carro elétrico em casa aumenta quanto na conta de luz?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/carregar-o-carro-eletrico-em-casa-aumenta-quanto-na-conta-de-luz/",
+      "data": "2026-10-15T10:03:00+00:00"
+    },
+    {
+      "titulo": "Além da tela pior, intermediário da Samsung pode decepcionar na câmera; entenda",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/alem-da-tela-pior-intermediario-da-samsung-pode-decepcionar-na-camera-entenda/",
+      "data": "2026-10-15T09:55:15+00:00"
+    },
+    {
+      "titulo": "Crítica Street Fighter | Uma vitória no ringue e nos cinemas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/critica-street-fighter-uma-vitoria-no-ringue-e-nos-cinemas/",
+      "data": "2026-10-15T09:30:00+00:00"
+    },
+    {
+      "titulo": "OpenAI contra-ataca e acusa ex-funcionário de vazar informações para a Apple",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/openai-contra-ataca-e-acusa-ex-funcionario-de-vazar-informacoes-para-a-apple/",
+      "data": "2026-10-15T09:06:00+00:00"
+    },
+    {
+      "titulo": "Pesquisadores usam IA para encontrar falhas no Google Chrome e recebem R$ 1,4 milhão",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/pesquisadores-usam-ia-para-encontrar-falhas-no-google-chrome-e-recebem-r-14-milhao/",
+      "data": "2026-10-15T08:00:00+00:00"
+    },
     {
       "titulo": "Sucesso absurdo de ARC Raiders forçou a Embark a mudar de estratégia",
       "fonte": "TecMundo",
@@ -50,12 +104,6 @@
       "data": "2026-10-14T21:46:00+00:00"
     },
     {
-      "titulo": "Operação global derruba rede responsável por 1 bilhão de mensagens de golpe",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/operacao-global-derruba-rede-responsavel-por-1-bilhao-de-mensagens-de-golpe/",
-      "data": "2026-10-14T21:30:00+00:00"
-    },
-    {
       "titulo": "Zesto: 99 lança sistema com IA para pequenos restaurantes; veja como funciona",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/mercado/zesto-99-lanca-sistema-com-ia-para-pequenos-restaurantes-veja-como-funciona/",
@@ -66,24 +114,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/entretenimento/para-fas-de-la-casa-de-papel-nova-serie-do-apple-tv-traz-assalto-tenso-em-3-linhas-do-tempo/",
       "data": "2026-10-14T21:18:00+00:00"
-    },
-    {
-      "titulo": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (14)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-14/",
-      "data": "2026-10-14T21:15:00+00:00"
-    },
-    {
-      "titulo": "Elon Musk diz ter estar sofrendo episódios de ‘psicose por IA’; entenda o que é",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/elon-musk-diz-ter-estar-sofrendo-episodios-de-psicose-por-ia-entenda-o-que-e/",
-      "data": "2026-10-14T21:00:00+00:00"
-    },
-    {
-      "titulo": "Fiat derruba preços de toda a linha; veja modelos e condições",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/fiat-derruba-precos-de-toda-a-linha-veja-modelos-e-condicoes/",
-      "data": "2026-10-14T20:15:05+00:00"
     },
     {
       "titulo": "Cyberleek encerra vazamentos de GTA 6 e desiste de liberar build completa",
@@ -98,12 +128,6 @@
       "data": "2026-10-14T20:09:58+00:00"
     },
     {
-      "titulo": "HP lança PC com Ryzen AI que é literalmente um teclado; preço choca mais que formato",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/hp-lanca-pc-com-ryzen-ai-que-e-literalmente-um-teclado-preco-choca-mais-que-formato/",
-      "data": "2026-10-14T20:08:00+00:00"
-    },
-    {
       "titulo": "Netflix demite 1.000 funcionários em maior corte desde 2022",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/netflix-demite-1-000-funcionarios-em-maior-corte-desde-2022/",
@@ -114,18 +138,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-tab-s11-tem-oferta-para-quem-busca-tablet-para-jogos/",
       "data": "2026-10-14T19:53:02+00:00"
-    },
-    {
-      "titulo": "Vazamento expõe dados de contas da Ticketmaster no Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/vazamento-expoe-dados-de-contas-da-ticketmaster-no-brasil/",
-      "data": "2026-10-14T19:46:47+00:00"
-    },
-    {
-      "titulo": "Como vender no Mercado Livre: cadastro de produtos, taxas, frete e reputação",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/como-vender-no-mercado-livre-cadastro-de-produtos-taxas-frete-e-reputacao/",
-      "data": "2026-10-14T19:34:57+00:00"
     },
     {
       "titulo": "Como escanear o QR code do WhatsApp Web para entrar na sua conta",
@@ -164,22 +176,10 @@
       "data": "2026-10-14T17:55:16+00:00"
     },
     {
-      "titulo": "Xbox anuncia o controle compacto que nós revelamos em primeira mão",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/xbox-anuncia-o-controle-compacto-que-nos-revelamos-em-primeira-mao/",
-      "data": "2026-10-14T17:47:56+00:00"
-    },
-    {
       "titulo": "Ideal para jogar em 1080p, Radeon RX 7600 Challenger entra em promoção na Amazon",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/artigos/radeon-rx-7600-promocao-amazon/",
       "data": "2026-10-14T17:42:08+00:00"
-    },
-    {
-      "titulo": "Peter Thiel acusa Obama e Papa de explorar medo da IA para ganhar popularidade",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/peter-thiel-acusa-obama-e-papa-explorar-medo-ia-ganhar-popularidade/",
-      "data": "2026-10-14T17:24:02+00:00"
     }
   ]
 }
