@@ -1,6 +1,30 @@
 {
-  "atualizado_em": "2026-10-14T22:45:37.129100+00:00",
+  "atualizado_em": "2026-10-15T01:01:18.624117+00:00",
   "noticias": [
+    {
+      "titulo": "Sucesso absurdo de ARC Raiders forçou a Embark a mudar de estratégia",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/sucesso-absurdo-de-arc-raiders-forcou-a-embark-a-mudar-de-estrategia/",
+      "data": "2026-10-14T23:15:00+00:00"
+    },
+    {
+      "titulo": "Starlink: quanto custa e vale a pena assinar a internet do Elon Musk?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/quanto-custa-a-starlink-no-brasil-conheca-os-planos/",
+      "data": "2026-10-14T23:15:00+00:00"
+    },
+    {
+      "titulo": "Notebooks vão ficar ainda mais caro: Intel aumenta preços de CPUs Panther Lake em até 20%",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/notebooks-vao-ficar-ainda-mais-caro-intel-aumenta-precos-de-cpus-panther-lake-em-ate-20/",
+      "data": "2026-10-14T23:09:00+00:00"
+    },
+    {
+      "titulo": "LEGO Batman e mais jogos de Xbox com até 90% OFF; confira",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/lego-batman-e-mais-jogos-de-xbox-com-ate-90-off-confira/",
+      "data": "2026-10-14T22:45:00+00:00"
+    },
     {
       "titulo": "Review do Motorola Edge 70: equilíbrio para o dia a dia",
       "fonte": "Tecnoblog",
@@ -116,12 +140,6 @@
       "data": "2026-10-14T19:14:12+00:00"
     },
     {
-      "titulo": "OPPO abre 1ª loja em São Paulo e quer chegar a 5 estados e DF",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/oppo-abre-1-loja-em-sao-paulo-e-quer-chegar-a-5-estados-e-df/",
-      "data": "2026-10-14T19:13:33+00:00"
-    },
-    {
       "titulo": "Homem passa 36 horas em ônibus para encontrar mulher e descobre que ela não existe; foi criada por IA",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/homem-viaja-2-mil-km-descobre-namorada-era-ia/",
@@ -162,24 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/peter-thiel-acusa-obama-e-papa-explorar-medo-ia-ganhar-popularidade/",
       "data": "2026-10-14T17:24:02+00:00"
-    },
-    {
-      "titulo": "Remake de Zelda: Link’s Awakening chega ao PC graças à inteligência artificial",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/remake-zelda-links-awakening-pc-ia/",
-      "data": "2026-10-14T17:22:30+00:00"
-    },
-    {
-      "titulo": "Nintendo não pretende abandonar a mídia física do Switch 2, confirma executivo",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/nintendo-nao-pretende-abandonar-a-midia-fisica-do-switch-2-confirma-executivo/",
-      "data": "2026-10-14T12:15:00+00:00"
-    },
-    {
-      "titulo": "GTA 6 será lançado no PC em 2027, poucos meses após estreia no Xbox e PS5",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-sera-lancado-no-pc-em-2027-poucos-meses-apos-estreia-no-xbox-e-ps5/",
-      "data": "2026-10-13T18:18:00+00:00"
     }
   ]
 }
