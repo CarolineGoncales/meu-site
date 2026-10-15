@@ -1,17 +1,149 @@
 {
-  "atualizado_em": "2026-10-15T19:16:36.950119+00:00",
+  "atualizado_em": "2026-10-15T22:30:42.619824+00:00",
   "noticias": [
     {
-      "titulo": "Ocarina of Time Remake: Testamos o maior remake da história da Nintendo",
+      "titulo": "Herdeiro do Yuzu, Lemon é o novo emulador de Switch para Android",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/preview-the-legend-of-zelda-ocarina-of-time-remake/",
-      "data": "2026-10-15T19:09:00+00:00"
+      "link": "https://canaltech.com.br/games/herdeiro-do-yuzu-lemon-e-o-novo-emulador-de-switch-para-android/",
+      "data": "2026-10-15T22:19:00+00:00"
     },
     {
-      "titulo": "Adeus, One UI? Samsung pode lançar \"Galaxy OS\" com foco total em IA",
+      "titulo": "Google vai dar mais destaque aos links nos resumos de IA",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/google-vai-dar-mais-destaque-aos-links-nos-resumos-de-ia/",
+      "data": "2026-10-15T22:00:13+00:00"
+    },
+    {
+      "titulo": "Novo CEO da Acronis, Prakash Panjwani quer acelerar expansão em cibersegurança",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/novo-ceo-da-acronis-prakash-panjwani-quer-acelerar-expansao-em-ciberseguranca/",
+      "data": "2026-10-15T22:00:00+00:00"
+    },
+    {
+      "titulo": "Por que o alerta da Defesa Civil chega depois da chuva? Entenda como funciona",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/adeus-one-ui-samsung-pode-lancar-galaxy-os-com-foco-total-em-ia/",
-      "data": "2026-10-15T19:06:00+00:00"
+      "link": "https://canaltech.com.br/apps/por-que-o-alerta-da-defesa-civil-chega-depois-da-chuva-entenda-como-funciona/",
+      "data": "2026-10-15T22:00:00+00:00"
+    },
+    {
+      "titulo": "A demanda por chips explodiu, e a ASML já admite que não conseguirá atender todos os pedidos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/asml-demanda-maquinas-chips-2030-ia/",
+      "data": "2026-10-15T21:30:35+00:00"
+    },
+    {
+      "titulo": "Netflix aumenta preços no Brasil em até 24% e plano Premium chega a R$ 71,90",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/netflix-aumenta-precos-brasil-outubro-2026/",
+      "data": "2026-10-15T21:22:51+00:00"
+    },
+    {
+      "titulo": "DLSS 5 fica 20% mais leve e Frame Gen dá mais FPS com updates da Nvidia",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/dlss-5-fica-20-mais-leve-e-frame-gen-da-mais-fps-com-updates-da-nvidia/",
+      "data": "2026-10-15T21:15:00+00:00"
+    },
+    {
+      "titulo": "\"Novo\" Windows 11 promete até 20% mais velocidade e alívio para PCs com pouca RAM",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/software/novo-windows-11-promete-ate-20-mais-velocidade-e-alivio-para-pcs-com-pouca-ram/",
+      "data": "2026-10-15T21:07:00+00:00"
+    },
+    {
+      "titulo": "Agente de IA apaga temporada inteira de reality show dias antes da estreia",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/agente-de-ia-apaga-temporada-inteira-de-reality-show-dias-antes-da-estreia/",
+      "data": "2026-10-15T21:03:00+00:00"
+    },
+    {
+      "titulo": "Empresa de Musk promete reembolsar quem tiver compras erradas feitas pelo Grok",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/empresa-de-musk-promete-reembolsar-quem-tiver-compras-erradas-feitas-pelo-grok/",
+      "data": "2026-10-15T21:00:00+00:00"
+    },
+    {
+      "titulo": "Bom e barato: Galaxy Buds Core recebe 44% de desconto depois de meses",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/bom-e-barato-galaxy-buds-core-recebe-44-de-desconto-depois-de-meses/",
+      "data": "2026-10-15T20:55:11+00:00"
+    },
+    {
+      "titulo": "Amazon lança gravadores com IA que podem ouvir você o dia todo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/amazon-lanca-gravadores-com-ia-que-podem-ouvir-voce-o-dia-todo/",
+      "data": "2026-10-15T20:49:27+00:00"
+    },
+    {
+      "titulo": "Combo Samsung com TV QLED de 43 polegadas e soundbar tem 52% de desconto na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/combo-samsung-tv-qled-soundbar-desconto-amazon/",
+      "data": "2026-10-15T20:48:23+00:00"
+    },
+    {
+      "titulo": "Netflix aumenta preços no Brasil e plano mais caro passa dos R$ 70; veja novos valores",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/netflix-aumenta-precos-no-brasil-e-plano-mais-caro-passa-dos-r-70-veja-novos-valores/",
+      "data": "2026-10-15T20:40:43+00:00"
+    },
+    {
+      "titulo": "406 cientistas assinam carta exigindo que modelos de IA sejam desconectados da internet",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/406-cientistas-assinam-carta-exigindo-que-modelos-de-ia-sejam-desconectados-da-internet/",
+      "data": "2026-10-15T20:31:18+00:00"
+    },
+    {
+      "titulo": "Opera Air ganha redesign pensando em foco, som e bem-estar digital",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/opera-air-ganha-redesign-pensando-em-foco-som-e-bem-estar-digital/",
+      "data": "2026-10-15T20:15:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 está elegível para o GOTY, confirma organização do The Game Awards 2026",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-esta-elegivel-para-o-goty-confirma-organizacao-do-the-game-awards-2026/",
+      "data": "2026-10-15T20:15:00+00:00"
+    },
+    {
+      "titulo": "Novo MacBook Pro com tela touch e sem notch ganha data de lançamento; veja quando",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/novo-macbook-pro-com-tela-touch-e-sem-notch-ganha-data-de-lancamento-veja-quando/",
+      "data": "2026-10-15T20:15:00+00:00"
+    },
+    {
+      "titulo": "iPhone Duo: reparo pode custar até R$ 16,5 mil no Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/conserto-do-iphone-duo-pode-custar-ate-r-165-mil-no-brasil/",
+      "data": "2026-10-15T20:12:52+00:00"
+    },
+    {
+      "titulo": "Nintendo Switch OLED com Super Mario Bros. Wonder está com 30% de desconto na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/nintendo-switch-oled-com-super-mario-bros-wonder-30-desconto-amazon/",
+      "data": "2026-10-15T20:10:41+00:00"
+    },
+    {
+      "titulo": "BYD joga preços do King no chão e sedan sai mais em conta que o Dolphin",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/byd-joga-precos-do-king-no-chao-e-sedan-sai-mais-em-conta-que-o-dolphin/",
+      "data": "2026-10-15T20:04:00+00:00"
+    },
+    {
+      "titulo": "Android faz parceria com bancos e lança alerta de falsas ligações bancárias no Brasil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/android-faz-parceria-com-bancos-e-lanca-alerta-de-falsas-ligacoes-bancarias-no-brasil/",
+      "data": "2026-10-15T20:00:00+00:00"
+    },
+    {
+      "titulo": "OpenAI alerta a PF sobre homem que planejou assassinar Lula em conversa com o ChatGPT",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/homem-planejou-assassinar-lula-em-conversas-com-o-chatgpt-openai-alerta-pf/",
+      "data": "2026-10-15T19:34:00+00:00"
+    },
+    {
+      "titulo": "Edge 70 Pro (512 GB) com câmeras de 50 MP tem oferta expressiva na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/edge-70-pro-512-gb-com-cameras-de-50-mp-tem-oferta-expressiva-na-amazon/",
+      "data": "2026-10-15T19:15:41+00:00"
     },
     {
       "titulo": "Nintendo Switch 2 cai para R$ 3,7 mil em oferta por tempo limitado na Amazon",
@@ -20,13 +152,7 @@
       "data": "2026-10-15T19:04:25+00:00"
     },
     {
-      "titulo": "TSMC mantém lucro recorde, mas exige cautela para 2027",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/tsmc-mantem-lucro-recorde-mas-exige-cautela-para-2027/",
-      "data": "2026-10-15T19:00:00+00:00"
-    },
-    {
-      "titulo": "Netflix fica até 23,9% mais cara no Brasil; confira os valores",
+      "titulo": "Netflix fica até 23,9% mais cara no Brasil",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/netflix-fica-mais-cara-no-brasil-premium-chega-a-r-7190/",
       "data": "2026-10-15T18:43:36+00:00"
@@ -36,12 +162,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/mais-microsoft-no-linux-antivirus-defender-chega-aos-desktops/",
       "data": "2026-10-15T18:35:15+00:00"
-    },
-    {
-      "titulo": "One UI 9 chega ao Galaxy A57 no Brasil; saiba quais são os próximos modelos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-lanca-atualizacao-one-ui-9-galaxy-a57-brasil/",
-      "data": "2026-10-15T18:30:00+00:00"
     },
     {
       "titulo": "Microsoft dará 25 jogos grátis na compra de PCs com Windows",
@@ -56,130 +176,10 @@
       "data": "2026-10-15T18:26:24+00:00"
     },
     {
-      "titulo": "Com fase no Brasil, Crazy Taxi World Tour dá vida a sonhos que não eram possíveis nos anos 90",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/com-fase-no-brasil-crazy-taxi-world-tour-da-vida-a-sonhos-que-nao-eram-possiveis-nos-anos-90/",
-      "data": "2026-10-15T18:18:00+00:00"
-    },
-    {
-      "titulo": "Sinal de celular em rodovias pode dobrar com novo plano nacional",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/sinal-de-celular-em-rodovias-pode-dobrar-com-novo-plano-nacional/",
-      "data": "2026-10-15T18:09:59+00:00"
-    },
-    {
-      "titulo": "Forza Horizon 6 é o jogo first-party mais bem-sucedido de 2026; veja o ranking",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/forza-horizon-6-e-o-jogo-first-party-mais-bem-sucedido-de-2026-veja-o-ranking/",
-      "data": "2026-10-15T18:06:00+00:00"
-    },
-    {
-      "titulo": "Hisense começa a vender lava e seca “monstra” com 4 tambores",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/hisense-comeca-a-vender-lava-e-seca-monstra-com-4-tambores/",
-      "data": "2026-10-15T18:01:41+00:00"
-    },
-    {
-      "titulo": "99 lança rival do Uber Black que exige nota mínima até dos passageiros",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/99-lanca-rival-do-uber-black-que-exige-nota-minima-ate-dos-passageiros/",
-      "data": "2026-10-15T18:01:00+00:00"
-    },
-    {
-      "titulo": "Meta corrige bug que fazia óculos Ray-Ban iniciarem gravações automaticamente",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/meta-corrige-bug-que-fazia-oculos-ray-ban-iniciarem-gravacoes-automaticamente/",
-      "data": "2026-10-15T18:00:00+00:00"
-    },
-    {
-      "titulo": "Conheça os novos SUVs chineses que navegam na água e já têm data para chegar ao Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/conheca-os-novos-suvs-chineses-que-navegam-na-agua-e-ja-tem-data-para-chegar-ao-brasil/",
-      "data": "2026-10-15T18:00:00+00:00"
-    },
-    {
       "titulo": "YouTube pode lançar serviço próprio de audiolivros",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/youtube-pode-lancar-servico-proprio-de-audiolivros/",
       "data": "2026-10-15T17:51:36+00:00"
-    },
-    {
-      "titulo": "Xbox considera tornar mais jogos exclusivos e até encerrar atualizações de Minecraft no PlayStation e Nintendo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/xbox-mais-jogos-exclusivos/",
-      "data": "2026-10-15T17:36:07+00:00"
-    },
-    {
-      "titulo": "Nintendo Switch 2 aparece mais barato em uma das melhores ofertas vistas",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/nintendo-switch-2-aparece-mais-barato-em-uma-das-melhores-ofertas-vistas/",
-      "data": "2026-10-15T17:32:58+00:00"
-    },
-    {
-      "titulo": "99 chega a 100 mil carros elétricos e aposta em eletrificação com BYD",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/99-chega-a-100-mil-carros-eletricos-e-aposta-em-eletrificacao-com-byd/",
-      "data": "2026-10-15T17:27:00+00:00"
-    },
-    {
-      "titulo": "Galaxy Watch 8 LTE (44 mm) com Gemini atinge preço histórico",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-44-mm-com-gemini-atinge-preco-historico/",
-      "data": "2026-10-15T17:03:46+00:00"
-    },
-    {
-      "titulo": "Cupom Avon | Até 60% de desconto - Outubro 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-avon/",
-      "data": "2026-10-15T17:01:00+00:00"
-    },
-    {
-      "titulo": "Soundcore Sport X20 com 40% de desconto: o fone perfeito para quem não quer parar o treino por nada",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/soundcore-sport-x20-com-40-de-desconto-o-fone-perfeito-para-quem-nao-quer-parar-o-treino-por-nada/",
-      "data": "2026-10-15T17:00:10+00:00"
-    },
-    {
-      "titulo": "Agente de IA apagou uma temporada inteira de reality show semanas antes da estreia",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/agente-de-ia-da-empresa-apagou-uma-temporada-inteira-de-reality-show-semanas-antes-da-estreia/",
-      "data": "2026-10-15T16:39:18+00:00"
-    },
-    {
-      "titulo": "Windows 11 fica mais leve em PCs com 8 GB de RAM, afirma Microsoft",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/windows-11-fica-mais-leve-em-pcs-com-8-gb-de-ram-afirma-microsoft/",
-      "data": "2026-10-15T16:30:00+00:00"
-    },
-    {
-      "titulo": "Apple agora é uma empresa de US$ 5 trilhões",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/apple-agora-e-uma-empresa-de-us-5-trilhoes/",
-      "data": "2026-10-15T16:05:07+00:00"
-    },
-    {
-      "titulo": "Smart TV LG de 43″ com IA, HDR e Alexa entra em oferta por menos de R$ 1.615 em promoção",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/smart-tv-lg-de-43-com-ia-hdr-e-alexa-entra-em-oferta-por-menos-de-r-1-6150-em-promocao/",
-      "data": "2026-10-15T16:00:47+00:00"
-    },
-    {
-      "titulo": "Joy-Con Comfort Grip PowerA: por menos de 50 reais, o conforto que faltava para o seu Switch",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/joy-con-comfort-grip-powera-por-menos-de-50-reais-o-conforto-que-faltava-para-o-seu-switch/",
-      "data": "2026-10-15T15:30:22+00:00"
-    },
-    {
-      "titulo": "ChatGPT nega relação de post com eleição no Brasil",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/fez-o-l-chatgpt-nega-relacao-de-post-com-eleicao-no-brasil/",
-      "data": "2026-10-15T15:17:58+00:00"
-    },
-    {
-      "titulo": "Teclado Mecânico Gamer Redragon Valheim: 20% de desconto e qualidade reconhecida pelos usuários",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/teclado-mecanico-gamer-redragon-valheim-20-de-desconto-e-qualidade-reconhecida-pelos-usuarios/",
-      "data": "2026-10-15T15:00:09+00:00"
     }
   ]
 }
