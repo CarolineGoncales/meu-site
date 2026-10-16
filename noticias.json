@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-10-16T05:13:19.844080+00:00",
+  "atualizado_em": "2026-10-16T09:57:53.518393+00:00",
   "noticias": [
+    {
+      "titulo": "Samsung pode trocar chip do Galaxy S27 Ultra após Snapdragon esquentar demais",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/samsung-pode-trocar-chip-do-galaxy-s27-ultra-apos-snapdragon-esquentar-demais/",
+      "data": "2026-10-16T09:45:33+00:00"
+    },
+    {
+      "titulo": "Acusado de instalar escutas na OpenAI planejava fugir dos EUA, afirma justiça",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/acusado-de-instalar-escutas-na-openai-planejava-fugir-dos-eua-afirma-justica/",
+      "data": "2026-10-16T09:00:00+00:00"
+    },
     {
       "titulo": "QuintoAndar lança plataforma para imobiliárias e IA em Curitiba",
       "fonte": "Canaltech",
@@ -116,22 +128,10 @@
       "data": "2026-10-15T20:48:23+00:00"
     },
     {
-      "titulo": "Netflix aumenta preços no Brasil e plano mais caro passa dos R$ 70; veja novos valores",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/netflix-aumenta-precos-no-brasil-e-plano-mais-caro-passa-dos-r-70-veja-novos-valores/",
-      "data": "2026-10-15T20:40:43+00:00"
-    },
-    {
       "titulo": "406 cientistas assinam carta exigindo que modelos de IA sejam desconectados da internet",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/406-cientistas-assinam-carta-exigindo-que-modelos-de-ia-sejam-desconectados-da-internet/",
       "data": "2026-10-15T20:31:18+00:00"
-    },
-    {
-      "titulo": "Opera Air ganha redesign pensando em foco, som e bem-estar digital",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/opera-air-ganha-redesign-pensando-em-foco-som-e-bem-estar-digital/",
-      "data": "2026-10-15T20:15:00+00:00"
     },
     {
       "titulo": "iPhone Duo: reparo pode custar até R$ 16,5 mil no Brasil",
