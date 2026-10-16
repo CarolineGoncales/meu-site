@@ -1,41 +1,149 @@
 {
-  "atualizado_em": "2026-10-16T18:15:39.863750+00:00",
+  "atualizado_em": "2026-10-16T21:26:11.473780+00:00",
   "noticias": [
     {
-      "titulo": "Carros a combustão perdem \"reinado\" e vendem abaixo de 50% pela 1ª vez",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/carros-a-combustao-perdem-reinado-e-vendem-abaixo-de-50-pela-1-vez/",
-      "data": "2026-10-16T18:14:00+00:00"
+      "titulo": "Como baixar um aplicativo na TV da LG",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/como-baixar-um-aplicativo-na-tv-da-lg/",
+      "data": "2026-10-16T21:22:15+00:00"
     },
     {
-      "titulo": "Por que o Sol pode ficar verde no futuro? Novo estudo revela \"fim zumbi\" da nossa estrela",
+      "titulo": "Pai do PlayStation apoia fim dos discos e diz que revolta dos fãs é 'questão de mentalidade'",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/por-que-o-sol-pode-ficar-verde-no-futuro-novo-estudo-revela-fim-zumbi-da-nossa-estrela/",
-      "data": "2026-10-16T18:00:10+00:00"
+      "link": "https://canaltech.com.br/games/pai-do-playstation-apoia-fim-dos-discos-e-diz-que-revolta-dos-fas-e-questao-de-mentalidade/",
+      "data": "2026-10-16T21:18:00+00:00"
     },
     {
-      "titulo": "O brasileiro cansou de baixar aplicativos? Veja o que revela a pesquisa",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/o-brasileiro-cansou-de-baixar-aplicativos-veja-o-que-revela-a-pesquisa/",
-      "data": "2026-10-16T18:00:09+00:00"
-    },
-    {
-      "titulo": "Um combate digno espera você em Stranger Than Heaven",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/um-combate-digno-espera-voce-em-stranger-than-heaven/",
-      "data": "2026-10-16T18:00:06+00:00"
-    },
-    {
-      "titulo": "App Moto Buds ganha versão para iOS com recursos avançados em fones da Motorola",
+      "titulo": "REVIEW: EA FC 27 mostra que franquia estagnou e precisa urgentemente de melhorias radicais",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/app-moto-buds-ganha-versao-para-ios-com-recursos-avancados-em-fones-da-motorola/",
-      "data": "2026-10-16T18:00:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/review-ea-fc-27-mostra-que-franquia-estagnou-e-precisa-urgentemente-de-melhorias-radicais/",
+      "data": "2026-10-16T21:15:00+00:00"
     },
     {
-      "titulo": "1ª impressora 3D “barata” da Formlabs usa resina paralela para economizar",
+      "titulo": "Garmin Forerunner 55 para corridas custa menos de R$ 1 mil no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/garmin-forerunner-55-para-corridas-custa-menos-de-r-1-mil-no-mercado-livre/",
+      "data": "2026-10-16T21:07:17+00:00"
+    },
+    {
+      "titulo": "Recebeu SMS suspeito? Veja se é golpe com o usar o Circule para Pesquisar no Android",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/1-impressora-3d-barata-da-formlabs-usa-resina-paralela-para-economizar/",
-      "data": "2026-10-16T17:54:53+00:00"
+      "link": "https://canaltech.com.br/software/recebeu-sms-suspeito-veja-se-e-golpe-com-o-usar-o-circule-para-pesquisar-no-android/",
+      "data": "2026-10-16T20:58:00+00:00"
+    },
+    {
+      "titulo": "Melhor Smart TV 4K: 10 modelos para comprar em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-smart-tv-4k/",
+      "data": "2026-10-16T20:30:30+00:00"
+    },
+    {
+      "titulo": "WhatsApp falso aparece no topo de buscas da Play Store com 500 mil downloads",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/whatsapp-falso-aparece-no-topo-de-buscas-da-play-store-com-500-mil-downloads/",
+      "data": "2026-10-16T20:30:00+00:00"
+    },
+    {
+      "titulo": "Meta admite que seus óculos gravaram conversas mesmo sem comando",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/meta-admite-que-seus-oculos-gravaram-conversas-sem-comando/",
+      "data": "2026-10-16T20:22:42+00:00"
+    },
+    {
+      "titulo": "Hospital Sírio-Libanês confirma incidente cibernético em sistema interno de relatórios",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/hospital-sirio-libanes-confirma-vazamento-de-dados-em-sistema-interno-de-relatorios/",
+      "data": "2026-10-16T20:20:00+00:00"
+    },
+    {
+      "titulo": "Chevrolet faz queima e vende SUV de luxo por preço de VW Tiguan",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/chevrolet-faz-queima-e-vende-suv-de-luxo-por-preco-de-vw-tiguan/",
+      "data": "2026-10-16T20:15:00+00:00"
+    },
+    {
+      "titulo": "TSE aperta cerco contra fake news em campanhas com novas regras para canais no WhatsApp",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/tse-aperta-cerco-contra-fake-news-em-campanhas-com-novas-regras-para-canais-no-whatsapp/",
+      "data": "2026-10-16T20:14:00+00:00"
+    },
+    {
+      "titulo": "Lenovo Idea Tab (256 GB) atinge melhor preço com cupom e inclui acessórios",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/lenovo-idea-tab-256-gb-atinge-melhor-preco-com-cupom-e-inclui-acessorios/",
+      "data": "2026-10-16T20:10:18+00:00"
+    },
+    {
+      "titulo": "Microsoft se rende e lança antivírus do Windows para Linux",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/software/microsoft-se-rende-e-lanca-antivirus-do-windows-para-linux/",
+      "data": "2026-10-16T20:01:00+00:00"
+    },
+    {
+      "titulo": "Réplicas de carros de GTA 6 invadem as ruas de Miami e param o trânsito",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/replicas-de-carros-de-gta-6-invadem-as-ruas-de-miami-e-param-o-transito/",
+      "data": "2026-10-16T19:59:00+00:00"
+    },
+    {
+      "titulo": "Assetto Corsa impressiona com vídeos de Fórmula 1 que parecem gravações de corridas reais graças aos mods e DLSS5",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/assetto-corsa-impressiona-com-videos-de-formula-1-que-parecem-gravacoes-de-corridas-reais-gracas-aos-mods-e-dlss5/",
+      "data": "2026-10-16T19:53:23+00:00"
+    },
+    {
+      "titulo": "BGS 2026 x BGS 2016: como a maior feira de games da América Latina encolheu em 10 anos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/bgs-2026-como-a-maior-feira-de-games-da-america-latina-encolheu-em-10-anos/",
+      "data": "2026-10-16T19:44:10+00:00"
+    },
+    {
+      "titulo": "Reta final tensa: Rockstar ainda faz alterações em GTA 6 a um mês do lançamento",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/reta-final-tensa-rockstar-ainda-faz-alteracoes-em-gta-6-a-um-mes-do-lancamento/",
+      "data": "2026-10-16T19:41:06+00:00"
+    },
+    {
+      "titulo": "Novo golpe na Amazon? Ryzen de US$ 889 pode ser um processador Intel antigo disfarçado",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/ryzen-processador-intel-falso/",
+      "data": "2026-10-16T19:37:44+00:00"
+    },
+    {
+      "titulo": "Amazon lança pulseira com IA que escuta suas conversas e memoriza detalhes importantes",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/amazon-pulseira-com-ia-escuta-conversas-memoriza-detalhes-importantes/",
+      "data": "2026-10-16T19:31:04+00:00"
+    },
+    {
+      "titulo": "Meta pode coletar notícias para treinar IA sem pagar por licenças",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/meta-pode-coletar-noticias-para-treinar-ia-sem-pagar-por-licencas/",
+      "data": "2026-10-16T19:24:57+00:00"
+    },
+    {
+      "titulo": "Galaxy S27 Ultra: Samsung pode abandonar chip da Qualcomm",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/galaxy-s27-ultra-samsung-pode-abandonar-chip-da-qualcomm/",
+      "data": "2026-10-16T19:05:53+00:00"
+    },
+    {
+      "titulo": "Novo modelo de IA cria arma impressa em 3D sem número de série, mas resultado é bizarro",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/gatgpt-wasp-arma-3d/",
+      "data": "2026-10-16T18:26:47+00:00"
+    },
+    {
+      "titulo": "Dell troca monitor sem defeito por modelo OLED mais avançado e surpreende cliente",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/dell-monitor-oled-de-graca/",
+      "data": "2026-10-16T18:20:21+00:00"
+    },
+    {
+      "titulo": "TIM libera combos de streamings e promete economia de 50%",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/tim-libera-combos-de-streamings-e-promete-economia-de-50/",
+      "data": "2026-10-16T18:13:04+00:00"
     },
     {
       "titulo": "Golpe na Play Store: app falso do WhatsApp é exibido antes do original e supera 500 mil downloads",
@@ -50,88 +158,10 @@
       "data": "2026-10-16T17:45:36+00:00"
     },
     {
-      "titulo": "Fones e caixas de som Soundcore by Anker com até 71% off no Mercado Livre",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/fones-e-caixas-de-som-soundcore-by-anker-com-ate-71-off-no-mercado-livre/",
-      "data": "2026-10-16T17:45:00+00:00"
-    },
-    {
-      "titulo": "China propõe controlar exportações de 40 tecnologias de IA, energia solar e biofarmacêuticos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/china-propoe-controlar-exportacoes-de-40-tecnologias-de-ia-energia-solar-e-biofarmaceuticos/",
-      "data": "2026-10-16T17:40:00+00:00"
-    },
-    {
-      "titulo": "O que é uma memória HBM? Conheça as vantagens e desvantagens da High Bandwidth Memory",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/o-que-e-uma-memoria-hbm-conheca-as-vantagens-e-desvantagens-da-high-bandwidth-memory/",
-      "data": "2026-10-16T17:33:58+00:00"
-    },
-    {
-      "titulo": "Reino Unido estuda cobrar taxa até de quem assiste ao YouTube",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/reino-unido-estuda-cobrar-taxa-ate-de-quem-assiste-ao-youtube/",
-      "data": "2026-10-16T17:26:50+00:00"
-    },
-    {
       "titulo": "Nova proposta de lei quer garantir que jogos comprados pertençam aos jogadores",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/proposta-de-lei-jogos-comprados/",
       "data": "2026-10-16T17:17:02+00:00"
-    },
-    {
-      "titulo": "Rockstar leva carros de GTA 6 para as ruas de Miami antes do lançamento do game",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/rockstar-leva-carros-de-gta-6-para-as-ruas-de-miami-antes-do-lancamento-do-game/",
-      "data": "2026-10-16T17:17:00+00:00"
-    },
-    {
-      "titulo": "Novo app Fotos do Windows 11 vira central de imagens do PC, OneDrive e iCloud",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/novo-app-fotos-do-windows-11-vira-central-de-imagens-do-pc-onedrive-e-icloud/",
-      "data": "2026-10-16T17:15:00+00:00"
-    },
-    {
-      "titulo": "Brasil mira loot boxes: jogos populares, incluindo CS2 e Genshin Impact, estão sob investigação",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/loot-boxes-seis-jogos-fiscalizados/",
-      "data": "2026-10-16T17:14:21+00:00"
-    },
-    {
-      "titulo": "Stanley Quencher 2.0 com 45% de desconto: o copo que virou febre nos EUA agora está mais acessível do que nunca",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/stanley-quencher-2-0-com-45-de-desconto-o-copo-que-virou-febre-nos-eua-agora-esta-mais-acessivel-do-que-nunca/",
-      "data": "2026-10-16T17:00:11+00:00"
-    },
-    {
-      "titulo": "ChatGPT amplia integração com o Chrome para realizar tarefas no navegador",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/chatgpt-amplia-integracao-com-o-chrome-para-realizar-tarefas-no-navegador/",
-      "data": "2026-10-16T17:00:00+00:00"
-    },
-    {
-      "titulo": "Atualizou o NVIDIA App? Novo recurso de IA pode estar ativado no seu PC",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/nvidia-app-recurso-de-ia-pc/",
-      "data": "2026-10-16T16:56:24+00:00"
-    },
-    {
-      "titulo": "Magazine Luiza abre loja oficial na Shopee com vários produtos em oferta; confira",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/magazine-luiza-abre-loja-oficial-na-shopee-com-varios-produtos-em-oferta-confira/",
-      "data": "2026-10-16T16:47:00+00:00"
-    },
-    {
-      "titulo": "Agente de IA apagou programa de TV? Emissora esclarece",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/agente-de-ia-apagou-programa-de-tv-emissora-esclarece/",
-      "data": "2026-10-16T16:25:18+00:00"
-    },
-    {
-      "titulo": "Boom da IA pressiona rede elétrica: data centers representam quase um terço dos pedidos de conexão na Holanda",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/boom-da-ia-pressiona-rede-eletricadata-centers-pedidos-conexao-holanda/",
-      "data": "2026-10-16T16:23:03+00:00"
     },
     {
       "titulo": "Filme de Street Fighter é ruim? Veja notas do novo live-action da franquia",
@@ -140,46 +170,16 @@
       "data": "2026-10-16T16:15:00+00:00"
     },
     {
-      "titulo": "Após vazar tudo, Sony lança novo Walkman por R$ 30 mil; veja o que ele faz",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/apos-vazar-tudo-sony-lanca-novo-walkman-por-r-30-mil-veja-o-que-ele-faz/",
-      "data": "2026-10-16T16:12:21+00:00"
-    },
-    {
-      "titulo": "Volkswagen abandona câmbio clássico para lançar seus novos SUVs híbridos no Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/volkswagen-abandona-cambio-classico-para-lancar-seus-novos-suvs-hibridos-no-brasil/",
-      "data": "2026-10-16T16:04:06+00:00"
-    },
-    {
-      "titulo": "“Minha melhor compra do ano até agora”: Galaxy A57 5G está com 32% de desconto",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/minha-melhor-compra-do-ano-ate-agora-galaxy-a57-5g-esta-com-32-de-desconto/",
-      "data": "2026-10-16T16:00:19+00:00"
-    },
-    {
-      "titulo": "iPhone Duo começa a ser vendido no Brasil; veja os preços",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/iphone-duo-comeca-a-ser-vendido-no-brasil-veja-os-precos/",
-      "data": "2026-10-16T15:20:33+00:00"
-    },
-    {
-      "titulo": "Como fazer o Monte Cristo Sandwich de The Sims 4 na vida real? Veja a receita",
+      "titulo": "The Legend of Zelda Ocarina of Time é quase um jogo novo com a magia do original",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/como-fazer-o-monte-cristo-sandwich-de-the-sims-4-na-vida-real-veja-a-receita/",
-      "data": "2026-10-16T15:15:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/the-legend-of-zelda-ocarina-of-time-e-quase-um-jogo-novo-com-a-magia-do-original/",
+      "data": "2026-10-16T14:00:00+00:00"
     },
     {
-      "titulo": "Galaxy Book 6 para produtividade tem R$ 1,5 mil de desconto parcelável em até 10x",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-book-6-para-produtividade-tem-r-15-mil-de-desconto-parcelavel-em-ate-10x/",
-      "data": "2026-10-16T14:59:14+00:00"
-    },
-    {
-      "titulo": "Novo streaming gratuito oferece filmes, séries e canais de TV ao vivo",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/novo-streaming-gratuito-oferece-filmes-series-e-canais-de-tv-ao-vivo/",
-      "data": "2026-10-16T14:35:18+00:00"
+      "titulo": "Amazon lança assistentes pessoais com IA que ‘escutam o tempo todo’",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/amazon-lanca-assistentes-pessoais-com-ia-que-escutam-o-tempo-todo/",
+      "data": "2026-10-16T13:00:00+00:00"
     }
   ]
 }
