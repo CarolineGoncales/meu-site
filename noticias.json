@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-10-15T22:30:42.619824+00:00",
+  "atualizado_em": "2026-10-16T00:51:43.100453+00:00",
   "noticias": [
+    {
+      "titulo": "Notebook para AutoCAD: 8 opções para profissionais de engenharia e arquitetura em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/notebook-para-autocad/",
+      "data": "2026-10-15T23:39:17+00:00"
+    },
+    {
+      "titulo": "Persona 3 Reload e mais games de PS5 e PS4 com até 90% OFF",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/persona-3-reload-e-mais-games-de-ps5-e-ps4-com-ate-90-off/",
+      "data": "2026-10-15T23:30:00+00:00"
+    },
+    {
+      "titulo": "Ainda não zerou? GTA 5 vai sair da PS Plus dois dias antes da estreia de GTA 6",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/ainda-nao-zerou-gta-5-vai-sair-da-ps-plus-dois-dias-antes-da-estreia-de-gta-6/",
+      "data": "2026-10-15T23:20:01+00:00"
+    },
+    {
+      "titulo": "Open-weight: como funcionam os modelos de IA abertos?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/modelos-open-weight-o-que-sao-vantagens-e-riscos/",
+      "data": "2026-10-15T23:15:00+00:00"
+    },
+    {
+      "titulo": "Notebook com RTX 4060: 5 modelos para comprar em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-notebook-rtx-4060/",
+      "data": "2026-10-15T22:32:42+00:00"
+    },
     {
       "titulo": "Herdeiro do Yuzu, Lemon é o novo emulador de Switch para Android",
       "fonte": "Canaltech",
@@ -98,12 +128,6 @@
       "data": "2026-10-15T20:15:00+00:00"
     },
     {
-      "titulo": "GTA 6 está elegível para o GOTY, confirma organização do The Game Awards 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-esta-elegivel-para-o-goty-confirma-organizacao-do-the-game-awards-2026/",
-      "data": "2026-10-15T20:15:00+00:00"
-    },
-    {
       "titulo": "Novo MacBook Pro com tela touch e sem notch ganha data de lançamento; veja quando",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/notebook/novo-macbook-pro-com-tela-touch-e-sem-notch-ganha-data-de-lancamento-veja-quando/",
@@ -120,18 +144,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/nintendo-switch-oled-com-super-mario-bros-wonder-30-desconto-amazon/",
       "data": "2026-10-15T20:10:41+00:00"
-    },
-    {
-      "titulo": "BYD joga preços do King no chão e sedan sai mais em conta que o Dolphin",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/byd-joga-precos-do-king-no-chao-e-sedan-sai-mais-em-conta-que-o-dolphin/",
-      "data": "2026-10-15T20:04:00+00:00"
-    },
-    {
-      "titulo": "Android faz parceria com bancos e lança alerta de falsas ligações bancárias no Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/android-faz-parceria-com-bancos-e-lanca-alerta-de-falsas-ligacoes-bancarias-no-brasil/",
-      "data": "2026-10-15T20:00:00+00:00"
     },
     {
       "titulo": "OpenAI alerta a PF sobre homem que planejou assassinar Lula em conversa com o ChatGPT",
@@ -164,22 +176,10 @@
       "data": "2026-10-15T18:35:15+00:00"
     },
     {
-      "titulo": "Microsoft dará 25 jogos grátis na compra de PCs com Windows",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/microsoft-dara-25-jogos-gratis-na-compra-de-pcs-com-windows/",
-      "data": "2026-10-15T18:29:12+00:00"
-    },
-    {
       "titulo": "Meta admite que seus óculos inteligentes gravavam conversas sem a frase de ativação",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/meta-admite-que-seus-oculos-inteligentes-gravavam-conversas-sem-a-frase-de-ativacao/",
       "data": "2026-10-15T18:26:24+00:00"
-    },
-    {
-      "titulo": "YouTube pode lançar serviço próprio de audiolivros",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/youtube-pode-lancar-servico-proprio-de-audiolivros/",
-      "data": "2026-10-15T17:51:36+00:00"
     }
   ]
 }
