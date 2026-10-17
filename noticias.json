@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-10-17T21:48:34.679983+00:00",
+  "atualizado_em": "2026-10-17T23:33:53.956712+00:00",
   "noticias": [
+    {
+      "titulo": "O que é TCG? Conheça 7 jogos de cartas colecionáveis",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/tcg-o-que-e-e-7-melhores-jogos-de-cartas-para-pc-e-console/",
+      "data": "2026-10-17T22:15:00+00:00"
+    },
+    {
+      "titulo": "Carro por R$ 5 mil vale a pena? Mecânicos alertam para o \"barato que sai caro\"",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/carro-por-r-5-mil-vale-a-pena-mecanicos-alertam-para-o-barato-que-sai-caro/",
+      "data": "2026-10-17T22:03:00+00:00"
+    },
     {
       "titulo": "Por que os ports nativos de fãs são o futuro da preservação dos videogames",
       "fonte": "Canaltech",
@@ -104,22 +116,10 @@
       "data": "2026-10-17T17:00:00+00:00"
     },
     {
-      "titulo": "Starlink Mini: quanto vale pagar na antena na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/starlink-mini-quanto-vale-pagar-na-antena-na-black-friday/",
-      "data": "2026-10-17T17:00:00+00:00"
-    },
-    {
       "titulo": "Fundo Monetário Internacional alerta que bolha da IA pode estourar e ameaçar a economia global",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/fmi-alerta-bolha-ia-estourar-ameaca-economia-global/",
       "data": "2026-10-17T16:15:44+00:00"
-    },
-    {
-      "titulo": "Xbox Game Pass recebe Battlefield 6 e mais jogos esta semana! Veja os lançamentos (17)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-battlefield-6-e-mais-jogos-esta-semana-veja-os-lancamentos-17/",
-      "data": "2026-10-17T16:15:00+00:00"
     },
     {
       "titulo": "Homem encontra SSD de 2 TB que estava guardado em gaveta da escrivaninha há anos e comemora: “É como encontrar dinheiro no bolso de uma jaqueta velha”",
