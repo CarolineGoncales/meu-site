@@ -1,17 +1,119 @@
 {
-  "atualizado_em": "2026-10-17T14:04:53.959821+00:00",
+  "atualizado_em": "2026-10-17T17:21:56.041698+00:00",
   "noticias": [
+    {
+      "titulo": "Nova ferramenta de IA usada pela polícia promete identificar casas a partir de uma única foto interna",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/ferramenta-de-ia-policia-dentificar-casas-foto-interna/",
+      "data": "2026-10-17T17:15:28+00:00"
+    },
+    {
+      "titulo": "Intel continua melhorando suas GPUs e promete até 31% mais FPS em Resident Evil Requiem",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/intel-melhorando-suas-gpus/",
+      "data": "2026-10-17T17:05:30+00:00"
+    },
+    {
+      "titulo": "Celular com tela tipo Kindle e muitas caixas de som: confira os lançamentos da semana",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/celular-com-tela-tipo-kindle-e-muitas-caixas-de-som-confira-os-lancamentos-da-semana/",
+      "data": "2026-10-17T17:00:00+00:00"
+    },
+    {
+      "titulo": "Starlink Mini: quanto vale pagar na antena na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/starlink-mini-quanto-vale-pagar-na-antena-na-black-friday/",
+      "data": "2026-10-17T17:00:00+00:00"
+    },
+    {
+      "titulo": "6 maiores aliados de Link em The Legend of Zelda",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/maiores-aliados-de-link-the-legend-of-zelda/",
+      "data": "2026-10-17T16:30:00+00:00"
+    },
+    {
+      "titulo": "Fundo Monetário Internacional alerta que bolha da IA pode estourar e ameaçar a economia global",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/fmi-alerta-bolha-ia-estourar-ameaca-economia-global/",
+      "data": "2026-10-17T16:15:44+00:00"
+    },
+    {
+      "titulo": "Xbox Game Pass recebe Battlefield 6 e mais jogos esta semana! Veja os lançamentos (17)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-battlefield-6-e-mais-jogos-esta-semana-veja-os-lancamentos-17/",
+      "data": "2026-10-17T16:15:00+00:00"
+    },
+    {
+      "titulo": "Homem encontra SSD de 2 TB que estava guardado em gaveta da escrivaninha há anos e comemora: “É como encontrar dinheiro no bolso de uma jaqueta velha”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/homem-encontra-ssd-de-2-tb-que-estava-guardado-em-uma-gaveta-da-escrivaninha-ha-anos-e-comemora-e-como-encontrar-dinheiro-no-bolso-de-uma-jaqueta-velha/",
+      "data": "2026-10-17T16:07:58+00:00"
+    },
+    {
+      "titulo": "Conheça o simulador da Ford que usa tecnologia para recriar qualquer estrada",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/conheca-o-simulador-da-ford-que-usa-tecnologia-para-recriar-qualquer-estrada/",
+      "data": "2026-10-17T16:02:00+00:00"
+    },
+    {
+      "titulo": "Homem mostra como ficou o HD do pai após 18 anos compartilhando arquivos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/hd-pai-18-anos-uso-interior-danificado/",
+      "data": "2026-10-17T15:52:44+00:00"
+    },
+    {
+      "titulo": "Placas de vídeo em oferta no Magazine Luiza: 15 sugestões a partir de R$ 1.034",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/placas-de-video-em-oferta-no-magazine-luiza-15-sugestoes-a-partir-de-r-1034/",
+      "data": "2026-10-17T15:45:00+00:00"
+    },
+    {
+      "titulo": "Anker Soundcore P30i com 49% OFF: Fone com ANC inteligente, bateria de 45h e 4 opções de cores",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/anker-soundcore-p30i-com-46-off-fone-com-anc-inteligente-bateria-de-45h-e-4-opcoes-de-cores/",
+      "data": "2026-10-17T15:30:01+00:00"
+    },
+    {
+      "titulo": "Valor de mercado da Skydance cai para menos da metade do valor combinado da Paramount e Warner Bros.",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/entretenimento/valor-mercado-skydance-cai-menos-metade-valor-combinado-paramount-e-warner/",
+      "data": "2026-10-17T15:14:54+00:00"
+    },
+    {
+      "titulo": "Como um desenvolvedor usou IA para clonar programas da Adobe e Microsoft?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/como-um-desenvolvedor-usou-ia-para-clonar-programas-da-adobe-e-microsoft/",
+      "data": "2026-10-17T15:00:00+00:00"
+    },
+    {
+      "titulo": "Micro-ondas vazio pode estragar? O que acontece se ligar sem nada",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/micro-ondas-vazio-pode-estragar-o-que-acontece-se-ligar-sem-nada/",
+      "data": "2026-10-17T15:00:00+00:00"
+    },
+    {
+      "titulo": "Mesmo a um mês do lançamento, GTA 6 ainda passa por mudanças, revela Rockstar",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-rockstar-mudancas/",
+      "data": "2026-10-17T14:48:51+00:00"
+    },
+    {
+      "titulo": "Recurso secreto libera vídeos sem anúncios no YouTube sem assinar o Premium; veja como",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/recurso-secreto-liberar-videos-sem-anuncios-youtube/",
+      "data": "2026-10-17T14:30:00+00:00"
+    },
+    {
+      "titulo": "007 First Light e mais jogos para PC com até 90% OFF na Steam",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/007-first-light-e-mais-jogos-para-pc-com-ate-90-off-na-steam/",
+      "data": "2026-10-17T14:00:00+00:00"
+    },
     {
       "titulo": "Kindle na Black Friday: quanto vale pagar em cada modelo?",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/e-reader/kindle-na-black-friday-quanto-vale-pagar-em-cada-modelo/",
       "data": "2026-10-17T14:00:00+00:00"
-    },
-    {
-      "titulo": "Garrafa Stanley Quick Flip 710ml com 37% OFF saindo por R$168",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/garrafa-stanley-quick-flip-710ml-com-37-off-saindo-por-r168/",
-      "data": "2026-10-17T13:30:40+00:00"
     },
     {
       "titulo": "10 filmes de ficção científica que mudaram o gênero para sempre",
@@ -26,40 +128,10 @@
       "data": "2026-10-17T13:15:00+00:00"
     },
     {
-      "titulo": "Agente de IA da OpenAI rouba criptomoedas sem autorização e tenta justificar sua decisão",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/ia-openai-rouba-criptomoedas/",
-      "data": "2026-10-17T13:14:28+00:00"
-    },
-    {
       "titulo": "9 aparelhos que ajudam a combater o mofo dentro de casa",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/eletro/9-aparelhos-que-ajudam-a-combater-o-mofo-dentro-de-casa/",
       "data": "2026-10-17T13:00:00+00:00"
-    },
-    {
-      "titulo": "Polícia descobre cabo clandestino que levava 6 TB de internet por dia a centro de golpes em Myanmar",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/policia-cabo-de-fibra-optica-golpes/",
-      "data": "2026-10-17T12:46:22+00:00"
-    },
-    {
-      "titulo": "Review EA FC 27 | Simulador quer mostrar que há vida além do Ultimate Team",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/review-ea-fc-27/",
-      "data": "2026-10-17T12:30:04+00:00"
-    },
-    {
-      "titulo": "Criadores de The Last of Us acreditavam que “ninguém” fazia jogos como o deles",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/the-last-of-us-ninguem-fazia-igual/",
-      "data": "2026-10-17T12:17:48+00:00"
-    },
-    {
-      "titulo": "É possível fazer \"remap\" em carro elétrico?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/e-possivel-fazer-remap-em-carro-eletrico/",
-      "data": "2026-10-17T12:04:00+00:00"
     },
     {
       "titulo": "Anúncios na internet viram brecha para ‘invasão automática’ de celulares",
@@ -68,52 +140,10 @@
       "data": "2026-10-17T12:00:00+00:00"
     },
     {
-      "titulo": "Como e por que a inteligência artificial consegue burlar regras?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/",
-      "data": "2026-10-17T11:30:00+00:00"
-    },
-    {
       "titulo": "5 jogos grátis para curtir o fim de semana no PC e consoles! (17)",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-e-consoles-17/",
       "data": "2026-10-17T11:15:00+00:00"
-    },
-    {
-      "titulo": "3 apps pagos ficam grátis na Play Store; veja também pacotes de ícones",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/3-apps-pagos-ficam-gratis-na-play-store-veja-tambem-pacotes-de-icones/",
-      "data": "2026-10-17T11:00:00+00:00"
-    },
-    {
-      "titulo": "Siri AI: a maior promessa do iOS 27 não está pronta para o Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/siri-ai-a-maior-promessa-do-ios-27-nao-esta-pronta-para-o-brasil/",
-      "data": "2026-10-17T10:00:00+00:00"
-    },
-    {
-      "titulo": "O ‘manual de segurança’ para encontros por aplicativos de relacionamento",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/o-manual-de-seguranca-para-encontros-por-aplicativos-de-relacionamento/",
-      "data": "2026-10-17T08:00:00+00:00"
-    },
-    {
-      "titulo": "PlayStation 5 desbloqueado começa a rodar jogos de PS2 em disco",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/playstation-5-desbloqueado-comeca-a-rodar-jogos-de-ps2-em-disco/",
-      "data": "2026-10-17T00:00:02+00:00"
-    },
-    {
-      "titulo": "Filme de Cyberpunk 2077 não será igual ao jogo, mas sim uma história inédita",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/filme-de-cyberpunk-2077-nao-sera-igual-ao-jogo-mas-sim-uma-historia-inedita/",
-      "data": "2026-10-16T23:18:00+00:00"
-    },
-    {
-      "titulo": "Brasil tem um dos maiores júris do The Game Awards 2026, incluindo Voxel! Confira lista de membros",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/brasil-tem-um-dos-maiores-juris-do-the-game-awards-2026-incluindo-voxel-confira-lista-de-membros/",
-      "data": "2026-10-16T23:15:00+00:00"
     },
     {
       "titulo": "Melhor TV LG em 2026: 10 modelos para comprar no Brasil",
@@ -150,36 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/lenovo-idea-tab-256-gb-atinge-melhor-preco-com-cupom-e-inclui-acessorios/",
       "data": "2026-10-16T20:10:18+00:00"
-    },
-    {
-      "titulo": "Assetto Corsa impressiona com vídeos de Fórmula 1 que parecem gravações de corridas reais graças aos mods e DLSS5",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/assetto-corsa-impressiona-com-videos-de-formula-1-que-parecem-gravacoes-de-corridas-reais-gracas-aos-mods-e-dlss5/",
-      "data": "2026-10-16T19:53:23+00:00"
-    },
-    {
-      "titulo": "Novo golpe na Amazon? Ryzen de US$ 889 pode ser um processador Intel antigo disfarçado",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/ryzen-processador-intel-falso/",
-      "data": "2026-10-16T19:37:44+00:00"
-    },
-    {
-      "titulo": "Amazon lança pulseira com IA que escuta suas conversas e memoriza detalhes importantes",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/amazon-pulseira-com-ia-escuta-conversas-memoriza-detalhes-importantes/",
-      "data": "2026-10-16T19:31:04+00:00"
-    },
-    {
-      "titulo": "Meta pode coletar notícias para treinar IA sem pagar por licenças",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/meta-pode-coletar-noticias-para-treinar-ia-sem-pagar-por-licencas/",
-      "data": "2026-10-16T19:24:57+00:00"
-    },
-    {
-      "titulo": "Galaxy S27 Ultra: Samsung pode abandonar chip da Qualcomm",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/galaxy-s27-ultra-samsung-pode-abandonar-chip-da-qualcomm/",
-      "data": "2026-10-16T19:05:53+00:00"
     }
   ]
 }
