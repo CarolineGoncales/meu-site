@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-10-17T19:33:12.861745+00:00",
+  "atualizado_em": "2026-10-17T21:48:34.679983+00:00",
   "noticias": [
+    {
+      "titulo": "Por que os ports nativos de fãs são o futuro da preservação dos videogames",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/por-que-os-ports-nativos-sao-futuro-da-preservacao/",
+      "data": "2026-10-17T21:00:04+00:00"
+    },
+    {
+      "titulo": "Galaxy S26 Ultra, Claude Code e mais: revista elege melhores invenções de 2026",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/galaxy-s26-ultra-claude-code-e-mais-revista-elege-melhores-invencoes-de-2026/",
+      "data": "2026-10-17T21:00:00+00:00"
+    },
+    {
+      "titulo": "Clássico do PS2, Black ganha port de PC com 4K e 120 FPS em ‘recomp’",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/classico-do-ps2-black-ganha-port-de-pc-com-4k-e-120-fps-em-recomp/",
+      "data": "2026-10-17T20:15:00+00:00"
+    },
+    {
+      "titulo": "6 recursos do Spotify que o YouTube Music não tem",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/recursos-spotify-que-youtube-music-nao-tem/",
+      "data": "2026-10-17T20:00:00+00:00"
+    },
+    {
+      "titulo": "Agentes de IA estão sendo bloqueados por sites: Amazon, Cloudflare e outras empresas entram na guerra",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/agentes-de-ia-bloqueados/",
+      "data": "2026-10-17T19:47:55+00:00"
+    },
     {
       "titulo": "5 truques para homem esconder a “barriguinha de chope” nas fotos de celular",
       "fonte": "Canaltech",
@@ -80,12 +110,6 @@
       "data": "2026-10-17T17:00:00+00:00"
     },
     {
-      "titulo": "6 maiores aliados de Link em The Legend of Zelda",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/maiores-aliados-de-link-the-legend-of-zelda/",
-      "data": "2026-10-17T16:30:00+00:00"
-    },
-    {
       "titulo": "Fundo Monetário Internacional alerta que bolha da IA pode estourar e ameaçar a economia global",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/fmi-alerta-bolha-ia-estourar-ameaca-economia-global/",
@@ -104,46 +128,16 @@
       "data": "2026-10-17T16:07:58+00:00"
     },
     {
-      "titulo": "Conheça o simulador da Ford que usa tecnologia para recriar qualquer estrada",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/conheca-o-simulador-da-ford-que-usa-tecnologia-para-recriar-qualquer-estrada/",
-      "data": "2026-10-17T16:02:00+00:00"
-    },
-    {
       "titulo": "Homem mostra como ficou o HD do pai após 18 anos compartilhando arquivos",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/hd-pai-18-anos-uso-interior-danificado/",
       "data": "2026-10-17T15:52:44+00:00"
     },
     {
-      "titulo": "Placas de vídeo em oferta no Magazine Luiza: 15 sugestões a partir de R$ 1.034",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/placas-de-video-em-oferta-no-magazine-luiza-15-sugestoes-a-partir-de-r-1034/",
-      "data": "2026-10-17T15:45:00+00:00"
-    },
-    {
       "titulo": "Anker Soundcore P30i com 49% OFF: Fone com ANC inteligente, bateria de 45h e 4 opções de cores",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/anker-soundcore-p30i-com-46-off-fone-com-anc-inteligente-bateria-de-45h-e-4-opcoes-de-cores/",
       "data": "2026-10-17T15:30:01+00:00"
-    },
-    {
-      "titulo": "Valor de mercado da Skydance cai para menos da metade do valor combinado da Paramount e Warner Bros.",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/entretenimento/valor-mercado-skydance-cai-menos-metade-valor-combinado-paramount-e-warner/",
-      "data": "2026-10-17T15:14:54+00:00"
-    },
-    {
-      "titulo": "Como um desenvolvedor usou IA para clonar programas da Adobe e Microsoft?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/como-um-desenvolvedor-usou-ia-para-clonar-programas-da-adobe-e-microsoft/",
-      "data": "2026-10-17T15:00:00+00:00"
-    },
-    {
-      "titulo": "007 First Light e mais jogos para PC com até 90% OFF na Steam",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/007-first-light-e-mais-jogos-para-pc-com-ate-90-off-na-steam/",
-      "data": "2026-10-17T14:00:00+00:00"
     },
     {
       "titulo": "Melhor TV LG em 2026: 10 modelos para comprar no Brasil",
@@ -180,6 +174,12 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/lenovo-idea-tab-256-gb-atinge-melhor-preco-com-cupom-e-inclui-acessorios/",
       "data": "2026-10-16T20:10:18+00:00"
+    },
+    {
+      "titulo": "Meta pode coletar notícias para treinar IA sem pagar por licenças",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/meta-pode-coletar-noticias-para-treinar-ia-sem-pagar-por-licencas/",
+      "data": "2026-10-16T19:24:57+00:00"
     }
   ]
 }
