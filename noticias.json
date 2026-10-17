@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-17T01:48:29.370858+00:00",
+  "atualizado_em": "2026-10-17T06:18:59.735520+00:00",
   "noticias": [
     {
       "titulo": "PlayStation 5 desbloqueado começa a rodar jogos de PS2 em disco",
@@ -71,12 +71,6 @@
       "titulo": "99 lança Zesto, plataforma com IA que integra pedidos, gestão e entregas de restaurantes",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/99-lanca-zesto-plataforma-com-ia-que-integra-pedidos-gestao-e-entregas-de-restaurantes/",
-      "data": "2026-10-16T21:30:00+00:00"
-    },
-    {
-      "titulo": "Operação prende 95 suspeitos de crimes sexuais contra crianças na internet",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/operacao-prende-95-suspeitos-de-crimes-sexuais-contra-criancas-na-internet/",
       "data": "2026-10-16T21:30:00+00:00"
     },
     {
@@ -180,6 +174,12 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/golpe-play-store-app-falso-whatsapp-antes-original/",
       "data": "2026-10-16T17:49:25+00:00"
+    },
+    {
+      "titulo": "Anúncios maliciosos conseguem instalar spyware em celulares sem nenhum clique",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/anuncios-spyware-sem-nenhum-clique/",
+      "data": "2026-10-16T17:45:36+00:00"
     }
   ]
 }
