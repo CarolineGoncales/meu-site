@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-10-17T06:18:59.735520+00:00",
+  "atualizado_em": "2026-10-17T11:00:06.246707+00:00",
   "noticias": [
+    {
+      "titulo": "Siri AI: a maior promessa do iOS 27 não está pronta para o Brasil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/siri-ai-a-maior-promessa-do-ios-27-nao-esta-pronta-para-o-brasil/",
+      "data": "2026-10-17T10:00:00+00:00"
+    },
+    {
+      "titulo": "O ‘manual de segurança’ para encontros por aplicativos de relacionamento",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/o-manual-de-seguranca-para-encontros-por-aplicativos-de-relacionamento/",
+      "data": "2026-10-17T08:00:00+00:00"
+    },
     {
       "titulo": "PlayStation 5 desbloqueado começa a rodar jogos de PS2 em disco",
       "fonte": "Canaltech",
@@ -60,18 +72,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/stem/cientistas-antecipam-fim-do-segundo-bissexto-para-2027-entenda/",
       "data": "2026-10-16T22:00:00+00:00"
-    },
-    {
-      "titulo": "TSE define regras para canais no WhatsApp durante a campanha eleitoral",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/tse-define-regras-para-canais-no-whatsapp-durante-a-campanha-eleitoral/",
-      "data": "2026-10-16T21:40:00+00:00"
-    },
-    {
-      "titulo": "99 lança Zesto, plataforma com IA que integra pedidos, gestão e entregas de restaurantes",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/99-lanca-zesto-plataforma-com-ia-que-integra-pedidos-gestao-e-entregas-de-restaurantes/",
-      "data": "2026-10-16T21:30:00+00:00"
     },
     {
       "titulo": "Como baixar um aplicativo na TV da LG",
