@@ -1,6 +1,96 @@
 {
-  "atualizado_em": "2026-10-18T11:49:26.836022+00:00",
+  "atualizado_em": "2026-10-18T14:58:16.317432+00:00",
   "noticias": [
+    {
+      "titulo": "Balanças digitais baratas que acabam com o “olhômetro” e vão salvar sua rotina saudável",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/balancas-digitais-baratas-que-acabam-com-o-olhometro-e-vao-salvar-sua-rotina-saudavel/",
+      "data": "2026-10-18T14:30:12+00:00"
+    },
+    {
+      "titulo": "Quanto vale a pena pagar no iPhone 17 na Black Friday 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/quanto-vale-a-pena-pagar-no-iphone-17-na-black-friday-2026/",
+      "data": "2026-10-18T14:30:00+00:00"
+    },
+    {
+      "titulo": "Garrafa Stanley pequena: 4 modelos práticos de levar",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/garrafa-stanley-pequena-4-modelos-praticos-de-levar/",
+      "data": "2026-10-18T14:05:00+00:00"
+    },
+    {
+      "titulo": "Mafia: The Old Country na PS Plus, GTA V em promoção e mais! Veja as indicações de games",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/mafia-the-old-country-na-ps-plus-gta-v-em-promocao-e-mais-veja-as-indicacoes-de-games/",
+      "data": "2026-10-18T14:00:00+00:00"
+    },
+    {
+      "titulo": "One UI 9 tem truque nativo para cortar internet de apps e barrar anúncios; aprenda a usar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/one-ui-9-tem-truque-para-cortar-internet-e-barrar-anuncios/",
+      "data": "2026-10-18T14:00:00+00:00"
+    },
+    {
+      "titulo": "Estudo revela benefício inesperado dos fones de ouvido durante cirurgias",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/beneficio-fones-de-ouvido-cirurgias/",
+      "data": "2026-10-18T13:58:53+00:00"
+    },
+    {
+      "titulo": "DLSS 5 surpreende com ganho de até 90% de desempenho em jogos sem suporte oficial",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/dlss-5-ganho-90-jogos-sem-suporte/",
+      "data": "2026-10-18T13:46:35+00:00"
+    },
+    {
+      "titulo": "Carga de RTX 5090 avaliada em R$ 2,5 milhões desaparece no Aeroporto de Guarulhos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/carga-de-rtx-5090-desaparece/",
+      "data": "2026-10-18T13:33:54+00:00"
+    },
+    {
+      "titulo": "Airpods 4 entra em promoção nos dois modelos, com e sem ANC: entenda a diferença entre eles",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/airpods-4-entre-em-promocao-nos-dois-modelos-com-e-sem-anc-entenda-a-diferenca-entre-eles/",
+      "data": "2026-10-18T13:30:22+00:00"
+    },
+    {
+      "titulo": "Starlink Mini no apartamento: funciona ou o sinal fica bloqueado?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/starlink-mini-no-apartamento-funciona-ou-o-sinal-fica-bloqueado/",
+      "data": "2026-10-18T13:30:00+00:00"
+    },
+    {
+      "titulo": "Sony lança microfone USB-C para smartphone que grava áudio espacial",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/sony-lanca-microfone-usb-c-para-smartphone-que-grava-audio-espacial/",
+      "data": "2026-10-18T13:00:00+00:00"
+    },
+    {
+      "titulo": "Lupin está de volta: 5 coisas para lembrar antes de assistir à Parte 4",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/lupin-o-que-lembrar-antes-de-assistir-parte-4/",
+      "data": "2026-10-18T13:00:00+00:00"
+    },
+    {
+      "titulo": "Preview Crazy Taxi: World Tour | jogo diverte na BGS 2026, apesar do desempenho",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/preview-crazy-taxi-world-tour/",
+      "data": "2026-10-18T12:30:00+00:00"
+    },
+    {
+      "titulo": "Seu CPF pode ter mais a ver com a CNH do que você imagina",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/seu-cpf-pode-ter-mais-a-ver-com-a-cnh-do-que-voce-imagina/",
+      "data": "2026-10-18T12:03:00+00:00"
+    },
+    {
+      "titulo": "‘Armory Castle’: criminosos usam falha grave para invadir servidores de suporte",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/armory-castle-criminosos-usam-falha-grave-para-invadir-servidores-de-suporte/",
+      "data": "2026-10-18T12:00:00+00:00"
+    },
     {
       "titulo": "Ajuste escondido faz Gemini dar respostas muito melhores; veja como fazer",
       "fonte": "Canaltech",
@@ -38,58 +128,10 @@
       "data": "2026-10-17T22:03:00+00:00"
     },
     {
-      "titulo": "Por que os ports nativos de fãs são o futuro da preservação dos videogames",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/por-que-os-ports-nativos-sao-futuro-da-preservacao/",
-      "data": "2026-10-17T21:00:04+00:00"
-    },
-    {
-      "titulo": "Galaxy S26 Ultra, Claude Code e mais: revista elege melhores invenções de 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/galaxy-s26-ultra-claude-code-e-mais-revista-elege-melhores-invencoes-de-2026/",
-      "data": "2026-10-17T21:00:00+00:00"
-    },
-    {
-      "titulo": "Clássico do PS2, Black ganha port de PC com 4K e 120 FPS em ‘recomp’",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/classico-do-ps2-black-ganha-port-de-pc-com-4k-e-120-fps-em-recomp/",
-      "data": "2026-10-17T20:15:00+00:00"
-    },
-    {
-      "titulo": "6 recursos do Spotify que o YouTube Music não tem",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/recursos-spotify-que-youtube-music-nao-tem/",
-      "data": "2026-10-17T20:00:00+00:00"
-    },
-    {
       "titulo": "Agentes de IA estão sendo bloqueados por sites: Amazon, Cloudflare e outras empresas entram na guerra",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/agentes-de-ia-bloqueados/",
       "data": "2026-10-17T19:47:55+00:00"
-    },
-    {
-      "titulo": "5 truques para homem esconder a “barriguinha de chope” nas fotos de celular",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/5-truques-para-homem-esconder-a-barriguinha-de-chope-nas-fotos/",
-      "data": "2026-10-17T19:30:03+00:00"
-    },
-    {
-      "titulo": "FIFA Street 2 e NFS Underground 2 agora rodam de graça direto no navegador em versão não oficial",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/fifa-street-2-e-nfs-underground-2-agora-rodam-de-graca-direto-no-navegador-em-versao-nao-oficial/",
-      "data": "2026-10-17T19:10:00+00:00"
-    },
-    {
-      "titulo": "Quais as diferenças entre direção hidráulica e elétrica?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/quais-as-diferencas-entre-direcao-hidraulica-e-eletrica/",
-      "data": "2026-10-17T19:02:00+00:00"
-    },
-    {
-      "titulo": "Celulares Android têm ID secreto que vigia tudo o que você pesquisa; veja como excluir",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/id-secreto-celulares-android-vigia-tudo-sobre-voce/",
-      "data": "2026-10-17T18:30:02+00:00"
     },
     {
       "titulo": "O legado de Ocarina of Time: como Zelda revolucionou os jogos 3D e influenciou gerações",
@@ -98,46 +140,10 @@
       "data": "2026-10-17T18:12:42+00:00"
     },
     {
-      "titulo": "O que acontece quando falta memória RAM no PC gamer?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/o-que-acontece-quando-falta-memoria-ram-no-pc-gamer/",
-      "data": "2026-10-17T18:00:00+00:00"
-    },
-    {
       "titulo": "Nova ferramenta de IA usada pela polícia promete identificar casas a partir de uma única foto interna",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/ferramenta-de-ia-policia-dentificar-casas-foto-interna/",
       "data": "2026-10-17T17:15:28+00:00"
-    },
-    {
-      "titulo": "Intel continua melhorando suas GPUs e promete até 31% mais FPS em Resident Evil Requiem",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/intel-melhorando-suas-gpus/",
-      "data": "2026-10-17T17:05:30+00:00"
-    },
-    {
-      "titulo": "Fundo Monetário Internacional alerta que bolha da IA pode estourar e ameaçar a economia global",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/fmi-alerta-bolha-ia-estourar-ameaca-economia-global/",
-      "data": "2026-10-17T16:15:44+00:00"
-    },
-    {
-      "titulo": "Homem encontra SSD de 2 TB que estava guardado em gaveta da escrivaninha há anos e comemora: “É como encontrar dinheiro no bolso de uma jaqueta velha”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/homem-encontra-ssd-de-2-tb-que-estava-guardado-em-uma-gaveta-da-escrivaninha-ha-anos-e-comemora-e-como-encontrar-dinheiro-no-bolso-de-uma-jaqueta-velha/",
-      "data": "2026-10-17T16:07:58+00:00"
-    },
-    {
-      "titulo": "Homem mostra como ficou o HD do pai após 18 anos compartilhando arquivos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/hd-pai-18-anos-uso-interior-danificado/",
-      "data": "2026-10-17T15:52:44+00:00"
-    },
-    {
-      "titulo": "Anker Soundcore P30i com 49% OFF: Fone com ANC inteligente, bateria de 45h e 4 opções de cores",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/anker-soundcore-p30i-com-46-off-fone-com-anc-inteligente-bateria-de-45h-e-4-opcoes-de-cores/",
-      "data": "2026-10-17T15:30:01+00:00"
     },
     {
       "titulo": "Melhor TV LG em 2026: 10 modelos para comprar no Brasil",
@@ -174,12 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/lenovo-idea-tab-256-gb-atinge-melhor-preco-com-cupom-e-inclui-acessorios/",
       "data": "2026-10-16T20:10:18+00:00"
-    },
-    {
-      "titulo": "Meta pode coletar notícias para treinar IA sem pagar por licenças",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/meta-pode-coletar-noticias-para-treinar-ia-sem-pagar-por-licencas/",
-      "data": "2026-10-16T19:24:57+00:00"
     }
   ]
 }
