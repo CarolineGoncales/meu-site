@@ -1,6 +1,42 @@
 {
-  "atualizado_em": "2026-10-18T17:45:56.009890+00:00",
+  "atualizado_em": "2026-10-18T19:45:48.755069+00:00",
   "noticias": [
+    {
+      "titulo": "Geladeira pode ficar encostada na parede? Saiba se isso aumenta a conta de luz",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/geladeira-pode-ficar-encostada-na-parede-saiba-se-isso-aumenta-a-conta-de-luz/",
+      "data": "2026-10-18T19:30:01+00:00"
+    },
+    {
+      "titulo": "Usado a combustão ou elétrico zero: Qual carro é melhor comprar?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/usado-a-combustao-ou-eletrico-zero-qual-carro-e-melhor-comprar/",
+      "data": "2026-10-18T19:04:00+00:00"
+    },
+    {
+      "titulo": "Teoria da Internet Morta? Jogadores dizem que partidas multiplayer de jogos atuais parecem cheias de bots",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/jogadores-dizem-que-partidas-multiplayer-de-jogos-atuais-parecem-cheias-de-bots/",
+      "data": "2026-10-18T18:31:37+00:00"
+    },
+    {
+      "titulo": "Recurso popular do Windows 7 está escondido na versão 11; saiba como ativar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/software/como-ativar-recurso-popular-do-windows-7-escondido-na-versao-11/",
+      "data": "2026-10-18T18:30:04+00:00"
+    },
+    {
+      "titulo": "Barracuda V2 Pro: novo fone da Razer deixa escutar som do PC e celular ao mesmo tempo",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/barracuda-v2-pro-novo-fone-da-razer-deixa-escutar-som-do-pc-e-celular-ao-mesmo-tempo/",
+      "data": "2026-10-18T18:15:00+00:00"
+    },
+    {
+      "titulo": "Por que algumas portas USB têm o símbolo de uma bateria ao lado?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/por-que-algumas-portas-usb-tem-simbolo-de-bateria/",
+      "data": "2026-10-18T18:00:00+00:00"
+    },
     {
       "titulo": "LinkedIn intensifica combate a publicações geradas por IA após reclamações de usuários",
       "fonte": "Hardware.com.br",
@@ -86,24 +122,6 @@
       "data": "2026-10-18T15:00:00+00:00"
     },
     {
-      "titulo": "Quem é o Evil Ryu de Street Fighter?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/quem-e-o-evil-ryu-de-street-fighter/",
-      "data": "2026-10-18T15:00:00+00:00"
-    },
-    {
-      "titulo": "Balanças digitais baratas que acabam com o “olhômetro” e vão salvar sua rotina saudável",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/balancas-digitais-baratas-que-acabam-com-o-olhometro-e-vao-salvar-sua-rotina-saudavel/",
-      "data": "2026-10-18T14:30:12+00:00"
-    },
-    {
-      "titulo": "Quanto vale a pena pagar no iPhone 17 na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/quanto-vale-a-pena-pagar-no-iphone-17-na-black-friday-2026/",
-      "data": "2026-10-18T14:30:00+00:00"
-    },
-    {
       "titulo": "Garrafa Stanley pequena: 4 modelos práticos de levar",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/garrafa-stanley-pequena-4-modelos-praticos-de-levar/",
@@ -116,18 +134,6 @@
       "data": "2026-10-18T14:00:00+00:00"
     },
     {
-      "titulo": "One UI 9 tem truque nativo para cortar internet de apps e barrar anúncios; aprenda a usar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/one-ui-9-tem-truque-para-cortar-internet-e-barrar-anuncios/",
-      "data": "2026-10-18T14:00:00+00:00"
-    },
-    {
-      "titulo": "Starlink Mini no apartamento: funciona ou o sinal fica bloqueado?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/starlink-mini-no-apartamento-funciona-ou-o-sinal-fica-bloqueado/",
-      "data": "2026-10-18T13:30:00+00:00"
-    },
-    {
       "titulo": "Sony lança microfone USB-C para smartphone que grava áudio espacial",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/sony-lanca-microfone-usb-c-para-smartphone-que-grava-audio-espacial/",
@@ -138,12 +144,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/armory-castle-criminosos-usam-falha-grave-para-invadir-servidores-de-suporte/",
       "data": "2026-10-18T12:00:00+00:00"
-    },
-    {
-      "titulo": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (18)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-18/",
-      "data": "2026-10-18T11:15:00+00:00"
     },
     {
       "titulo": "Melhor TV LG em 2026: 10 modelos para comprar no Brasil",
