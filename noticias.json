@@ -1,6 +1,96 @@
 {
-  "atualizado_em": "2026-10-18T14:58:16.317432+00:00",
+  "atualizado_em": "2026-10-18T17:45:56.009890+00:00",
   "noticias": [
+    {
+      "titulo": "LinkedIn intensifica combate a publicações geradas por IA após reclamações de usuários",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/linkedin-intensifica-combate-publicacoes-geradas-por-ia/",
+      "data": "2026-10-18T17:41:11+00:00"
+    },
+    {
+      "titulo": "Quem é Paladino? Conheça o vilão de VisionQuest que usa tecnologia para caçar herói",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/quem-e-paladino-conheca-vilao-de-visionquest/",
+      "data": "2026-10-18T17:30:00+00:00"
+    },
+    {
+      "titulo": "Entusiasta encontra Radeon RX 470 sem saídas de vídeo, e Reddit explica o motivo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/entusiasta-encontra-radeon-rx-470-sem-saidas-de-video/",
+      "data": "2026-10-18T17:15:16+00:00"
+    },
+    {
+      "titulo": "8 melhores jogos de Star Wars que deixam você ser um Jedi",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/8-melhores-jogos-de-star-wars-com-jedi-e-sabres-de-luz/",
+      "data": "2026-10-18T17:15:00+00:00"
+    },
+    {
+      "titulo": "Cabo USB-C de R$ 20 vs. de R$ 200: o que muda de verdade?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/cabo-usb-c-de-r-20-vs-de-r-200-o-que-muda-de-verdade/",
+      "data": "2026-10-18T17:00:05+00:00"
+    },
+    {
+      "titulo": "Professora de 78 anos é presa após bloquear robôs de entrega do Uber Eats em protesto",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/professora-78-anos-presa-apos-bloquear-robos-de-entrega-uber-eats/",
+      "data": "2026-10-18T16:48:05+00:00"
+    },
+    {
+      "titulo": "A BGS como a gente conhece morreu",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/a-bgs-como-a-gente-conhece-morreu/",
+      "data": "2026-10-18T16:30:00+00:00"
+    },
+    {
+      "titulo": "Desenvolvedores de GTA 6 visitaram clubes de striptease e andaram com a polícia em Miami",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/desenvolvedores-de-gta-6-visitaram-clubes-de-striptease-e-andaram-com-a-policia-em-miami/",
+      "data": "2026-10-18T16:15:00+00:00"
+    },
+    {
+      "titulo": "Usuário mostra setup de três monitores do seu avô nos anos 70 e viraliza entre jogadores de PC",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware/usuario-mostra-setup-de-tres-monitores-do-seu-avo-nos-anos-70-e-viraliza-entre-jogadores-de-pc/",
+      "data": "2026-10-18T16:10:21+00:00"
+    },
+    {
+      "titulo": "“Vocês confiariam o PC de vocês nisso aqui?”: brasileiro levanta debate sobre filtros de linha x extensões",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/usuario-questiona-filtro-de-linha-extensao-pc/",
+      "data": "2026-10-18T16:04:48+00:00"
+    },
+    {
+      "titulo": "Celular e carro elétrico têm o mesmo problema ao passar de 80% de carga; entenda",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/celular-e-carro-eletrico-tem-o-mesmo-problema-ao-passar-de-80-de-carga-entenda/",
+      "data": "2026-10-18T16:03:00+00:00"
+    },
+    {
+      "titulo": "5 mini projetores 4K acessíveis para quem quer começar sem gastar muito",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/5-mini-projetor-4k-com-bom-custo-x-beneficio/",
+      "data": "2026-10-18T15:35:48+00:00"
+    },
+    {
+      "titulo": "Nasdaq vê suas ações caírem e registra pior semana desde junho em meio a temores sobre dívidas da IA",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/nasdaq-ve-suas-acoes-cairem-e-registra-pior-semana-desde-junho-em-meio-a-temores-sobre-dividas-da-ia/",
+      "data": "2026-10-18T15:31:32+00:00"
+    },
+    {
+      "titulo": "Estilos Fotográficos do iPhone 18 Pro impactam mais do que abertura variável",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/estilos-fotograficos-do-iphone-18-pro-impactam-mais-do-que-abertura-variavel/",
+      "data": "2026-10-18T15:00:00+00:00"
+    },
+    {
+      "titulo": "Quem é o Evil Ryu de Street Fighter?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/quem-e-o-evil-ryu-de-street-fighter/",
+      "data": "2026-10-18T15:00:00+00:00"
+    },
     {
       "titulo": "Balanças digitais baratas que acabam com o “olhômetro” e vão salvar sua rotina saudável",
       "fonte": "Hardware.com.br",
@@ -32,30 +122,6 @@
       "data": "2026-10-18T14:00:00+00:00"
     },
     {
-      "titulo": "Estudo revela benefício inesperado dos fones de ouvido durante cirurgias",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/beneficio-fones-de-ouvido-cirurgias/",
-      "data": "2026-10-18T13:58:53+00:00"
-    },
-    {
-      "titulo": "DLSS 5 surpreende com ganho de até 90% de desempenho em jogos sem suporte oficial",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/dlss-5-ganho-90-jogos-sem-suporte/",
-      "data": "2026-10-18T13:46:35+00:00"
-    },
-    {
-      "titulo": "Carga de RTX 5090 avaliada em R$ 2,5 milhões desaparece no Aeroporto de Guarulhos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/carga-de-rtx-5090-desaparece/",
-      "data": "2026-10-18T13:33:54+00:00"
-    },
-    {
-      "titulo": "Airpods 4 entra em promoção nos dois modelos, com e sem ANC: entenda a diferença entre eles",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/airpods-4-entre-em-promocao-nos-dois-modelos-com-e-sem-anc-entenda-a-diferenca-entre-eles/",
-      "data": "2026-10-18T13:30:22+00:00"
-    },
-    {
       "titulo": "Starlink Mini no apartamento: funciona ou o sinal fica bloqueado?",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/telecom/starlink-mini-no-apartamento-funciona-ou-o-sinal-fica-bloqueado/",
@@ -68,82 +134,16 @@
       "data": "2026-10-18T13:00:00+00:00"
     },
     {
-      "titulo": "Lupin está de volta: 5 coisas para lembrar antes de assistir à Parte 4",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/lupin-o-que-lembrar-antes-de-assistir-parte-4/",
-      "data": "2026-10-18T13:00:00+00:00"
-    },
-    {
-      "titulo": "Preview Crazy Taxi: World Tour | jogo diverte na BGS 2026, apesar do desempenho",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/preview-crazy-taxi-world-tour/",
-      "data": "2026-10-18T12:30:00+00:00"
-    },
-    {
-      "titulo": "Seu CPF pode ter mais a ver com a CNH do que você imagina",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/seu-cpf-pode-ter-mais-a-ver-com-a-cnh-do-que-voce-imagina/",
-      "data": "2026-10-18T12:03:00+00:00"
-    },
-    {
       "titulo": "‘Armory Castle’: criminosos usam falha grave para invadir servidores de suporte",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/armory-castle-criminosos-usam-falha-grave-para-invadir-servidores-de-suporte/",
       "data": "2026-10-18T12:00:00+00:00"
     },
     {
-      "titulo": "Ajuste escondido faz Gemini dar respostas muito melhores; veja como fazer",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-fazer-gemini-dar-respostas-melhores/",
-      "data": "2026-10-18T11:30:00+00:00"
-    },
-    {
       "titulo": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (18)",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-18/",
       "data": "2026-10-18T11:15:00+00:00"
-    },
-    {
-      "titulo": "Power Bank Baseus: 6 diferentes opções para conhecer",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/power-bank-baseus-6-modelos-para-comprar-em-2026/",
-      "data": "2026-10-18T10:15:00+00:00"
-    },
-    {
-      "titulo": "Abertura variável do iPhone 18 Pro é desnecessária para maioria das pessoas",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/abertura-varial-iphone-18-pro-desnecessaria/",
-      "data": "2026-10-18T10:00:00+00:00"
-    },
-    {
-      "titulo": "O que é TCG? Conheça 7 jogos de cartas colecionáveis",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/tcg-o-que-e-e-7-melhores-jogos-de-cartas-para-pc-e-console/",
-      "data": "2026-10-17T22:15:00+00:00"
-    },
-    {
-      "titulo": "Carro por R$ 5 mil vale a pena? Mecânicos alertam para o \"barato que sai caro\"",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/carro-por-r-5-mil-vale-a-pena-mecanicos-alertam-para-o-barato-que-sai-caro/",
-      "data": "2026-10-17T22:03:00+00:00"
-    },
-    {
-      "titulo": "Agentes de IA estão sendo bloqueados por sites: Amazon, Cloudflare e outras empresas entram na guerra",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/agentes-de-ia-bloqueados/",
-      "data": "2026-10-17T19:47:55+00:00"
-    },
-    {
-      "titulo": "O legado de Ocarina of Time: como Zelda revolucionou os jogos 3D e influenciou gerações",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/legado-zelda-ocarina-of-time/",
-      "data": "2026-10-17T18:12:42+00:00"
-    },
-    {
-      "titulo": "Nova ferramenta de IA usada pela polícia promete identificar casas a partir de uma única foto interna",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/ferramenta-de-ia-policia-dentificar-casas-foto-interna/",
-      "data": "2026-10-17T17:15:28+00:00"
     },
     {
       "titulo": "Melhor TV LG em 2026: 10 modelos para comprar no Brasil",
