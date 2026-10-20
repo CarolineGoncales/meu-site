@@ -1,6 +1,174 @@
 {
-  "atualizado_em": "2026-10-20T13:58:42.508152+00:00",
+  "atualizado_em": "2026-10-20T18:19:23.703054+00:00",
   "noticias": [
+    {
+      "titulo": "Comunidade leva trilogia original de Uncharted para o PC com DLSS e 120 FPS",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/comunidade-leva-trilogia-original-de-uncharted-para-o-pc-com-dlss-e-120-fps/",
+      "data": "2026-10-20T18:09:00+00:00"
+    },
+    {
+      "titulo": "Quer levar 3 iPhones Duo de uma vez? A Apple não vai deixar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/quer-levar-3-iphones-duo-de-uma-vez-a-apple-nao-vai-deixar/",
+      "data": "2026-10-20T18:06:51+00:00"
+    },
+    {
+      "titulo": "Smart Sampa não tinha autenticação em dois fatores; sistema teve falha que permitia acesso indevido",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/smart-sampa-nao-tinha-autenticacao-em-dois-fatores-sistema-teve-falha-que-permitia-acesso-indevido/",
+      "data": "2026-10-20T18:04:00+00:00"
+    },
+    {
+      "titulo": "Spotify aperta cerco a planos Família e exige verificação por QR Code",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/spotify-aperta-cerco-a-planos-familia-e-exige-verificacao-por-qr-code/",
+      "data": "2026-10-20T18:00:00+00:00"
+    },
+    {
+      "titulo": "Saiba onde fica a \"capital dos carros elétricos\" no Brasil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/saiba-onde-fica-a-capital-dos-carros-eletricos-no-brasil/",
+      "data": "2026-10-20T18:00:00+00:00"
+    },
+    {
+      "titulo": "Elon Musk promete dar uma ação da SpaceX a cada criança dos EUA em 2027",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/elon-musk-acao-spacex-crianca/",
+      "data": "2026-10-20T17:57:30+00:00"
+    },
+    {
+      "titulo": "Motorola \"achata\" a tela em novo celular que aparece pela 1ª vez",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/motorola-achata-a-tela-em-novo-celular-que-aparece-pela-1-vez/",
+      "data": "2026-10-20T17:55:46+00:00"
+    },
+    {
+      "titulo": "Smart Sampa: entenda o que vazou e quem são as empresas que operam o sistema de câmeras de SP",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/smart-sampa-entenda-o-que-vazou-e-quem-sao-as-empresas-que-operam-o-sistema-de-cameras-de-sp/",
+      "data": "2026-10-20T17:45:00+00:00"
+    },
+    {
+      "titulo": "Claro coloca 54 milhões de pessoas em novo programa de fidelidade",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/claro-coloca-54-milhoes-de-pessoas-em-novo-programa-de-fidelidade/",
+      "data": "2026-10-20T17:42:16+00:00"
+    },
+    {
+      "titulo": "XBOX Game Pass recbe Final Fantasy, Plants vs. Zombies e jogos indie em outubro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/xbox-game-pass-recbe-final-fantasy-plants-vs-zombies-e-jogos-indie-em-outubro/",
+      "data": "2026-10-20T17:31:57+00:00"
+    },
+    {
+      "titulo": "PS4 desbloqueado ganha geração de quadros em jogos como Red Dead Redemption 2 e Bloodborne",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/ps4-ganha-geracao-de-quadros/",
+      "data": "2026-10-20T17:31:13+00:00"
+    },
+    {
+      "titulo": "Usuário do Reddit encontra um processador antigo que parece uma placa de vídeo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware/usuario-do-reddit-encontra-um-processador-intel-pentium-ii-bizarro-que-parece-uma-placa-de-video/",
+      "data": "2026-10-20T17:24:56+00:00"
+    },
+    {
+      "titulo": "Spotify removeu mais de 50 milhões de faixas de IA das recomendações",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/spotify-removeu-mais-de-50-milhoes-de-faixas-de-ia-das-recomendacoes/",
+      "data": "2026-10-20T17:24:36+00:00"
+    },
+    {
+      "titulo": "Reino Unido propõe abrir NFC do iPhone a rivais do Apple Pay",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/reino-unido-propoe-abrir-nfc-do-iphone-a-rivais-do-apple-pay/",
+      "data": "2026-10-20T17:17:05+00:00"
+    },
+    {
+      "titulo": "Xiaomi turbina Redmi Band 4 com bateria para até 3 semanas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartwatch/xiaomi-turbina-redmi-band-4-com-bateria-para-ate-3-semanas/",
+      "data": "2026-10-20T17:14:37+00:00"
+    },
+    {
+      "titulo": "Spotify imita o YouTube e lança “clube de membros” para ouvintes apoiarem podcasts",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/spotify-imita-o-youtube-e-lanca-clube-de-membros-para-ouvintes-apoiarem-podcasts/",
+      "data": "2026-10-20T17:05:03+00:00"
+    },
+    {
+      "titulo": "Wolverine, Star Fox e mais jogos em mídia física em promoção na Amazon",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/wolverine-star-fox-e-mais-jogos-em-midia-fisica-em-promocao-na-amazon/",
+      "data": "2026-10-20T17:05:00+00:00"
+    },
+    {
+      "titulo": "Nvidia detalha como sua CPU Vera terá mais potência para IAs Agênticas",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/nvidia-detalha-como-sua-cpu-vera-tera-mais-potencia-para-ias-agenticas/",
+      "data": "2026-10-20T17:00:00+00:00"
+    },
+    {
+      "titulo": "Xbox Series S pode ganhar um novo fôlego com a chegada do FSR 4.1 da AMD",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/amd-fsr-4-1-para-xbox-series/",
+      "data": "2026-10-20T16:59:10+00:00"
+    },
+    {
+      "titulo": "Techland \"abandona\" Dying Light: The Beast e admite: \"Não funcionou\"",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/techland-abandona-dying-light-the-beast-e-admite-nao-funcionou/",
+      "data": "2026-10-20T16:56:00+00:00"
+    },
+    {
+      "titulo": "Frustrado com o desempenho de Oblivion Remastered, jogador recorre à IA e consegue resultados impressionantes",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/oblivion-remastered-recorre-a-ia/",
+      "data": "2026-10-20T16:38:35+00:00"
+    },
+    {
+      "titulo": "Exclusivo: está procurando um PS5 usado? Cuidado com o golpe do falso link da OLX; veja um caso real",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/ps5-usado-golpe-link-falso-olx/",
+      "data": "2026-10-20T16:30:27+00:00"
+    },
+    {
+      "titulo": "Call of Duty: Modern Warfare 4 é um clímax digno para franquia, mas acaba bem rápido",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/call-of-duty-modern-warfare-4-e-um-climax-digno-para-franquia-mas-acaba-bem-rapido/",
+      "data": "2026-10-20T16:15:00+00:00"
+    },
+    {
+      "titulo": "Steam Next Fest enfrenta críticas por enxurrada de jogos gerados por IA, e jogadores pedem filtro para ocultá-los",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/steam-next-fest-enfrenta-criticas-por-enxurrada-de-jogos-gerados-por-ia/",
+      "data": "2026-10-20T16:14:49+00:00"
+    },
+    {
+      "titulo": "Gabinete Redragon Eternal com 29% de desconto: o aquário que tem espaço até para a sua coleção de action figures",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/gabinete-redragon-eternal-com-29-de-desconto-o-aquario-que-tem-espaco-ate-para-a-sua-colecao-de-action-figures/",
+      "data": "2026-10-20T16:00:29+00:00"
+    },
+    {
+      "titulo": "Usuários estão deixando suas smart tvs mais rápidas com IA; confira como fazer",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/usuarios-estao-deixando-suas-smart-tvs-mais-rapidas-com-ia-confira-como-fazer/",
+      "data": "2026-10-20T16:00:00+00:00"
+    },
+    {
+      "titulo": "BetaCreator: TIM oficializa plano com 50 GB e acesso exclusivo por convite",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/betacreator-tim-oficializa-plano-com-50-gb-e-acesso-exclusivo-por-convite/",
+      "data": "2026-10-20T15:51:13+00:00"
+    },
+    {
+      "titulo": "Galaxy S26 Ultra com câmera de 200 MP sai mais barato no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-com-camera-de-200-mp-sai-mais-barato-no-mercado-livre/",
+      "data": "2026-10-20T13:56:04+00:00"
+    },
     {
       "titulo": "Galaxy Watch 9 com Snapdragon atinge menor preço desde lançamento",
       "fonte": "Tecnoblog",
@@ -8,178 +176,10 @@
       "data": "2026-10-20T13:33:03+00:00"
     },
     {
-      "titulo": "Copo clássico Stanley por menos de R$57! Stacking Black 2.0 354ml mantém as bebidas geladas ou quentes por mais tempo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/copo-classico-stanley-por-menos-de-r57-stacking-black-2-0-354ml-mantem-as-bebidas-geladas-ou-quentes-por-mais-tempo/",
-      "data": "2026-10-20T13:30:43+00:00"
-    },
-    {
       "titulo": "Galaxy Watch Ultra cai 62% para quem busca relógio para aventuras",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-cai-62-para-quem-busca-relogio-para-aventuras/",
       "data": "2026-10-20T13:17:43+00:00"
-    },
-    {
-      "titulo": "Nintendo Switch Sports Resort é definitivo e tem aura de férias de verão",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/nintendo-switch-sports-resort-e-definitivo-e-tem-aura-de-ferias-de-verao/",
-      "data": "2026-10-20T13:10:00+00:00"
-    },
-    {
-      "titulo": "Star Wars de Taika Waititi parece ter sido enterrado no cemitério da Disney",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/star-wars-de-taika-waititi-parece-ter-sido-enterrado-no-cemiterio-da-disney/",
-      "data": "2026-10-20T13:10:00+00:00"
-    },
-    {
-      "titulo": "App do Itaú ganha pagamento de Pix com pontos acumulados na conta",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/itau-libera-pagamentos-de-pix-com-pontos-acumulados-na-conta/",
-      "data": "2026-10-20T13:06:47+00:00"
-    },
-    {
-      "titulo": "Novo canal chega às TVs Samsung com filmes e doramas grátis 24h por dia",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/novo-canal-chega-as-tvs-samsung-com-filmes-e-doramas-gratis-24h-por-dia/",
-      "data": "2026-10-20T13:01:00+00:00"
-    },
-    {
-      "titulo": "Final Fantasy Resonance é uma carta de amor à franquia",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/final-fantasy-resonance-e-uma-carta-de-amor-a-franquia/",
-      "data": "2026-10-20T13:00:00+00:00"
-    },
-    {
-      "titulo": "GPUs avaliadas em R$ 2,5 milhões somem do aeroporto de Guarulhos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/gpus-avaliadas-em-r-25-milhoes-somem-do-aeroporto-de-guarulhos/",
-      "data": "2026-10-20T12:55:22+00:00"
-    },
-    {
-      "titulo": "BYD \"rebatiza\" Dolphin híbrido antes da chegada ao Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/byd-rebatiza-dolphin-hibrido-antes-da-chegada-ao-brasil/",
-      "data": "2026-10-20T12:53:57+00:00"
-    },
-    {
-      "titulo": "Cyberpunk 2077 receberá conteúdo de Edgerunners 2 e novo combate com duas armas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/cyberpunk-2077-edgerunners-2/",
-      "data": "2026-10-20T12:53:35+00:00"
-    },
-    {
-      "titulo": "Cupom Terabyte | Até 51% de desconto - Outubro 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-terabyte/",
-      "data": "2026-10-20T12:53:00+00:00"
-    },
-    {
-      "titulo": "Xiaomi começa a vender mini máquina que lava roupa íntima a até 95 °C",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/xiaomi-comeca-a-vender-mini-maquina-que-lava-roupa-intima-a-ate-95-c/",
-      "data": "2026-10-20T12:45:33+00:00"
-    },
-    {
-      "titulo": "Elon Musk quer doar ações da SpaceX para crianças nos EUA",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/elon-musk-quer-doar-acoes-da-spacex-para-criancas-nos-eua/",
-      "data": "2026-10-20T12:45:04+00:00"
-    },
-    {
-      "titulo": "iPhone 16 (512 GB) baixa preço em oferta até 12x sem juros na Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/iphone-16-512-gb-baixa-preco-em-oferta-ate-12x-sem-juros-na-amazon/",
-      "data": "2026-10-20T12:43:13+00:00"
-    },
-    {
-      "titulo": "Campanha de Lula acusa Meta de continuar favorecendo Flávio Bolsonaro nas redes sociais",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/campanha-lula-meta-flavio-bolsonaro/",
-      "data": "2026-10-20T12:39:17+00:00"
-    },
-    {
-      "titulo": "Dell lança notebook econômico com mais de 20 horas de bateria",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/dell-lanca-notebook-economico-com-mais-de-20-horas-de-bateria/",
-      "data": "2026-10-20T12:35:07+00:00"
-    },
-    {
-      "titulo": "Powerbank gigante da Xiaomi recarrega iPhone até 6 vezes; veja preço",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/powerbank-gigante-da-xiaomi-recarrega-iphone-ate-6-vezes-veja-preco/",
-      "data": "2026-10-20T12:22:46+00:00"
-    },
-    {
-      "titulo": "Recurso exclusivo do Pixel chega a mais celulares Android para combater vício",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/recurso-exclusivo-do-pixel-chega-a-mais-celulares-android-para-combater-vicio/",
-      "data": "2026-10-20T12:01:00+00:00"
-    },
-    {
-      "titulo": "HomeView Ultra deve ter braço robótico para movimentar a tela",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/homeview-ultra-deve-ter-braco-robotico-para-movimentar-a-tela/",
-      "data": "2026-10-20T12:00:00+00:00"
-    },
-    {
-      "titulo": "PS5 desbloqueado roda discos originais de PS2 e mostra que retrocompatibilidade era possível",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/ps5-desbloqueado-disco-ps2/",
-      "data": "2026-10-20T11:53:25+00:00"
-    },
-    {
-      "titulo": "Nova geração vai demorar? RTX 6060 pode chegar somente em 2029",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/rtx-6060-pode-chegar-2029/",
-      "data": "2026-10-20T11:34:25+00:00"
-    },
-    {
-      "titulo": "Melhor VPN grátis: como escolher uma opção segura para proteger sua rede",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/publieditoriais/melhor-vpn-gratis-como-escolher-uma-opcao-segura-para-proteger-sua-rede/",
-      "data": "2026-10-20T11:30:00+00:00"
-    },
-    {
-      "titulo": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (20)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-20/",
-      "data": "2026-10-20T11:15:00+00:00"
-    },
-    {
-      "titulo": "Red Dead Redemption 2 recebe sistema Nemesis em novo mod! Veja como usar",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/red-dead-redemption-2-recebe-sistema-nemesis-em-novo-mod-veja-como-usar/",
-      "data": "2026-10-19T23:15:00+00:00"
-    },
-    {
-      "titulo": "Capinhas do Galaxy S27 vazam e reforçam existência de modelo Pro",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/capinhas-do-galaxy-s27-vazam-e-reforcam-existencia-de-modelo-pro/",
-      "data": "2026-10-19T23:00:00+00:00"
-    },
-    {
-      "titulo": "Ataque ‘GhostAction’ usa falsa fonte de texto para roubar dados no GitHub",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ataque-ghostaction-usa-fonte-falsa-para-roubar-dados-no-github/",
-      "data": "2026-10-19T22:45:00+00:00"
-    },
-    {
-      "titulo": "O Walkman está de volta: R$ 30 mil e acabamento em ouro",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/o-walkman-esta-de-volta-r-30-mil-e-acabamento-em-ouro/",
-      "data": "2026-10-19T21:35:53+00:00"
-    },
-    {
-      "titulo": "TV LG QNED 55″ com Mini LED atinge 32% OFF em oferta no Mercado Livre",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/tv-lg-qned-55-com-mini-led-atinge-32-off-em-oferta-no-mercado-livre/",
-      "data": "2026-10-19T21:18:03+00:00"
-    },
-    {
-      "titulo": "Um dos maiores sites de decompilação de jogos é encerrado pois a IA “acabou com a competição”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/decomp-dev-fecha-leaderboard-ia-numeros/",
-      "data": "2026-10-19T20:29:41+00:00"
     }
   ]
 }
