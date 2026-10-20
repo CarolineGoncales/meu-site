@@ -1,17 +1,89 @@
 {
-  "atualizado_em": "2026-10-19T20:38:52.198490+00:00",
+  "atualizado_em": "2026-10-20T00:00:12.869212+00:00",
   "noticias": [
+    {
+      "titulo": "Red Dead Redemption 2 recebe sistema Nemesis em novo mod! Veja como usar",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/red-dead-redemption-2-recebe-sistema-nemesis-em-novo-mod-veja-como-usar/",
+      "data": "2026-10-19T23:15:00+00:00"
+    },
+    {
+      "titulo": "Capinhas do Galaxy S27 vazam e reforçam existência de modelo Pro",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/capinhas-do-galaxy-s27-vazam-e-reforcam-existencia-de-modelo-pro/",
+      "data": "2026-10-19T23:00:00+00:00"
+    },
+    {
+      "titulo": "Ataque ‘GhostAction’ usa falsa fonte de texto para roubar dados no GitHub",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ataque-ghostaction-usa-fonte-falsa-para-roubar-dados-no-github/",
+      "data": "2026-10-19T22:45:00+00:00"
+    },
+    {
+      "titulo": "Cyberpunk: Mercenários 2 tem quantos episódios?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/cyberpunk-mercenarios-2-tem-quantos-episodios/",
+      "data": "2026-10-19T22:45:00+00:00"
+    },
+    {
+      "titulo": "Falha em servidor de testes expõe dados de milhões de estudantes nos EUA",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-em-servidor-de-testes-expoe-dados-de-milhoes-de-estudantes-nos-eua/",
+      "data": "2026-10-19T22:15:00+00:00"
+    },
+    {
+      "titulo": "NVIDIA desmente morte da RTX 5090, mas placa bate US$ 8.500 no varejo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/nvidia-desmente-morte-da-rtx-5090-mas-placa-bate-us-8500-no-varejo/",
+      "data": "2026-10-19T22:04:00+00:00"
+    },
+    {
+      "titulo": "Home office: 41 vagas para trabalho remoto internacional [19/10]",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/trabalho-remoto-41-vagas-para-trabalho-remoto-internacional/",
+      "data": "2026-10-19T22:00:00+00:00"
+    },
+    {
+      "titulo": "O Walkman está de volta: R$ 30 mil e acabamento em ouro",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/o-walkman-esta-de-volta-r-30-mil-e-acabamento-em-ouro/",
+      "data": "2026-10-19T21:35:53+00:00"
+    },
+    {
+      "titulo": "Empresa brasileira transforma partidas de videogame em duelos por dinheiro",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/x1-pago-empresa-brasileira-transforma-partidas-de-videogame-em-duelos-por-dinheiro/",
+      "data": "2026-10-19T21:30:00+00:00"
+    },
+    {
+      "titulo": "TV LG QNED 55″ com Mini LED atinge 32% OFF em oferta no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/tv-lg-qned-55-com-mini-led-atinge-32-off-em-oferta-no-mercado-livre/",
+      "data": "2026-10-19T21:18:03+00:00"
+    },
+    {
+      "titulo": "Plex2Shell: falha em servidores permite instalação de programas e roubo de dados",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/plex2shell-falha-em-servidores-permite-instalacao-de-programas-e-roubo-de-dados/",
+      "data": "2026-10-19T21:15:00+00:00"
+    },
+    {
+      "titulo": "Para NVIDIA, CPUs atuais têm falha grave de desempenho que ela vai corrigir",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/para-nvidia-cpus-atuais-tem-falha-grave-de-desempenho-que-ela-vai-corrigir/",
+      "data": "2026-10-19T21:02:00+00:00"
+    },
+    {
+      "titulo": "Apple muda regras da App Store para banir apps que se disfarçam para criar nudes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/apple-muda-regras-da-app-store-para-banir-apps-que-se-disfarcam-para-criar-nudes/",
+      "data": "2026-10-19T21:01:00+00:00"
+    },
     {
       "titulo": "Um dos maiores sites de decompilação de jogos é encerrado pois a IA “acabou com a competição”",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/decomp-dev-fecha-leaderboard-ia-numeros/",
       "data": "2026-10-19T20:29:41+00:00"
-    },
-    {
-      "titulo": "Meta vaza regras secretas para IA do WhatsApp",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/meta-vaza-regras-secretas-para-ia-do-whatsapp/",
-      "data": "2026-10-19T20:15:00+00:00"
     },
     {
       "titulo": "Volkswagen faz queima e derruba preços de duas versões do Tera",
@@ -24,12 +96,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/apps/realme-ui-aposentada-o-que-muda-com-a-coloros-nos-celulares-da-marca/",
       "data": "2026-10-19T20:05:00+00:00"
-    },
-    {
-      "titulo": "Pesquisa aponta falhas do Google e OpenAI que permitem gerar ‘deepnudes’ sem barreiras",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/pesquisa-aponta-falhas-do-google-e-openai-que-permitem-gerar-deepnudes-sem-barreiras/",
-      "data": "2026-10-19T20:00:00+00:00"
     },
     {
       "titulo": "Três vezes mais rápido: como rover da NASA superou recorde em Marte",
@@ -56,52 +122,10 @@
       "data": "2026-10-19T19:55:00+00:00"
     },
     {
-      "titulo": "Notebook com Intel Core i5 ou AMD Ryzen 5? Confira lista com desconto no Magazine Luiza",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/notebook-com-intel-core-i5-ou-amd-ryzen-5-confira-lista-com-desconto-no-magazine-luiza/",
-      "data": "2026-10-19T19:53:00+00:00"
-    },
-    {
-      "titulo": "Fundador do WordPress retoma comando da Automattic após conselho tentar afastá-lo por 33 horas",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/fundador-do-wordpress-retoma-comando-da-automattic-apos-conselho-tentar-afasta-lo-por-33-horas/",
-      "data": "2026-10-19T19:45:00+00:00"
-    },
-    {
-      "titulo": "Netflix fecha acordo histórico com a Globo para ter Ainda Estou Aqui e Caminho das Índias",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/netflix-fecha-acordo-historico-com-a-globo-para-ter-ainda-estou-aqui-e-caminho-das-indias/",
-      "data": "2026-10-19T19:32:00+00:00"
-    },
-    {
-      "titulo": "Gears of War E-Day é inclusivo? Confira review de acessibilidade do game",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gears-of-war-e-day-e-inclusivo-confira-review-de-acessibilidade-do-game-de-xbox/",
-      "data": "2026-10-19T19:30:00+00:00"
-    },
-    {
-      "titulo": "Football.com TV estreia com programação ao vivo 24 horas e participação brasileira",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/footballcom-tv-estreia-com-programacao-ao-vivo-24-horas-e-participacao-brasileira/",
-      "data": "2026-10-19T19:28:57+00:00"
-    },
-    {
       "titulo": "Apple deve lançar novos Macs em evento de 28 de outubro",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/apple-marca-mais-um-evento-para-28-de-outubro/",
       "data": "2026-10-19T19:19:13+00:00"
-    },
-    {
-      "titulo": "Atalhos e truques do Windows 11: veja como aumentar a produtividade no trabalho",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/atalhos-e-truques-do-windows-11-para-aumentar-a-produtividade-no-trabalho/",
-      "data": "2026-10-19T19:18:36+00:00"
-    },
-    {
-      "titulo": "God of War e Uncharted somem da PS Store e provocam pânico nos jogadores",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/god-of-war-e-uncharted-somem-da-ps-store-e-provocam-panico-nos-jogadores/",
-      "data": "2026-10-19T19:16:00+00:00"
     },
     {
       "titulo": "Galaxy A57 com ótimas câmeras recebe desconto de mais de R$ 2 mil com cupom",
@@ -110,22 +134,10 @@
       "data": "2026-10-19T19:15:11+00:00"
     },
     {
-      "titulo": "99 Tech Summit reúne lançamentos de tecnologia, segurança e novos serviços; veja o que rolou",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/99-tech-summit-reune-lancamentos-de-tecnologia-seguranca-e-novos-servicos-veja-o-que-rolou/",
-      "data": "2026-10-19T19:15:00+00:00"
-    },
-    {
       "titulo": "Mod leva Ray Reconstruction e Multi Frame Generation do DLSS para placas de vídeo AMD Radeon",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/dlss-nr-on-amd-porta-todas-tecnologias-dlss-radeon/",
       "data": "2026-10-19T19:06:17+00:00"
-    },
-    {
-      "titulo": "VAIO lança notebook com chip Wildcat Lake por R$ 4,1 mil, mas com apenas 8 GB de RAM",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/vaio-lanca-notebook-com-chip-wildcat-lake-por-r-41-mil-mas-com-apenas-8-gb-de-ram/",
-      "data": "2026-10-19T19:00:00+00:00"
     },
     {
       "titulo": "PS5 desbloqueado pode ser banido da PSN? Entenda os riscos para sua conta",
@@ -152,12 +164,6 @@
       "data": "2026-10-19T18:26:38+00:00"
     },
     {
-      "titulo": "Melhor TV de 50 polegadas: 10 modelos para comprar em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-tv-50-polegadas/",
-      "data": "2026-10-19T18:23:38+00:00"
-    },
-    {
       "titulo": "Hacker usa IA para invadir mais de 100 sites de grandes empresas",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/hacker-ia-invadir-sites/",
@@ -168,12 +174,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/team-vitality-sede-paris-pentes-ram/",
       "data": "2026-10-19T18:02:02+00:00"
-    },
-    {
-      "titulo": "Galaxy Tab S10 Lite (256 GB) alcança menor preço em meses com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-256-gb-alcanca-menor-preco-em-meses-com-cupom/",
-      "data": "2026-10-19T17:21:52+00:00"
     },
     {
       "titulo": "Claude Code descobre minerador de criptomoedas escondido em Mac que atingia 112 °C",
