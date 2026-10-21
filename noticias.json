@@ -1,8 +1,158 @@
 {
-  "atualizado_em": "2026-10-21T10:21:55.889805+00:00",
+  "atualizado_em": "2026-10-21T15:25:23.327027+00:00",
   "noticias": [
     {
-      "titulo": "OpenAI agora permite trancar conversas sensíveis no ChatGPT",
+      "titulo": "China quer dobrar produção de RAM até 2028 para aliviar escassez global",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/china-quer-dobrar-producao-de-ram-ate-2028-para-aliviar-escassez-global/",
+      "data": "2026-10-21T15:21:53+00:00"
+    },
+    {
+      "titulo": "Novo TIM Beta terá 50 GB por R$ 60, mas só entra quem ganhar convite",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/novo-tim-beta-tera-50-gb-por-r-60-mas-so-entra-quem-ganhar-convite/",
+      "data": "2026-10-21T15:11:32+00:00"
+    },
+    {
+      "titulo": "Rival chinesa da Starlink homologa equipamento no Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/rival-chinesa-da-starlink-homologa-equipamento-no-brasil/",
+      "data": "2026-10-21T15:10:28+00:00"
+    },
+    {
+      "titulo": "Microsoft planeja Game Pass \"self service\" para jogador montar própria assinatura",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/microsoft-planeja-game-pass-self-service-para-jogador-montar-propria-assinatura/",
+      "data": "2026-10-21T15:03:00+00:00"
+    },
+    {
+      "titulo": "iPhone 16e por R$3.299: oportunidade para entrar no mundo da Apple",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/iphone-16e-esta-em-promocao-saindo-por-menos-de-r3-890-oportunidade-para-entrar-no-mundo-da-apple/",
+      "data": "2026-10-21T15:00:47+00:00"
+    },
+    {
+      "titulo": "Gamer personaliza controle DualSense do PS5 com carcaça transparente e resgata a nostalgia dos eletrônicos translúcidos dos anos 90 e 2000",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/controle-ps5-transparente-dualsense-nostalgia-anos-90/",
+      "data": "2026-10-21T15:00:42+00:00"
+    },
+    {
+      "titulo": "Alerta mundial: falhas no PHP colocam milhões de sites em risco",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/alerta-mundial-falhas-no-php-colocam-milhoes-de-sites-em-risco/",
+      "data": "2026-10-21T15:00:03+00:00"
+    },
+    {
+      "titulo": "One Piece Grand Gourmet traz sistema de gerenciamento que te bombardeia de dopamina barata",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/one-piece-grand-gourmet-traz-sistema-de-gerenciamento-que-te-bombardeia-de-dopamina-barata/",
+      "data": "2026-10-21T15:00:00+00:00"
+    },
+    {
+      "titulo": "Anthropic registra prejuízo líquido de US$ 80,7 bilhões no primeiro trimestre de 2026",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/anthropic-registra-prejuizo-liquido-de-us80-bilhoes-primeiro-trimestre-de-2026/",
+      "data": "2026-10-21T14:45:44+00:00"
+    },
+    {
+      "titulo": "Haylou lança seu \"Apple Watch Ultra\" por menos de R$ 250",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartwatch/haylou-lanca-seu-apple-watch-ultra-por-menos-de-r-250/",
+      "data": "2026-10-21T14:42:42+00:00"
+    },
+    {
+      "titulo": "Os anos sombrios de GTA 6: a fase em que nem a Rockstar sabia como o jogo deveria funcionar",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/artigos/gta-6-anos-sombrios-desenvolvimento-rockstar/",
+      "data": "2026-10-21T14:30:44+00:00"
+    },
+    {
+      "titulo": "HyperX Cloud Stinger 2 Core com 42% de desconto: um headset gamer completo por um preço que cabe no bolso",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/hyperx-cloud-stinger-2-core-com-42-de-desconto-um-headset-gamer-completo-por-um-preco-que-cabe-no-bolso/",
+      "data": "2026-10-21T14:30:33+00:00"
+    },
+    {
+      "titulo": "Helix: Microsoft pode lançar Xbox de nova geração em 2028 com preço alto",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/helix-microsoft-pode-lancar-xbox-de-nova-geracao-em-2028-com-preco-alto/",
+      "data": "2026-10-21T14:15:00+00:00"
+    },
+    {
+      "titulo": "ChatGPT agora permite trancar conversas sensíveis com PIN e biometria",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/chatgpt-conversas-trancadas-pin-biometria/",
+      "data": "2026-10-21T14:09:38+00:00"
+    },
+    {
+      "titulo": "ChatGPT ganha pasta protegida por senha e biometria para esconder segredos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-ganha-pasta-protegida-por-senha-e-biometria-para-esconder-segredos/",
+      "data": "2026-10-21T14:08:00+00:00"
+    },
+    {
+      "titulo": "NVIDIA já teria data para anunciar fim das RTX 5090 e 5080; veja quando será despedida",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/nvidia-ja-teria-data-para-anunciar-fim-das-rtx-5090-e-5080-veja-quando-sera-despedida/",
+      "data": "2026-10-21T14:07:00+00:00"
+    },
+    {
+      "titulo": "Entusiasta desenvolve dispositivo com ESP32 e tela e-paper que rastreia aviões próximos e mostra a localização da Estação Espacial Internacional",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/dispositivo-esp32-rastreia-avioes-estacao-espacial/",
+      "data": "2026-10-21T14:03:15+00:00"
+    },
+    {
+      "titulo": "Nova geração do BYD Dolphin Mini estreia mais potente e com tempo de recarga absurdo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/nova-geracao-do-byd-dolphin-mini-estreia-mais-potente-e-com-tempo-de-recarga-absurdo/",
+      "data": "2026-10-21T14:00:03+00:00"
+    },
+    {
+      "titulo": "Antigas rivais, Google agora oferece modelos de linguagem da OpenAI",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/antigas-rivais-google-agora-oferece-modelos-de-linguagem-da-openai/",
+      "data": "2026-10-21T13:45:00+00:00"
+    },
+    {
+      "titulo": "Luminária da Xiaomi imita luz do Sol e promete ajudar você a dormir melhor",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/luminaria-da-xiaomi-imita-luz-do-sol-e-promete-ajudar-voce-a-dormir-melhor/",
+      "data": "2026-10-21T13:42:44+00:00"
+    },
+    {
+      "titulo": "Elon Musk confirma estudos sobre fusão entre Tesla e SpaceX",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/elon-musk-confirma-estudos-sobre-fusao-entre-tesla-e-spacex/",
+      "data": "2026-10-21T13:40:00+00:00"
+    },
+    {
+      "titulo": "Compre copos e garrafas Stanley com até 47% de desconto na Amazon",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/compre-copos-e-garrafas-stanley-com-ate-47-de-desconto-na-amazon/",
+      "data": "2026-10-21T13:32:00+00:00"
+    },
+    {
+      "titulo": "Entrevista sobre GTA 6 revela a verdade sobre testículos dos cavalos em Red Dead Redemption 2",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/entrevista-sobre-gta-6-revela-a-verdade-sobre-testiculos-dos-cavalos-em-red-dead-redemption-2/",
+      "data": "2026-10-21T13:15:00+00:00"
+    },
+    {
+      "titulo": "Uber lança recurso para facilitar embarque de idosos e pessoas com deficiência",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/uber-lanca-recurso-para-facilitar-embarque-de-idosos-e-pessoas-com-deficiencia/",
+      "data": "2026-10-21T13:00:15+00:00"
+    },
+    {
+      "titulo": "Muse: agente de IA da Meta expôs contratos e planilhas na internet",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/muse-agente-de-ia-da-meta-expos-contratos-e-planilhas-na-internet/",
+      "data": "2026-10-21T10:54:49+00:00"
+    },
+    {
+      "titulo": "ChatGPT ganha função que protege as conversas dos olhares fofoqueiros",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/openai-agora-permite-trancar-conversas-sensiveis-no-chatgpt/",
       "data": "2026-10-21T10:18:20+00:00"
@@ -12,24 +162,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/falha-em-certificados-digitais-coloca-internet-em-alerta/",
       "data": "2026-10-21T10:07:38+00:00"
-    },
-    {
-      "titulo": "Óculos inteligentes da Samsung têm problema de design que a Meta já resolveu",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/oculos-inteligentes-da-samsung-tem-problema-de-design-que-a-meta-ja-resolveu/",
-      "data": "2026-10-21T10:04:57+00:00"
-    },
-    {
-      "titulo": "Samsung pode cortar tela OLED em alguns modelos Galaxy A para frear alta de preços",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-pode-cortar-tela-oled-em-alguns-modelos-galaxy-a-para-frear-alta-de-precos/",
-      "data": "2026-10-21T10:00:00+00:00"
-    },
-    {
-      "titulo": "Fiat Mobi elétrico pode ter nome \"fofinho\" para desafiar BYD",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/fiat-mobi-eletrico-pode-ter-nome-fofinho-para-desafiar-byd/",
-      "data": "2026-10-21T09:58:00+00:00"
     },
     {
       "titulo": "Galaxy S23 do Brasil recebe Android 17/One UI 9",
@@ -44,142 +176,10 @@
       "data": "2026-10-20T23:41:10+00:00"
     },
     {
-      "titulo": "A história por trás de Mina the Hollower, um dos melhores jogos de 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/a-historia-por-tras-de-mina-the-hollower-um-dos-melhores-jogos-de-2026/",
-      "data": "2026-10-20T23:30:00+00:00"
-    },
-    {
-      "titulo": "Pornô gerado por IA: entenda os perigos por trás do DeepNude",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/porno-com-ia-como-funciona-a-tecnologia-deepnude/",
-      "data": "2026-10-20T23:15:00+00:00"
-    },
-    {
       "titulo": "Melhor TV Toshiba em 2026: 6 modelos para comprar",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/melhor-tv-toshiba/",
       "data": "2026-10-20T23:09:31+00:00"
-    },
-    {
-      "titulo": "Dragon’s Dogma 2: Dark Arisen e mais jogos da Steam com até 95% OFF na Nuuvem; confira",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/dragons-dogma-2-dark-arisen-e-mais-jogos-da-steam-com-ate-95-off-na-nuuvem-confira/",
-      "data": "2026-10-20T22:30:00+00:00"
-    },
-    {
-      "titulo": "Documentos revelam que cúpula do TikTok ignorou alertas de exploração de crianças",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/documentos-revelam-que-cupula-do-tiktok-ignorou-alertas-de-exploracao-de-criancas/",
-      "data": "2026-10-20T22:08:00+00:00"
-    },
-    {
-      "titulo": "Governo dos EUA proíbe IA DeepSeek em sistemas de agências federais",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/governo-dos-eua-proibe-ia-deepseek-em-sistemas-de-agencias-federais/",
-      "data": "2026-10-20T22:00:00+00:00"
-    },
-    {
-      "titulo": "DC confirma morte de Bruce Wayne e Batman terá que investigar próprio assassinato",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/dc-confirma-morte-de-bruce-wayne-e-batman-tera-que-investigar-proprio-assassinato/",
-      "data": "2026-10-20T21:55:04+00:00"
-    },
-    {
-      "titulo": "Cyberpunk 2077 terá atualização gigante inspirada na animação Edgerunners",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/cyberpunk-2077-tera-atualizacao-gigante-inspirada-na-animacao-edgerunners/",
-      "data": "2026-10-20T21:45:00+00:00"
-    },
-    {
-      "titulo": "Novo Xbox pode chegar mais tarde e com preço mais alto",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/novo-xbox-pode-chegar-mais-tarde-e-com-preco-mais-alto/",
-      "data": "2026-10-20T21:23:16+00:00"
-    },
-    {
-      "titulo": "IA já é usada por empresas brasileiras, mas falta integração aos processos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/ia-ja-e-usada-por-empresas-brasileiras-mas-falta-integracao-aos-processos/",
-      "data": "2026-10-20T21:15:00+00:00"
-    },
-    {
-      "titulo": "Qualcomm fará cortes em meio a desempenho ‘aquém das expectativas’, mostra documento",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/qualcomm-fara-cortes-em-meio-a-desempenho-aquem-das-expectativas-mostra-documento/",
-      "data": "2026-10-20T21:00:00+00:00"
-    },
-    {
-      "titulo": "Pessoas comuns usam IA para reprogramar Smart TVs e remover apps inúteis",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/pessoas-comuns-usam-ia-para-reprogramar-smart-tvs-e-remover-apps-inuteis/",
-      "data": "2026-10-20T21:00:00+00:00"
-    },
-    {
-      "titulo": "Jailbreak do PS5 chega à versão exigida por GTA 6 um mês antes da estreia",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jailbreak-do-ps5-chega-a-versao-exigida-por-gta-6-um-mes-antes-da-estreia/",
-      "data": "2026-10-20T20:52:00+00:00"
-    },
-    {
-      "titulo": "Chuveiro fraco? 5 coisas para verificar antes de comprar outro",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/chuveiro-fraco-5-coisas-para-verificar-antes-de-comprar-outro/",
-      "data": "2026-10-20T20:46:14+00:00"
-    },
-    {
-      "titulo": "Google Chrome vai exibir novo alerta para sites suspeitos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/google-chrome-vai-exibir-novo-alerta-para-sites-suspeitos/",
-      "data": "2026-10-20T20:35:06+00:00"
-    },
-    {
-      "titulo": "Toyota derrete preços do SW4 para encarar Haval H9, Commander e Tiggo 9",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/toyota-derrete-precos-do-sw4-para-encarar-haval-h9-commander-e-tiggo-9/",
-      "data": "2026-10-20T20:07:00+00:00"
-    },
-    {
-      "titulo": "Um em cada cinco americanos usa o TikTok para se informar sobre notícias, aponta pesquisa",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/um-em-cada-cinco-americanos-recebe-noticias-regularmente-pelo-tiktok/",
-      "data": "2026-10-20T19:58:02+00:00"
-    },
-    {
-      "titulo": "Ainda dá tempo: AirPods 4 ANC com 37% OFF na melhor oferta que já vimos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/ainda-da-tempo-airpods-4-anc-com-37-off-na-melhor-oferta-que-ja-vimos/",
-      "data": "2026-10-20T19:55:03+00:00"
-    },
-    {
-      "titulo": "Spotify introduz verificação por QR Code nos planos Família, com bloqueio de 12 meses para quem não cumprir a exigência",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/spotify-introduz-verificacao-por-qr-code-nos-planos-familia/",
-      "data": "2026-10-20T18:49:58+00:00"
-    },
-    {
-      "titulo": "Elon Musk promete dar uma ação da SpaceX a cada criança dos EUA em 2027",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/elon-musk-acao-spacex-crianca/",
-      "data": "2026-10-20T17:57:30+00:00"
-    },
-    {
-      "titulo": "PS4 desbloqueado ganha geração de quadros em jogos como Red Dead Redemption 2 e Bloodborne",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/ps4-ganha-geracao-de-quadros/",
-      "data": "2026-10-20T17:31:13+00:00"
-    },
-    {
-      "titulo": "Usuário do Reddit encontra um processador antigo que parece uma placa de vídeo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware/usuario-do-reddit-encontra-um-processador-intel-pentium-ii-bizarro-que-parece-uma-placa-de-video/",
-      "data": "2026-10-20T17:24:56+00:00"
-    },
-    {
-      "titulo": "Xbox Series S pode ganhar um novo fôlego com a chegada do FSR 4.1 da AMD",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/amd-fsr-4-1-para-xbox-series/",
-      "data": "2026-10-20T16:59:10+00:00"
     }
   ]
 }
