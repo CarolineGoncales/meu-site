@@ -1,6 +1,42 @@
 {
-  "atualizado_em": "2026-10-21T05:03:34.935754+00:00",
+  "atualizado_em": "2026-10-21T10:21:55.889805+00:00",
   "noticias": [
+    {
+      "titulo": "OpenAI agora permite trancar conversas sensíveis no ChatGPT",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/openai-agora-permite-trancar-conversas-sensiveis-no-chatgpt/",
+      "data": "2026-10-21T10:18:20+00:00"
+    },
+    {
+      "titulo": "Falha em certificados digitais coloca internet em alerta",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/falha-em-certificados-digitais-coloca-internet-em-alerta/",
+      "data": "2026-10-21T10:07:38+00:00"
+    },
+    {
+      "titulo": "Óculos inteligentes da Samsung têm problema de design que a Meta já resolveu",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/oculos-inteligentes-da-samsung-tem-problema-de-design-que-a-meta-ja-resolveu/",
+      "data": "2026-10-21T10:04:57+00:00"
+    },
+    {
+      "titulo": "Samsung pode cortar tela OLED em alguns modelos Galaxy A para frear alta de preços",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-pode-cortar-tela-oled-em-alguns-modelos-galaxy-a-para-frear-alta-de-precos/",
+      "data": "2026-10-21T10:00:00+00:00"
+    },
+    {
+      "titulo": "Fiat Mobi elétrico pode ter nome \"fofinho\" para desafiar BYD",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/fiat-mobi-eletrico-pode-ter-nome-fofinho-para-desafiar-byd/",
+      "data": "2026-10-21T09:58:00+00:00"
+    },
+    {
+      "titulo": "Galaxy S23 do Brasil recebe Android 17/One UI 9",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/galaxy-s23-do-brasil-recebe-android-17-one-ui-9/",
+      "data": "2026-10-21T09:55:28+00:00"
+    },
     {
       "titulo": "Melhor TV Multilaser: qual modelo comprar em 2026?",
       "fonte": "Tecnoblog",
@@ -104,18 +140,6 @@
       "data": "2026-10-20T20:07:00+00:00"
     },
     {
-      "titulo": "Perdido, chefão do Instagram diz que não sabe como combater deep fakes na plataforma",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/perdido-chefao-do-instagram-diz-que-nao-sabe-como-combater-deep-fakes-na-plataforma/",
-      "data": "2026-10-20T20:02:00+00:00"
-    },
-    {
-      "titulo": "Sonda da NASA encontra mais de 10 mil \"pistas\" de que a Lua está encolhendo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/sonda-da-nasa-encontra-mais-de-10-milpistas-de-que-a-lua-esta-encolhendo/",
-      "data": "2026-10-20T20:00:00+00:00"
-    },
-    {
       "titulo": "Um em cada cinco americanos usa o TikTok para se informar sobre notícias, aponta pesquisa",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/um-em-cada-cinco-americanos-recebe-noticias-regularmente-pelo-tiktok/",
@@ -128,28 +152,10 @@
       "data": "2026-10-20T19:55:03+00:00"
     },
     {
-      "titulo": "Melhor TV Samsung em 2026: 10 modelos para comprar",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-tv-samsung/",
-      "data": "2026-10-20T18:55:24+00:00"
-    },
-    {
       "titulo": "Spotify introduz verificação por QR Code nos planos Família, com bloqueio de 12 meses para quem não cumprir a exigência",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/spotify-introduz-verificacao-por-qr-code-nos-planos-familia/",
       "data": "2026-10-20T18:49:58+00:00"
-    },
-    {
-      "titulo": "Câmeras do Smart Sampa foram expostas em vazamento; MP investiga",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/smart-sampa-teve-imagens-de-cameras-expostas-em-vazamento/",
-      "data": "2026-10-20T18:47:46+00:00"
-    },
-    {
-      "titulo": "Motorola Edge 60 (512 GB) sai quase pela metade do preço com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/motorola-edge-60-512-gb-sai-quase-pela-metade-do-preco-com-cupom/",
-      "data": "2026-10-20T18:37:48+00:00"
     },
     {
       "titulo": "Elon Musk promete dar uma ação da SpaceX a cada criança dos EUA em 2027",
@@ -174,12 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/amd-fsr-4-1-para-xbox-series/",
       "data": "2026-10-20T16:59:10+00:00"
-    },
-    {
-      "titulo": "Frustrado com o desempenho de Oblivion Remastered, jogador recorre à IA e consegue resultados impressionantes",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/oblivion-remastered-recorre-a-ia/",
-      "data": "2026-10-20T16:38:35+00:00"
     }
   ]
 }
