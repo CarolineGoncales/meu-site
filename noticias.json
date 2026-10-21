@@ -1,11 +1,77 @@
 {
-  "atualizado_em": "2026-10-20T21:46:32.213314+00:00",
+  "atualizado_em": "2026-10-21T00:12:57.906976+00:00",
   "noticias": [
+    {
+      "titulo": "Melhor TV Multilaser: qual modelo comprar em 2026?",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-tv-multilaser/",
+      "data": "2026-10-20T23:41:10+00:00"
+    },
+    {
+      "titulo": "A história por trás de Mina the Hollower, um dos melhores jogos de 2026",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/a-historia-por-tras-de-mina-the-hollower-um-dos-melhores-jogos-de-2026/",
+      "data": "2026-10-20T23:30:00+00:00"
+    },
+    {
+      "titulo": "Pornô gerado por IA: entenda os perigos por trás do DeepNude",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/porno-com-ia-como-funciona-a-tecnologia-deepnude/",
+      "data": "2026-10-20T23:15:00+00:00"
+    },
+    {
+      "titulo": "Melhor TV Toshiba em 2026: 6 modelos para comprar",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-tv-toshiba/",
+      "data": "2026-10-20T23:09:31+00:00"
+    },
+    {
+      "titulo": "Dragon’s Dogma 2: Dark Arisen e mais jogos da Steam com até 95% OFF na Nuuvem; confira",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/dragons-dogma-2-dark-arisen-e-mais-jogos-da-steam-com-ate-95-off-na-nuuvem-confira/",
+      "data": "2026-10-20T22:30:00+00:00"
+    },
+    {
+      "titulo": "Documentos revelam que cúpula do TikTok ignorou alertas de exploração de crianças",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/documentos-revelam-que-cupula-do-tiktok-ignorou-alertas-de-exploracao-de-criancas/",
+      "data": "2026-10-20T22:08:00+00:00"
+    },
+    {
+      "titulo": "Governo dos EUA proíbe IA DeepSeek em sistemas de agências federais",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/governo-dos-eua-proibe-ia-deepseek-em-sistemas-de-agencias-federais/",
+      "data": "2026-10-20T22:00:00+00:00"
+    },
+    {
+      "titulo": "DC confirma morte de Bruce Wayne e Batman terá que investigar próprio assassinato",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/dc-confirma-morte-de-bruce-wayne-e-batman-tera-que-investigar-proprio-assassinato/",
+      "data": "2026-10-20T21:55:04+00:00"
+    },
+    {
+      "titulo": "Cyberpunk 2077 terá atualização gigante inspirada na animação Edgerunners",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/cyberpunk-2077-tera-atualizacao-gigante-inspirada-na-animacao-edgerunners/",
+      "data": "2026-10-20T21:45:00+00:00"
+    },
     {
       "titulo": "Novo Xbox pode chegar mais tarde e com preço mais alto",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/novo-xbox-pode-chegar-mais-tarde-e-com-preco-mais-alto/",
       "data": "2026-10-20T21:23:16+00:00"
+    },
+    {
+      "titulo": "IA já é usada por empresas brasileiras, mas falta integração aos processos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/ia-ja-e-usada-por-empresas-brasileiras-mas-falta-integracao-aos-processos/",
+      "data": "2026-10-20T21:15:00+00:00"
+    },
+    {
+      "titulo": "Qualcomm fará cortes em meio a desempenho ‘aquém das expectativas’, mostra documento",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/qualcomm-fara-cortes-em-meio-a-desempenho-aquem-das-expectativas-mostra-documento/",
+      "data": "2026-10-20T21:00:00+00:00"
     },
     {
       "titulo": "Pessoas comuns usam IA para reprogramar Smart TVs e remover apps inúteis",
@@ -56,18 +122,6 @@
       "data": "2026-10-20T19:58:02+00:00"
     },
     {
-      "titulo": "Destruído pela IA, maior site de decompilação de jogos antigos fecha as portas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/destruido-pela-ia-maior-site-de-decompilacao-de-jogos-antigos-fecha-as-portas/",
-      "data": "2026-10-20T19:58:01+00:00"
-    },
-    {
-      "titulo": "6G nem chegou e leilão no Brasil já provoca disputa; veja o que está em jogo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/6g-nem-chegou-e-leilao-no-brasil-ja-provoca-disputa-veja-o-que-esta-em-jogo/",
-      "data": "2026-10-20T19:58:00+00:00"
-    },
-    {
       "titulo": "Ainda dá tempo: AirPods 4 ANC com 37% OFF na melhor oferta que já vimos",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/ainda-da-tempo-airpods-4-anc-com-37-off-na-melhor-oferta-que-ja-vimos/",
@@ -98,22 +152,10 @@
       "data": "2026-10-20T18:37:48+00:00"
     },
     {
-      "titulo": "Como ativar e cadastrar um chip da Vivo (físico ou eSIM)",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/responde/como-ativar-o-chip-da-vivo-sim-card/",
-      "data": "2026-10-20T18:30:04+00:00"
-    },
-    {
       "titulo": "Elon Musk promete dar uma ação da SpaceX a cada criança dos EUA em 2027",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/elon-musk-acao-spacex-crianca/",
       "data": "2026-10-20T17:57:30+00:00"
-    },
-    {
-      "titulo": "Claro coloca 54 milhões de pessoas em novo programa de fidelidade",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/claro-coloca-54-milhoes-de-pessoas-em-novo-programa-de-fidelidade/",
-      "data": "2026-10-20T17:42:16+00:00"
     },
     {
       "titulo": "PS4 desbloqueado ganha geração de quadros em jogos como Red Dead Redemption 2 e Bloodborne",
@@ -138,12 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/oblivion-remastered-recorre-a-ia/",
       "data": "2026-10-20T16:38:35+00:00"
-    },
-    {
-      "titulo": "Exclusivo: está procurando um PS5 usado? Cuidado com o golpe do falso link da OLX; veja um caso real",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/ps5-usado-golpe-link-falso-olx/",
-      "data": "2026-10-20T16:30:27+00:00"
     }
   ]
 }
