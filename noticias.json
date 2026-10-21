@@ -1,11 +1,107 @@
 {
-  "atualizado_em": "2026-10-21T19:24:58.762406+00:00",
+  "atualizado_em": "2026-10-21T22:31:48.471281+00:00",
   "noticias": [
     {
-      "titulo": "IA do Android Auto leva e-mails e eventos da agenda para motorista no volante",
+      "titulo": "Chrome reforça IA para alertar usuários sobre golpes e lojas falsas",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-do-android-auto-leva-e-mails-e-eventos-da-agenda-para-motorista-no-volante/",
-      "data": "2026-10-21T19:14:00+00:00"
+      "link": "https://canaltech.com.br/seguranca/chrome-reforca-ia-para-alertar-usuarios-sobre-golpes-e-lojas-falsas/",
+      "data": "2026-10-21T22:00:05+00:00"
+    },
+    {
+      "titulo": "Home office: 115 vagas para trabalho remoto [21/10]",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/vagas-home-office-115-vagas-para-trabalho-remoto/",
+      "data": "2026-10-21T22:00:00+00:00"
+    },
+    {
+      "titulo": "Rockstar pode estar gravando trailer live-action de GTA 6 em Miami; veja provas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/rockstar-pode-estar-gravando-trailer-live-action-de-gta-6-em-miami-veja-provas/",
+      "data": "2026-10-21T21:55:05+00:00"
+    },
+    {
+      "titulo": "Moto G Max com câmera de 200 MP sai 42% mais barato na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/moto-g-max-com-camera-de-200-mp-sai-42-mais-barato-na-amazon/",
+      "data": "2026-10-21T21:36:41+00:00"
+    },
+    {
+      "titulo": "O que é PHP e por que falhas na linguagem colocaram milhões de sites em risco",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/o-que-e-php-e-por-que-falhas-na-linguagem-colocaram-milhoes-de-sites-em-risco/",
+      "data": "2026-10-21T21:35:00+00:00"
+    },
+    {
+      "titulo": "EA Games anuncia retorno da franquia de boxe Fight Night pouco antes de fechar a Bioware",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/ea-games-anuncia-retorno-da-franquia-de-boxe-fight-night-pouco-antes-de-fechar-a-bioware/",
+      "data": "2026-10-21T21:15:00+00:00"
+    },
+    {
+      "titulo": "Como instalar a Play Store: veja como ativar a loja de apps no celular ou tablet",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/como-instalar-a-play-store-de-novo-reativar-o-aplicativo/",
+      "data": "2026-10-21T21:14:29+00:00"
+    },
+    {
+      "titulo": "Symantec descobre agente que sequestra IAs para disparar 100 mil ataques hacker sozinho",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/symantec-descobre-agente-que-sequestra-ias-para-disparar-100-mil-ataques-hacker-sozinho/",
+      "data": "2026-10-21T21:06:00+00:00"
+    },
+    {
+      "titulo": "Samsung e SK Hynix modernizam fábricas na China para produzir chips de memória mais avançados",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/samsung-e-sk-hynix-modernizam-fabricas-na-china-para-produzir-chips-de-memoria-mais-avancados/",
+      "data": "2026-10-21T20:45:00+00:00"
+    },
+    {
+      "titulo": "IA revela falhas escondidas há mais de 10 anos no PHP; entenda a descoberta",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/ia-revela-falhas-escondidas-ha-mais-de-10-anos-no-php-entenda-a-descoberta/",
+      "data": "2026-10-21T20:45:00+00:00"
+    },
+    {
+      "titulo": "Sony começa a blindar PS5 contra pirataria de GTA 6 com nova atualização",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/sony-comeca-a-blindar-ps5-contra-pirataria-de-gta-6-com-nova-atualizacao/",
+      "data": "2026-10-21T20:23:33+00:00"
+    },
+    {
+      "titulo": "Claro proíbe vendas da quarta maior fabricante de celulares do mundo",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/claro-proibe-vendas-da-quarta-maior-fabricante-de-celulares-do-mundo/",
+      "data": "2026-10-21T20:21:50+00:00"
+    },
+    {
+      "titulo": "Airbnb proíbe anfitriões de exigir que hóspedes lavem louça e retirem o lixo antes do checkout",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/airbnb-proibe-anfitrioes-de-exigir-que-hospedes-lavem-louca-e-lavem-roupas-no-checkout/",
+      "data": "2026-10-21T20:09:21+00:00"
+    },
+    {
+      "titulo": "BYD derrete preço e vende esportivo elétrico por valor de Honda Civic",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/byd-derrete-preco-e-vende-esportivo-eletrico-por-valor-de-honda-civic/",
+      "data": "2026-10-21T20:09:00+00:00"
+    },
+    {
+      "titulo": "Não precisa mais do celular: Spotify lança app nativo para carros com vídeos e letras na tela",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/nao-precisa-mais-do-celular-spotify-lanca-app-nativo-para-carros-com-videos-e-letras-na-tela/",
+      "data": "2026-10-21T20:04:00+00:00"
+    },
+    {
+      "titulo": "Pedacinhos do cometa Halley vão cruzar o céu; saiba como ver a chuva de meteoros",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/ciencia-e-espaco/pedacinhos-do-cometa-halley-vao-cruzar-o-ceu-saiba-como-ver-a-chuva-de-meteoros/",
+      "data": "2026-10-21T20:02:35+00:00"
+    },
+    {
+      "titulo": "YouTube volta a esconder botão de ‘dislike’ dos vídeos em novo teste",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/youtube-volta-a-esconder-botao-de-dislike-dos-videos-em-novo-teste/",
+      "data": "2026-10-21T20:00:00+00:00"
     },
     {
       "titulo": "Falha grave no PHP fez sites e serviços públicos saírem do ar",
@@ -14,46 +110,10 @@
       "data": "2026-10-21T19:00:08+00:00"
     },
     {
-      "titulo": "Anthropic registra prejuízo de US$ 80 bilhões no primeiro semestre de 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/anthropic-registra-prejuizo-de-us-80-bilhoes-no-primeiro-semestre-de-2026/",
-      "data": "2026-10-21T19:00:00+00:00"
-    },
-    {
-      "titulo": "Falhas no PHP chegam ao Brasil e fazem Anatel e tribunais suspenderem sistemas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/falhas-no-php-chegam-ao-brasil-e-fazem-anatel-e-tribunais-suspenderem-sistemas/",
-      "data": "2026-10-21T18:48:39+00:00"
-    },
-    {
       "titulo": "Galaxy Z Fold 8 em formato passaporte já tem R$ 1.900 OFF com cupom",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-z-fold-8-em-formato-passaporte-ja-tem-r-1-900-off-com-cupom/",
       "data": "2026-10-21T18:47:56+00:00"
-    },
-    {
-      "titulo": "VisionQuest revela detalhe devastador sobre a morte de Tony Stark",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/visionquest-revela-detalhe-devastador-sobre-a-morte-de-tony-stark/",
-      "data": "2026-10-21T18:46:00+00:00"
-    },
-    {
-      "titulo": "eBay vai demitir mil funcionários para simplificar operações e reduzir custos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/ebay-vai-demitir-mil-funcionarios-para-simplificar-operacoes-e-reduzir-custos/",
-      "data": "2026-10-21T18:45:00+00:00"
-    },
-    {
-      "titulo": "Terra arrasada: EA fecha a BioWare e cancela jogo de Mass Effect",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/terra-arrasada-ea-encerra-a-bioware-e-cancela-jogo-de-mass-effect/",
-      "data": "2026-10-21T18:32:49+00:00"
-    },
-    {
-      "titulo": "Google e Apple lançam atualizações contra golpes em navegadores",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/google-e-apple-lancam-atualizacoes-contra-golpes-em-navegadores/",
-      "data": "2026-10-21T18:30:00+00:00"
     },
     {
       "titulo": "Galaxy S26 (256 GB) enfim volta a aparecer em promoção",
@@ -68,52 +128,10 @@
       "data": "2026-10-21T18:20:55+00:00"
     },
     {
-      "titulo": "Agentes de IA da OpenAI desativam sistema de alerta de mau comportamento",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/agentes-de-ia-da-openai-desativam-sistema-de-alerta-de-mau-comportamento/",
-      "data": "2026-10-21T18:10:00+00:00"
-    },
-    {
-      "titulo": "Driver da NVIDIA usa nuvem para resolver lentidão da compilação de shaders em jogos de PCs",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/driver-da-nvidia-usa-nuvem-para-resolver-lentidao-da-compilacao-de-shaders-em-jogos-de-pcs/",
-      "data": "2026-10-21T18:10:00+00:00"
-    },
-    {
       "titulo": "Jovi prepara celular com superbateria de 9.800 mAh no Brasil",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/jovi-prepara-celular-com-bateria-de-9-800-mah-no-brasil/",
       "data": "2026-10-21T18:05:23+00:00"
-    },
-    {
-      "titulo": "Fone barato chiando ou abafado? Truque no YouTube Music salva o som sem você gastar nada",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/fone-barato-chiando-ou-abafado-truque-no-youtube-music-salva-o-som-sem-voce-gastar-nada/",
-      "data": "2026-10-21T18:01:00+00:00"
-    },
-    {
-      "titulo": "Nova geração do Corolla terá \"DNA chinês\" e versão 100% elétrica",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/nova-geracao-do-corolla-tera-dna-chines-e-versao-100-eletrica/",
-      "data": "2026-10-21T18:00:00+00:00"
-    },
-    {
-      "titulo": "iPhone 17 Pro para fotografia profissional tem menor preço recente",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/iphone-17-pro-para-fotografia-profissional-tem-menor-preco-recente/",
-      "data": "2026-10-21T17:51:14+00:00"
-    },
-    {
-      "titulo": "Xiaomi marca estreia do Redmi K100 Pro, seu próximo celular top acessível",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/xiaomi-marca-estreia-do-redmi-k100-pro-seu-proximo-celular-top-acessivel/",
-      "data": "2026-10-21T17:45:02+00:00"
-    },
-    {
-      "titulo": "EA fecha BioWare, cancela novo Mass Effect e demite funcionários",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ea-fecha-bioware-cancela-novo-mass-effect-e-demite-funcionarios/",
-      "data": "2026-10-21T17:39:00+00:00"
     },
     {
       "titulo": "EA anuncia fechamento da BioWare, cancela novo Mass Effect e demitirá 400 funcionários",
@@ -122,34 +140,10 @@
       "data": "2026-10-21T17:38:48+00:00"
     },
     {
-      "titulo": "iPhone 17 (512 GB) de última geração entra em promoção na Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/iphone-17-512-gb-de-ultima-geracao-entra-em-promocao-na-amazon/",
-      "data": "2026-10-21T17:32:37+00:00"
-    },
-    {
-      "titulo": "Melhor TV Semp em 2026: qual modelo comprar?",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-tv-semp/",
-      "data": "2026-10-21T17:30:03+00:00"
-    },
-    {
-      "titulo": "Amazfit no AliExpress: 5 smartwatches em promoção e com estoque no Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/amazfit-no-aliexpress-5-smartwatches-em-promocao-e-com-estoque-no-brasil/",
-      "data": "2026-10-21T17:21:00+00:00"
-    },
-    {
       "titulo": "YouTube testa esconder botão de dislike e recebe críticas de usuários",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/youtube-testa-esconder-botao-de-dislike-e-recebe-criticas-de-usuarios/",
       "data": "2026-10-21T17:18:04+00:00"
-    },
-    {
-      "titulo": "Festival de jogos grátis da Steam está lotado de ‘AI Slop’; confira demos que valem a pena jogar",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/festival-de-jogos-gratis-da-steam-esta-lotado-de-ai-slop-confira-demos-que-valem-a-pena-jogar/",
-      "data": "2026-10-21T17:15:00+00:00"
     },
     {
       "titulo": "Call of Duty: Modern Warfare 4 é mais um jogo que pode exigir atualização da BIOS para jogar online",
@@ -162,6 +156,12 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/oito-certificados-tls-comprometidos-colocam-a-seguranca-da-internet-em-alerta/",
       "data": "2026-10-21T17:00:44+00:00"
+    },
+    {
+      "titulo": "Falha crítica no PHP paralisa governos e exige atualização urgente",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-critica-no-php-paralisa-governos-e-exige-atualizacao-urgente/",
+      "data": "2026-10-21T16:45:00+00:00"
     },
     {
       "titulo": "“Comecei com um único Raspberry Pi e agora tenho um pequeno rack no meu quarto”: usuário mostra evolução de seu servidor doméstico",
