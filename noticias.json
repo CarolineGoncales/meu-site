@@ -1,6 +1,48 @@
 {
-  "atualizado_em": "2026-10-21T22:31:48.471281+00:00",
+  "atualizado_em": "2026-10-22T01:02:34.186876+00:00",
   "noticias": [
+    {
+      "titulo": "Google Fotos prepara novo \"criador de clipes\" com imagens do usuário",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/google-fotos-prepara-novo-criador-de-clipes-com-imagens-do-usuario/",
+      "data": "2026-10-22T00:06:00+00:00"
+    },
+    {
+      "titulo": "iPhone 18 Pro não resolve questões que marcam câmeras da Apple há anos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-18-pro-nao-resolve-questoes-que-marcam-cameras-da-apple-ha-anos/",
+      "data": "2026-10-22T00:00:00+00:00"
+    },
+    {
+      "titulo": "Alien Isolation 2 quer criar experiência inesquecível e sem IA generativa",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/alien-isolation-2-quer-criar-experiencia-inesquecivel-e-sem-ia-generativa/",
+      "data": "2026-10-21T23:30:00+00:00"
+    },
+    {
+      "titulo": "Tokens em IA: o que são e por que existe um limite?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/tokens-em-ia-o-que-sao-como-funcionam-e-por-que-tem-limite/",
+      "data": "2026-10-21T23:15:00+00:00"
+    },
+    {
+      "titulo": "Com novo visual, Apple Music ganha logotipo esculpido por ondas sonoras",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/com-novo-visual-apple-music-ganha-logotipo-esculpido-por-ondas-sonoras/",
+      "data": "2026-10-21T23:04:00+00:00"
+    },
+    {
+      "titulo": "Novo robô ‘ninja’ da Unitree golpeia carro e salva pessoas em vídeo promocional",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/stem/novo-robo-ninja-da-unitree-golpeia-carro-e-salva-pessoas-em-video-promocional/",
+      "data": "2026-10-21T23:00:00+00:00"
+    },
+    {
+      "titulo": "Cyberpunk 2077 e mais jogos de Xbox com até 90% OFF; aproveite",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/cyberpunk-2077-e-mais-jogos-de-xbox-com-ate-90-off-aproveite/",
+      "data": "2026-10-21T22:45:00+00:00"
+    },
     {
       "titulo": "Chrome reforça IA para alertar usuários sobre golpes e lojas falsas",
       "fonte": "Canaltech",
@@ -32,12 +74,6 @@
       "data": "2026-10-21T21:35:00+00:00"
     },
     {
-      "titulo": "EA Games anuncia retorno da franquia de boxe Fight Night pouco antes de fechar a Bioware",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ea-games-anuncia-retorno-da-franquia-de-boxe-fight-night-pouco-antes-de-fechar-a-bioware/",
-      "data": "2026-10-21T21:15:00+00:00"
-    },
-    {
       "titulo": "Como instalar a Play Store: veja como ativar a loja de apps no celular ou tablet",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/responde/como-instalar-a-play-store-de-novo-reativar-o-aplicativo/",
@@ -48,12 +84,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/inteligencia-artificial/symantec-descobre-agente-que-sequestra-ias-para-disparar-100-mil-ataques-hacker-sozinho/",
       "data": "2026-10-21T21:06:00+00:00"
-    },
-    {
-      "titulo": "Samsung e SK Hynix modernizam fábricas na China para produzir chips de memória mais avançados",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/samsung-e-sk-hynix-modernizam-fabricas-na-china-para-produzir-chips-de-memoria-mais-avancados/",
-      "data": "2026-10-21T20:45:00+00:00"
     },
     {
       "titulo": "IA revela falhas escondidas há mais de 10 anos no PHP; entenda a descoberta",
@@ -84,24 +114,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/carros/byd-derrete-preco-e-vende-esportivo-eletrico-por-valor-de-honda-civic/",
       "data": "2026-10-21T20:09:00+00:00"
-    },
-    {
-      "titulo": "Não precisa mais do celular: Spotify lança app nativo para carros com vídeos e letras na tela",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/nao-precisa-mais-do-celular-spotify-lanca-app-nativo-para-carros-com-videos-e-letras-na-tela/",
-      "data": "2026-10-21T20:04:00+00:00"
-    },
-    {
-      "titulo": "Pedacinhos do cometa Halley vão cruzar o céu; saiba como ver a chuva de meteoros",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/pedacinhos-do-cometa-halley-vao-cruzar-o-ceu-saiba-como-ver-a-chuva-de-meteoros/",
-      "data": "2026-10-21T20:02:35+00:00"
-    },
-    {
-      "titulo": "YouTube volta a esconder botão de ‘dislike’ dos vídeos em novo teste",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/youtube-volta-a-esconder-botao-de-dislike-dos-videos-em-novo-teste/",
-      "data": "2026-10-21T20:00:00+00:00"
     },
     {
       "titulo": "Falha grave no PHP fez sites e serviços públicos saírem do ar",
@@ -158,12 +170,6 @@
       "data": "2026-10-21T17:00:44+00:00"
     },
     {
-      "titulo": "Falha crítica no PHP paralisa governos e exige atualização urgente",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-critica-no-php-paralisa-governos-e-exige-atualizacao-urgente/",
-      "data": "2026-10-21T16:45:00+00:00"
-    },
-    {
       "titulo": "“Comecei com um único Raspberry Pi e agora tenho um pequeno rack no meu quarto”: usuário mostra evolução de seu servidor doméstico",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/comecou-raspberry-pi-servidor-domestico-ryzen-9-14-tb/",
@@ -174,12 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/cyberpunk-2077-mods-nos-consoles/",
       "data": "2026-10-21T16:31:13+00:00"
-    },
-    {
-      "titulo": "RTX 5090 apresenta conector carbonizado após seis meses de uso; proprietário utilizava adaptador de 180 graus",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/rtx-5090-conector-carbonizado-adaptador-180-graus/",
-      "data": "2026-10-21T16:14:20+00:00"
     }
   ]
 }
