@@ -1,11 +1,107 @@
 {
-  "atualizado_em": "2026-10-22T06:12:28.860811+00:00",
+  "atualizado_em": "2026-10-22T12:08:52.764524+00:00",
   "noticias": [
     {
-      "titulo": "Google Fotos prepara novo \"criador de clipes\" com imagens do usuário",
+      "titulo": "Intel Core Ultra 9 4995HX para notebooks terá quantidade monstruosa de núcleos",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/google-fotos-prepara-novo-criador-de-clipes-com-imagens-do-usuario/",
-      "data": "2026-10-22T00:06:00+00:00"
+      "link": "https://canaltech.com.br/hardware/intel-core-ultra-9-4995hx-para-notebooks-tera-quantidade-monstruosa-de-nucleos/",
+      "data": "2026-10-22T12:06:00+00:00"
+    },
+    {
+      "titulo": "Gemini ganha menu para conectar apps e criar funções sob medida",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/gemini-ganha-menu-para-conectar-apps-e-criar-funcoes-sob-medida/",
+      "data": "2026-10-22T12:01:00+00:00"
+    },
+    {
+      "titulo": "Onde está Willys? Jeep divulga teaser misterioso de novo SUV compacto eletrificado",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/onde-esta-willys-jeep-divulga-teaser-misterioso-de-novo-suv-compacto-eletrificado/",
+      "data": "2026-10-22T12:00:00+00:00"
+    },
+    {
+      "titulo": "Multa histórica: Meta é condenada a pagar US$ 25 bilhões por escândalo de privacidade do Facebook",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/meta-condenada-25-bilhoes/",
+      "data": "2026-10-22T11:59:21+00:00"
+    },
+    {
+      "titulo": "Meta é condenada a pagar US$ 25 bilhões por caso Cambridge Analytica",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/meta-e-condenada-a-pagar-us-25-bilhoes-por-caso-cambridge-analytica/",
+      "data": "2026-10-22T11:45:00+00:00"
+    },
+    {
+      "titulo": "Nintendo Switch 2 é desbloqueado pela primeira vez com ajuda de IA",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/nintendo-switch-2-e-desbloqueado/",
+      "data": "2026-10-22T11:37:29+00:00"
+    },
+    {
+      "titulo": "Warzone mudou Call of Duty para sempre, revela designer de Modern Warfare 4",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/warzone-mudou-call-of-duty-para-sempre-revela-designer-de-modern-warfare-4/",
+      "data": "2026-10-22T11:15:00+00:00"
+    },
+    {
+      "titulo": "Bolha? Anthropic expõe rombo de R$ 400 bilhões às vésperas de abrir capital na Bolsa",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/bolha-anthropic-expoe-rombo-de-r-400-bilhoes-as-vesperas-de-abrir-capital-na-bolsa/",
+      "data": "2026-10-22T11:03:00+00:00"
+    },
+    {
+      "titulo": "TIM lança plano BetaCreator com franquia acumulável de 50 GB",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/tim-lanca-plano-betacreator-com-franquia-acumulavel-de-50-gb/",
+      "data": "2026-10-22T11:00:00+00:00"
+    },
+    {
+      "titulo": "Mais um estúdio de renome fecha as portas",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/mais-um-estudio-de-renome-fecha-as-portas/",
+      "data": "2026-10-22T10:48:11+00:00"
+    },
+    {
+      "titulo": "Claude ganha agente 24×7 para brigar com ChatGPT, Google e Meta",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/claude-ganha-agente-24x7-para-brigar-com-chatgpt-google-e-meta/",
+      "data": "2026-10-22T10:38:29+00:00"
+    },
+    {
+      "titulo": "Por que quase 70% dos sites usam PHP, linguagem que provocou alerta mundial?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/por-que-quase-70-dos-sites-usam-php-linguagem-que-provocou-alerta-mundial/",
+      "data": "2026-10-22T10:30:02+00:00"
+    },
+    {
+      "titulo": "INMO GO3 desafia Meta com óculos inteligentes que protegem privacidade",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/inmo-go3-desafia-meta-com-oculos-inteligentes-que-protegem-privacidade/",
+      "data": "2026-10-22T10:17:24+00:00"
+    },
+    {
+      "titulo": "Meta leva multa de US$ 25 bilhões em processo do Cambridge Analytica",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/meta-leva-multa-de-us-25-bilhoes-em-processo-do-cambridge-analytica/",
+      "data": "2026-10-22T10:17:00+00:00"
+    },
+    {
+      "titulo": "Front end e back end: entendas as diferenças e quais cursos fazer",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/front-end-e-back-end-diferencas-habilidades-e-cursos/",
+      "data": "2026-10-22T10:15:00+00:00"
+    },
+    {
+      "titulo": "ID.Cross, o T-Cross elétrico, terá versão barata para desafiar chineses",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/idcross-o-t-cross-eletrico-tera-versao-barata-para-desafiar-chineses/",
+      "data": "2026-10-22T09:58:00+00:00"
+    },
+    {
+      "titulo": "Usuários relatam queimaduras e irritação na pele após usar Galaxy Watch durante a noite",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartwatch/usuarios-relatam-queimaduras-e-irritacao-na-pele-apos-usar-galaxy-watch-durante-a-noite/",
+      "data": "2026-10-22T09:37:15+00:00"
     },
     {
       "titulo": "iPhone 18 Pro não resolve questões que marcam câmeras da Apple há anos",
@@ -26,76 +122,16 @@
       "data": "2026-10-21T23:15:00+00:00"
     },
     {
-      "titulo": "Com novo visual, Apple Music ganha logotipo esculpido por ondas sonoras",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/com-novo-visual-apple-music-ganha-logotipo-esculpido-por-ondas-sonoras/",
-      "data": "2026-10-21T23:04:00+00:00"
-    },
-    {
-      "titulo": "Novo robô ‘ninja’ da Unitree golpeia carro e salva pessoas em vídeo promocional",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/stem/novo-robo-ninja-da-unitree-golpeia-carro-e-salva-pessoas-em-video-promocional/",
-      "data": "2026-10-21T23:00:00+00:00"
-    },
-    {
-      "titulo": "Cyberpunk 2077 e mais jogos de Xbox com até 90% OFF; aproveite",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/cyberpunk-2077-e-mais-jogos-de-xbox-com-ate-90-off-aproveite/",
-      "data": "2026-10-21T22:45:00+00:00"
-    },
-    {
-      "titulo": "Chrome reforça IA para alertar usuários sobre golpes e lojas falsas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/chrome-reforca-ia-para-alertar-usuarios-sobre-golpes-e-lojas-falsas/",
-      "data": "2026-10-21T22:00:05+00:00"
-    },
-    {
-      "titulo": "Home office: 115 vagas para trabalho remoto [21/10]",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/vagas-home-office-115-vagas-para-trabalho-remoto/",
-      "data": "2026-10-21T22:00:00+00:00"
-    },
-    {
-      "titulo": "Rockstar pode estar gravando trailer live-action de GTA 6 em Miami; veja provas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/rockstar-pode-estar-gravando-trailer-live-action-de-gta-6-em-miami-veja-provas/",
-      "data": "2026-10-21T21:55:05+00:00"
-    },
-    {
       "titulo": "Moto G Max com câmera de 200 MP sai 42% mais barato na Amazon",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/moto-g-max-com-camera-de-200-mp-sai-42-mais-barato-na-amazon/",
       "data": "2026-10-21T21:36:41+00:00"
     },
     {
-      "titulo": "O que é PHP e por que falhas na linguagem colocaram milhões de sites em risco",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/o-que-e-php-e-por-que-falhas-na-linguagem-colocaram-milhoes-de-sites-em-risco/",
-      "data": "2026-10-21T21:35:00+00:00"
-    },
-    {
       "titulo": "Como instalar a Play Store: veja como ativar a loja de apps no celular ou tablet",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/responde/como-instalar-a-play-store-de-novo-reativar-o-aplicativo/",
       "data": "2026-10-21T21:14:29+00:00"
-    },
-    {
-      "titulo": "Symantec descobre agente que sequestra IAs para disparar 100 mil ataques hacker sozinho",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/symantec-descobre-agente-que-sequestra-ias-para-disparar-100-mil-ataques-hacker-sozinho/",
-      "data": "2026-10-21T21:06:00+00:00"
-    },
-    {
-      "titulo": "IA revela falhas escondidas há mais de 10 anos no PHP; entenda a descoberta",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/ia-revela-falhas-escondidas-ha-mais-de-10-anos-no-php-entenda-a-descoberta/",
-      "data": "2026-10-21T20:45:00+00:00"
-    },
-    {
-      "titulo": "Sony começa a blindar PS5 contra pirataria de GTA 6 com nova atualização",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/sony-comeca-a-blindar-ps5-contra-pirataria-de-gta-6-com-nova-atualizacao/",
-      "data": "2026-10-21T20:23:33+00:00"
     },
     {
       "titulo": "Claro proíbe vendas da quarta maior fabricante de celulares do mundo",
@@ -110,12 +146,6 @@
       "data": "2026-10-21T20:09:21+00:00"
     },
     {
-      "titulo": "BYD derrete preço e vende esportivo elétrico por valor de Honda Civic",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/byd-derrete-preco-e-vende-esportivo-eletrico-por-valor-de-honda-civic/",
-      "data": "2026-10-21T20:09:00+00:00"
-    },
-    {
       "titulo": "Falha grave no PHP fez sites e serviços públicos saírem do ar",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/falha-grave-no-php-pode-tirar-sites-e-servicos-publicos-do-ar/",
@@ -126,24 +156,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-z-fold-8-em-formato-passaporte-ja-tem-r-1-900-off-com-cupom/",
       "data": "2026-10-21T18:47:56+00:00"
-    },
-    {
-      "titulo": "Galaxy S26 (256 GB) enfim volta a aparecer em promoção",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-256-gb-enfim-volta-a-aparecer-em-promocao/",
-      "data": "2026-10-21T18:22:54+00:00"
-    },
-    {
-      "titulo": "Chefe do Google DeepMind diz que AGI chegará em até 3 anos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/chefe-do-google-deepmind-diz-que-agi-chegara-em-ate-3-anos/",
-      "data": "2026-10-21T18:20:55+00:00"
-    },
-    {
-      "titulo": "Jovi prepara celular com superbateria de 9.800 mAh no Brasil",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/jovi-prepara-celular-com-bateria-de-9-800-mah-no-brasil/",
-      "data": "2026-10-21T18:05:23+00:00"
     },
     {
       "titulo": "EA anuncia fechamento da BioWare, cancela novo Mass Effect e demitirá 400 funcionários",
@@ -168,18 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/oito-certificados-tls-comprometidos-colocam-a-seguranca-da-internet-em-alerta/",
       "data": "2026-10-21T17:00:44+00:00"
-    },
-    {
-      "titulo": "“Comecei com um único Raspberry Pi e agora tenho um pequeno rack no meu quarto”: usuário mostra evolução de seu servidor doméstico",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/comecou-raspberry-pi-servidor-domestico-ryzen-9-14-tb/",
-      "data": "2026-10-21T16:41:08+00:00"
-    },
-    {
-      "titulo": "Cyberpunk 2077 vai receber mods nos consoles e até conteúdo adulto na atualização 2.5",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/cyberpunk-2077-mods-nos-consoles/",
-      "data": "2026-10-21T16:31:13+00:00"
     }
   ]
 }
