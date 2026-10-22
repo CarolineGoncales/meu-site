@@ -1,29 +1,155 @@
 {
-  "atualizado_em": "2026-10-22T17:22:55.454827+00:00",
+  "atualizado_em": "2026-10-22T20:38:40.126676+00:00",
   "noticias": [
     {
-      "titulo": "Sony põe trava no 5G e complica vida de quem traz celular de fora",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/sony-poe-trava-no-5g-e-complica-vida-de-quem-traz-celular-de-fora/",
-      "data": "2026-10-22T17:15:33+00:00"
+      "titulo": "iPhone 15 tem uma das melhores ofertas recentes na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/iphone-15-tem-uma-das-melhores-ofertas-recentes-na-amazon/",
+      "data": "2026-10-22T20:19:54+00:00"
     },
     {
-      "titulo": "Novo notebook da Xiaomi vem com CPU Intel Wildcat Lake e bateria gigantesca",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/novo-notebook-da-xiaomi-vem-com-cpu-intel-wildcat-lake-e-bateria-gigantesca/",
-      "data": "2026-10-22T17:06:00+00:00"
+      "titulo": "CD Projekt Red revela segredo por trás do sucesso contínuo de The Witcher 3",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/cd-projekt-red-revela-segredo-por-tras-do-sucesso-continuo-de-the-witcher-3-wild-hunt/",
+      "data": "2026-10-22T20:12:00+00:00"
     },
     {
-      "titulo": "Fim de uma era: Sony mata seu último player dedicado de Blu-ray",
+      "titulo": "Nissan faz queima e vende Kicks Sense por preço de Kait; veja condições",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/fim-de-uma-era-sony-mata-seu-ultimo-player-dedicado-de-blu-ray/",
-      "data": "2026-10-22T17:03:11+00:00"
+      "link": "https://canaltech.com.br/carros/nissan-faz-queima-e-vende-kicks-sense-por-preco-de-kait-veja-condicoes/",
+      "data": "2026-10-22T20:05:04+00:00"
     },
     {
-      "titulo": "IA da OpenAI acha em 32 minutos pistas sobre doença similar ao Parkinson",
+      "titulo": "Bose compra a Skullcandy, famosa pelos fones que bombaram nos anos 2000",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-da-openai-acha-em-32-minutos-pistas-sobre-doenca-similar-ao-parkinson/",
-      "data": "2026-10-22T17:02:00+00:00"
+      "link": "https://canaltech.com.br/fone-de-ouvido/bose-compra-a-skullcandy-famosa-pelos-fones-que-bombaram-nos-anos-2000/",
+      "data": "2026-10-22T20:03:16+00:00"
+    },
+    {
+      "titulo": "Falhas críticas no PHP já eram exploradas por hackers antes de correção",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/falhas-criticas-no-php-ja-eram-exploradas-por-hackers-antes-de-correcao/",
+      "data": "2026-10-22T20:02:00+00:00"
+    },
+    {
+      "titulo": "Objeto metálico gigante é encontrado em milharal nos EUA; saiba possível origem",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/ciencia-e-espaco/objeto-metalico-gigante-e-encontrado-em-milharal-nos-eua-saiba-possivel-origem/",
+      "data": "2026-10-22T20:00:04+00:00"
+    },
+    {
+      "titulo": "YouTube explica nova polêmica sobre fim do botão ‘dislike’ dos vídeos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/youtube-explica-nova-polemica-sobre-fim-do-botao-dislike-dos-videos/",
+      "data": "2026-10-22T20:00:00+00:00"
+    },
+    {
+      "titulo": "SportyNet fecha acordo com TikTok para exibir jogos das Séries B e C",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/sportynet-fecha-acordo-com-tiktok-para-exibir-jogos-das-series-b-e-c/",
+      "data": "2026-10-22T19:56:45+00:00"
+    },
+    {
+      "titulo": "Cansado de acompanhar vários agentes de IA no PC, desenvolvedor cria uma tela dedicada para monitorá-los e libera os arquivos para quem quiser fazer uma igual",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/esp32-tela-monitorar-agentes-ia/",
+      "data": "2026-10-22T19:50:13+00:00"
+    },
+    {
+      "titulo": "Spotify prioriza artistas humanos e retira 50 milhões de músicas de IA e spam das recomendações",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/spotify-retira-50-milhoes-faixas/",
+      "data": "2026-10-22T19:49:02+00:00"
+    },
+    {
+      "titulo": "Megavazamento de dados na Capcom tem 11,7 milhões de contas expostas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/megavazamento-de-dados-na-capcom-tem-117-milhoes-de-contas-expostas/",
+      "data": "2026-10-22T19:48:00+00:00"
+    },
+    {
+      "titulo": "Folgas para jogar GTA 6 podem custar cerca de US$ 1 bilhão à economia dos EUA; entenda",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/folgas-para-jogar-gta-6-podem-custar-cerca-de-us-1-bilhao-a-economia-dos-eua-entenda/",
+      "data": "2026-10-22T19:30:00+00:00"
+    },
+    {
+      "titulo": "App Store ganha selo para apps adaptados ao iPhone Duo",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/app-store-ganha-selo-para-apps-adaptados-ao-iphone-duo/",
+      "data": "2026-10-22T19:23:09+00:00"
+    },
+    {
+      "titulo": "Hackers tentaram explorar falhas no PHP antes do alerta",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/hackers-tentaram-explorar-falhas-no-php-antes-do-alerta/",
+      "data": "2026-10-22T19:15:47+00:00"
+    },
+    {
+      "titulo": "Apoio público de Musk à fusão entre SpaceX e Tesla pode atrasar negociações de US$ 3,5 trilhões",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/apoio-publico-de-musk-a-fusao-entre-spacex-e-tesla-pode-atrasar-negociacoes-de-us-35-trilhoes/",
+      "data": "2026-10-22T19:15:00+00:00"
+    },
+    {
+      "titulo": "Uber leva modo com carros elétricos para mais cidades brasileiras; saiba quais",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/uber-leva-modo-com-carros-eletricos-para-mais-cidades-brasileiras-saiba-quais/",
+      "data": "2026-10-22T19:12:00+00:00"
+    },
+    {
+      "titulo": "Placas de vídeo de R$ 2,5 milhões furtadas em Guarulhos vão parar em site de vendas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/placas-de-video-de-r-25-milhoes-furtadas-em-guarulhos-vao-parar-em-site-de-vendas/",
+      "data": "2026-10-22T19:10:02+00:00"
+    },
+    {
+      "titulo": "O que acontece com o iPhone Duo após ser dobrado 32 mil vezes? Youtubers fizeram o teste",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/o-que-acontece-com-o-iphone-duo-apos-ser-dobrado-32-mil-vezes-youtubers-fizeram-o-teste/",
+      "data": "2026-10-22T19:00:00+00:00"
+    },
+    {
+      "titulo": "Getty Images entra com pedido de falência em meio à concorrência da IA e dívidas bilionárias",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/getty-images-entra-com-pedido-de-falencia-em-meio-a-concorrencia-da-ia-e-dividas-bilionarias/",
+      "data": "2026-10-22T18:51:34+00:00"
+    },
+    {
+      "titulo": "Samsung usa ‘coringa’ de parcelamento em até 18x sem juros para driblar preços altos na Black Friday",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/samsung-usa-coringa-de-parcelamento-em-ate-18x-sem-juros-para-driblar-precos-altos-na-black-friday/",
+      "data": "2026-10-22T18:00:00+00:00"
+    },
+    {
+      "titulo": "Xbox testa venda de horas para jogar na nuvem sem o Game Pass",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/xbox-game-pass-testa-venda-de-horas-para-jogar-na-nuvem-sem-assinatura/",
+      "data": "2026-10-22T17:40:54+00:00"
+    },
+    {
+      "titulo": "Motorola Edge 70 Pro com RAM de 12 GB fica mais em conta no Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-pro-com-ram-de-12-gb-fica-mais-em-conta-no-mercado-livre/",
+      "data": "2026-10-22T17:39:28+00:00"
+    },
+    {
+      "titulo": "Xbox teria sido avaliado em até US$ 150 bilhões após interesse de fundos de investimento em aquisição",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/xbox-teria-sido-avaliado-em-ate-150-bilhoes-apos-interesse-de-fundos-em-aquisicao/",
+      "data": "2026-10-22T17:30:13+00:00"
+    },
+    {
+      "titulo": "Galaxy Tab S10 Lite para estudantes tem menor preço em meses",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-para-estudantes-tem-menor-preco-em-meses/",
+      "data": "2026-10-22T17:20:48+00:00"
+    },
+    {
+      "titulo": "O que é a Conta Meta no Instagram, WhatsApp e Facebook?",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/o-que-e-a-conta-meta-no-instagram-whatsapp-e-facebook/",
+      "data": "2026-10-22T17:20:24+00:00"
     },
     {
       "titulo": "Galaxy Z Fold 8 Ultra com mais câmeras já cai 42% em promoção",
@@ -44,142 +170,16 @@
       "data": "2026-10-22T16:54:55+00:00"
     },
     {
-      "titulo": "PHP admite falhas de dois anos e falta de recursos após brechas críticas",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/php-admite-falhas-de-dois-anos-e-falta-de-recursos-apos-brechas-criticas/",
-      "data": "2026-10-22T16:45:00+00:00"
-    },
-    {
-      "titulo": "Despencou: Galaxy Z Flip 8 fica R$ 4 mil mais barato com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/despencou-galaxy-z-flip-8-fica-r-4-mil-mais-barato-com-cupom/",
-      "data": "2026-10-22T16:42:45+00:00"
-    },
-    {
-      "titulo": "Kindle+ é o novo nome do serviço de assinatura da Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/kindle-e-o-novo-nome-do-servico-de-assinatura-da-amazon/",
-      "data": "2026-10-22T16:37:07+00:00"
-    },
-    {
-      "titulo": "Google rejeita proposta de Trump para mudar nome do Oceano Atlântico",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/google-rejeita-proposta-de-trump-para-mudar-nome-do-oceano-atlantico/",
-      "data": "2026-10-22T16:30:00+00:00"
-    },
-    {
-      "titulo": "Review do Realme C100x: bateria gigante com design que chama atenção",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/testamos/review-do-realme-c100x-bateria-gigante-com-design-que-chama-atencao/",
-      "data": "2026-10-22T16:18:56+00:00"
-    },
-    {
-      "titulo": "4 motivos para comprar uma placa-mãe X3D e 2 para não fazer isso",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/4-motivos-para-comprar-uma-placa-mae-x3d-e-2-para-nao-fazer-isso/",
-      "data": "2026-10-22T16:15:00+00:00"
-    },
-    {
-      "titulo": "Fone-brinco da Samsung aparece na \"Anatel coreana\" antes do lançamento",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/fone-de-ouvido/fone-brinco-da-samsung-aparece-na-anatel-coreana-antes-do-lancamento/",
-      "data": "2026-10-22T16:01:12+00:00"
-    },
-    {
-      "titulo": "XBOX Cloud Gaming terá pacotes por hora para quem não é assinante; veja quanto custará",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/xbox-cloud-gaming-tera-pacotes-por-hora-para-quem-nao-e-assinante-veja-quanto-custara/",
-      "data": "2026-10-22T16:01:00+00:00"
-    },
-    {
       "titulo": "Por que apostar em um fone sem fio intra-auricular? JBL Wave Buds 2 com 49% OFF traz ANC e bateria de até 40 horas",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/por-que-apostar-em-um-fone-sem-fio-intra-auricular-jbl-wave-buds-2-com-49-off-traz-anc-e-bateria-de-ate-40-horas/",
       "data": "2026-10-22T16:00:27+00:00"
     },
     {
-      "titulo": "WhatsApp prepara função de agendamento de mensagens no iPhone",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/whatsapp-prepara-funcao-de-agendamento-de-mensagens-no-iphone/",
-      "data": "2026-10-22T16:00:00+00:00"
-    },
-    {
-      "titulo": "Tesla Roadster também \"voa\" sem sair do chão e pode ser carro mais rápido do planeta",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/tesla-roadster-tambem-voa-sem-sair-do-chao-e-pode-ser-carro-mais-rapido-do-planeta/",
-      "data": "2026-10-22T16:00:00+00:00"
-    },
-    {
       "titulo": "Brasileiro coloca R$ 550 na conta Xbox para comprar GTA 6 e acaba com a conta Microsoft bloqueada",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/jogador-conta-xbox-bloqueada-550-reais-gta-6/",
       "data": "2026-10-22T15:50:55+00:00"
-    },
-    {
-      "titulo": "Samsung Galaxy S26+ com 45% OFF: tela de 6,7″, câmera com IA e processador de última geração",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/samsung-galaxy-s26-com-45-off-tela-de-67-camera-com-ia-e-processador-de-ultima-geracao/",
-      "data": "2026-10-22T15:30:47+00:00"
-    },
-    {
-      "titulo": "Claro suspende vendas de celulares da Oppo em lojas físicas e online; entenda",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/claro-suspende-vendas-de-celulares-da-oppo-em-lojas-fisicas-e-online-entenda/",
-      "data": "2026-10-22T15:30:00+00:00"
-    },
-    {
-      "titulo": "Assistência técnica recebeu oito RTX 5090 e RTX 4090 com conectores derretidos em apenas dois dias",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/assistencia-tecnica-recebeu-oito-rtx-5090-e-4090-conectores-derretidos-apenas-dois-dias/",
-      "data": "2026-10-22T15:23:54+00:00"
-    },
-    {
-      "titulo": "Melhor TV OLED em 2026: 8 modelos para comprar em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-tv-oled/",
-      "data": "2026-10-22T15:19:06+00:00"
-    },
-    {
-      "titulo": "Epic Games Store libera novos jogos gratuitos nesta quinta (22)! Resgate agora",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-store-libera-novos-jogos-gratuitos-nesta-quinta-22-resgate-agora/",
-      "data": "2026-10-22T15:15:00+00:00"
-    },
-    {
-      "titulo": "Microsoft deixa Windows 11 mais limpo com remoção de 8 botões do Copilot",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/microsoft-deixa-windows-11-mais-limpo-com-remocao-de-8-botoes-do-copilot/",
-      "data": "2026-10-22T15:09:00+00:00"
-    },
-    {
-      "titulo": "Controles DualSense Hyperpop Collection em promoção! Estilo neon para turbinar seu setup PS5",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/controles-dualsense-hyperpop-collection-em-promocao-estilo-neon-para-turbinar-seu-setup-ps5/",
-      "data": "2026-10-22T15:00:19+00:00"
-    },
-    {
-      "titulo": "Estudo mostra que Smart TVs continuam enviando dados aos servidores mesmo após usuário desativar rastreamento",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/smart-tvs-continuam-enviando-dados-mesmo-apos-desativar-rastreamento/",
-      "data": "2026-10-22T14:55:24+00:00"
-    },
-    {
-      "titulo": "Gears of War: E-Day teria custado uma fortuna: mais de US$ 500 milhões sem incluir marketing",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gears-of-war-e-day-custado-fortuna/",
-      "data": "2026-10-22T14:47:29+00:00"
-    },
-    {
-      "titulo": "Spotify aperta cerco contra o compartilhamento e adota QR Code",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/spotify-aperta-cerco-contra-o-compartilhamento-e-adota-qr-code/",
-      "data": "2026-10-22T14:41:47+00:00"
-    },
-    {
-      "titulo": "iPhone Duo: segunda geração pode receber Face ID sob a tela",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/iphone-duo-segunda-geracao-pode-receber-face-id-sob-a-tela/",
-      "data": "2026-10-22T14:01:30+00:00"
     }
   ]
 }
