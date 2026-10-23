@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-23T02:13:24.988152+00:00",
+  "atualizado_em": "2026-10-23T07:44:50.026688+00:00",
   "noticias": [
     {
       "titulo": "TV Aiwa é boa? Conheça 5 modelos para comprar em 2026",
@@ -78,12 +78,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/microsoft-diz-que-ia-superou-medicos-em-testes-de-diagnostico/",
       "data": "2026-10-22T21:20:14+00:00"
-    },
-    {
-      "titulo": "10 melhores jogos da BioWare para relembrar o legado do estúdio nos games",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/10-melhores-jogos-da-bioware-para-relembrar-o-legado-do-estudio-nos-games/",
-      "data": "2026-10-22T21:15:00+00:00"
     },
     {
       "titulo": "iPhone Duo ajuda rival? Vendas de dobráveis Samsung disparam após estreia",
@@ -176,10 +170,16 @@
       "data": "2026-10-22T16:54:55+00:00"
     },
     {
-      "titulo": "PHP admite falhas de dois anos e falta de recursos após brechas críticas",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/php-admite-falhas-de-dois-anos-e-falta-de-recursos-apos-brechas-criticas/",
-      "data": "2026-10-22T16:45:00+00:00"
+      "titulo": "Por que apostar em um fone sem fio intra-auricular? JBL Wave Buds 2 com 49% OFF traz ANC e bateria de até 40 horas",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/por-que-apostar-em-um-fone-sem-fio-intra-auricular-jbl-wave-buds-2-com-49-off-traz-anc-e-bateria-de-ate-40-horas/",
+      "data": "2026-10-22T16:00:27+00:00"
+    },
+    {
+      "titulo": "Brasileiro coloca R$ 550 na conta Xbox para comprar GTA 6 e acaba com a conta Microsoft bloqueada",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/jogador-conta-xbox-bloqueada-550-reais-gta-6/",
+      "data": "2026-10-22T15:50:55+00:00"
     }
   ]
 }
