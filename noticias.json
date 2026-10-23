@@ -1,47 +1,113 @@
 {
-  "atualizado_em": "2026-10-23T07:44:50.026688+00:00",
+  "atualizado_em": "2026-10-23T12:54:34.217385+00:00",
   "noticias": [
+    {
+      "titulo": "\"Starlink chinesa\" ganha sinal verde para vender antena no Brasil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/starlink-chinesa-ganha-sinal-verde-para-vender-antena-no-brasil/",
+      "data": "2026-10-23T12:41:27+00:00"
+    },
+    {
+      "titulo": "Cientistas criam tela sensível ao toque feita de fios que pode ser integrada às roupas",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/tela-sensivel-toque-feita-de-fios/",
+      "data": "2026-10-23T12:34:44+00:00"
+    },
+    {
+      "titulo": "1Password cria forma de liberar login sem dar a senha para IAs; veja como funciona",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/1password-cria-forma-de-liberar-login-sem-dar-a-senha-para-ias-veja-como-funciona/",
+      "data": "2026-10-23T12:19:59+00:00"
+    },
+    {
+      "titulo": "ECA Digital: PF inicia cadastro de empresas em sistema de notificação de crimes",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/eca-digital-pf-inicia-cadastro-de-empresas-em-sistema-de-notificacao-de-crimes/",
+      "data": "2026-10-23T12:06:00+00:00"
+    },
+    {
+      "titulo": "Como a Mercedes usa inteligência artificial para criar carros",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/como-a-mercedes-usa-inteligencia-artificial-para-criar-carros/",
+      "data": "2026-10-23T12:04:00+00:00"
+    },
+    {
+      "titulo": "Dev da Valve menciona “HLX” e reacende rumores sobre Half-Life 3",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/half-life-3-hlx/",
+      "data": "2026-10-23T12:00:28+00:00"
+    },
+    {
+      "titulo": "RTX 5090 de carga roubada em aeroporto brasileiro aparece à venda por R$ 32 mil na OLX",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/rtx-5090-carga-roubada-r-32-mil-olx/",
+      "data": "2026-10-23T11:44:32+00:00"
+    },
+    {
+      "titulo": "Trailer de Mass Effect: Universe vaza e mostra como seria novo jogo após fim da BioWare",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/trailer-de-mass-effect-universe-vaza-e-mostra-como-seria-novo-jogo-apos-fim-da-bioware/",
+      "data": "2026-10-23T11:41:26+00:00"
+    },
+    {
+      "titulo": "Apple inicia vendas do iPhone Duo: preço alto e baixo estoque marcam estreia do dobrável",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-inicia-vendas-do-iphone-duo-com-preco-elevado-no-brasil-e-alta-demanda/",
+      "data": "2026-10-23T11:30:00+00:00"
+    },
+    {
+      "titulo": "Xbox Series S e X recebem AMD FSR 4.1 antes do lançamento de GTA 6",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-series-s-e-x-recebem-amd-fsr-41-antes-do-lancamento-de-gta-6/",
+      "data": "2026-10-23T11:15:00+00:00"
+    },
+    {
+      "titulo": "Eleições 2026: seu local de votação mudou? Saiba como conferir online",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/stem/eleicoes-2026-seu-local-de-votacao-mudou-saiba-como-conferir-online/",
+      "data": "2026-10-23T11:00:00+00:00"
+    },
+    {
+      "titulo": "PS5 no bolso? Primeiro emulador de PlayStation 5 para Android começa a rodar jogos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/ps5-no-bolso-primeiro-emulador-de-playstation-5-para-android-comeca-a-rodar-jogos/",
+      "data": "2026-10-23T10:30:03+00:00"
+    },
+    {
+      "titulo": "\"Mãe adotiva\" da Nokia lança celular de flip para idosos com \"IA companheira\"",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/novo-celular-flip-para-idosos-mistura-funcoes-basicas-com-assistente-de-ia/",
+      "data": "2026-10-23T10:26:14+00:00"
+    },
+    {
+      "titulo": "Smart TV Samsung: os modelos mais atuais da marca",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/smart-tv-samsung-5-modelos-para-comprar-em-2026/",
+      "data": "2026-10-23T10:15:00+00:00"
+    },
+    {
+      "titulo": "Xiaomi prepara primeiro fone-brinco para rivalizar com a Samsung",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/fone-de-ouvido/xiaomi-prepara-primeiro-fone-brinco-para-rivalizar-com-a-samsung/",
+      "data": "2026-10-23T10:12:20+00:00"
+    },
+    {
+      "titulo": "Multa mais cara do Brasil pode passar de R$ 35 mil; veja o porquê",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/multa-mais-cara-do-brasil-pode-passar-de-r-35-mil-veja-o-porque/",
+      "data": "2026-10-23T10:04:00+00:00"
+    },
+    {
+      "titulo": "Pacote LiteLLM sofre ataque cibernético e vaza senhas",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/pacote-litellm-sofre-ataque-cibernetico-e-vaza-senhas/",
+      "data": "2026-10-23T08:00:00+00:00"
+    },
     {
       "titulo": "TV Aiwa é boa? Conheça 5 modelos para comprar em 2026",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/melhor-tv-aiwa/",
       "data": "2026-10-22T23:54:15+00:00"
-    },
-    {
-      "titulo": "GTA 6 invade Miami com Burger Shot, Cluckin’ Bell e carros de Vice City nas ruas",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-invade-miami-com-burger-shot-cluckin-bell-e-carros-de-vice-city-nas-ruas/",
-      "data": "2026-10-22T23:15:00+00:00"
-    },
-    {
-      "titulo": "Pluribus está de volta: 2ª temporada de começa a ser filmada no Halloween",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/pluribus-esta-de-volta-2-temporada-de-comeca-a-ser-filmada-no-halloween/",
-      "data": "2026-10-22T23:01:00+00:00"
-    },
-    {
-      "titulo": "Falha crítica no Node.js permite ataque cibernético e execução remota de códigos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-critica-no-nodejs-permite-ataque-cibernetico-e-execucao-remota-de-codigos/",
-      "data": "2026-10-22T22:45:00+00:00"
-    },
-    {
-      "titulo": "FF7 Rebirth e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ff7-rebirth-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store/",
-      "data": "2026-10-22T22:30:00+00:00"
-    },
-    {
-      "titulo": "Mistério resolvido! Cientistas descobrem o momento exato retratado em \"A Noite Estrelada\" de Van Gogh",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/misterio-resolvido-cientistas-descobrem-o-momento-exato-retratado-em-a-noite-estrelada-de-van-gogh/",
-      "data": "2026-10-22T22:15:02+00:00"
-    },
-    {
-      "titulo": "Falha crítica no GitLab permite invasão de servidores",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-critica-no-gitlab-permite-invasao-de-servidores/",
-      "data": "2026-10-22T22:15:00+00:00"
     },
     {
       "titulo": "Lenovo Idea Tab Pro Gen 2 para jogos tem oferta em até 12x sem juros",
@@ -50,52 +116,10 @@
       "data": "2026-10-22T22:13:25+00:00"
     },
     {
-      "titulo": "Kindle Unlimited acabou: Amazon muda serviço para Kindle+ em ofensiva de audiobooks",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/kindle-unlimited-acabou-amazon-muda-servico-para-kindle-em-ofensiva-de-audiobooks/",
-      "data": "2026-10-22T22:01:00+00:00"
-    },
-    {
-      "titulo": "Próxima geração do iPhone Duo deve trazer Face ID e botão de ação, sugere rumor",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/proxima-geracao-do-iphone-duo-deve-trazer-face-id-e-botao-de-acao-sugere-rumor/",
-      "data": "2026-10-22T22:00:00+00:00"
-    },
-    {
-      "titulo": "Como Mercenários 2 se conecta ao universo de Cyberpunk 2077",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/como-mercenarios-2-se-conecta-ao-universo-de-cyberpunk-2077/",
-      "data": "2026-10-22T21:45:00+00:00"
-    },
-    {
-      "titulo": "Navegador Arc terá atividades encerradas; saiba detalhes",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/navegador-arc-tera-atividades-encerradas-saiba-detalhes/",
-      "data": "2026-10-22T21:30:00+00:00"
-    },
-    {
       "titulo": "Microsoft diz que IA superou médicos em testes de diagnóstico",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/microsoft-diz-que-ia-superou-medicos-em-testes-de-diagnostico/",
       "data": "2026-10-22T21:20:14+00:00"
-    },
-    {
-      "titulo": "iPhone Duo ajuda rival? Vendas de dobráveis Samsung disparam após estreia",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/iphone-duo-ajuda-rival-vendas-de-dobraveis-samsung-disparam-apos-estreia/",
-      "data": "2026-10-22T21:11:21+00:00"
-    },
-    {
-      "titulo": "Google Planilhas ganha novo visual e gráficos de caixa para bater de frente com o Excel",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/google-planilhas-ganha-novo-visual-e-graficos-de-caixa-para-bater-de-frente-com-o-excel/",
-      "data": "2026-10-22T21:04:00+00:00"
-    },
-    {
-      "titulo": "ASUS lança Vivobook S14 no Brasil com Snapdragon X e bateria de 30 horas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/asus-lanca-vivobook-s14-no-brasil-com-snapdragon-x-e-bateria-de-30-horas/",
-      "data": "2026-10-22T21:00:04+00:00"
     },
     {
       "titulo": "Bancos dos EUA bloqueiam agentes de IA após acessos não autorizados a contas de clientes",
@@ -108,12 +132,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/iphone-15-tem-uma-das-melhores-ofertas-recentes-na-amazon/",
       "data": "2026-10-22T20:19:54+00:00"
-    },
-    {
-      "titulo": "Nissan faz queima e vende Kicks Sense por preço de Kait; veja condições",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/nissan-faz-queima-e-vende-kicks-sense-por-preco-de-kait-veja-condicoes/",
-      "data": "2026-10-22T20:05:04+00:00"
     },
     {
       "titulo": "Cansado de acompanhar vários agentes de IA no PC, desenvolvedor cria uma tela dedicada para monitorá-los e libera os arquivos para quem quiser fazer uma igual",
@@ -162,24 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/xbox-teria-sido-avaliado-em-ate-150-bilhoes-apos-interesse-de-fundos-em-aquisicao/",
       "data": "2026-10-22T17:30:13+00:00"
-    },
-    {
-      "titulo": "Steam Deck perdido há nove meses é enviado ao dono dentro de uma caixa de sabonete",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/steam-deck-perdido-ha-nove-meses/",
-      "data": "2026-10-22T16:54:55+00:00"
-    },
-    {
-      "titulo": "Por que apostar em um fone sem fio intra-auricular? JBL Wave Buds 2 com 49% OFF traz ANC e bateria de até 40 horas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/por-que-apostar-em-um-fone-sem-fio-intra-auricular-jbl-wave-buds-2-com-49-off-traz-anc-e-bateria-de-ate-40-horas/",
-      "data": "2026-10-22T16:00:27+00:00"
-    },
-    {
-      "titulo": "Brasileiro coloca R$ 550 na conta Xbox para comprar GTA 6 e acaba com a conta Microsoft bloqueada",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/jogador-conta-xbox-bloqueada-550-reais-gta-6/",
-      "data": "2026-10-22T15:50:55+00:00"
     }
   ]
 }
