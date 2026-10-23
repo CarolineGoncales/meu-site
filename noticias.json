@@ -1,6 +1,78 @@
 {
-  "atualizado_em": "2026-10-23T20:42:55.845290+00:00",
+  "atualizado_em": "2026-10-23T23:36:42.538430+00:00",
   "noticias": [
+    {
+      "titulo": "7 ferramentas elétricas ‘inteligentes’ e como funcionam",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/ferramentas-inteligentes-conheca-7-modelos-e-recursos/",
+      "data": "2026-10-23T23:15:00+00:00"
+    },
+    {
+      "titulo": "Canva lança gerador de imagens próprio que cria artes editáveis em camadas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/canva-lanca-gerador-de-imagens-proprio-que-cria-artes-editaveis-em-camadas/",
+      "data": "2026-10-23T23:04:00+00:00"
+    },
+    {
+      "titulo": "IdeaPad Slim 3x com Snapdragon X é o clássico ‘PC de trabalho’ com ótima bateria",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/lenovo-ideapad-slim-3x-snapdragon-x-review/",
+      "data": "2026-10-23T23:00:00+00:00"
+    },
+    {
+      "titulo": "Monster Hunter Wilds e mais jogos para Switch na eShop com até 90% OFF",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/monster-hunter-wilds-e-mais-jogos-para-switch-na-eshop-com-ate-90-off/",
+      "data": "2026-10-23T22:30:00+00:00"
+    },
+    {
+      "titulo": "BYD Dolphin Mini x Geely EX2: compare e escolha seu elétrico",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/byd-dolphin-mini-x-geely-ex2-compare-e-escolha-seu-eletrico/",
+      "data": "2026-10-23T22:05:00+00:00"
+    },
+    {
+      "titulo": "Sonda Voyager 1 da NASA vai ficar a 1 dia-luz da Terra; entenda",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/sonda-voyager-1-da-nasa-vai-ficar-a-1-dia-luz-da-terra-entenda/",
+      "data": "2026-10-23T22:00:07+00:00"
+    },
+    {
+      "titulo": "Missão chinesa encontra ‘cápsula do tempo’ de ferro gama na Lua; entenda",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/stem/missao-chinesa-encontra-capsula-do-tempo-de-ferro-gama-na-lua-entenda/",
+      "data": "2026-10-23T22:00:00+00:00"
+    },
+    {
+      "titulo": "Grande mudança no app do YouTube libera feeds personalizados por comando",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/grande-mudanca-no-app-do-youtube-libera-feeds-personalizados-por-comando/",
+      "data": "2026-10-23T22:00:00+00:00"
+    },
+    {
+      "titulo": "Google muda política para usar dados do Gmail e Fotos em publicidade",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/google-muda-politica-para-usar-dados-do-gmail-e-fotos-em-publicidade/",
+      "data": "2026-10-23T21:20:00+00:00"
+    },
+    {
+      "titulo": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (23)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-23/",
+      "data": "2026-10-23T21:15:00+00:00"
+    },
+    {
+      "titulo": "Bug pode deixar Galaxy S26 Ultra praticamente inutilizável",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/bug-pode-deixar-galaxy-s26-ultra-praticamente-inutilizavel/",
+      "data": "2026-10-23T21:14:40+00:00"
+    },
+    {
+      "titulo": "Como são feitos os vídeos de IA que trocam pessoas?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-sao-feitos-os-videos-de-ia-que-trocam-pessoas/",
+      "data": "2026-10-23T21:00:04+00:00"
+    },
     {
       "titulo": "Dying Light 2, Monster Hunter Stories e mais jogos grátis deste fim de semana",
       "fonte": "Canaltech",
@@ -20,12 +92,6 @@
       "data": "2026-10-23T20:20:44+00:00"
     },
     {
-      "titulo": "Criador de Zelda e Mario afirma que IA generativa não prejudicará a criatividade humana",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/criador-de-zelda-e-mario-afirma-que-ia-generativa-nao-prejudicara-a-criatividade-humana/",
-      "data": "2026-10-23T20:15:00+00:00"
-    },
-    {
       "titulo": "Com comandos no Claude e Grok, hackers atacam mais de 400 instituições financeiras",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/inteligencia-artificial/com-comandos-no-claude-e-grok-hackers-atacam-mais-de-400-instituicoes-financeiras/",
@@ -36,18 +102,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/ciencia-e-espaco/canais-de-irrigacao-como-um-erro-astronomico-do-seculo-19-criou-mito-dos-marcianos/",
       "data": "2026-10-23T20:00:09+00:00"
-    },
-    {
-      "titulo": "Usuários já removeram a película fosca do iPhone Duo; veja como fica",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/usuarios-ja-removeram-a-pelicula-fosca-do-iphone-duo-veja-como-fica/",
-      "data": "2026-10-23T20:00:00+00:00"
-    },
-    {
-      "titulo": "Hyundai derruba preços do i20 e hatch sai mais em conta que VW Polo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/hyundai-derruba-precos-do-i20-e-hatch-sai-mais-em-conta-que-vw-polo/",
-      "data": "2026-10-23T20:00:00+00:00"
     },
     {
       "titulo": "Lisa Su queria relançar o Ryzen 7 5800X3D como presente final para os donos da plataforma AM4",
@@ -62,64 +116,16 @@
       "data": "2026-10-23T19:54:02+00:00"
     },
     {
-      "titulo": "Ações da SK Hynix sobem 4,4% após empresa suspender plano de IPO da subsidiária Solidigm",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/acoes-da-sk-hynix-sobem-44-apos-empresa-suspender-plano-de-ipo-da-subsidiaria-solidigm/",
-      "data": "2026-10-23T19:45:00+00:00"
-    },
-    {
-      "titulo": "Xiaomi lança ventilador com motor inverter que resfria e aquece o ar por R$ 560",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/xiaomi-lanca-ventilador-com-motor-inverter-que-resfria-e-aquece-o-ar-por-r-560/",
-      "data": "2026-10-23T19:33:44+00:00"
-    },
-    {
       "titulo": "Google abre exceção para que sua IA use dados pessoais do Gmail e Drive para direcionar anúncios",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/google-personal-intelligence-gmail-fotos-anuncios/",
       "data": "2026-10-23T19:32:21+00:00"
     },
     {
-      "titulo": "PHP revela nova vulnerabilidade após crise com falha crítica",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/php-revela-nova-vulnerabilidade-apos-crise-com-falha-critica/",
-      "data": "2026-10-23T19:30:00+00:00"
-    },
-    {
       "titulo": "Acer Aspire Go 15 com RAM de 16 GB despenca 45% em até 10x sem juros",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/acer-aspire-go-15-com-ram-de-16-gb-despenca-45-em-ate-10x-sem-juros/",
       "data": "2026-10-23T19:21:09+00:00"
-    },
-    {
-      "titulo": "Nvidia quer alcançar ‘todos os gamers do Brasil’ e ampliar presença fora do eixo Rio-São Paulo",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/nvidia-quer-alcancar-todos-os-gamers-do-brasil-e-ampliar-presenca-fora-do-eixo-rio-sao-paulo/",
-      "data": "2026-10-23T19:15:00+00:00"
-    },
-    {
-      "titulo": "10 jogos clássicos de PC dos anos 1990",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-classicos-pc-anos-1990/",
-      "data": "2026-10-23T19:15:00+00:00"
-    },
-    {
-      "titulo": "Netflix, Disney+ e mais: Vivo lança combos de streaming com até 40% de desconto",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/netflix-disney-e-mais-vivo-lanca-combos-de-streaming-com-ate-40-de-desconto/",
-      "data": "2026-10-23T19:14:13+00:00"
-    },
-    {
-      "titulo": "Samsung prepara Beta da One UI 9.5 para antes do que você imagina",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/samsung-prepara-beta-da-one-ui-95-para-antes-do-que-voce-imagina/",
-      "data": "2026-10-23T19:07:00+00:00"
-    },
-    {
-      "titulo": "ChatVote: assistente virtual do TSE agora tira dúvidas de eleitores pelo WhatsApp",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/chatvote-assistente-virtual-do-tse-agora-tira-duvidas-de-eleitores-pelo-whatsapp/",
-      "data": "2026-10-23T19:00:00+00:00"
     },
     {
       "titulo": "Meta adia mudança nos termos após reação negativa",
@@ -146,6 +152,12 @@
       "data": "2026-10-23T18:47:24+00:00"
     },
     {
+      "titulo": "O Tetris do CNCA: os riscos diante das denúncias de ofensa ao ECA Digital",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/colunas/o-tetris-do-cnca-os-riscos-diante-das-denuncias-de-ofensa-ao-eca-digital/",
+      "data": "2026-10-23T18:30:00+00:00"
+    },
+    {
       "titulo": "Vivo lança combos de streaming com até 40% de desconto",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/vivo-lanca-combos-de-streaming-com-ate-40-de-desconto/",
@@ -168,18 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/canva-craft-imagens-ia-bonita/",
       "data": "2026-10-23T17:17:35+00:00"
-    },
-    {
-      "titulo": "Galaxy A36 e mais celulares Samsung recebem a One UI 9",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/galaxy-a36-e-mais-celulares-samsung-recebem-a-one-ui-9/",
-      "data": "2026-10-23T16:29:20+00:00"
-    },
-    {
-      "titulo": "Bill Gates alerta para 20 anos de turbulência causados pela IA e cobra regulamentação urgente",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/bill-gates-ia-20-anos/",
-      "data": "2026-10-23T16:18:50+00:00"
     }
   ]
 }
