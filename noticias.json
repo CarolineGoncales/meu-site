@@ -1,6 +1,162 @@
 {
-  "atualizado_em": "2026-10-23T17:32:39.872194+00:00",
+  "atualizado_em": "2026-10-23T20:42:55.845290+00:00",
   "noticias": [
+    {
+      "titulo": "Dying Light 2, Monster Hunter Stories e mais jogos grátis deste fim de semana",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-gratis-fim-de-semana-dying-light-2-monster-hunter-stories-e-mais/",
+      "data": "2026-10-23T20:27:49+00:00"
+    },
+    {
+      "titulo": "Galaxy Tab S11 5G (256 GB) entra em oferta para quem busca alto desempenho",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-5g-256-gb-entra-em-oferta-para-quem-busca-alto-desempenho/",
+      "data": "2026-10-23T20:25:02+00:00"
+    },
+    {
+      "titulo": "GALAX lança a primeira RTX 5080 do mundo com dois conectores de energia",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/galax-rtx-5080-hof-extreme/",
+      "data": "2026-10-23T20:20:44+00:00"
+    },
+    {
+      "titulo": "Criador de Zelda e Mario afirma que IA generativa não prejudicará a criatividade humana",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/criador-de-zelda-e-mario-afirma-que-ia-generativa-nao-prejudicara-a-criatividade-humana/",
+      "data": "2026-10-23T20:15:00+00:00"
+    },
+    {
+      "titulo": "Com comandos no Claude e Grok, hackers atacam mais de 400 instituições financeiras",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/com-comandos-no-claude-e-grok-hackers-atacam-mais-de-400-instituicoes-financeiras/",
+      "data": "2026-10-23T20:02:00+00:00"
+    },
+    {
+      "titulo": "Canais de irrigação? Como um erro astronômico do século 19 criou mito dos \"marcianos\"",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/ciencia-e-espaco/canais-de-irrigacao-como-um-erro-astronomico-do-seculo-19-criou-mito-dos-marcianos/",
+      "data": "2026-10-23T20:00:09+00:00"
+    },
+    {
+      "titulo": "Usuários já removeram a película fosca do iPhone Duo; veja como fica",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/usuarios-ja-removeram-a-pelicula-fosca-do-iphone-duo-veja-como-fica/",
+      "data": "2026-10-23T20:00:00+00:00"
+    },
+    {
+      "titulo": "Hyundai derruba preços do i20 e hatch sai mais em conta que VW Polo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/hyundai-derruba-precos-do-i20-e-hatch-sai-mais-em-conta-que-vw-polo/",
+      "data": "2026-10-23T20:00:00+00:00"
+    },
+    {
+      "titulo": "Lisa Su queria relançar o Ryzen 7 5800X3D como presente final para os donos da plataforma AM4",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/ryzen-7-5800x3d-presente-final-lisa-su/",
+      "data": "2026-10-23T19:59:02+00:00"
+    },
+    {
+      "titulo": "Motorola Edge 70 Fusion Plus (512 GB) atinge menor preço que já vimos",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-fusion-plus-512-gb-atinge-menor-preco-que-ja-vimos/",
+      "data": "2026-10-23T19:54:02+00:00"
+    },
+    {
+      "titulo": "Ações da SK Hynix sobem 4,4% após empresa suspender plano de IPO da subsidiária Solidigm",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/acoes-da-sk-hynix-sobem-44-apos-empresa-suspender-plano-de-ipo-da-subsidiaria-solidigm/",
+      "data": "2026-10-23T19:45:00+00:00"
+    },
+    {
+      "titulo": "Xiaomi lança ventilador com motor inverter que resfria e aquece o ar por R$ 560",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/xiaomi-lanca-ventilador-com-motor-inverter-que-resfria-e-aquece-o-ar-por-r-560/",
+      "data": "2026-10-23T19:33:44+00:00"
+    },
+    {
+      "titulo": "Google abre exceção para que sua IA use dados pessoais do Gmail e Drive para direcionar anúncios",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/google-personal-intelligence-gmail-fotos-anuncios/",
+      "data": "2026-10-23T19:32:21+00:00"
+    },
+    {
+      "titulo": "PHP revela nova vulnerabilidade após crise com falha crítica",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/php-revela-nova-vulnerabilidade-apos-crise-com-falha-critica/",
+      "data": "2026-10-23T19:30:00+00:00"
+    },
+    {
+      "titulo": "Acer Aspire Go 15 com RAM de 16 GB despenca 45% em até 10x sem juros",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/acer-aspire-go-15-com-ram-de-16-gb-despenca-45-em-ate-10x-sem-juros/",
+      "data": "2026-10-23T19:21:09+00:00"
+    },
+    {
+      "titulo": "Nvidia quer alcançar ‘todos os gamers do Brasil’ e ampliar presença fora do eixo Rio-São Paulo",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/nvidia-quer-alcancar-todos-os-gamers-do-brasil-e-ampliar-presenca-fora-do-eixo-rio-sao-paulo/",
+      "data": "2026-10-23T19:15:00+00:00"
+    },
+    {
+      "titulo": "10 jogos clássicos de PC dos anos 1990",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-classicos-pc-anos-1990/",
+      "data": "2026-10-23T19:15:00+00:00"
+    },
+    {
+      "titulo": "Netflix, Disney+ e mais: Vivo lança combos de streaming com até 40% de desconto",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/netflix-disney-e-mais-vivo-lanca-combos-de-streaming-com-ate-40-de-desconto/",
+      "data": "2026-10-23T19:14:13+00:00"
+    },
+    {
+      "titulo": "Samsung prepara Beta da One UI 9.5 para antes do que você imagina",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/samsung-prepara-beta-da-one-ui-95-para-antes-do-que-voce-imagina/",
+      "data": "2026-10-23T19:07:00+00:00"
+    },
+    {
+      "titulo": "ChatVote: assistente virtual do TSE agora tira dúvidas de eleitores pelo WhatsApp",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/chatvote-assistente-virtual-do-tse-agora-tira-duvidas-de-eleitores-pelo-whatsapp/",
+      "data": "2026-10-23T19:00:00+00:00"
+    },
+    {
+      "titulo": "Meta adia mudança nos termos após reação negativa",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/meta-adia-mudanca-nos-termos-apos-reacao-negativa/",
+      "data": "2026-10-23T18:55:14+00:00"
+    },
+    {
+      "titulo": "IA acelera a descompilação de jogos clássicos, mas ameaça destruir a comunidade de preservação",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/descompilacao-ia-retro-gaming/",
+      "data": "2026-10-23T18:54:54+00:00"
+    },
+    {
+      "titulo": "iPhone 18 Pro recebe R$ 3 mil de desconto com Amazon Prime",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/iphone-18-pro-recebe-r-3-mil-de-desconto-com-amazon-prime/",
+      "data": "2026-10-23T18:52:36+00:00"
+    },
+    {
+      "titulo": "Startup quer criar cães geneticamente modificados com tecnologia militar",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/startup-quer-criar-caes-geneticamente-modificados-com-tecnologia-militar/",
+      "data": "2026-10-23T18:47:24+00:00"
+    },
+    {
+      "titulo": "Vivo lança combos de streaming com até 40% de desconto",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/vivo-lanca-combos-de-streaming-com-ate-40-de-desconto/",
+      "data": "2026-10-23T18:12:36+00:00"
+    },
+    {
+      "titulo": "Centenas de RTX 5090 aparecem em fábrica chinesa sendo desmontadas para servidores de IA",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/rtx-5090-fabrica-chinesa-ia/",
+      "data": "2026-10-23T17:48:51+00:00"
+    },
     {
       "titulo": "Diretor de Kubo e as Cordas Mágicas acusa IA generativa de roubo: “Não há alma nisso”",
       "fonte": "Hardware.com.br",
@@ -14,48 +170,6 @@
       "data": "2026-10-23T17:17:35+00:00"
     },
     {
-      "titulo": "Por que o Google está cortando acesso dos assinantes básicos aos seus modelos de IA?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-o-google-esta-cortando-acesso-dos-assinantes-basicos-aos-seus-modelos-de-ia/",
-      "data": "2026-10-23T17:15:03+00:00"
-    },
-    {
-      "titulo": "Clássico do PS2, Need For Speed Most Wanted agora roda no navegador de graça; veja como jogar",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/classico-do-ps2-need-for-speed-most-wanted-agora-roda-no-navegador-veja-como-jogar/",
-      "data": "2026-10-23T17:15:00+00:00"
-    },
-    {
-      "titulo": "Google muda regras e pode usar seus dados do Gmail e Fotos para anúncios",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/google-muda-regras-e-pode-usar-seus-dados-do-gmail-e-fotos-para-anuncios/",
-      "data": "2026-10-23T17:04:00+00:00"
-    },
-    {
-      "titulo": "‘Não é repressão’: Spotify confirma que verificação via QR Code vai continuar no Plano Família",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/nao-e-repressao-spotify-confirma-que-verificacao-via-qr-code-vai-continuar-no-plano-familia/",
-      "data": "2026-10-23T17:00:00+00:00"
-    },
-    {
-      "titulo": "Galaxy Studio: headphone super top da Samsung já foi homologado",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/fone-de-ouvido/galaxy-studio-headphone-super-top-da-samsung-ja-foi-homologado/",
-      "data": "2026-10-23T16:56:00+00:00"
-    },
-    {
-      "titulo": "Smartwatch \"tático\" tem mapas offline e lanterna que ilumina de verdade",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartwatch/smartwatch-tatico-tem-mapas-offline-e-lanterna-que-ilumina-de-verdade/",
-      "data": "2026-10-23T16:39:09+00:00"
-    },
-    {
-      "titulo": "Falha crítica no Python expõe servidores a invasão e execução remota de códigos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-critica-no-python-expoe-servidores-a-invasao-e-execucao-remota-de-codigos/",
-      "data": "2026-10-23T16:30:00+00:00"
-    },
-    {
       "titulo": "Galaxy A36 e mais celulares Samsung recebem a One UI 9",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/galaxy-a36-e-mais-celulares-samsung-recebem-a-one-ui-9/",
@@ -66,120 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/bill-gates-ia-20-anos/",
       "data": "2026-10-23T16:18:50+00:00"
-    },
-    {
-      "titulo": "O que está acontecendo? Gigantes da tecnologia desabam na Bolsa e perdem valor",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/o-que-esta-acontecendo-gigantes-da-tecnologia-desabam-na-bolsa-e-perdem-valor/",
-      "data": "2026-10-23T16:02:00+00:00"
-    },
-    {
-      "titulo": "Mochila Lenovo B210 com 53% de desconto: um achado para quem precisa de praticidade no dia a dia",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/mochila-lenovo-b210-com-53-de-desconto-um-achado-para-quem-precisa-de-praticidade-no-dia-a-dia/",
-      "data": "2026-10-23T16:00:36+00:00"
-    },
-    {
-      "titulo": "Baterias maiores do Galaxy S27 Ultra e S27 Pro são reveladas em vazamento",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/supostas-baterias-samsung-galaxy-s27-vazamento/",
-      "data": "2026-10-23T16:00:00+00:00"
-    },
-    {
-      "titulo": "BWM oferece fortuna para colaboradores pedirem demissão; saiba mais",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/bwm-oferece-fortuna-para-colaboradores-pedirem-demissao-saiba-mais/",
-      "data": "2026-10-23T16:00:00+00:00"
-    },
-    {
-      "titulo": "CDPR revela novidades de Songs of the Past e fala sobre ‘ideia maluca’ de lançar DLC para Witcher 3",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/cdpr-revela-novidades-de-songs-of-the-past-e-fala-sobre-ideia-maluca-de-lancar-dlc-para-witcher-3/",
-      "data": "2026-10-23T15:45:00+00:00"
-    },
-    {
-      "titulo": "Especial de TVs tem modelos Samsung, TCL, Philips e mais com até 40% OFF no Meli",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/especial-de-tvs-tem-modelos-samsung-tcl-philips-e-mais-com-ate-40-off-no-meli/",
-      "data": "2026-10-23T15:33:00+00:00"
-    },
-    {
-      "titulo": "“Depois de um ano, aconteceu”: dono de RTX 5090 encontra conector derretido após enfrentar telas pretas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/rtx-5090-gigabyte-conector-derretido-apos-um-ano/",
-      "data": "2026-10-23T15:32:43+00:00"
-    },
-    {
-      "titulo": "Quer aposentar a gilete? O aparador Philips Multigroom 9 em 1 está com desconto + cupom e serve para o corpo todo!",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/quer-aposentar-a-gilete-o-aparador-philips-multigroom-9-em-1-esta-com-desconto-cupom-e-serve-para-o-corpo-todo/",
-      "data": "2026-10-23T15:30:43+00:00"
-    },
-    {
-      "titulo": "Fone Baseus, monitor Samsung, caixa de som coca-cola e mais ofertas tech na Shopee",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/fone-baseus-monitor-samsung-caixa-de-som-coca-cola-e-mais-ofertas-tech-na-shopee/",
-      "data": "2026-10-23T15:23:00+00:00"
-    },
-    {
-      "titulo": "Milhões de roteadores podem ser invadidos pelo Wi-Fi devido a uma falha de segurança de 16 anos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/milhoes-de-roteadores-podem-ser-invadidos-pelo-wifi-devido-falha-seguranca-16-anos/",
-      "data": "2026-10-23T15:20:37+00:00"
-    },
-    {
-      "titulo": "Vivo envia comunicado que mais confunde do que explica",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/vivo-envia-comunicado-que-mais-confunde-do-que-explica/",
-      "data": "2026-10-23T15:12:14+00:00"
-    },
-    {
-      "titulo": "Mercado de PCs enfrenta pior fase em anos e vendas desabam 21%; pior ainda está por vir",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/mercado-de-pcs-enfrenta-pior-fase-em-anos-e-vendas-desabam-21-pior-ainda-esta-por-vir/",
-      "data": "2026-10-23T15:08:00+00:00"
-    },
-    {
-      "titulo": "Google avisa assinantes do Gemini sobre transição para novo modelo inteligente",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-avisa-assinantes-do-gemini-sobre-transicao-para-novo-modelo-inteligente/",
-      "data": "2026-10-23T15:03:00+00:00"
-    },
-    {
-      "titulo": "Headset gamer JBL Quantum 100M2 com desconto a partir de R$158: entrega mais do que o preço sugere",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/headset-gamer-jbl-quantum-100m2-com-desconto-por-menos-de-r180-entrega-mais-do-que-o-preco-sugere-2/",
-      "data": "2026-10-23T15:00:38+00:00"
-    },
-    {
-      "titulo": "TIM Beta começa a mudar para clientes antigos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/tim-beta-comeca-a-mudar-para-clientes-antigos/",
-      "data": "2026-10-23T14:56:23+00:00"
-    },
-    {
-      "titulo": "Austrália decide: Apple deve abrir iPhone a apps de outras lojas",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/australia-decide-que-apple-deve-abrir-iphone-a-apps-de-outras-lojas/",
-      "data": "2026-10-23T14:45:08+00:00"
-    },
-    {
-      "titulo": "Huawei Watch Fit 5 Pro para treinos sai R$ 900 mais barato com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/huawei-watch-fit-5-pro-para-treinos-sai-r-900-mais-barato-com-cupom/",
-      "data": "2026-10-23T14:25:38+00:00"
-    },
-    {
-      "titulo": "Operadoras brasileiras vão liberar internet via satélite no celular",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/operadoras-brasileiras-vao-liberar-internet-via-satelite-no-celular/",
-      "data": "2026-10-23T14:06:35+00:00"
-    },
-    {
-      "titulo": "Galaxy S25 Ultra (512 GB) com tela premium tem desconto generoso",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-com-tela-premium-tem-desconto-generoso/",
-      "data": "2026-10-23T13:46:18+00:00"
     }
   ]
 }
