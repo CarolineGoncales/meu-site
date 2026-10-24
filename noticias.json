@@ -1,6 +1,78 @@
 {
-  "atualizado_em": "2026-10-24T16:06:45.084625+00:00",
+  "atualizado_em": "2026-10-24T18:52:26.208738+00:00",
   "noticias": [
+    {
+      "titulo": "10 jogos parecidos com Zelda para quem não tem um Nintendo Switch",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-parecidos-com-zelda-para-quem-nao-tem-nintendo-switch/",
+      "data": "2026-10-24T18:30:00+00:00"
+    },
+    {
+      "titulo": "Brasileiro lança CLT, jogo inspirado em GTA que se passa em Santa Catarina! Veja preço e onde jogar",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/brasileiro-lanca-clt-jogo-inspirado-em-gta-que-se-passa-em-santa-catarina-veja-preco-e-onde-jogar/",
+      "data": "2026-10-24T18:15:00+00:00"
+    },
+    {
+      "titulo": "Usuários usam IA para remover anúncios e rastreamento de smart TVs",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/usuarios-usam-ia-para-remover-anuncios-e-rastreamento-de-smart-tvs/",
+      "data": "2026-10-24T18:01:27+00:00"
+    },
+    {
+      "titulo": "7 sites e serviços famosos que rodam em PHP e você não sabia",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/sites-servicos-famosos-em-php-que-voce-nao-sabia/",
+      "data": "2026-10-24T18:00:00+00:00"
+    },
+    {
+      "titulo": "Red Dead Redemption 2 ganha sistema de nêmesis inspirado em Shadow of Mordor",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/red-dead-redemption-2-nemesis/",
+      "data": "2026-10-24T17:44:19+00:00"
+    },
+    {
+      "titulo": "Secador ou chapinha: qual gasta mais energia e pesa na conta de luz?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/secador-ou-chapinha-qual-gasta-mais-energia-e-pesa-na-conta-de-luz/",
+      "data": "2026-10-24T17:30:03+00:00"
+    },
+    {
+      "titulo": "App grátis libera YouTube na central multimídia do carro; veja como usar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/como-usar-app-gratis-libera-youtube-na-central-multimidia-do-carro/",
+      "data": "2026-10-24T17:00:04+00:00"
+    },
+    {
+      "titulo": "Novo dispositivo com IA permite transmitir cheiros pela internet",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/scentronic-cheiros-na-internet/",
+      "data": "2026-10-24T16:52:41+00:00"
+    },
+    {
+      "titulo": "Jogadores conseguem rodar games da Steam diretamente no PS5, incluindo Cyberpunk 2077, sem precisar de streaming",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/homem-roda-jogos-steam-ps5-sem-pc/",
+      "data": "2026-10-24T16:34:25+00:00"
+    },
+    {
+      "titulo": "Robô aspirador Xiaomi S40: quanto vale pagar na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/robo-aspirador-xiaomi-s40-quanto-vale-pagar-na-black-friday/",
+      "data": "2026-10-24T16:30:05+00:00"
+    },
+    {
+      "titulo": "Xbox Game Pass recebe novos jogos esta semana! Veja os lançamentos (24)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-novos-jogos-esta-semana-veja-os-lancamentos-24/",
+      "data": "2026-10-24T16:15:00+00:00"
+    },
+    {
+      "titulo": "5 carros por até R$ 40 mil com manutenção baratinha",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/5-carros-por-ate-r-40-mil-com-manutencao-baratinha/",
+      "data": "2026-10-24T16:07:00+00:00"
+    },
     {
       "titulo": "App abandonado do Time Popcorn transformou milhões de dispositivos em potenciais alvos de botnet",
       "fonte": "Hardware.com.br",
@@ -26,18 +98,6 @@
       "data": "2026-10-24T15:33:44+00:00"
     },
     {
-      "titulo": "iPad A16 Wi-Fi está com 19% de desconto: ele pode substituir um computador?",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/ipad-a16-wi-fi-esta-com-19-de-desconto-ele-pode-substituir-um-computador/",
-      "data": "2026-10-24T15:30:31+00:00"
-    },
-    {
-      "titulo": "Startup investe US$ 200 milhões em cães geneticamente modificados com tecnologia militar",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/warhound-caes-geneticamente-aprimorados-anduril/",
-      "data": "2026-10-24T15:20:43+00:00"
-    },
-    {
       "titulo": "Apple conseguiu melhorar a bateria do iPhone 18 Pro mesmo sem usar silício-carbono",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-conseguiu-melhorar-a-bateria-do-iphone-18-pro-mesmo-sem-usar-silicio-carbono/",
@@ -50,34 +110,10 @@
       "data": "2026-10-24T15:00:00+00:00"
     },
     {
-      "titulo": "Mouse sem fio Pebble 2 da Logitech cai de R$124 para R$96: clique silencioso e 2 anos de bateria",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/mouse-sem-fio-pebble-2-da-logitech-cai-de-r124-para-r80-clique-silencioso-e-2-anos-de-bateria/",
-      "data": "2026-10-24T14:30:30+00:00"
-    },
-    {
       "titulo": "Como saber se alguém espiona o seu celular? Veja 5 dicas",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/apps/dicas-como-saber-se-alguem-espiona-o-seu-celular/",
       "data": "2026-10-24T14:30:05+00:00"
-    },
-    {
-      "titulo": "O que significam as letras e números dos processadores de celular?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/o-que-significam-as-letras-e-numeros-dos-processadores-de-celular/",
-      "data": "2026-10-24T14:00:05+00:00"
-    },
-    {
-      "titulo": "GTA 6 tem tantos detalhes que nem os chefões da Rockstar conseguem conhecer tudo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-chefes-rockstar-nao-sabem-tudo/",
-      "data": "2026-10-24T13:39:47+00:00"
-    },
-    {
-      "titulo": "Que horas vai passar o último episódio de Bleach?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/que-horas-vai-passar-o-ultimo-episodio-de-bleach/",
-      "data": "2026-10-24T13:30:03+00:00"
     },
     {
       "titulo": "Câmera de segurança, fechadura inteligente e outros produtos oficiais da Intelbras em promoção",
@@ -86,34 +122,10 @@
       "data": "2026-10-24T13:15:00+00:00"
     },
     {
-      "titulo": "Qual iPhone NÃO comprar na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/qual-iphone-nao-comprar-na-black-friday-2026/",
-      "data": "2026-10-24T13:00:00+00:00"
-    },
-    {
-      "titulo": "3 melhores notebooks para arquitetos e engenheiros em 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/melhores-notebooks-para-arquitetos-engenheiros-2026/",
-      "data": "2026-10-24T12:30:00+00:00"
-    },
-    {
-      "titulo": "Por que tantas marcas estão relançando carros 100% a etanol?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/por-que-tantas-marcas-estao-relancando-carros-100-a-etanol/",
-      "data": "2026-10-24T12:08:00+00:00"
-    },
-    {
       "titulo": "Que fim levou a Dynacom, marca brasileira do console Dynavision?",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/que-fim-levou-a-dynacom-marca-brasileira-do-console-dynavision/",
       "data": "2026-10-24T12:00:00+00:00"
-    },
-    {
-      "titulo": "Como compartilhar o seu perfil no ChatGPT",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-compartilhar-perfil-chatgpt/",
-      "data": "2026-10-24T11:30:05+00:00"
     },
     {
       "titulo": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile! (24)",
@@ -132,12 +144,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/ferramentas-inteligentes-conheca-7-modelos-e-recursos/",
       "data": "2026-10-23T23:15:00+00:00"
-    },
-    {
-      "titulo": "IdeaPad Slim 3x com Snapdragon X é o clássico ‘PC de trabalho’ com ótima bateria",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/lenovo-ideapad-slim-3x-snapdragon-x-review/",
-      "data": "2026-10-23T23:00:00+00:00"
     },
     {
       "titulo": "Bug pode deixar Galaxy S26 Ultra praticamente inutilizável",
@@ -174,12 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/iphone-18-pro-recebe-r-3-mil-de-desconto-com-amazon-prime/",
       "data": "2026-10-23T18:52:36+00:00"
-    },
-    {
-      "titulo": "Startup quer criar cães geneticamente modificados com tecnologia militar",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/startup-quer-criar-caes-geneticamente-modificados-com-tecnologia-militar/",
-      "data": "2026-10-23T18:47:24+00:00"
     }
   ]
 }
