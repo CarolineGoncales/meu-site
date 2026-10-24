@@ -1,6 +1,114 @@
 {
-  "atualizado_em": "2026-10-24T12:07:32.757388+00:00",
+  "atualizado_em": "2026-10-24T16:06:45.084625+00:00",
   "noticias": [
+    {
+      "titulo": "App abandonado do Time Popcorn transformou milhões de dispositivos em potenciais alvos de botnet",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/time4popcorn-atualizador-desativado/",
+      "data": "2026-10-24T16:02:37+00:00"
+    },
+    {
+      "titulo": "Homem monta PC com quatro placas Radeon e 128 GB de VRAM para rodar IA local e alcança 1.192 tokens por segundo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/pc-quatro-radeon-128-gb-vram-ia-local/",
+      "data": "2026-10-24T15:56:29+00:00"
+    },
+    {
+      "titulo": "Protótipo de Pokémon Red nunca visto antes surge em leilão por US$ 25 mil",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/prototipo-de-pokemon-red-leilao/",
+      "data": "2026-10-24T15:42:31+00:00"
+    },
+    {
+      "titulo": "“Cadê meu Ryzen 7 5700X?”: brasileiro compra processador e encontra apenas a caixa vazia ao abrir encomenda",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/brasileiro-ryzen-7-5700x-recebe-caixa-vazia-mercado-livre/",
+      "data": "2026-10-24T15:33:44+00:00"
+    },
+    {
+      "titulo": "iPad A16 Wi-Fi está com 19% de desconto: ele pode substituir um computador?",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/ipad-a16-wi-fi-esta-com-19-de-desconto-ele-pode-substituir-um-computador/",
+      "data": "2026-10-24T15:30:31+00:00"
+    },
+    {
+      "titulo": "Startup investe US$ 200 milhões em cães geneticamente modificados com tecnologia militar",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/warhound-caes-geneticamente-aprimorados-anduril/",
+      "data": "2026-10-24T15:20:43+00:00"
+    },
+    {
+      "titulo": "Apple conseguiu melhorar a bateria do iPhone 18 Pro mesmo sem usar silício-carbono",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-conseguiu-melhorar-a-bateria-do-iphone-18-pro-mesmo-sem-usar-silicio-carbono/",
+      "data": "2026-10-24T15:00:00+00:00"
+    },
+    {
+      "titulo": "Galaxy A36 vs A16 5G: qual celular barato da Samsung vai durar mais?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/galaxy-a36-vs-a16-5g-qual-celular-barato-da-samsung-vai-durar-mais/",
+      "data": "2026-10-24T15:00:00+00:00"
+    },
+    {
+      "titulo": "Mouse sem fio Pebble 2 da Logitech cai de R$124 para R$96: clique silencioso e 2 anos de bateria",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/mouse-sem-fio-pebble-2-da-logitech-cai-de-r124-para-r80-clique-silencioso-e-2-anos-de-bateria/",
+      "data": "2026-10-24T14:30:30+00:00"
+    },
+    {
+      "titulo": "Como saber se alguém espiona o seu celular? Veja 5 dicas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/dicas-como-saber-se-alguem-espiona-o-seu-celular/",
+      "data": "2026-10-24T14:30:05+00:00"
+    },
+    {
+      "titulo": "O que significam as letras e números dos processadores de celular?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/o-que-significam-as-letras-e-numeros-dos-processadores-de-celular/",
+      "data": "2026-10-24T14:00:05+00:00"
+    },
+    {
+      "titulo": "GTA 6 tem tantos detalhes que nem os chefões da Rockstar conseguem conhecer tudo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-chefes-rockstar-nao-sabem-tudo/",
+      "data": "2026-10-24T13:39:47+00:00"
+    },
+    {
+      "titulo": "Que horas vai passar o último episódio de Bleach?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/que-horas-vai-passar-o-ultimo-episodio-de-bleach/",
+      "data": "2026-10-24T13:30:03+00:00"
+    },
+    {
+      "titulo": "Câmera de segurança, fechadura inteligente e outros produtos oficiais da Intelbras em promoção",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/camera-de-seguranca-fechadura-inteligente-e-outros-produtos-oficiais-da-intelbras-em-promocao/",
+      "data": "2026-10-24T13:15:00+00:00"
+    },
+    {
+      "titulo": "Qual iPhone NÃO comprar na Black Friday 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/qual-iphone-nao-comprar-na-black-friday-2026/",
+      "data": "2026-10-24T13:00:00+00:00"
+    },
+    {
+      "titulo": "3 melhores notebooks para arquitetos e engenheiros em 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/melhores-notebooks-para-arquitetos-engenheiros-2026/",
+      "data": "2026-10-24T12:30:00+00:00"
+    },
+    {
+      "titulo": "Por que tantas marcas estão relançando carros 100% a etanol?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/por-que-tantas-marcas-estao-relancando-carros-100-a-etanol/",
+      "data": "2026-10-24T12:08:00+00:00"
+    },
+    {
+      "titulo": "Que fim levou a Dynacom, marca brasileira do console Dynavision?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/que-fim-levou-a-dynacom-marca-brasileira-do-console-dynavision/",
+      "data": "2026-10-24T12:00:00+00:00"
+    },
     {
       "titulo": "Como compartilhar o seu perfil no ChatGPT",
       "fonte": "Canaltech",
@@ -12,18 +120,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-24/",
       "data": "2026-10-24T11:15:00+00:00"
-    },
-    {
-      "titulo": "O que são os TOPS dos chips de IA?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/o-que-sao-os-tops-dos-chips-de-ia/",
-      "data": "2026-10-24T11:00:06+00:00"
-    },
-    {
-      "titulo": "Gemini agora permite publicar miniaplicativos direto no Google Sites",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-agora-permite-publicar-miniaplicativos-direto-no-google-sites/",
-      "data": "2026-10-24T00:07:00+00:00"
     },
     {
       "titulo": "Embark testa ARC Raiders todos os dias e até o CEO da empresa participa",
@@ -38,46 +134,10 @@
       "data": "2026-10-23T23:15:00+00:00"
     },
     {
-      "titulo": "Canva lança gerador de imagens próprio que cria artes editáveis em camadas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/canva-lanca-gerador-de-imagens-proprio-que-cria-artes-editaveis-em-camadas/",
-      "data": "2026-10-23T23:04:00+00:00"
-    },
-    {
       "titulo": "IdeaPad Slim 3x com Snapdragon X é o clássico ‘PC de trabalho’ com ótima bateria",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/lenovo-ideapad-slim-3x-snapdragon-x-review/",
       "data": "2026-10-23T23:00:00+00:00"
-    },
-    {
-      "titulo": "Monster Hunter Wilds e mais jogos para Switch na eShop com até 90% OFF",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/monster-hunter-wilds-e-mais-jogos-para-switch-na-eshop-com-ate-90-off/",
-      "data": "2026-10-23T22:30:00+00:00"
-    },
-    {
-      "titulo": "BYD Dolphin Mini x Geely EX2: compare e escolha seu elétrico",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/byd-dolphin-mini-x-geely-ex2-compare-e-escolha-seu-eletrico/",
-      "data": "2026-10-23T22:05:00+00:00"
-    },
-    {
-      "titulo": "Sonda Voyager 1 da NASA vai ficar a 1 dia-luz da Terra; entenda",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/sonda-voyager-1-da-nasa-vai-ficar-a-1-dia-luz-da-terra-entenda/",
-      "data": "2026-10-23T22:00:07+00:00"
-    },
-    {
-      "titulo": "Missão chinesa encontra ‘cápsula do tempo’ de ferro gama na Lua; entenda",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/stem/missao-chinesa-encontra-capsula-do-tempo-de-ferro-gama-na-lua-entenda/",
-      "data": "2026-10-23T22:00:00+00:00"
-    },
-    {
-      "titulo": "Grande mudança no app do YouTube libera feeds personalizados por comando",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/grande-mudanca-no-app-do-youtube-libera-feeds-personalizados-por-comando/",
-      "data": "2026-10-23T22:00:00+00:00"
     },
     {
       "titulo": "Bug pode deixar Galaxy S26 Ultra praticamente inutilizável",
@@ -86,40 +146,16 @@
       "data": "2026-10-23T21:14:40+00:00"
     },
     {
-      "titulo": "Como são feitos os vídeos de IA que trocam pessoas?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-sao-feitos-os-videos-de-ia-que-trocam-pessoas/",
-      "data": "2026-10-23T21:00:04+00:00"
-    },
-    {
       "titulo": "Galaxy Tab S11 5G (256 GB) entra em oferta para quem busca alto desempenho",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-tab-s11-5g-256-gb-entra-em-oferta-para-quem-busca-alto-desempenho/",
       "data": "2026-10-23T20:25:02+00:00"
     },
     {
-      "titulo": "GALAX lança a primeira RTX 5080 do mundo com dois conectores de energia",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/galax-rtx-5080-hof-extreme/",
-      "data": "2026-10-23T20:20:44+00:00"
-    },
-    {
-      "titulo": "Lisa Su queria relançar o Ryzen 7 5800X3D como presente final para os donos da plataforma AM4",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/ryzen-7-5800x3d-presente-final-lisa-su/",
-      "data": "2026-10-23T19:59:02+00:00"
-    },
-    {
       "titulo": "Motorola Edge 70 Fusion Plus (512 GB) atinge menor preço que já vimos",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/motorola-edge-70-fusion-plus-512-gb-atinge-menor-preco-que-ja-vimos/",
       "data": "2026-10-23T19:54:02+00:00"
-    },
-    {
-      "titulo": "Google abre exceção para que sua IA use dados pessoais do Gmail e Drive para direcionar anúncios",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/google-personal-intelligence-gmail-fotos-anuncios/",
-      "data": "2026-10-23T19:32:21+00:00"
     },
     {
       "titulo": "Acer Aspire Go 15 com RAM de 16 GB despenca 45% em até 10x sem juros",
@@ -134,12 +170,6 @@
       "data": "2026-10-23T18:55:14+00:00"
     },
     {
-      "titulo": "IA acelera a descompilação de jogos clássicos, mas ameaça destruir a comunidade de preservação",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/descompilacao-ia-retro-gaming/",
-      "data": "2026-10-23T18:54:54+00:00"
-    },
-    {
       "titulo": "iPhone 18 Pro recebe R$ 3 mil de desconto com Amazon Prime",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/iphone-18-pro-recebe-r-3-mil-de-desconto-com-amazon-prime/",
@@ -150,36 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/startup-quer-criar-caes-geneticamente-modificados-com-tecnologia-militar/",
       "data": "2026-10-23T18:47:24+00:00"
-    },
-    {
-      "titulo": "O Tetris do CNCA: os riscos diante das denúncias de ofensa ao ECA Digital",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/colunas/o-tetris-do-cnca-os-riscos-diante-das-denuncias-de-ofensa-ao-eca-digital/",
-      "data": "2026-10-23T18:30:00+00:00"
-    },
-    {
-      "titulo": "Vivo lança combos de streaming com até 40% de desconto",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/vivo-lanca-combos-de-streaming-com-ate-40-de-desconto/",
-      "data": "2026-10-23T18:12:36+00:00"
-    },
-    {
-      "titulo": "Centenas de RTX 5090 aparecem em fábrica chinesa sendo desmontadas para servidores de IA",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/rtx-5090-fabrica-chinesa-ia/",
-      "data": "2026-10-23T17:48:51+00:00"
-    },
-    {
-      "titulo": "Diretor de Kubo e as Cordas Mágicas acusa IA generativa de roubo: “Não há alma nisso”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/entretenimento/travis-knight-ia-roubo-criativo-defende-stop-motion-wildwood/",
-      "data": "2026-10-23T17:25:43+00:00"
-    },
-    {
-      "titulo": "Canva lança Craft, sua própria IA para gerar imagens, e promete ir além de imagens bonitas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/canva-craft-imagens-ia-bonita/",
-      "data": "2026-10-23T17:17:35+00:00"
     }
   ]
 }
