@@ -1,6 +1,54 @@
 {
-  "atualizado_em": "2026-10-24T18:52:26.208738+00:00",
+  "atualizado_em": "2026-10-24T21:16:57.739006+00:00",
   "noticias": [
+    {
+      "titulo": "Do slasher ao sobrenatural: 8 franquias de terror para assistir na Netflix",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/slasher-sobrenatural-franquias-terror-assistir-netflix/",
+      "data": "2026-10-24T21:00:00+00:00"
+    },
+    {
+      "titulo": "Resident Evil Requiem gerou mais dinheiro com discos no PS5 do que com todas as vendas no Xbox",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/resident-evil-requiem-vendas-fisicas/",
+      "data": "2026-10-24T20:24:14+00:00"
+    },
+    {
+      "titulo": "PS5 desbloqueado: o que é Relapse, PS5SX2, Overdrive e o que isso tem a ver com GTA 6?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/ps5-desbloqueado-o-que-e-relapse-ps5sx2-overdrive-e-o-que-isso-tem-a-ver-com-gta-6/",
+      "data": "2026-10-24T20:15:00+00:00"
+    },
+    {
+      "titulo": "SUV seminovo da Jeep fica no precinho e sai mais barato que Tera em outubro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/suv-seminovo-da-jeep-fica-no-precinho-e-sai-mais-barato-que-tera-em-outubro/",
+      "data": "2026-10-24T20:00:03+00:00"
+    },
+    {
+      "titulo": "Chega de passar a noite no celular? Brick Night bloqueia apps automaticamente ao entrar no quarto",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/brick-night-bloqueio-automatico-no-quarto/",
+      "data": "2026-10-24T19:30:12+00:00"
+    },
+    {
+      "titulo": "Como se proteger de golpes feitos com IA?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/como-se-proteger-de-golpes-feitos-com-ia/",
+      "data": "2026-10-24T19:30:04+00:00"
+    },
+    {
+      "titulo": "Fone de gatinho, celular com 3 câmeras de 200 MP e mais: confira os lançamentos da semana",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/fone-de-gatinho-celular-com-3-cameras-de-200-mp-e-mais-confira-os-lancamentos-da-semana/",
+      "data": "2026-10-24T19:00:00+00:00"
+    },
+    {
+      "titulo": "O que é e como funciona a Conta Meta no WhatsApp, Instagram e Facebook?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/o-que-e-e-como-funciona-a-conta-meta-no-whatsapp-instagram-e-facebook/",
+      "data": "2026-10-24T19:00:00+00:00"
+    },
     {
       "titulo": "10 jogos parecidos com Zelda para quem não tem um Nintendo Switch",
       "fonte": "Canaltech",
@@ -56,22 +104,10 @@
       "data": "2026-10-24T16:34:25+00:00"
     },
     {
-      "titulo": "Robô aspirador Xiaomi S40: quanto vale pagar na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/robo-aspirador-xiaomi-s40-quanto-vale-pagar-na-black-friday/",
-      "data": "2026-10-24T16:30:05+00:00"
-    },
-    {
       "titulo": "Xbox Game Pass recebe novos jogos esta semana! Veja os lançamentos (24)",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-novos-jogos-esta-semana-veja-os-lancamentos-24/",
       "data": "2026-10-24T16:15:00+00:00"
-    },
-    {
-      "titulo": "5 carros por até R$ 40 mil com manutenção baratinha",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/5-carros-por-ate-r-40-mil-com-manutencao-baratinha/",
-      "data": "2026-10-24T16:07:00+00:00"
     },
     {
       "titulo": "App abandonado do Time Popcorn transformou milhões de dispositivos em potenciais alvos de botnet",
@@ -86,34 +122,10 @@
       "data": "2026-10-24T15:56:29+00:00"
     },
     {
-      "titulo": "Protótipo de Pokémon Red nunca visto antes surge em leilão por US$ 25 mil",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/prototipo-de-pokemon-red-leilao/",
-      "data": "2026-10-24T15:42:31+00:00"
-    },
-    {
-      "titulo": "“Cadê meu Ryzen 7 5700X?”: brasileiro compra processador e encontra apenas a caixa vazia ao abrir encomenda",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/brasileiro-ryzen-7-5700x-recebe-caixa-vazia-mercado-livre/",
-      "data": "2026-10-24T15:33:44+00:00"
-    },
-    {
       "titulo": "Apple conseguiu melhorar a bateria do iPhone 18 Pro mesmo sem usar silício-carbono",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-conseguiu-melhorar-a-bateria-do-iphone-18-pro-mesmo-sem-usar-silicio-carbono/",
       "data": "2026-10-24T15:00:00+00:00"
-    },
-    {
-      "titulo": "Galaxy A36 vs A16 5G: qual celular barato da Samsung vai durar mais?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/galaxy-a36-vs-a16-5g-qual-celular-barato-da-samsung-vai-durar-mais/",
-      "data": "2026-10-24T15:00:00+00:00"
-    },
-    {
-      "titulo": "Como saber se alguém espiona o seu celular? Veja 5 dicas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/dicas-como-saber-se-alguem-espiona-o-seu-celular/",
-      "data": "2026-10-24T14:30:05+00:00"
     },
     {
       "titulo": "Câmera de segurança, fechadura inteligente e outros produtos oficiais da Intelbras em promoção",
@@ -132,18 +144,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-24/",
       "data": "2026-10-24T11:15:00+00:00"
-    },
-    {
-      "titulo": "Embark testa ARC Raiders todos os dias e até o CEO da empresa participa",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/embark-testa-arc-raiders-todos-os-dias-e-ate-o-ceo-da-empresa-participa/",
-      "data": "2026-10-23T23:30:00+00:00"
-    },
-    {
-      "titulo": "7 ferramentas elétricas ‘inteligentes’ e como funcionam",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/ferramentas-inteligentes-conheca-7-modelos-e-recursos/",
-      "data": "2026-10-23T23:15:00+00:00"
     },
     {
       "titulo": "Bug pode deixar Galaxy S26 Ultra praticamente inutilizável",
