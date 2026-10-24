@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-10-24T07:27:04.634801+00:00",
+  "atualizado_em": "2026-10-24T12:07:32.757388+00:00",
   "noticias": [
+    {
+      "titulo": "Como compartilhar o seu perfil no ChatGPT",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-compartilhar-perfil-chatgpt/",
+      "data": "2026-10-24T11:30:05+00:00"
+    },
+    {
+      "titulo": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile! (24)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-24/",
+      "data": "2026-10-24T11:15:00+00:00"
+    },
+    {
+      "titulo": "O que são os TOPS dos chips de IA?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/o-que-sao-os-tops-dos-chips-de-ia/",
+      "data": "2026-10-24T11:00:06+00:00"
+    },
     {
       "titulo": "Gemini agora permite publicar miniaplicativos direto no Google Sites",
       "fonte": "Canaltech",
@@ -62,12 +80,6 @@
       "data": "2026-10-23T22:00:00+00:00"
     },
     {
-      "titulo": "Google muda política para usar dados do Gmail e Fotos em publicidade",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/google-muda-politica-para-usar-dados-do-gmail-e-fotos-em-publicidade/",
-      "data": "2026-10-23T21:20:00+00:00"
-    },
-    {
       "titulo": "Bug pode deixar Galaxy S26 Ultra praticamente inutilizável",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/bug-pode-deixar-galaxy-s26-ultra-praticamente-inutilizavel/",
@@ -80,12 +92,6 @@
       "data": "2026-10-23T21:00:04+00:00"
     },
     {
-      "titulo": "Dying Light 2, Monster Hunter Stories e mais jogos grátis deste fim de semana",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-gratis-fim-de-semana-dying-light-2-monster-hunter-stories-e-mais/",
-      "data": "2026-10-23T20:27:49+00:00"
-    },
-    {
       "titulo": "Galaxy Tab S11 5G (256 GB) entra em oferta para quem busca alto desempenho",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-tab-s11-5g-256-gb-entra-em-oferta-para-quem-busca-alto-desempenho/",
@@ -96,12 +102,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/galax-rtx-5080-hof-extreme/",
       "data": "2026-10-23T20:20:44+00:00"
-    },
-    {
-      "titulo": "Com comandos no Claude e Grok, hackers atacam mais de 400 instituições financeiras",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/com-comandos-no-claude-e-grok-hackers-atacam-mais-de-400-instituicoes-financeiras/",
-      "data": "2026-10-23T20:02:00+00:00"
     },
     {
       "titulo": "Lisa Su queria relançar o Ryzen 7 5800X3D como presente final para os donos da plataforma AM4",
