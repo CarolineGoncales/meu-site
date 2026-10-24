@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-10-23T23:36:42.538430+00:00",
+  "atualizado_em": "2026-10-24T02:11:52.715220+00:00",
   "noticias": [
+    {
+      "titulo": "Gemini agora permite publicar miniaplicativos direto no Google Sites",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-agora-permite-publicar-miniaplicativos-direto-no-google-sites/",
+      "data": "2026-10-24T00:07:00+00:00"
+    },
+    {
+      "titulo": "Embark testa ARC Raiders todos os dias e até o CEO da empresa participa",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/embark-testa-arc-raiders-todos-os-dias-e-ate-o-ceo-da-empresa-participa/",
+      "data": "2026-10-23T23:30:00+00:00"
+    },
     {
       "titulo": "7 ferramentas elétricas ‘inteligentes’ e como funcionam",
       "fonte": "TecMundo",
@@ -56,12 +68,6 @@
       "data": "2026-10-23T21:20:00+00:00"
     },
     {
-      "titulo": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (23)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-23/",
-      "data": "2026-10-23T21:15:00+00:00"
-    },
-    {
       "titulo": "Bug pode deixar Galaxy S26 Ultra praticamente inutilizável",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/bug-pode-deixar-galaxy-s26-ultra-praticamente-inutilizavel/",
@@ -96,12 +102,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/inteligencia-artificial/com-comandos-no-claude-e-grok-hackers-atacam-mais-de-400-instituicoes-financeiras/",
       "data": "2026-10-23T20:02:00+00:00"
-    },
-    {
-      "titulo": "Canais de irrigação? Como um erro astronômico do século 19 criou mito dos \"marcianos\"",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/canais-de-irrigacao-como-um-erro-astronomico-do-seculo-19-criou-mito-dos-marcianos/",
-      "data": "2026-10-23T20:00:09+00:00"
     },
     {
       "titulo": "Lisa Su queria relançar o Ryzen 7 5800X3D como presente final para os donos da plataforma AM4",
