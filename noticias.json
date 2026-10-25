@@ -1,6 +1,30 @@
 {
-  "atualizado_em": "2026-10-25T21:03:25.356260+00:00",
+  "atualizado_em": "2026-10-25T23:22:33.790126+00:00",
   "noticias": [
+    {
+      "titulo": "Minecraft no Nintendo Switch 2, Phantom Blade Zero e mais! Veja os lançamentos de games da semana",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/minecraft-no-nintendo-switch-2-phantom-blade-zero-e-mais-veja-os-lancamentos-de-games-da-semana/",
+      "data": "2026-10-25T22:45:00+00:00"
+    },
+    {
+      "titulo": "7 melhores jogos das Tartarugas Ninja para jogar",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/7-melhores-jogos-de-tmnt-para-jogar/",
+      "data": "2026-10-25T22:15:00+00:00"
+    },
+    {
+      "titulo": "Quanto custaria um Fiat Linea hoje, com a inflação?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/quanto-custaria-um-fiat-linea-hoje-com-a-inflacao/",
+      "data": "2026-10-25T22:03:00+00:00"
+    },
+    {
+      "titulo": "Home office: 55 vagas para trabalho remoto internacional [25/10]",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/home-office-55-vagas-para-trabalho-remoto-internacional-2510/",
+      "data": "2026-10-25T22:00:00+00:00"
+    },
     {
       "titulo": "7 jogos removidos de lojas digitais que não podem mais ser jogados",
       "fonte": "Canaltech",
@@ -72,12 +96,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/smartphone/redmi-note-14-pro-7-erros-comuns-que-destroem-a-bateria-do-celular/",
       "data": "2026-10-25T17:30:04+00:00"
-    },
-    {
-      "titulo": "Crise das memórias: por que até processadores ficam mais caros em 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/por-que-processadores-estao-mais-caros-2026/",
-      "data": "2026-10-25T17:00:00+00:00"
     },
     {
       "titulo": "The Last of Us influenciou a mudança de rumo de Resident Evil 7, revela ex-Capcom",
@@ -162,24 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/iphone-18-pro-recebe-r-3-mil-de-desconto-com-amazon-prime/",
       "data": "2026-10-23T18:52:36+00:00"
-    },
-    {
-      "titulo": "Startup quer criar cães geneticamente modificados com tecnologia militar",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/startup-quer-criar-caes-geneticamente-modificados-com-tecnologia-militar/",
-      "data": "2026-10-23T18:47:24+00:00"
-    },
-    {
-      "titulo": "Vivo lança combos de streaming com até 40% de desconto",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/vivo-lanca-combos-de-streaming-com-ate-40-de-desconto/",
-      "data": "2026-10-23T18:12:36+00:00"
-    },
-    {
-      "titulo": "Uninter investiga possível vazamento de 7,34 TB de dados em ataque hacker",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/uninter-investiga-possivel-vazamento-de-734-tb-de-dados-em-ataque-hacker/",
-      "data": "2026-10-22T12:05:00+00:00"
     }
   ]
 }
