@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-10-25T06:20:46.109317+00:00",
+  "atualizado_em": "2026-10-25T11:49:55.257122+00:00",
   "noticias": [
+    {
+      "titulo": "Como monetizar podcasts e vídeos no Spotify?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/como-monetizar-podcasts-e-videos-no-spotify/",
+      "data": "2026-10-25T11:30:02+00:00"
+    },
+    {
+      "titulo": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (25)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-25/",
+      "data": "2026-10-25T11:15:00+00:00"
+    },
+    {
+      "titulo": "11 filmes, séries e livros que previram robôs dominando o mundo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/filmes-series-livros-previram-robos-dominando-o-mundo/",
+      "data": "2026-10-25T11:00:00+00:00"
+    },
     {
       "titulo": "Review Acer Predator Helios 16S | Potência em games com uma tela OLED fora da curva",
       "fonte": "Canaltech",
@@ -74,12 +92,6 @@
       "data": "2026-10-24T19:00:00+00:00"
     },
     {
-      "titulo": "10 jogos parecidos com Zelda para quem não tem um Nintendo Switch",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-parecidos-com-zelda-para-quem-nao-tem-nintendo-switch/",
-      "data": "2026-10-24T18:30:00+00:00"
-    },
-    {
       "titulo": "Brasileiro lança CLT, jogo inspirado em GTA que se passa em Santa Catarina! Veja preço e onde jogar",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/brasileiro-lanca-clt-jogo-inspirado-em-gta-que-se-passa-em-santa-catarina-veja-preco-e-onde-jogar/",
@@ -90,12 +102,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/usuarios-usam-ia-para-remover-anuncios-e-rastreamento-de-smart-tvs/",
       "data": "2026-10-24T18:01:27+00:00"
-    },
-    {
-      "titulo": "7 sites e serviços famosos que rodam em PHP e você não sabia",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/internet-e-redes-sociais/sites-servicos-famosos-em-php-que-voce-nao-sabia/",
-      "data": "2026-10-24T18:00:00+00:00"
     },
     {
       "titulo": "Red Dead Redemption 2 ganha sistema de nêmesis inspirado em Shadow of Mordor",
@@ -132,12 +138,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/pc-quatro-radeon-128-gb-vram-ia-local/",
       "data": "2026-10-24T15:56:29+00:00"
-    },
-    {
-      "titulo": "Apple conseguiu melhorar a bateria do iPhone 18 Pro mesmo sem usar silício-carbono",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-conseguiu-melhorar-a-bateria-do-iphone-18-pro-mesmo-sem-usar-silicio-carbono/",
-      "data": "2026-10-24T15:00:00+00:00"
     },
     {
       "titulo": "Bug pode deixar Galaxy S26 Ultra praticamente inutilizável",
