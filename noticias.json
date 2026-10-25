@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-25T01:22:11.867168+00:00",
+  "atualizado_em": "2026-10-25T06:20:46.109317+00:00",
   "noticias": [
     {
       "titulo": "Review Acer Predator Helios 16S | Potência em games com uma tela OLED fora da curva",
@@ -140,12 +140,6 @@
       "data": "2026-10-24T15:00:00+00:00"
     },
     {
-      "titulo": "Câmera de segurança, fechadura inteligente e outros produtos oficiais da Intelbras em promoção",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/camera-de-seguranca-fechadura-inteligente-e-outros-produtos-oficiais-da-intelbras-em-promocao/",
-      "data": "2026-10-24T13:15:00+00:00"
-    },
-    {
       "titulo": "Bug pode deixar Galaxy S26 Ultra praticamente inutilizável",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/bug-pode-deixar-galaxy-s26-ultra-praticamente-inutilizavel/",
@@ -180,6 +174,12 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/iphone-18-pro-recebe-r-3-mil-de-desconto-com-amazon-prime/",
       "data": "2026-10-23T18:52:36+00:00"
+    },
+    {
+      "titulo": "Startup quer criar cães geneticamente modificados com tecnologia militar",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/startup-quer-criar-caes-geneticamente-modificados-com-tecnologia-militar/",
+      "data": "2026-10-23T18:47:24+00:00"
     }
   ]
 }
