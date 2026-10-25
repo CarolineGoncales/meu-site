@@ -1,6 +1,54 @@
 {
-  "atualizado_em": "2026-10-25T18:28:41.294658+00:00",
+  "atualizado_em": "2026-10-25T21:03:25.356260+00:00",
   "noticias": [
+    {
+      "titulo": "7 jogos removidos de lojas digitais que não podem mais ser jogados",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-removidos-lojas-digitais-que-nao-podem-mais-ser-jogados/",
+      "data": "2026-10-25T21:00:00+00:00"
+    },
+    {
+      "titulo": "Google Messages começará a usar Gemini para detectar golpes que filtros tradicionais não conseguem identificar",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/google-messages-enhanced-protection/",
+      "data": "2026-10-25T20:17:13+00:00"
+    },
+    {
+      "titulo": "CDPR fala sobre updates grátis e longevidade de Witcher 3 e Cyberpunk 2077: ‘Nosso modus operandi’",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/cdpr-fala-sobre-updates-gratis-e-longevidade-de-witcher-3-e-cyberpunk-2077-nosso-modus-operandi/",
+      "data": "2026-10-25T20:15:00+00:00"
+    },
+    {
+      "titulo": "O que a aba anônima do navegador realmente esconde de você",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/o-que-a-aba-anonima-do-navegador-realmente-esconde-de-voce/",
+      "data": "2026-10-25T20:00:00+00:00"
+    },
+    {
+      "titulo": "Carregador de celular com vários plugues são mais lentos? Nós testamos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/carregador-de-celular-com-varios-plugues-sao-mais-lentos-nos-testamos/",
+      "data": "2026-10-25T19:30:00+00:00"
+    },
+    {
+      "titulo": "YouTube adotará AV2 em 2027 com promessa de vídeos até 30% mais eficientes",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/av2-chega-ao-youtube-30-menos-dados/",
+      "data": "2026-10-25T19:07:19+00:00"
+    },
+    {
+      "titulo": "Toyota joga preços de Corolla e Yaris Cross no chão; veja condições",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/toyota-joga-precos-de-corolla-e-yaris-cross-no-chao-veja-condicoes/",
+      "data": "2026-10-25T19:02:00+00:00"
+    },
+    {
+      "titulo": "Black Friday dos EUA entrega no Brasil? Veja como comprar e quanto custa",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/black-friday-dos-eua-entrega-no-brasil-veja-como-comprar-e-quanto-custa/",
+      "data": "2026-10-25T18:30:00+00:00"
+    },
     {
       "titulo": "iPhone Duo tem primeiros relatos de rachaduras na tela após menos de 20 dobras",
       "fonte": "Hardware.com.br",
@@ -44,12 +92,6 @@
       "data": "2026-10-25T16:35:04+00:00"
     },
     {
-      "titulo": "Galaxy S24 na Black Friday: ainda vale a pena comprar em 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/galaxy-s24-na-black-friday-ainda-vale-a-pena-comprar-em-2026/",
-      "data": "2026-10-25T16:30:00+00:00"
-    },
-    {
       "titulo": "O que vai acontecer com The Sims após demissões na EA Games? Entenda o futuro da franquia",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/o-que-vai-acontecer-com-the-sims-apos-demissoes-na-ea-games-entenda-o-futuro-da-franquia/",
@@ -74,36 +116,6 @@
       "data": "2026-10-25T15:32:02+00:00"
     },
     {
-      "titulo": "Fiat quer ressuscitar SUV icônico para encarar chineses",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/fiat-quer-ressuscitar-suv-iconico-para-encarar-chineses/",
-      "data": "2026-10-25T15:01:00+00:00"
-    },
-    {
-      "titulo": "Fone com ANC pode prejudicar sua audição? Especialista responde",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/fone-de-ouvido/fone-com-anc-pode-prejudicar-sua-audicao-especialista-responde/",
-      "data": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "titulo": "Homem paga US$ 50 por uma RTX 3090 e encontra placa AMD de mais de 10 anos no interior",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/rtx-3090-pcb-radeon-r9-280-50-usd/",
-      "data": "2026-10-25T14:31:26+00:00"
-    },
-    {
-      "titulo": "Anker Soundcore P30i com 49% OFF: Fone com ANC inteligente, bateria de 45h e 4 opções de cores",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/anker-soundcore-p30i-com-46-off-fone-com-anc-inteligente-bateria-de-45h-e-4-opcoes-de-cores/",
-      "data": "2026-10-25T14:30:01+00:00"
-    },
-    {
-      "titulo": "Como tirar a barra do Google da tela inicial na One UI 9",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/como-tirar-a-barra-do-google-da-tela-inicial-na-one-ui-9/",
-      "data": "2026-10-25T14:30:00+00:00"
-    },
-    {
       "titulo": "Days Gone Remastered baratinho, Battlefield 6 no Game Pass, e mais! Veja as indicações de games",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/days-gone-remastered-baratinho-battlefield-6-no-game-pass-e-mais-veja-as-indicacoes-de-games/",
@@ -114,18 +126,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/6-aplicativos-pagos-estao-de-graca-na-play-store-por-tempo-limitado/",
       "data": "2026-10-25T14:00:00+00:00"
-    },
-    {
-      "titulo": "GTA 6 pode quebrar o recorde de Clair Obscur: Expedition 33 no The Game Awards?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/gta-6-pode-quebrar-o-recorde-de-clair-obscur-expedition-33-no-the-game-awards/",
-      "data": "2026-10-25T14:00:00+00:00"
-    },
-    {
-      "titulo": "Barcelona x Real Madrid na LA LIGA terá bola exclusiva e tecnológica",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/barcelona-x-real-madrid-na-la-liga-tera-bola-exclusiva-e-tecnologica/",
-      "data": "2026-10-25T12:00:00+00:00"
     },
     {
       "titulo": "Bug pode deixar Galaxy S26 Ultra praticamente inutilizável",
