@@ -1,11 +1,101 @@
 {
-  "atualizado_em": "2026-10-25T11:49:55.257122+00:00",
+  "atualizado_em": "2026-10-25T15:08:19.295044+00:00",
   "noticias": [
     {
-      "titulo": "Como monetizar podcasts e vídeos no Spotify?",
+      "titulo": "Fiat quer ressuscitar SUV icônico para encarar chineses",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/como-monetizar-podcasts-e-videos-no-spotify/",
-      "data": "2026-10-25T11:30:02+00:00"
+      "link": "https://canaltech.com.br/carros/fiat-quer-ressuscitar-suv-iconico-para-encarar-chineses/",
+      "data": "2026-10-25T15:01:00+00:00"
+    },
+    {
+      "titulo": "Fone com ANC pode prejudicar sua audição? Especialista responde",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/fone-de-ouvido/fone-com-anc-pode-prejudicar-sua-audicao-especialista-responde/",
+      "data": "2026-10-25T15:00:00+00:00"
+    },
+    {
+      "titulo": "Homem paga US$ 50 por uma RTX 3090 e encontra placa AMD de mais de 10 anos no interior",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/rtx-3090-pcb-radeon-r9-280-50-usd/",
+      "data": "2026-10-25T14:31:26+00:00"
+    },
+    {
+      "titulo": "Anker Soundcore P30i com 49% OFF: Fone com ANC inteligente, bateria de 45h e 4 opções de cores",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/anker-soundcore-p30i-com-46-off-fone-com-anc-inteligente-bateria-de-45h-e-4-opcoes-de-cores/",
+      "data": "2026-10-25T14:30:01+00:00"
+    },
+    {
+      "titulo": "Como tirar a barra do Google da tela inicial na One UI 9",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/como-tirar-a-barra-do-google-da-tela-inicial-na-one-ui-9/",
+      "data": "2026-10-25T14:30:00+00:00"
+    },
+    {
+      "titulo": "Days Gone Remastered baratinho, Battlefield 6 no Game Pass, e mais! Veja as indicações de games",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/days-gone-remastered-baratinho-battlefield-6-no-game-pass-e-mais-veja-as-indicacoes-de-games/",
+      "data": "2026-10-25T14:00:00+00:00"
+    },
+    {
+      "titulo": "6 aplicativos pagos estão de graça na Play Store por tempo limitado",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/6-aplicativos-pagos-estao-de-graca-na-play-store-por-tempo-limitado/",
+      "data": "2026-10-25T14:00:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 pode quebrar o recorde de Clair Obscur: Expedition 33 no The Game Awards?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/gta-6-pode-quebrar-o-recorde-de-clair-obscur-expedition-33-no-the-game-awards/",
+      "data": "2026-10-25T14:00:00+00:00"
+    },
+    {
+      "titulo": "Cadeira ergonômica com tela mesh e 42% de desconto: conforto de escritório profissional para o seu home office",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/cadeira-ergonomica-com-tela-mesh-e-44-de-desconto-conforto-de-escritorio-profissional-para-o-seu-home-office/",
+      "data": "2026-10-25T13:30:17+00:00"
+    },
+    {
+      "titulo": "10 momentos mais importantes de Bleach",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/bleach-momentos-mais-importantes/",
+      "data": "2026-10-25T13:30:00+00:00"
+    },
+    {
+      "titulo": "Agentes de IA da OpenAI conseguem se comunicar sem internet ao explorar cache do processador",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/agentes-ia-openai-comunicar-sem/",
+      "data": "2026-10-25T13:06:49+00:00"
+    },
+    {
+      "titulo": "Por que a Marvel tenta matar os X-Men da Fox pela 3ª vez?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/por-que-a-marvel-tenta-matar-os-x-men-da-fox-pela-3-vez/",
+      "data": "2026-10-25T13:00:00+00:00"
+    },
+    {
+      "titulo": "Para que serve a porta de 2.5G no roteador que você tem em casa?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/para-que-serve-a-porta-de-25g-no-roteador/",
+      "data": "2026-10-25T12:30:06+00:00"
+    },
+    {
+      "titulo": "Críticas ao fim dos discos de PS5 vêm de uma “minoria valiosa”, afirma analista",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/critica-fim-disco-ps5-minoria-valiosa/",
+      "data": "2026-10-25T12:09:44+00:00"
+    },
+    {
+      "titulo": "Posso deixar o carro elétrico carregando a noite toda?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/posso-deixar-o-carro-eletrico-carregando-a-noite-toda/",
+      "data": "2026-10-25T12:05:03+00:00"
+    },
+    {
+      "titulo": "Barcelona x Real Madrid na LA LIGA terá bola exclusiva e tecnológica",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/barcelona-x-real-madrid-na-la-liga-tera-bola-exclusiva-e-tecnologica/",
+      "data": "2026-10-25T12:00:00+00:00"
     },
     {
       "titulo": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (25)",
@@ -14,58 +104,10 @@
       "data": "2026-10-25T11:15:00+00:00"
     },
     {
-      "titulo": "11 filmes, séries e livros que previram robôs dominando o mundo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/filmes-series-livros-previram-robos-dominando-o-mundo/",
-      "data": "2026-10-25T11:00:00+00:00"
-    },
-    {
-      "titulo": "Review Acer Predator Helios 16S | Potência em games com uma tela OLED fora da curva",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/review-acer-predator-helios-16s/",
-      "data": "2026-10-24T23:00:05+00:00"
-    },
-    {
-      "titulo": "10 melhores dicas para aproveitar em The Witcher 3 remasterizado",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/como-jogar-the-witcher-3-remasterizado-confira-10-dicas/",
-      "data": "2026-10-24T22:15:00+00:00"
-    },
-    {
-      "titulo": "5 infrações de trânsito que podem levar à apreensão do carro",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/5-infracoes-de-transito-que-podem-levar-a-apreensao-do-carro/",
-      "data": "2026-10-24T22:05:03+00:00"
-    },
-    {
-      "titulo": "Big techs: confira lista de vagas de trabalho disponíveis no Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/big-techs-confira-lista-de-vagas-de-trabalho-disponiveis-no-brasil/",
-      "data": "2026-10-24T22:00:00+00:00"
-    },
-    {
-      "titulo": "Do slasher ao sobrenatural: 8 franquias de terror para assistir na Netflix",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/slasher-sobrenatural-franquias-terror-assistir-netflix/",
-      "data": "2026-10-24T21:00:00+00:00"
-    },
-    {
       "titulo": "Resident Evil Requiem gerou mais dinheiro com discos no PS5 do que com todas as vendas no Xbox",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/resident-evil-requiem-vendas-fisicas/",
       "data": "2026-10-24T20:24:14+00:00"
-    },
-    {
-      "titulo": "PS5 desbloqueado: o que é Relapse, PS5SX2, Overdrive e o que isso tem a ver com GTA 6?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ps5-desbloqueado-o-que-e-relapse-ps5sx2-overdrive-e-o-que-isso-tem-a-ver-com-gta-6/",
-      "data": "2026-10-24T20:15:00+00:00"
-    },
-    {
-      "titulo": "SUV seminovo da Jeep fica no precinho e sai mais barato que Tera em outubro",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/suv-seminovo-da-jeep-fica-no-precinho-e-sai-mais-barato-que-tera-em-outubro/",
-      "data": "2026-10-24T20:00:03+00:00"
     },
     {
       "titulo": "Chega de passar a noite no celular? Brick Night bloqueia apps automaticamente ao entrar no quarto",
@@ -74,70 +116,10 @@
       "data": "2026-10-24T19:30:12+00:00"
     },
     {
-      "titulo": "Como se proteger de golpes feitos com IA?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/como-se-proteger-de-golpes-feitos-com-ia/",
-      "data": "2026-10-24T19:30:04+00:00"
-    },
-    {
-      "titulo": "Fone de gatinho, celular com 3 câmeras de 200 MP e mais: confira os lançamentos da semana",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/fone-de-gatinho-celular-com-3-cameras-de-200-mp-e-mais-confira-os-lancamentos-da-semana/",
-      "data": "2026-10-24T19:00:00+00:00"
-    },
-    {
-      "titulo": "O que é e como funciona a Conta Meta no WhatsApp, Instagram e Facebook?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/o-que-e-e-como-funciona-a-conta-meta-no-whatsapp-instagram-e-facebook/",
-      "data": "2026-10-24T19:00:00+00:00"
-    },
-    {
-      "titulo": "Brasileiro lança CLT, jogo inspirado em GTA que se passa em Santa Catarina! Veja preço e onde jogar",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/brasileiro-lanca-clt-jogo-inspirado-em-gta-que-se-passa-em-santa-catarina-veja-preco-e-onde-jogar/",
-      "data": "2026-10-24T18:15:00+00:00"
-    },
-    {
       "titulo": "Usuários usam IA para remover anúncios e rastreamento de smart TVs",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/usuarios-usam-ia-para-remover-anuncios-e-rastreamento-de-smart-tvs/",
       "data": "2026-10-24T18:01:27+00:00"
-    },
-    {
-      "titulo": "Red Dead Redemption 2 ganha sistema de nêmesis inspirado em Shadow of Mordor",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/red-dead-redemption-2-nemesis/",
-      "data": "2026-10-24T17:44:19+00:00"
-    },
-    {
-      "titulo": "Novo dispositivo com IA permite transmitir cheiros pela internet",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/scentronic-cheiros-na-internet/",
-      "data": "2026-10-24T16:52:41+00:00"
-    },
-    {
-      "titulo": "Jogadores conseguem rodar games da Steam diretamente no PS5, incluindo Cyberpunk 2077, sem precisar de streaming",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/homem-roda-jogos-steam-ps5-sem-pc/",
-      "data": "2026-10-24T16:34:25+00:00"
-    },
-    {
-      "titulo": "Xbox Game Pass recebe novos jogos esta semana! Veja os lançamentos (24)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-novos-jogos-esta-semana-veja-os-lancamentos-24/",
-      "data": "2026-10-24T16:15:00+00:00"
-    },
-    {
-      "titulo": "App abandonado do Time Popcorn transformou milhões de dispositivos em potenciais alvos de botnet",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/time4popcorn-atualizador-desativado/",
-      "data": "2026-10-24T16:02:37+00:00"
-    },
-    {
-      "titulo": "Homem monta PC com quatro placas Radeon e 128 GB de VRAM para rodar IA local e alcança 1.192 tokens por segundo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/pc-quatro-radeon-128-gb-vram-ia-local/",
-      "data": "2026-10-24T15:56:29+00:00"
     },
     {
       "titulo": "Bug pode deixar Galaxy S26 Ultra praticamente inutilizável",
@@ -180,6 +162,24 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/startup-quer-criar-caes-geneticamente-modificados-com-tecnologia-militar/",
       "data": "2026-10-23T18:47:24+00:00"
+    },
+    {
+      "titulo": "Vivo lança combos de streaming com até 40% de desconto",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/vivo-lanca-combos-de-streaming-com-ate-40-de-desconto/",
+      "data": "2026-10-23T18:12:36+00:00"
+    },
+    {
+      "titulo": "Uninter investiga possível vazamento de 7,34 TB de dados em ataque hacker",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/uninter-investiga-possivel-vazamento-de-734-tb-de-dados-em-ataque-hacker/",
+      "data": "2026-10-22T12:05:00+00:00"
+    },
+    {
+      "titulo": "Spotify lança app nativo para carros que não depende de CarPlay ou Android Auto",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/spotify-lanca-app-nativo-para-carros-que-nao-depende-de-carplay-ou-android-auto/",
+      "data": "2026-10-21T21:00:00+00:00"
     }
   ]
 }
