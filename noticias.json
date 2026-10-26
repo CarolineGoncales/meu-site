@@ -1,6 +1,120 @@
 {
-  "atualizado_em": "2026-10-26T19:37:05.518372+00:00",
+  "atualizado_em": "2026-10-26T23:24:52.951629+00:00",
   "noticias": [
+    {
+      "titulo": "Estrela de Obsessão e X-Men mira em adaptação de Call of Duty",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/estrela-de-obsessao-e-x-men-mira-em-adaptacao-de-call-of-duty/",
+      "data": "2026-10-26T23:01:01+00:00"
+    },
+    {
+      "titulo": "Veja como impedir que Google use seus e-mails e fotos em anúncios",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/veja-como-impedir-que-google-use-seus-e-mails-e-fotos-em-anuncios/",
+      "data": "2026-10-26T23:01:00+00:00"
+    },
+    {
+      "titulo": "Sky e Giga+ admitem conversas; negócio criaria gigante do mercado de fibra",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/sky-e-giga-admitem-conversas-negocio-criaria-gigante-do-mercado-de-fibra/",
+      "data": "2026-10-26T22:45:55+00:00"
+    },
+    {
+      "titulo": "Bancos dos EUA bloqueiam IA em contas de clientes por falha de segurança, alega fonte",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/bancos-dos-eua-bloqueiam-ia-em-contas-de-clientes-por-falha-de-seguranca-alega-fonte/",
+      "data": "2026-10-26T22:30:00+00:00"
+    },
+    {
+      "titulo": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (26)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-26/",
+      "data": "2026-10-26T22:15:00+00:00"
+    },
+    {
+      "titulo": "OpenAI lança GPT-6.1 Terra: mais rápido, 50% mais barato e focado em controlar PCs",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-61-terra-mais-rapido-50-mais-barato-e-focado-em-controlar-pcs/",
+      "data": "2026-10-26T22:06:00+00:00"
+    },
+    {
+      "titulo": "Vivo lança serviço de internet via satélite grátis em parceria com a Starlink",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/vivo-lanca-servico-de-internet-via-satelite-gratis-em-parceria-com-a-starlink/",
+      "data": "2026-10-26T22:00:00+00:00"
+    },
+    {
+      "titulo": "Quem é Manni L. Perez? Conheça a atriz apontada como a protagonista de GTA 6",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/quem-e-manni-l-perez-conheca-a-atriz-apontada-como-a-protagonista-de-gta-6/",
+      "data": "2026-10-26T21:45:02+00:00"
+    },
+    {
+      "titulo": "Moto G77 5G (256 GB) com câmera de 108 MP cai 38% em promoção",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/moto-g77-5g-256-gb-com-camera-de-108-mp-cai-38-em-promocao/",
+      "data": "2026-10-26T21:38:31+00:00"
+    },
+    {
+      "titulo": "Desenvolvedor demonstra ataque com PHP2Shell e vence desafio de R$ 10 mil em Bitcoin",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/desenvolvedor-demonstra-ataque-com-php2shell-e-vence-desafio-de-r-10-mil-em-bitcoin/",
+      "data": "2026-10-26T21:30:00+00:00"
+    },
+    {
+      "titulo": "Remake de Tomb Raider ganha trailer nostálgico com momentos icônicos de 1996",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/remake-de-tomb-raider-ganha-trailer-nostalgico-com-momentos-iconicos-de-1996/",
+      "data": "2026-10-26T21:18:00+00:00"
+    },
+    {
+      "titulo": "Bully ganha remake feito na Unreal Engine 5! Veja como testar de graça",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/bully-ganha-remake-feito-na-unreal-engine-5-veja-como-testar-de-graca/",
+      "data": "2026-10-26T21:15:00+00:00"
+    },
+    {
+      "titulo": "Intel tem novos processadores LGA-1700 confirmados por driver vazado e revela clocks de quatro modelos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware/raptor-lake-next-intel-driver/",
+      "data": "2026-10-26T21:05:55+00:00"
+    },
+    {
+      "titulo": "Faxina no Gemini: Google testa exclusão de várias conversas ao mesmo tempo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/faxina-no-gemini-google-testa-exclusao-de-varias-conversas-ao-mesmo-tempo/",
+      "data": "2026-10-26T21:03:00+00:00"
+    },
+    {
+      "titulo": "‘Anos à frente’: Samsung zoa iPhone Duo em comercial dizendo que fez dobráveis muito antes",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/anos-a-frente-samsung-zoa-iphone-duo-em-comercial-dizendo-que-fez-dobraveis-muito-antes/",
+      "data": "2026-10-26T21:00:00+00:00"
+    },
+    {
+      "titulo": "Celular com bateria absurda foi parar no livro dos recordes e custa R$ 1.600",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/celular-com-bateria-absurda-foi-parar-no-livro-dos-recordes-e-custa-r-1600/",
+      "data": "2026-10-26T20:38:30+00:00"
+    },
+    {
+      "titulo": "Fenômeno literário, série de Quarta Asa já tem data para iniciar filmagens",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/fenomeno-literario-serie-de-quarta-asa-ja-tem-data-para-iniciar-filmagens/",
+      "data": "2026-10-26T20:35:03+00:00"
+    },
+    {
+      "titulo": "Samsung deve cortar produção da linha Galaxy A em 20%",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/samsung-deve-cortar-producao-da-linha-galaxy-a-em-20/",
+      "data": "2026-10-26T20:31:47+00:00"
+    },
+    {
+      "titulo": "Vivo lança combos de streaming com até 40% de desconto na assinatura",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/vivo-lanca-combos-de-streaming-com-ate-40-de-desconto-na-assinatura/",
+      "data": "2026-10-26T20:00:00+00:00"
+    },
     {
       "titulo": "Disney+ remove 4K, HDR e Dolby Vision no Brasil, mas mantém preço de R$ 69,90 no plano Premium",
       "fonte": "Hardware.com.br",
@@ -8,28 +122,16 @@
       "data": "2026-10-26T19:24:58+00:00"
     },
     {
-      "titulo": "Rockstar Games envia caixa de itens de GTA 6 para brasileiros! Veja o que vem dentro",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/rockstar-games-envia-caixa-de-itens-de-gta-6-para-brasileiros-veja-o-que-vem-dentro/",
-      "data": "2026-10-26T19:15:00+00:00"
-    },
-    {
-      "titulo": "Audio-Technica revela fone super top com madeira e drivers gigantes",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/fone-de-ouvido/audio-technica-revela-fone-super-top-com-madeira-e-drivers-gigantes/",
-      "data": "2026-10-26T19:13:09+00:00"
+      "titulo": "IA invade sistemas internos da Anthropic e expõe dados sensíveis em menos de 12 horas",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/anthropic-dados-internos-expostos-ia/",
+      "data": "2026-10-26T19:23:52+00:00"
     },
     {
       "titulo": "Garmin Venu 4 para treinos tem mais de R$ 1.000 OFF em até 12x sem juros",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/garmin-venu-4-para-treinos-tem-mais-de-r-1-000-off-em-ate-12x-sem-juros/",
       "data": "2026-10-26T19:10:09+00:00"
-    },
-    {
-      "titulo": "Rivais históricas unidas: CEO da Intel conversou com Lisa Su sobre parceria com a AMD",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/rivais-historicas-unidas-ceo-da-intel-conversou-com-lisa-su-sobre-parceria-com-a-amd/",
-      "data": "2026-10-26T19:10:00+00:00"
     },
     {
       "titulo": "Apple confirma falha na tela do iPhone Duo, mas afirma que afeta apenas um “pequeno número de unidades”",
@@ -44,58 +146,16 @@
       "data": "2026-10-26T19:05:16+00:00"
     },
     {
-      "titulo": "Instagram testa novo formato de vídeos horizontais e Brasil será \"laboratório\"",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/instagram-testa-novo-formato-de-videos-horizontais-e-brasil-sera-laboratorio/",
-      "data": "2026-10-26T19:05:00+00:00"
-    },
-    {
-      "titulo": "Meta adia regras que permitiriam coletar conteúdos jornalísticos sem compensação",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/meta-adia-regras-que-permitiriam-coletar-conteudos-jornalisticos-sem-compensacao/",
-      "data": "2026-10-26T19:00:00+00:00"
-    },
-    {
       "titulo": "Windows 11 finalmente ganha teste de velocidade nativo e dispensa navegador",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/windows-11-insider-teste-velocidade/",
       "data": "2026-10-26T18:54:04+00:00"
     },
     {
-      "titulo": "IA está sugando chips? Samsung pode fabricar 20% menos Galaxy A",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/ia-esta-sugando-chips-samsung-pode-fabricar-20-menos-galaxy-a/",
-      "data": "2026-10-26T18:41:25+00:00"
-    },
-    {
-      "titulo": "Apple lança iOS 27.2 com Siri AI em português",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-lanca-ios-272-com-siri-ai-em-portugues/",
-      "data": "2026-10-26T18:41:00+00:00"
-    },
-    {
-      "titulo": "Novo diretor de Batman: Parte 2 recebe aprovação de Robert Pattinson",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/novo-diretor-de-batman-parte-2-recebe-aprovacao-de-robert-pattinson/",
-      "data": "2026-10-26T18:29:00+00:00"
-    },
-    {
       "titulo": "Galaxy S25 Plus com Snapdragon tem um dos melhores descontos recentes",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-s25-plus-com-snapdragon-tem-um-dos-melhores-descontos-recentes/",
       "data": "2026-10-26T18:15:26+00:00"
-    },
-    {
-      "titulo": "Cansou da IA no Google? Veja como bloquear resumos automáticos e limpar a busca",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/cansou-da-ia-no-google-veja-como-bloquear-resumos-automaticos-e-limpar-a-busca/",
-      "data": "2026-10-26T18:08:00+00:00"
-    },
-    {
-      "titulo": "Windows 11 prepara melhorias para ficar mais rápido em chips Intel e AMD de próxima geração",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/windows-11-prepara-melhorias-para-ficar-mais-rapido-em-chips-intel-e-amd-de-proxima-geracao/",
-      "data": "2026-10-26T18:07:00+00:00"
     },
     {
       "titulo": "Vivo e Starlink lançam conexão via satélite para celulares no Brasil, com acesso grátis por até 12 meses",
@@ -110,12 +170,6 @@
       "data": "2026-10-26T18:04:37+00:00"
     },
     {
-      "titulo": "Regras para bikes elétricas e patinetes em SP ficam mais rígidas e vão pesar no bolso",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/regras-para-bikes-eletricas-e-patinetes-em-sp-ficam-mais-rigidas-e-vao-pesar-no-bolso/",
-      "data": "2026-10-26T18:00:00+00:00"
-    },
-    {
       "titulo": "Smart TV LG QNED Mini LED 65″ fica 28% mais barata em oferta",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/smart-tv-lg-qned-mini-led-65-fica-28-mais-barata-em-oferta/",
@@ -126,60 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/oppo-homologa-powerbank-de-100-w-no-brasil/",
       "data": "2026-10-26T17:50:31+00:00"
-    },
-    {
-      "titulo": "Microsoft oferece pacotes voluntários de saída para até 60 mil funcionários; Xbox e equipes de IA inclusos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/microsoft-saida-voluntaria-60-mil-funcionarios-xbox-ia/",
-      "data": "2026-10-26T17:45:26+00:00"
-    },
-    {
-      "titulo": "Disney+ Premium perde 4K, HDR e Dolby Vision no Brasil, mas mantém preço",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/disney-plus-remove-4k-hdr-brasil/",
-      "data": "2026-10-26T17:40:00+00:00"
-    },
-    {
-      "titulo": "iPhone 16 (512 GB) chega ao menor preço desde julho na Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/iphone-16-512-gb-chega-ao-menor-preco-desde-julho-na-amazon/",
-      "data": "2026-10-26T17:32:24+00:00"
-    },
-    {
-      "titulo": "Sucker Punch, estúdio de Ghost of Yotei, sofre demissões mesmo após sucesso comercial do jogo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/sucker-punch-ghost-of-yotei-demissoess/",
-      "data": "2026-10-26T17:04:06+00:00"
-    },
-    {
-      "titulo": "Desmontagem do iPhone Duo revela ponto fraco na dobradiça que estaria causando rachaduras na tela",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/iphone-duo-elo-fragil-dobradica/",
-      "data": "2026-10-26T16:50:01+00:00"
-    },
-    {
-      "titulo": "Microsoft prepara medidor de internet “real” no Windows 11",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/microsoft-prepara-medidor-de-internet-real-no-windows-11/",
-      "data": "2026-10-26T16:19:01+00:00"
-    },
-    {
-      "titulo": "Atriz que supostamente será Lucia em GTA 6 viraliza em live e responde fãs: ‘Eu não sou rica’",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/atriz-que-supostamente-sera-lucia-em-gta-6-viraliza-em-live-e-responde-fas-eu-nao-sou-rica/",
-      "data": "2026-10-26T16:15:00+00:00"
-    },
-    {
-      "titulo": "Itaú compra startup de IA por R$ 2,9 bilhões",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/itau-compra-startup-de-ia-por-r-29-bilhoes/",
-      "data": "2026-10-26T15:21:54+00:00"
-    },
-    {
-      "titulo": "Apple anuncia novo iPad mini completamente remodelado com tela OLED",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-anuncia-novo-ipad-mini-completamente-remodelado-com-tela-oled/",
-      "data": "2026-10-26T14:35:00+00:00"
     }
   ]
 }
