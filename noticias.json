@@ -1,16 +1,160 @@
 {
-  "atualizado_em": "2026-10-26T06:30:15.174640+00:00",
+  "atualizado_em": "2026-10-26T13:39:46.147433+00:00",
   "noticias": [
+    {
+      "titulo": "Sony registra patente que pode permitir que jogadores surdos “vejam” os sons dos jogos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/sony-surdos-vejam-sons-jogos/",
+      "data": "2026-10-26T13:37:23+00:00"
+    },
+    {
+      "titulo": "iPhone 17 Pro surge com 35% de desconto! Entenda o que o modelo entrega de moderno",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/iphone-17-pro-surge-com-35-de-desconto-entenda-o-que-o-modelo-entrega-de-moderno/",
+      "data": "2026-10-26T13:29:42+00:00"
+    },
+    {
+      "titulo": "Xiaomi lança máquina de massagem que parece uma Hidra de 16 cabeças",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/xiaomi-lanca-maquina-de-massagem-que-parece-uma-hidra-de-16-cabecas/",
+      "data": "2026-10-26T13:29:00+00:00"
+    },
+    {
+      "titulo": "Em meio a aumento de preços, Netflix vê audiência cair",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/em-meio-a-aumento-de-precos-netflix-ve-audiencia-cair/",
+      "data": "2026-10-26T13:27:27+00:00"
+    },
+    {
+      "titulo": "Apple enfrenta crise de iPhone Duo com tela quebrada",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/iphone-duo-tem-relatos-de-tela-rachada-poucos-dias-apos-lancamento/",
+      "data": "2026-10-26T13:17:05+00:00"
+    },
+    {
+      "titulo": "Ferramenta grátis leva qualquer app à tela do carro com Android Auto sem root",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/ferramenta-gratis-leva-qualquer-app-a-tela-do-carro-com-android-auto-sem-root/",
+      "data": "2026-10-26T13:14:16+00:00"
+    },
+    {
+      "titulo": "Cansado dos preços elevados, jogador recria PC de 1996 e encontra cheats de Doom 2 em HD antigo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/jogador-recria-pc-de-1996-doom-2/",
+      "data": "2026-10-26T13:09:39+00:00"
+    },
+    {
+      "titulo": "Teoria de Vingadores: Doomsday sugere que Steve Rogers é, na verdade, Loki disfarçado",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/teoria-de-vingadores-doomsday-sugere-que-steve-rogers-e-na-verdade-loki-disfarcado/",
+      "data": "2026-10-26T13:02:00+00:00"
+    },
+    {
+      "titulo": "Samsung prepara top inédito com bateria grandona para encarar iPhone",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/samsung-prepara-top-inedito-com-bateria-grandona-para-encarar-iphone/",
+      "data": "2026-10-26T12:58:04+00:00"
+    },
+    {
+      "titulo": "Vivo e Starlink lançam rede via satélite de graça no Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/vivo-e-starlink-lancam-rede-via-satelite-no-brasil/",
+      "data": "2026-10-26T12:54:08+00:00"
+    },
+    {
+      "titulo": "Hacker usa IA para invadir 60 empresas, rouba 8,2 milhões de registros e ganha apenas US$ 210",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/hacker-ia-invadir-60-ganha-us-210/",
+      "data": "2026-10-26T12:48:06+00:00"
+    },
+    {
+      "titulo": "Futuro de Marvel’s Blade segue incerto enquanto Microsoft tenta salvar estúdio de Dishonored",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/marvels-blade-microsoft-estudio/",
+      "data": "2026-10-26T12:27:28+00:00"
+    },
+    {
+      "titulo": "Mouse Logitech G305 X Superlight combina útil ao agradável com design leve e versatilidade",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/mouse-logitech-g305-x-superlight-combina-util-ao-agradavel-com-design-leve-e-versatilidade/",
+      "data": "2026-10-26T12:22:00+00:00"
+    },
+    {
+      "titulo": "Portátil do PS6 pode ser o único a contar com chips RDNA 5 da AMD; entenda o motivo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/portatil-do-ps6-pode-ser-o-unico-a-contar-com-chips-rdna-5-da-amd-entenda-o-motivo/",
+      "data": "2026-10-26T12:19:20+00:00"
+    },
+    {
+      "titulo": "Usuários reclamam de telas rachadas no iPhone Duo poucos dias após lançamento",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/usuarios-reclamam-de-telas-rachadas-no-iphone-duo-poucos-dias-apos-lancamento/",
+      "data": "2026-10-26T12:08:29+00:00"
+    },
+    {
+      "titulo": "Carros elétricos da Audi podem ter mudança radical para agradar aos mais puristas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/carros-eletricos-da-audi-podem-ter-mudanca-radical-para-agradar-aos-mais-puristas/",
+      "data": "2026-10-26T12:03:00+00:00"
+    },
+    {
+      "titulo": "ASUS lança mini PC de Phantom Blade Zero com RTX 5080 e preço acima de US$ 3.600",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/asus-mini-pc-phantom-blade-zero/",
+      "data": "2026-10-26T11:59:28+00:00"
+    },
+    {
+      "titulo": "Positivo atualiza linha de notebooks Vision com foco em durabilidade e upgrades",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/positivo-atualiza-linha-de-notebooks-vision-com-foco-em-durabilidade-e-upgrades/",
+      "data": "2026-10-26T11:41:00+00:00"
+    },
+    {
+      "titulo": "Portátil do PS6 pode ser o único com RDNA 5 devido a exigência da AMD",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/portatil-ps6-unico-rdna-5-amd/",
+      "data": "2026-10-26T11:40:02+00:00"
+    },
+    {
+      "titulo": "‘Crime no mundo digital tem que ser tratado igual ao crime na vida real’, diz Lula após reeleição",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/crime-no-mundo-digital-tem-que-ser-tratado-igual-ao-crime-na-vida-real-diz-lula-apos-reeleicao/",
+      "data": "2026-10-26T11:23:00+00:00"
+    },
+    {
+      "titulo": "Em discurso de vitória, Lula diz que pretende atrair data centers e lançar IA brasileira",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/em-discurso-de-vitoria-lula-diz-que-pretende-atrair-data-centers-e-lancar-ia-brasileira/",
+      "data": "2026-10-26T11:12:00+00:00"
+    },
+    {
+      "titulo": "Poco F8 Pro x Poco F9 Pro: confira comparativo entre os dois celulares da Xiaomi",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/poco-f8-pro-x-poco-f9-pro-confira-comparativo-entre-os-dois-celulares-da-xiaomi/",
+      "data": "2026-10-26T11:00:00+00:00"
+    },
+    {
+      "titulo": "Phantom Blade Zero é bonito e tem combate extraordinário, mas deixa a acessibilidade de lado",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/phantom-blade-zero-e-bonito-e-tem-combate-extraordinario-mas-deixa-a-acessibilidade-de-lado/",
+      "data": "2026-10-26T10:15:00+00:00"
+    },
+    {
+      "titulo": "Google quer usar seus dados no Gmail e Fotos para anúncios; veja como evitar",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/google-quer-usar-seus-dados-no-gmail-e-fotos-para-anuncios-veja-como-evitar/",
+      "data": "2026-10-26T10:05:17+00:00"
+    },
+    {
+      "titulo": "16 anos depois, alguns roteadores ainda têm vulnerabilidade",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/16-anos-depois-alguns-roteadores-ainda-tem-vulnerabilidade/",
+      "data": "2026-10-26T10:00:07+00:00"
+    },
     {
       "titulo": "Phantom Blade Zero é mais do que a soma de suas partes",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/phantom-blade-zero-e-mais-do-que-a-soma-de-suas-partes/",
-      "data": "2026-10-26T00:00:00+00:00"
-    },
-    {
-      "titulo": "Review Phantom Blade Zero | Um jogo com lições que a indústria pode aprender",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/review-phantom-blade-zero/",
       "data": "2026-10-26T00:00:00+00:00"
     },
     {
@@ -26,160 +170,16 @@
       "data": "2026-10-25T22:15:00+00:00"
     },
     {
-      "titulo": "Quanto custaria um Fiat Linea hoje, com a inflação?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/quanto-custaria-um-fiat-linea-hoje-com-a-inflacao/",
-      "data": "2026-10-25T22:03:00+00:00"
-    },
-    {
-      "titulo": "Home office: 55 vagas para trabalho remoto internacional [25/10]",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/home-office-55-vagas-para-trabalho-remoto-internacional-2510/",
-      "data": "2026-10-25T22:00:00+00:00"
-    },
-    {
-      "titulo": "7 jogos removidos de lojas digitais que não podem mais ser jogados",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-removidos-lojas-digitais-que-nao-podem-mais-ser-jogados/",
-      "data": "2026-10-25T21:00:00+00:00"
-    },
-    {
       "titulo": "Google Messages começará a usar Gemini para detectar golpes que filtros tradicionais não conseguem identificar",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/google-messages-enhanced-protection/",
       "data": "2026-10-25T20:17:13+00:00"
     },
     {
-      "titulo": "CDPR fala sobre updates grátis e longevidade de Witcher 3 e Cyberpunk 2077: ‘Nosso modus operandi’",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/cdpr-fala-sobre-updates-gratis-e-longevidade-de-witcher-3-e-cyberpunk-2077-nosso-modus-operandi/",
-      "data": "2026-10-25T20:15:00+00:00"
-    },
-    {
-      "titulo": "O que a aba anônima do navegador realmente esconde de você",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/o-que-a-aba-anonima-do-navegador-realmente-esconde-de-voce/",
-      "data": "2026-10-25T20:00:00+00:00"
-    },
-    {
-      "titulo": "Carregador de celular com vários plugues são mais lentos? Nós testamos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/carregador-de-celular-com-varios-plugues-sao-mais-lentos-nos-testamos/",
-      "data": "2026-10-25T19:30:00+00:00"
-    },
-    {
-      "titulo": "YouTube adotará AV2 em 2027 com promessa de vídeos até 30% mais eficientes",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/av2-chega-ao-youtube-30-menos-dados/",
-      "data": "2026-10-25T19:07:19+00:00"
-    },
-    {
-      "titulo": "Toyota joga preços de Corolla e Yaris Cross no chão; veja condições",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/toyota-joga-precos-de-corolla-e-yaris-cross-no-chao-veja-condicoes/",
-      "data": "2026-10-25T19:02:00+00:00"
-    },
-    {
-      "titulo": "Black Friday dos EUA entrega no Brasil? Veja como comprar e quanto custa",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/black-friday-dos-eua-entrega-no-brasil-veja-como-comprar-e-quanto-custa/",
-      "data": "2026-10-25T18:30:00+00:00"
-    },
-    {
-      "titulo": "iPhone Duo tem primeiros relatos de rachaduras na tela após menos de 20 dobras",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/iphone-duo-rachaduras-vinco-dobradica/",
-      "data": "2026-10-25T18:21:06+00:00"
-    },
-    {
-      "titulo": "Todos os protagonistas de GTA: Confira lista do pior ao melhor",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/todos-os-protagonistas-de-gta-confira-lista-do-pior-ao-melhor/",
-      "data": "2026-10-25T18:15:00+00:00"
-    },
-    {
-      "titulo": "O que acontece quando envio uma foto minha para uma IA?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-acontece-quando-envio-uma-foto-minha-para-uma-ia/",
-      "data": "2026-10-25T18:00:00+00:00"
-    },
-    {
-      "titulo": "The Last of Us influenciou a mudança de rumo de Resident Evil 7, revela ex-Capcom",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/resident-evil-7-the-last-of-us-influenci/",
-      "data": "2026-10-25T16:35:42+00:00"
-    },
-    {
-      "titulo": "CEO da Nvidia diz que pagar US$ 8 bilhões em impostos é um privilégio",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/ceo-da-nvidia-diz-que-pagar-us-8-bilhoes-em-impostos-e-um-privilegio/",
-      "data": "2026-10-25T16:35:04+00:00"
-    },
-    {
-      "titulo": "O que vai acontecer com The Sims após demissões na EA Games? Entenda o futuro da franquia",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/o-que-vai-acontecer-com-the-sims-apos-demissoes-na-ea-games-entenda-o-futuro-da-franquia/",
-      "data": "2026-10-25T16:15:00+00:00"
-    },
-    {
-      "titulo": "Jogadores de PC discutem recursos desnecessários em hardwares modernos: confira as principais escolhas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware/jogadores-de-pc-discutem-recursos-desnecessarios-em-hardwares-modernos/",
-      "data": "2026-10-25T16:06:51+00:00"
-    },
-    {
-      "titulo": "Entusiastas descobrem como liberar desempenho oculto em placas NVIDIA RTX 30 e 40 e registram ganhos de até 80%",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/nvidia-rtx-desempenho-ia-limitado-gpu-unlock/",
-      "data": "2026-10-25T15:45:47+00:00"
-    },
-    {
-      "titulo": "5 cafeteiras elétricas acessíveis para uma rotina mais saborosa e prática",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/5-cafeteiras-eletricas-acessiveis-para-uma-rotina-mais-saborosa-e-pratica/",
-      "data": "2026-10-25T15:32:02+00:00"
-    },
-    {
-      "titulo": "Days Gone Remastered baratinho, Battlefield 6 no Game Pass, e mais! Veja as indicações de games",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/days-gone-remastered-baratinho-battlefield-6-no-game-pass-e-mais-veja-as-indicacoes-de-games/",
-      "data": "2026-10-25T14:00:00+00:00"
-    },
-    {
       "titulo": "Bug pode deixar Galaxy S26 Ultra praticamente inutilizável",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/bug-pode-deixar-galaxy-s26-ultra-praticamente-inutilizavel/",
       "data": "2026-10-23T21:14:40+00:00"
-    },
-    {
-      "titulo": "Galaxy Tab S11 5G (256 GB) entra em oferta para quem busca alto desempenho",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-5g-256-gb-entra-em-oferta-para-quem-busca-alto-desempenho/",
-      "data": "2026-10-23T20:25:02+00:00"
-    },
-    {
-      "titulo": "Motorola Edge 70 Fusion Plus (512 GB) atinge menor preço que já vimos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-fusion-plus-512-gb-atinge-menor-preco-que-ja-vimos/",
-      "data": "2026-10-23T19:54:02+00:00"
-    },
-    {
-      "titulo": "Acer Aspire Go 15 com RAM de 16 GB despenca 45% em até 10x sem juros",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/acer-aspire-go-15-com-ram-de-16-gb-despenca-45-em-ate-10x-sem-juros/",
-      "data": "2026-10-23T19:21:09+00:00"
-    },
-    {
-      "titulo": "Meta adia mudança nos termos após reação negativa",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/meta-adia-mudanca-nos-termos-apos-reacao-negativa/",
-      "data": "2026-10-23T18:55:14+00:00"
-    },
-    {
-      "titulo": "iPhone 18 Pro recebe R$ 3 mil de desconto com Amazon Prime",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/iphone-18-pro-recebe-r-3-mil-de-desconto-com-amazon-prime/",
-      "data": "2026-10-23T18:52:36+00:00"
     }
   ]
 }
