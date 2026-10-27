@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-10-26T23:24:52.951629+00:00",
+  "atualizado_em": "2026-10-27T02:11:23.298766+00:00",
   "noticias": [
+    {
+      "titulo": "Itaú anuncia compra de startup brasileira de IA por R$ 2,9 bilhões",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/itau-anuncia-compra-de-startup-brasileira-de-ia-por-r-29-bilhoes/",
+      "data": "2026-10-26T23:57:00+00:00"
+    },
     {
       "titulo": "Estrela de Obsessão e X-Men mira em adaptação de Call of Duty",
       "fonte": "Canaltech",
@@ -96,12 +102,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/smartphone/celular-com-bateria-absurda-foi-parar-no-livro-dos-recordes-e-custa-r-1600/",
       "data": "2026-10-26T20:38:30+00:00"
-    },
-    {
-      "titulo": "Fenômeno literário, série de Quarta Asa já tem data para iniciar filmagens",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/fenomeno-literario-serie-de-quarta-asa-ja-tem-data-para-iniciar-filmagens/",
-      "data": "2026-10-26T20:35:03+00:00"
     },
     {
       "titulo": "Samsung deve cortar produção da linha Galaxy A em 20%",
