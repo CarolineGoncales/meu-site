@@ -1,185 +1,185 @@
 {
-  "atualizado_em": "2026-10-28T08:47:15.446996+00:00",
+  "atualizado_em": "2026-10-28T15:33:21.328940+00:00",
   "noticias": [
     {
-      "titulo": "Computer use: você sabia que IAs já usam mouse e teclado?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/computer-use-como-a-ia-usa-mouse-e-teclado-e-quais-os-riscos/",
-      "data": "2026-10-28T01:15:00+00:00"
-    },
-    {
-      "titulo": "Empresa israelense é suspeita de rastrear usuários da Starlink com anúncios",
+      "titulo": "Nova rival da BYD chega ao Brasil com hatch e SUV elétricos; veja preços",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/empresa-israelense-e-suspeita-de-rastrear-usuarios-da-starlink-com-anuncios/",
-      "data": "2026-10-27T23:58:00+00:00"
+      "link": "https://canaltech.com.br/carros/nova-rival-da-byd-chega-ao-brasil-com-hatch-e-suv-eletricos-veja-precos/",
+      "data": "2026-10-28T15:32:00+00:00"
     },
     {
-      "titulo": "Adorou Silo? Nova superprodução da Netflix tem tudo para ser sua próxima obsessão",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/adorou-silo-nova-superproducao-da-netflix-tem-tudo-para-ser-sua-proxima-obsessao/",
-      "data": "2026-10-27T23:01:00+00:00"
-    },
-    {
-      "titulo": "Uber amplia serviço de táxi para 12 cidades; confira lista",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/uber-amplia-servico-de-taxi-para-12-cidades-confira-lista/",
-      "data": "2026-10-27T22:56:00+00:00"
-    },
-    {
-      "titulo": "Silent Hill F e mais jogos da Steam com até 90% OFF na Nuuvem",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/silent-hill-f-e-mais-jogos-da-steam-com-ate-90-off-na-nuuvem/",
-      "data": "2026-10-27T22:45:00+00:00"
-    },
-    {
-      "titulo": "Imagem do Disney+ fica pior no Brasil, mas preço segue intacto",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/imagem-do-disney-fica-pior-no-brasil-mas-preco-segue-intacto/",
-      "data": "2026-10-27T22:35:03+00:00"
-    },
-    {
-      "titulo": "Capinhas do Galaxy S27 Ultra já estão à venda antes mesmo do lançamento",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/capinhas-do-galaxy-s27-ultra-ja-estao-a-venda-antes-mesmo-do-lancamento/",
-      "data": "2026-10-27T22:30:00+00:00"
-    },
-    {
-      "titulo": "Tailworm: 11 falhas no Tailscale expõem servidores a ataques com acesso root",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/tailworm-11-falhas-no-tailscale-expoem-servidores-a-ataques-com-acesso-root/",
-      "data": "2026-10-27T22:15:00+00:00"
-    },
-    {
-      "titulo": "Parceiras acusam NVIDIA de interromper fornecimento de chip para fabricar RTX 5090",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/parceiras-acusam-nvidia-de-interromper-fornecimento-de-chip-para-fabricar-rtx-5090/",
-      "data": "2026-10-27T22:10:00+00:00"
-    },
-    {
-      "titulo": "Firefox ganha radar de ofertas que vigia preços e vagas para você",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/firefox-ganha-radar-de-ofertas-que-vigia-precos-e-vagas-para-voce/",
-      "data": "2026-10-27T22:03:00+00:00"
-    },
-    {
-      "titulo": "Home office: 120 vagas para trabalho remoto [27/10]",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/home-office-120-vagas-para-trabalho-remoto-2710/",
-      "data": "2026-10-27T22:00:00+00:00"
-    },
-    {
-      "titulo": "Só 3% das empresas viram ganhos com IA, mostra estudo",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/so-3-das-empresas-viram-ganhos-com-ia-mostra-estudo/",
-      "data": "2026-10-27T21:53:16+00:00"
-    },
-    {
-      "titulo": "Claude recusa tarefas de engenharia reversa em TVs e jogos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/claude-recusa-tarefas-de-engenharia-reversa-em-tvs-e-jogos/",
-      "data": "2026-10-27T21:49:34+00:00"
-    },
-    {
-      "titulo": "Pesquisa aponta barreiras de raça, gênero e custo no uso de IA por jovens",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/pesquisa-aponta-barreiras-de-raca-genero-e-custo-no-uso-de-ia-por-jovens/",
-      "data": "2026-10-27T21:45:00+00:00"
-    },
-    {
-      "titulo": "20 anos depois, terror cult de Stephen King terá continuação desafiadora",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/20-anos-depois-terror-cult-de-stephen-king-tera-continuacao-desafiadora/",
-      "data": "2026-10-27T21:37:00+00:00"
-    },
-    {
-      "titulo": "Criminosos vazam cartões de créditos de brasileiros em dezenas de lojas virtuais",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/criminosos-vazam-cartoes-de-creditos-de-brasileiros-em-dezenas-de-lojas-virtuais/",
-      "data": "2026-10-27T21:30:00+00:00"
-    },
-    {
-      "titulo": "Projeto já faz Linux rodar no PS5 Pro com firmware 13.60; veja o que muda com isso",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/projeto-ja-faz-linux-rodar-no-ps5-pro-com-firmware-1360-veja-o-que-muda-com-isso/",
-      "data": "2026-10-27T21:18:00+00:00"
-    },
-    {
-      "titulo": "Soundbar LG com 300 W RMS de potência despenca 39% na Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/soundbar-lg-com-300-w-rms-de-potencia-despenca-39-na-amazon/",
-      "data": "2026-10-27T21:17:11+00:00"
-    },
-    {
-      "titulo": "Assassin’s Creed Black Flag Resynced recebe último update com New Game+ e mais! Vejas as novidades",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/assassins-creed-black-flag-resynced-recebe-ultimo-update-com-new-game-e-mais-vejas-as-novidades/",
-      "data": "2026-10-27T21:15:00+00:00"
-    },
-    {
-      "titulo": "Google Fotos ganha visual redesenhado e agora deixa usuário personalizar aba \"Álbuns\"",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/google-fotos-ganha-visual-redesenhado-e-agora-deixa-usuario-personalizar-aba-albuns/",
-      "data": "2026-10-27T21:03:00+00:00"
-    },
-    {
-      "titulo": "X testa mão gigante animada que aponta para botão de impulsionar e irrita usuários",
+      "titulo": "Meta lança Tamagotchi com inteligência artificial que aprende sobre a vida dos usuários",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/x-mao-sinistra-aponta-para-promover-posts/",
-      "data": "2026-10-27T19:45:54+00:00"
+      "link": "https://www.hardware.com.br/noticias/waddle-world-meta/",
+      "data": "2026-10-28T15:30:57+00:00"
     },
     {
-      "titulo": "Baratinho: Galaxy Fit 3 para treinos fica abaixo dos R$ 200 em oferta",
+      "titulo": "JBL PartyBox Club 120 com 45% de desconto! Caixa de som de 160W com show de luzes e 12 horas de bateria",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/jbl-partybox-club-120-com-45-de-desconto-caixa-de-som-de-160w-com-show-de-luzes-e-12-horas-de-bateria/",
+      "data": "2026-10-28T15:30:54+00:00"
+    },
+    {
+      "titulo": "Forza Motorsport 5 e 6 finalmente chegam ao PC com suporte a 8K e mais de 60 FPS",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/forza-motorsport-5-e-6-finalmente-chegam-ao-pc-com-suporte-a-8k-e-mais-de-60-fps/",
+      "data": "2026-10-28T15:12:00+00:00"
+    },
+    {
+      "titulo": "Gemini Notebook agora tem gravador de áudio para palestras e reuniões",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/baratinho-galaxy-fit-3-para-treinos-fica-abaixo-dos-r-200-em-oferta/",
-      "data": "2026-10-27T19:38:29+00:00"
+      "link": "https://tecnoblog.net/noticias/gemini-notebook-agora-tem-gravador-de-audio-para-palestras-e-reunioes/",
+      "data": "2026-10-28T15:07:20+00:00"
     },
     {
-      "titulo": "iPhone 18e deve manter tela de 60 Hz mesmo com novo chip",
+      "titulo": "WhatsApp prepara central no iPhone para reunir todas as fotos e vídeos recebidos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/whatsapp-prepara-central-no-iphone-para-reunir-todas-as-fotos-e-videos-recebidos/",
+      "data": "2026-10-28T15:06:00+00:00"
+    },
+    {
+      "titulo": "Nova câmera da Xiaomi ganha 4G gratuito para vigiar até onde não tem Wi-Fi",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/nova-camera-da-xiaomi-ganha-4g-gratuito-para-vigiar-ate-onde-nao-tem-wi-fi/",
+      "data": "2026-10-28T15:04:35+00:00"
+    },
+    {
+      "titulo": "Por que apostar em um fone sem fio intra-auricular? JBL Wave Buds 2 com 49% OFF traz ANC e bateria de até 40 horas",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/por-que-apostar-em-um-fone-sem-fio-intra-auricular-jbl-wave-buds-2-com-49-off-traz-anc-e-bateria-de-ate-40-horas/",
+      "data": "2026-10-28T15:00:27+00:00"
+    },
+    {
+      "titulo": "Mercado Livre terá mais de R$ 100 milhões em cupons e descontos de até 70% na Black Friday e 11.11",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/mercado-livre-anuncia-r-100-milhoes-em-cupons-e-descontos-de-ate-70-na-black-friday-e-1111/",
+      "data": "2026-10-28T15:00:00+00:00"
+    },
+    {
+      "titulo": "Criminosos falsificam até sinais de GPS para roubar cargas de data centers",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/iphone-18e-deve-manter-tela-de-60-hz-mesmo-com-novo-chip/",
-      "data": "2026-10-27T19:34:53+00:00"
+      "link": "https://tecnoblog.net/noticias/criminosos-falsificam-ate-sinais-de-gps-para-roubar-cargas-de-data-centers/",
+      "data": "2026-10-28T14:53:23+00:00"
     },
     {
-      "titulo": "Nintendo Switch 2 Lite pode usar chip de 8nm aprimorado da Samsung para reduzir custos",
+      "titulo": "Sony apresenta tela 3D que permite ter personagens de anime e companheiros de IA na sua mesa",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/nintendo-switch-2-lite-samsung-8lpu/",
-      "data": "2026-10-27T19:13:57+00:00"
+      "link": "https://www.hardware.com.br/tecnologia/sony-tela-3d-anime-companheiros-ia/",
+      "data": "2026-10-28T14:49:01+00:00"
     },
     {
-      "titulo": "Microsoft Authenticator tem falha grave; correção já foi liberada",
+      "titulo": "Discord decide abrir conversas dos usuários e mensagens serão \"buscáveis\" no Google",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/discord-decide-abrir-conversas-dos-usuarios-e-mensagens-serao-buscaveis-no-google/",
+      "data": "2026-10-28T14:38:00+00:00"
+    },
+    {
+      "titulo": "Quando estreia Tudo Pode Ser Visto, documentário bizarro sobre Elizabeth Holmes, nos cinemas?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/quando-estreia-tudo-pode-ser-visto-documentario-bizarro-sobre-elizabeth-holmes-nos-cinemas/",
+      "data": "2026-10-28T14:32:00+00:00"
+    },
+    {
+      "titulo": "Descontão! Samsung Galaxy Fit 3 com 63% OFF: monitora sua saúde, seus treinos e ainda avisa suas mensagens",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/descontao-samsung-galaxy-fit-3-com-63-off-monitora-sua-saude-seus-treinos-e-ainda-avisa-suas-mensagens/",
+      "data": "2026-10-28T14:30:18+00:00"
+    },
+    {
+      "titulo": "Morador do interior testa internet da Vivo com Starlink em área sem sinal e revela como foi a experiência",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/teste-vivo-satelite-starlink-interior/",
+      "data": "2026-10-28T14:30:08+00:00"
+    },
+    {
+      "titulo": "Samsung Health supera 5 milhões de usuários semanais na América Latina",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-health-supera-5-milhoes-de-usuarios-semanais-na-america-latina/",
+      "data": "2026-10-28T14:30:00+00:00"
+    },
+    {
+      "titulo": "Motorola está perto de lançar seu \"iPhone Duo\" e preço já vazou",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/motorola-esta-perto-de-lancar-seu-iphone-duo-e-preco-ja-vazou/",
+      "data": "2026-10-28T14:22:23+00:00"
+    },
+    {
+      "titulo": "GTA 6 pode exigir mais de 200 GB para instalação! Veja quanto espaço o jogo ocupa no SSD",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-tem-espaco-de-armazenamento-revelado-veja-quanto-espaco-o-jogo-ocupa-no-ssd/",
+      "data": "2026-10-28T14:15:00+00:00"
+    },
+    {
+      "titulo": "Anatel torna biometria facial obrigatória para usuários de celular no Brasil",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/anatel-biometria-facial-obrigatoria/",
+      "data": "2026-10-28T14:14:42+00:00"
+    },
+    {
+      "titulo": "Amazon renova a linha Echo com Echo Dot, Echo Time e Echo Studio com Câmera, e os novos modelos já chegaram ao Brasil",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/amazon-renova-a-linha-echo-com-echo-dot-echo-time-e-echo-studio-com-camera-e-os-novos-modelos-ja-chegaram-ao-brasil/",
+      "data": "2026-10-28T14:12:38+00:00"
+    },
+    {
+      "titulo": "MacBook Neo 2 com mais memória RAM deve chegar no começo de 2027",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/macbook-neo-2-vira-com-chip-a19-pro-e-mais-memoria-ram/",
+      "data": "2026-10-28T14:07:00+00:00"
+    },
+    {
+      "titulo": "Anatel aprova investimento de R$ 1,6 bi para distribuição de conversores de TV 3.0",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/anatel-aprova-investimento-de-r-16-bi-para-distribuicao-de-conversores-de-tv-30/",
+      "data": "2026-10-28T14:00:00+00:00"
+    },
+    {
+      "titulo": "Robôs de limpeza fazem bonito durante feira em São Paulo",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/microsoft-authenticator-tem-falha-grave-correcao-ja-foi-liberada/",
-      "data": "2026-10-27T19:01:09+00:00"
+      "link": "https://tecnoblog.net/publieditoriais/robos-de-limpeza-fazem-bonito-durante-feira-em-sao-paulo/",
+      "data": "2026-10-28T13:40:11+00:00"
     },
     {
-      "titulo": "Samsung recebe multa milionária na Coreia por limitar desempenho de celulares sem avisar usuários",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/game-optimizing-service-multa-samsung/",
-      "data": "2026-10-27T18:51:05+00:00"
-    },
-    {
-      "titulo": "Google Docs agora edita arquivos Markdown nativamente",
+      "titulo": "Anatel ordena que clientes de telefonia móvel façam biometria",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/google-docs-agora-edita-arquivos-markdown-nativamente/",
-      "data": "2026-10-27T18:19:24+00:00"
+      "link": "https://tecnoblog.net/noticias/anatel-ordena-que-clientes-de-telefonia-movel-facam-biometria/",
+      "data": "2026-10-28T13:34:20+00:00"
     },
     {
-      "titulo": "Firefox recebe IA que preenche formulários e monitora sites para você",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/firefox-smart-window-preenche-formularios-ia/",
-      "data": "2026-10-27T18:09:20+00:00"
+      "titulo": "Esquenta 11.11 da Shopee começa com cupom exclusivos e ofertas variadas",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/esquenta-1111-da-shopee-comeca-com-cupom-exclusivos-e-ofertas-variadas/",
+      "data": "2026-10-28T13:34:00+00:00"
     },
     {
-      "titulo": "Prepare o armazenamento: GTA 6 pode exigir mais de 200 GB no PS5",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-200-gb-no-ps5/",
-      "data": "2026-10-27T18:02:08+00:00"
+      "titulo": "Amazon anuncia os novos Echo Dot, Echo Time e Echo Studio; veja preços",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/amazon-anuncia-os-novos-echo-dot-echo-time-e-echo-studio-veja-precos/",
+      "data": "2026-10-28T13:28:39+00:00"
     },
     {
-      "titulo": "C.L.T. é o GTA brasileiro que acaba de chegar ao PC com mundo aberto inspirado em SC",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/clt-gta-brasileiro-chega-ao-pc-mundo-aberto-inspirado-sc/",
-      "data": "2026-10-27T17:27:49+00:00"
+      "titulo": "Mortal Kombat 9 ganha versão para navegador que inclui modo online e até Kratos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/mortal-kombat-9-ganha-versao-para-navegador-que-inclui-modo-online-e-ate-kratos/",
+      "data": "2026-10-28T13:15:00+00:00"
+    },
+    {
+      "titulo": "Nova dona da Telecom Italia diz que Brasil não é prioritário",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/nova-dona-da-telecom-italia-diz-que-brasil-nao-e-prioritario/",
+      "data": "2026-10-28T12:16:32+00:00"
+    },
+    {
+      "titulo": "Amazon anuncia nova Echo Dot, Echo Time e Echo Studio no Brasil; confira preços e especificações",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/amazon-anuncia-nova-echo-dot-echo-time-e-echo-studio-no-brasil-confira-precos-e-especificacoes/",
+      "data": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "titulo": "Amazon confirma “crediário” no Brasil; pagamento chega a 12 parcelas",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/amazon-confirma-crediario-no-brasil-pagamento-chega-a-12-parcelas/",
+      "data": "2026-10-28T10:42:42+00:00"
     }
   ]
 }
