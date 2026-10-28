@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-10-27T23:17:43.222011+00:00",
+  "atualizado_em": "2026-10-28T02:26:38.438492+00:00",
   "noticias": [
+    {
+      "titulo": "Computer use: você sabia que IAs já usam mouse e teclado?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/computer-use-como-a-ia-usa-mouse-e-teclado-e-quais-os-riscos/",
+      "data": "2026-10-28T01:15:00+00:00"
+    },
+    {
+      "titulo": "Empresa israelense é suspeita de rastrear usuários da Starlink com anúncios",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/empresa-israelense-e-suspeita-de-rastrear-usuarios-da-starlink-com-anuncios/",
+      "data": "2026-10-27T23:58:00+00:00"
+    },
     {
       "titulo": "Adorou Silo? Nova superprodução da Netflix tem tudo para ser sua próxima obsessão",
       "fonte": "Canaltech",
@@ -108,18 +120,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/apps/google-fotos-ganha-visual-redesenhado-e-agora-deixa-usuario-personalizar-aba-albuns/",
       "data": "2026-10-27T21:03:00+00:00"
-    },
-    {
-      "titulo": "iPhone Duo: fornecedora nega defeito em dobradiça e ameaça processar acusadores",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-duo-fornecedora-nega-defeito-em-dobradica-e-ameaca-processar-acusadores/",
-      "data": "2026-10-27T21:00:00+00:00"
-    },
-    {
-      "titulo": "iPhone 18 Pro me convenceu: câmera ótima e bateria que durou 2 dias",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/iphone-18-pro-me-convenceu-camera-otima-e-bateria-que-durou-2-dias/",
-      "data": "2026-10-27T20:35:44+00:00"
     },
     {
       "titulo": "X testa mão gigante animada que aponta para botão de impulsionar e irrita usuários",
