@@ -1,185 +1,185 @@
 {
-  "atualizado_em": "2026-10-28T15:33:21.328940+00:00",
+  "atualizado_em": "2026-10-28T20:38:19.435729+00:00",
   "noticias": [
     {
-      "titulo": "Nova rival da BYD chega ao Brasil com hatch e SUV elétricos; veja preços",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/nova-rival-da-byd-chega-ao-brasil-com-hatch-e-suv-eletricos-veja-precos/",
-      "data": "2026-10-28T15:32:00+00:00"
-    },
-    {
-      "titulo": "Meta lança Tamagotchi com inteligência artificial que aprende sobre a vida dos usuários",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/waddle-world-meta/",
-      "data": "2026-10-28T15:30:57+00:00"
-    },
-    {
-      "titulo": "JBL PartyBox Club 120 com 45% de desconto! Caixa de som de 160W com show de luzes e 12 horas de bateria",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/jbl-partybox-club-120-com-45-de-desconto-caixa-de-som-de-160w-com-show-de-luzes-e-12-horas-de-bateria/",
-      "data": "2026-10-28T15:30:54+00:00"
-    },
-    {
-      "titulo": "Forza Motorsport 5 e 6 finalmente chegam ao PC com suporte a 8K e mais de 60 FPS",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/forza-motorsport-5-e-6-finalmente-chegam-ao-pc-com-suporte-a-8k-e-mais-de-60-fps/",
-      "data": "2026-10-28T15:12:00+00:00"
-    },
-    {
-      "titulo": "Gemini Notebook agora tem gravador de áudio para palestras e reuniões",
+      "titulo": "Ainda dá tempo: Motorola Edge 70 Fusion Plus (512 GB) pelo menor preço",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/gemini-notebook-agora-tem-gravador-de-audio-para-palestras-e-reunioes/",
-      "data": "2026-10-28T15:07:20+00:00"
+      "link": "https://tecnoblog.net/achados/ainda-da-tempo-motorola-edge-70-fusion-plus-512-gb-pelo-menor-preco/",
+      "data": "2026-10-28T20:22:53+00:00"
     },
     {
-      "titulo": "WhatsApp prepara central no iPhone para reunir todas as fotos e vídeos recebidos",
+      "titulo": "Steve Jobs e Tim Cook eram contra lançar MacBook com tela sensível ao toque",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/steve-jobs-e-tim-cook-eram-contra-lancar-macbook-com-tela-sensivel-ao-toque/",
+      "data": "2026-10-28T20:15:00+00:00"
+    },
+    {
+      "titulo": "Opera libera IA que roda no próprio PC para usar em sites e extensões",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/whatsapp-prepara-central-no-iphone-para-reunir-todas-as-fotos-e-videos-recebidos/",
-      "data": "2026-10-28T15:06:00+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/opera-libera-ia-que-roda-no-proprio-pc-para-usar-em-sites-e-extensoes/",
+      "data": "2026-10-28T20:15:00+00:00"
     },
     {
-      "titulo": "Nova câmera da Xiaomi ganha 4G gratuito para vigiar até onde não tem Wi-Fi",
+      "titulo": "Chevrolet derrete preços de SUV para enfrentar SW4 e chineses",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/nova-camera-da-xiaomi-ganha-4g-gratuito-para-vigiar-ate-onde-nao-tem-wi-fi/",
-      "data": "2026-10-28T15:04:35+00:00"
+      "link": "https://canaltech.com.br/carros/chevrolet-derrete-precos-de-suv-para-enfrentar-sw4-e-chineses/",
+      "data": "2026-10-28T20:04:00+00:00"
     },
     {
-      "titulo": "Por que apostar em um fone sem fio intra-auricular? JBL Wave Buds 2 com 49% OFF traz ANC e bateria de até 40 horas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/por-que-apostar-em-um-fone-sem-fio-intra-auricular-jbl-wave-buds-2-com-49-off-traz-anc-e-bateria-de-ate-40-horas/",
-      "data": "2026-10-28T15:00:27+00:00"
-    },
-    {
-      "titulo": "Mercado Livre terá mais de R$ 100 milhões em cupons e descontos de até 70% na Black Friday e 11.11",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/mercado-livre-anuncia-r-100-milhoes-em-cupons-e-descontos-de-ate-70-na-black-friday-e-1111/",
-      "data": "2026-10-28T15:00:00+00:00"
-    },
-    {
-      "titulo": "Criminosos falsificam até sinais de GPS para roubar cargas de data centers",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/criminosos-falsificam-ate-sinais-de-gps-para-roubar-cargas-de-data-centers/",
-      "data": "2026-10-28T14:53:23+00:00"
-    },
-    {
-      "titulo": "Sony apresenta tela 3D que permite ter personagens de anime e companheiros de IA na sua mesa",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/sony-tela-3d-anime-companheiros-ia/",
-      "data": "2026-10-28T14:49:01+00:00"
-    },
-    {
-      "titulo": "Discord decide abrir conversas dos usuários e mensagens serão \"buscáveis\" no Google",
+      "titulo": "Quem é Dylan Rourke? Conheça astro que pode viver protagonista de GTA 6",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/discord-decide-abrir-conversas-dos-usuarios-e-mensagens-serao-buscaveis-no-google/",
-      "data": "2026-10-28T14:38:00+00:00"
+      "link": "https://canaltech.com.br/games/quem-e-dylan-rourke-conheca-astro-que-pode-viver-protagonista-de-gta-6/",
+      "data": "2026-10-28T20:01:00+00:00"
     },
     {
-      "titulo": "Quando estreia Tudo Pode Ser Visto, documentário bizarro sobre Elizabeth Holmes, nos cinemas?",
+      "titulo": "iPhone Duo: dobradiça pode ser a causa de quebra na tela",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-duo-dobradica-pode-ser-a-causa-de-quebra-na-tela/",
+      "data": "2026-10-28T20:00:00+00:00"
+    },
+    {
+      "titulo": "Capcom vai concluir história de Resident Evil em 10 anos, mas promete muitos jogos novos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/capcom-vai-concluir-historia-de-resident-evil-em-10-anos-mas-promete-muitos-jogos-novos/",
+      "data": "2026-10-28T19:45:00+00:00"
+    },
+    {
+      "titulo": "RTX 5080 disparou de preço nos EUA e já custa mais que a RTX 5090 no lançamento",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware/rtx-5080-disparou-de-preco-nos-eua/",
+      "data": "2026-10-28T19:44:45+00:00"
+    },
+    {
+      "titulo": "Galaxy Watch Ultra 2 dá problema em sensor e Samsung admite falha",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/quando-estreia-tudo-pode-ser-visto-documentario-bizarro-sobre-elizabeth-holmes-nos-cinemas/",
-      "data": "2026-10-28T14:32:00+00:00"
+      "link": "https://canaltech.com.br/smartwatch/galaxy-watch-ultra-2-da-problema-em-sensor-e-samsung-admite-falha/",
+      "data": "2026-10-28T19:41:40+00:00"
     },
     {
-      "titulo": "Descontão! Samsung Galaxy Fit 3 com 63% OFF: monitora sua saúde, seus treinos e ainda avisa suas mensagens",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/descontao-samsung-galaxy-fit-3-com-63-off-monitora-sua-saude-seus-treinos-e-ainda-avisa-suas-mensagens/",
-      "data": "2026-10-28T14:30:18+00:00"
-    },
-    {
-      "titulo": "Morador do interior testa internet da Vivo com Starlink em área sem sinal e revela como foi a experiência",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/teste-vivo-satelite-starlink-interior/",
-      "data": "2026-10-28T14:30:08+00:00"
-    },
-    {
-      "titulo": "Samsung Health supera 5 milhões de usuários semanais na América Latina",
+      "titulo": "Echo Time e Echo Dot: confira comparativo entre os dispositivos com Alexa",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-health-supera-5-milhoes-de-usuarios-semanais-na-america-latina/",
-      "data": "2026-10-28T14:30:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/echo-time-e-echo-dot-confira-comparativo-entre-os-dispositivos-com-alexa/",
+      "data": "2026-10-28T19:30:00+00:00"
     },
     {
-      "titulo": "Motorola está perto de lançar seu \"iPhone Duo\" e preço já vazou",
+      "titulo": "MacBook Pro com tela PROLED XDR pode custar até R$ 182 mil no Brasil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/macbook-pro-com-tela-proled-xdr-pode-custar-ate-r-182-mil-no-brasil/",
+      "data": "2026-10-28T19:15:00+00:00"
+    },
+    {
+      "titulo": "CPU Intel Nova Lake mostra evolução tímida sobre Arrow Lake em benchmark vazado",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/motorola-esta-perto-de-lancar-seu-iphone-duo-e-preco-ja-vazou/",
-      "data": "2026-10-28T14:22:23+00:00"
+      "link": "https://canaltech.com.br/hardware/cpu-intel-nova-lake-mostra-evolucao-timida-sobre-arrow-lake-em-benchmark-vazado/",
+      "data": "2026-10-28T19:05:04+00:00"
     },
     {
-      "titulo": "GTA 6 pode exigir mais de 200 GB para instalação! Veja quanto espaço o jogo ocupa no SSD",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-tem-espaco-de-armazenamento-revelado-veja-quanto-espaco-o-jogo-ocupa-no-ssd/",
-      "data": "2026-10-28T14:15:00+00:00"
-    },
-    {
-      "titulo": "Anatel torna biometria facial obrigatória para usuários de celular no Brasil",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/anatel-biometria-facial-obrigatoria/",
-      "data": "2026-10-28T14:14:42+00:00"
-    },
-    {
-      "titulo": "Amazon renova a linha Echo com Echo Dot, Echo Time e Echo Studio com Câmera, e os novos modelos já chegaram ao Brasil",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/amazon-renova-a-linha-echo-com-echo-dot-echo-time-e-echo-studio-com-camera-e-os-novos-modelos-ja-chegaram-ao-brasil/",
-      "data": "2026-10-28T14:12:38+00:00"
-    },
-    {
-      "titulo": "MacBook Neo 2 com mais memória RAM deve chegar no começo de 2027",
+      "titulo": "Óculos de realidade mista para Android XR aposta em leveza extrema",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/macbook-neo-2-vira-com-chip-a19-pro-e-mais-memoria-ram/",
-      "data": "2026-10-28T14:07:00+00:00"
+      "link": "https://canaltech.com.br/produtos/oculos-de-realidade-mista-para-android-xr-aposta-em-leveza-extrema/",
+      "data": "2026-10-28T18:59:09+00:00"
     },
     {
-      "titulo": "Anatel aprova investimento de R$ 1,6 bi para distribuição de conversores de TV 3.0",
+      "titulo": "Uber Moto agora tem viagens com preço fixo de R$ 4,98",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/uber-moto-agora-tem-viagens-com-preco-fixo-de-r-498/",
+      "data": "2026-10-28T18:50:53+00:00"
+    },
+    {
+      "titulo": "Topo de linha: Galaxy S26 Ultra com Snapdragon tem desconto competitivo",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/topo-de-linha-galaxy-s26-ultra-com-snapdragon-tem-desconto-competitivo/",
+      "data": "2026-10-28T18:39:37+00:00"
+    },
+    {
+      "titulo": "Apple anuncia primeiro MacBook Pro com tela sensível e OLED custando a partir de R$35 mil",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware/apple-anuncia-primeiro-macbook-pro-com-tela-sensivel-e-oled-custando-a-partir-de-r35-mil/",
+      "data": "2026-10-28T18:38:52+00:00"
+    },
+    {
+      "titulo": "Mercado Livre derruba preço do Galaxy Buds mais top da Samsung",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/mercado-livre-derruba-preco-do-galaxy-buds-mais-top-da-samsung/",
+      "data": "2026-10-28T18:31:03+00:00"
+    },
+    {
+      "titulo": "GameSir revela controles não oficiais inspirados em GTA 6; conheça os modelos",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/anatel-aprova-investimento-de-r-16-bi-para-distribuicao-de-conversores-de-tv-30/",
-      "data": "2026-10-28T14:00:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gamesir-revela-controles-nao-oficiais-inspirados-em-gta-6-conheca-os-modelos/",
+      "data": "2026-10-28T18:15:00+00:00"
     },
     {
-      "titulo": "Robôs de limpeza fazem bonito durante feira em São Paulo",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/publieditoriais/robos-de-limpeza-fazem-bonito-durante-feira-em-sao-paulo/",
-      "data": "2026-10-28T13:40:11+00:00"
+      "titulo": "Amazon apresenta o Echo Show 16 com tela personalizável, mapa 3D da sua casa e muito mais",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware/amazon-echo-show-16/",
+      "data": "2026-10-28T18:08:32+00:00"
     },
     {
-      "titulo": "Anatel ordena que clientes de telefonia móvel façam biometria",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/anatel-ordena-que-clientes-de-telefonia-movel-facam-biometria/",
-      "data": "2026-10-28T13:34:20+00:00"
+      "titulo": "T-Roc brasileiro será híbrido e tem previsão para chegar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/t-roc-brasileiro-sera-hibrido-e-tem-previsao-para-chegar/",
+      "data": "2026-10-28T18:04:00+00:00"
     },
     {
-      "titulo": "Esquenta 11.11 da Shopee começa com cupom exclusivos e ofertas variadas",
+      "titulo": "CapCut ganha novos recursos de IA e atalho de edição via ChatGPT",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/esquenta-1111-da-shopee-comeca-com-cupom-exclusivos-e-ofertas-variadas/",
-      "data": "2026-10-28T13:34:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/capcut-ganha-novos-recursos-de-ia-e-atalho-de-edicao-via-chatgpt/",
+      "data": "2026-10-28T18:00:00+00:00"
     },
     {
-      "titulo": "Amazon anuncia os novos Echo Dot, Echo Time e Echo Studio; veja preços",
+      "titulo": "GTA 6 pode chegar ao PC em apenas 6 ou 7 meses, prevê analista",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-pc-e-6-ou-7-meses/",
+      "data": "2026-10-28T17:40:57+00:00"
+    },
+    {
+      "titulo": "Lenovo Idea Tab Pro Gen 2 tem R$ 1.500 OFF em até 12x na Amazon",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/amazon-anuncia-os-novos-echo-dot-echo-time-e-echo-studio-veja-precos/",
-      "data": "2026-10-28T13:28:39+00:00"
+      "link": "https://tecnoblog.net/achados/lenovo-idea-tab-pro-gen-2-tem-r-1-500-off-em-ate-12x-na-amazon/",
+      "data": "2026-10-28T17:38:40+00:00"
     },
     {
-      "titulo": "Mortal Kombat 9 ganha versão para navegador que inclui modo online e até Kratos",
+      "titulo": "Grandes empresas de PC estão retornando produção para a China após alta de 500% nos preços de memória",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware/hp-volta-producao-china-ia/",
+      "data": "2026-10-28T17:32:16+00:00"
+    },
+    {
+      "titulo": "Apple lança MacBook Pro com tela OLED sensível a toques pela primeira vez",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/mortal-kombat-9-ganha-versao-para-navegador-que-inclui-modo-online-e-ate-kratos/",
-      "data": "2026-10-28T13:15:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-anuncia-macbook-pro-tela-sensivel-a-toques/",
+      "data": "2026-10-28T17:31:00+00:00"
     },
     {
-      "titulo": "Nova dona da Telecom Italia diz que Brasil não é prioritário",
+      "titulo": "Apple anuncia MacBook Pro com tela OLED sensível a toques; veja preços",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/nova-dona-da-telecom-italia-diz-que-brasil-nao-e-prioritario/",
-      "data": "2026-10-28T12:16:32+00:00"
+      "link": "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-com-tela-oled-sensivel-a-toques/",
+      "data": "2026-10-28T17:21:18+00:00"
     },
     {
-      "titulo": "Amazon anuncia nova Echo Dot, Echo Time e Echo Studio no Brasil; confira preços e especificações",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/amazon-anuncia-nova-echo-dot-echo-time-e-echo-studio-no-brasil-confira-precos-e-especificacoes/",
-      "data": "2026-10-28T12:00:00+00:00"
-    },
-    {
-      "titulo": "Amazon confirma “crediário” no Brasil; pagamento chega a 12 parcelas",
+      "titulo": "Galaxy A57 despenca 58% para quem busca custo-benefício",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/amazon-confirma-crediario-no-brasil-pagamento-chega-a-12-parcelas/",
-      "data": "2026-10-28T10:42:42+00:00"
+      "link": "https://tecnoblog.net/achados/galaxy-a57-despenca-58-para-quem-busca-custo-beneficio/",
+      "data": "2026-10-28T17:17:32+00:00"
+    },
+    {
+      "titulo": "GameSir apresenta controles inspirados em GTA 6 que são mais bonitos que os do PlayStation",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gamesir-controles-gta-6/",
+      "data": "2026-10-28T17:14:16+00:00"
+    },
+    {
+      "titulo": "Reddit traz o feed “Para Você”: conheça o novo jeito de descobrir posts",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/reddit-for-you-feed-nova-homepage/",
+      "data": "2026-10-28T17:03:35+00:00"
+    },
+    {
+      "titulo": "Após vazamento, Smart Sampa terá reconhecimento facial para acessar sistema",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/apos-vazamento-smart-sampa-tera-reconhecimento-facial-para-acessar-sistema/",
+      "data": "2026-10-28T17:01:03+00:00"
     }
   ]
 }
