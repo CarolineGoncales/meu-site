@@ -1,17 +1,143 @@
 {
-  "atualizado_em": "2026-10-29T19:02:59.254682+00:00",
+  "atualizado_em": "2026-10-29T23:25:21.339481+00:00",
   "noticias": [
     {
-      "titulo": "Midea faz corte de preços e derruba panela elétrica para R$ 125",
+      "titulo": "Fim da busca limpa: Google vai colocar anúncios no Modo IA e Brasil está na lista",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/midea-faz-corte-de-precos-e-derruba-panela-eletrica-para-r-125/",
-      "data": "2026-10-29T18:58:46+00:00"
+      "link": "https://canaltech.com.br/mercado/fim-da-busca-limpa-google-vai-colocar-anuncios-no-modo-ia-e-brasil-esta-na-lista/",
+      "data": "2026-10-29T23:01:00+00:00"
     },
     {
-      "titulo": "GTA 6 não permitirá que jogadores concluam a história principal rapidamente! Entenda",
+      "titulo": "WhatsApp ganha filtro de menções e fixação de mensagens por tempo ilimitado",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-nao-permitira-que-jogadores-concluam-a-historia-principal-rapidamente-entenda/",
-      "data": "2026-10-29T18:45:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/whatsapp-ganha-filtro-de-mencoes-e-fixacao-de-mensagens-por-tempo-ilimitado/",
+      "data": "2026-10-29T23:00:00+00:00"
+    },
+    {
+      "titulo": "Pesquisador descobre falhas no Microsoft Edge e recebe R$ 942 mil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/pesquisador-descobre-falhas-no-microsoft-edge-e-recebe-r-942-mil/",
+      "data": "2026-10-29T22:45:00+00:00"
+    },
+    {
+      "titulo": "Pragmata e mais games de PS5 e PS4 com até 90% OFF",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/pragmata-e-mais-games-de-ps5-e-ps4-com-ate-90-off/",
+      "data": "2026-10-29T22:30:00+00:00"
+    },
+    {
+      "titulo": "Vazamento na Sony expõe dados de 2,5 milhões de clientes no Japão",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/vazamento-na-sony-expoe-dados-de-25-milhoes-de-clientes-no-japao/",
+      "data": "2026-10-29T22:20:00+00:00"
+    },
+    {
+      "titulo": "Preenchimento automático do Chrome agora sugere informações extraídas do Gmail",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/preenchimento-automatico-do-chrome-agora-sugere-informacoes-extraidas-do-gmail/",
+      "data": "2026-10-29T22:00:00+00:00"
+    },
+    {
+      "titulo": "MPT pede R$ 50 milhões da Meta por posts que incentivam demissão pelo voto",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/mpt-pede-r-50-milhoes-da-meta-por-posts-que-incentivam-demissao-pelo-voto/",
+      "data": "2026-10-29T21:56:00+00:00"
+    },
+    {
+      "titulo": "Funcionários da Rockstar vão votar sobre sindicato durante lançamento de GTA 6",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/funcionarios-da-rockstar-vao-votar-sobre-sindicato-durante-lancamento-de-gta-6/",
+      "data": "2026-10-29T21:45:00+00:00"
+    },
+    {
+      "titulo": "Lançamento histórico: Phantom Blade Zero passa de 700 mil jogadores no Steam",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/lancamento-historico-phantom-blade-zero-passa-de-700-mil-jogadores-no-steam/",
+      "data": "2026-10-29T21:11:01+00:00"
+    },
+    {
+      "titulo": "Gemini começa a ensinar ciências em camadas interativas; veja como funciona",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-comeca-a-ensinar-ciencias-em-camadas-interativas-veja-como-funciona/",
+      "data": "2026-10-29T21:06:00+00:00"
+    },
+    {
+      "titulo": "Fiat Argo X: esses são os segredos do futuro carro mais vendido do Brasil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/fiat-argo-x-esses-sao-os-segredos-do-futuro-carro-mais-vendido-do-brasil/",
+      "data": "2026-10-29T21:00:05+00:00"
+    },
+    {
+      "titulo": "Samsung zoa problemas de tela do iPhone Duo em posts nas redes",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-zoa-problemas-de-tela-do-iphone-duo-em-posts-nas-redes/",
+      "data": "2026-10-29T21:00:00+00:00"
+    },
+    {
+      "titulo": "Patrick Stewart: confira 9 jogos que o ator britânico participou",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/patrick-stewart-confira-9-jogos-que-o-ator-britanico-participou/",
+      "data": "2026-10-29T20:48:00+00:00"
+    },
+    {
+      "titulo": "Dona da TIM pode sair do Brasil e sinaliza venda da operadora",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/dona-da-tim-pode-sair-do-brasil-e-sinaliza-venda-da-operadora/",
+      "data": "2026-10-29T20:44:39+00:00"
+    },
+    {
+      "titulo": "Patrick Stewart, lendário ator de Star Trek e X-Men, faleceu aos 86 anos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/entretenimento/patrick-stewart-falaceu-86-anos/",
+      "data": "2026-10-29T20:28:54+00:00"
+    },
+    {
+      "titulo": "Patrick Stewart, ator de X-Men e Star Trek, morre aos 86 anos; relembre seus trabalhos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/patrick-stewart-ator-de-x-men-e-star-trek-morre-aos-86-anos-relembre-seus-trabalhos/",
+      "data": "2026-10-29T20:23:35+00:00"
+    },
+    {
+      "titulo": "Android 17: Jovi começa a liberar OriginOS 7 no Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/android-17-jovi-comeca-a-liberar-originos-7-no-brasil/",
+      "data": "2026-10-29T20:17:34+00:00"
+    },
+    {
+      "titulo": "Preço da RTX 5080 dispara e placa já custa mais que uma 5090 no lançamento",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/preco-da-rtx-5080-dispara-e-placa-ja-custa-mais-que-uma-5090-no-lancamento/",
+      "data": "2026-10-29T20:08:00+00:00"
+    },
+    {
+      "titulo": "Gemini agora permite editar PDFs e documentos em sua própria interface",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/gemini-agora-permite-editar-pdfs-e-documentos-em-sua-propria-interface/",
+      "data": "2026-10-29T20:05:51+00:00"
+    },
+    {
+      "titulo": "Usar mais IA não significa trabalhar melhor, diz Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/usar-mais-ia-nao-significa-trabalhar-melhor-diz-amazon/",
+      "data": "2026-10-29T19:30:43+00:00"
+    },
+    {
+      "titulo": "Cuidado ao baixar o ChatGPT ou Claude: versões falsas estão espalhando malware",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/cuidado-baixar-chatgpt-claude/",
+      "data": "2026-10-29T19:27:59+00:00"
+    },
+    {
+      "titulo": "Windows 11 ganha menu de contexto mais rápido e personalizável: Veja como ativar",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/conteudo/windows-11-menu-contexto-personalizavel-ativar/",
+      "data": "2026-10-29T19:09:50+00:00"
+    },
+    {
+      "titulo": "Asus Vivobook 15 entra em oferta para quem trabalha com AutoCAD",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/asus-vivobook-15-entra-em-oferta-para-quem-trabalha-com-autocad/",
+      "data": "2026-10-29T19:07:26+00:00"
     },
     {
       "titulo": "Amazon pede que funcionários controlem uso de IA: gastar mais tokens não significa maior produtividade",
@@ -26,58 +152,16 @@
       "data": "2026-10-29T18:40:35+00:00"
     },
     {
-      "titulo": "Black Friday antecipada da Adidas tem produtos da marca com até 60% OFF",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-antecipada-da-adidas-tem-produtos-da-marca-com-ate-60-off/",
-      "data": "2026-10-29T18:38:00+00:00"
-    },
-    {
-      "titulo": "Meta expande recursos de proteção parental em contas de menores no Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/meta-expande-recursos-de-protecao-parental-em-contas-de-menores-no-brasil/",
-      "data": "2026-10-29T18:30:00+00:00"
-    },
-    {
-      "titulo": "Como o macOS se adaptou para nova geração de MacBooks com touchscreen",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/como-o-macos-se-adaptou-para-nova-geracao-de-macbooks-com-touchscreen/",
-      "data": "2026-10-29T18:20:04+00:00"
-    },
-    {
-      "titulo": "GTA 6 no PC pode chegar antes do esperado: analista crava quando será lançamento",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/gta-6-no-pc-pode-chegar-antes-do-esperado-analista-crava-quando-sera-lancamento/",
-      "data": "2026-10-29T18:10:04+00:00"
-    },
-    {
       "titulo": "iPhone 17 Pro sai pelo 2.º menor preço que vimos na Amazon",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/iphone-17-pro-sai-pelo-2-o-menor-preco-que-vimos-na-amazon/",
       "data": "2026-10-29T18:09:19+00:00"
     },
     {
-      "titulo": "“Ar-condicionado para cama” esfria e aquece sozinho enquanto você dorme",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/ar-condicionado-para-cama-esfria-e-aquece-sozinho-enquanto-voce-dorme/",
-      "data": "2026-10-29T18:03:22+00:00"
-    },
-    {
-      "titulo": "Quais operadoras brasileiras têm internet via satélite? Confira a lista",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/quais-operadoras-brasileiras-tem-internet-via-satelite-confira-a-lista/",
-      "data": "2026-10-29T18:00:00+00:00"
-    },
-    {
       "titulo": "Moto G Max com melhores câmeras da linha fica mil reais mais barato",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/moto-g-max-com-melhores-cameras-da-linha-fica-mil-reais-mais-barato/",
       "data": "2026-10-29T17:55:41+00:00"
-    },
-    {
-      "titulo": "Celular gamer com “water cooler” ganha versão global e vai chegar ao Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celular-gamer-com-water-cooler-ganha-versao-global-e-vai-chegar-ao-brasil/",
-      "data": "2026-10-29T17:46:49+00:00"
     },
     {
       "titulo": "Chrome agora poderá ler seus e-mails com Gemini para preencher formulários automaticamente",
@@ -96,90 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/huawei-watch-gt-7-pro-com-gps-avancado-chega-a-43-off-na-amazon/",
       "data": "2026-10-29T17:33:31+00:00"
-    },
-    {
-      "titulo": "Samsung pode lançar dobrável mais barato após sucesso do Galaxy Z Fold 8",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/samsung-pode-lancar-dobravel-mais-barato-apos-sucesso-do-galaxy-z-fold-8/",
-      "data": "2026-10-29T17:18:25+00:00"
-    },
-    {
-      "titulo": "Mod faz placas RTX dobrarem desempenho em IA",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/mod-faz-placas-rtx-dobrarem-desempenho-em-ia/",
-      "data": "2026-10-29T17:15:00+00:00"
-    },
-    {
-      "titulo": "Mapa de GTA 6 será quase tão grande quanto GTA 4, GTA 5 e Red Dead Redemption 2 juntos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/mapa-de-gta-6-gigante/",
-      "data": "2026-10-29T17:13:11+00:00"
-    },
-    {
-      "titulo": "Golpe do “free flow” usa sites falsos e medo de multa para roubar motoristas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/golpe-do-free-flow-usa-sites-falsos-e-medo-de-multa-para-roubar-motoristas/",
-      "data": "2026-10-29T17:02:00+00:00"
-    },
-    {
-      "titulo": "Série militar pós-apocalítica mistura Jack Ryan e The Walking Dead; conheça",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/serie-militar-pos-apocalitica-mistura-jack-ryan-e-the-walking-dead-conheca/",
-      "data": "2026-10-29T17:02:00+00:00"
-    },
-    {
-      "titulo": "Microsoft vai encerrar Copilot nas TVs LG e Samsung ainda em 2026",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/microsoft-copilot-perde-suporte-smart-tvs/",
-      "data": "2026-10-29T17:00:27+00:00"
-    },
-    {
-      "titulo": "EUA aprovam compra da Amazon de operadora de internet via satélite rival da Starlink",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/eua-aprovam-compra-da-amazon-de-operadora-de-internet-via-satelite-rival-da-starlink/",
-      "data": "2026-10-29T17:00:00+00:00"
-    },
-    {
-      "titulo": "Vivo pode comprar Vero e reforçar operação de fibra",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/vivo-pode-comprar-vero-e-reforcar-operacao-de-fibra/",
-      "data": "2026-10-29T16:59:05+00:00"
-    },
-    {
-      "titulo": "Gigante chinesa confirma 1º carro híbrido para o Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/gigante-chinesa-confirma-1-carro-hibrido-para-o-brasil/",
-      "data": "2026-10-29T16:45:04+00:00"
-    },
-    {
-      "titulo": "Pais acusam ChatGPT de incentivar filha a abandonar remédio contra epilepsia antes de morrer",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/pais-chatgpt-abandonar-remedio/",
-      "data": "2026-10-29T16:35:41+00:00"
-    },
-    {
-      "titulo": "Cloud Rebuild: modo que restaura o Windows 11 a partir das nuvens é oficial",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/cloud-rebuild-modo-que-restaura-o-windows-11-a-partir-das-nuvens-e-oficial/",
-      "data": "2026-10-29T16:15:50+00:00"
-    },
-    {
-      "titulo": "NYT Cooking testa IA para modificar receitas e gera polêmica entre leitores",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/nyt-cooking-ia-sugere-substituicoes-polemica/",
-      "data": "2026-10-29T16:15:19+00:00"
-    },
-    {
-      "titulo": "HyperX Alloy Core RGB com 65% de desconto: o teclado gamer que une estilo, silêncio e durabilidade por muito menos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/hyperx-alloy-core-rgb-com-65-de-desconto-o-teclado-gamer-que-une-estilo-silencio-e-durabilidade-por-muito-menos/",
-      "data": "2026-10-29T16:00:14+00:00"
-    },
-    {
-      "titulo": "Novo processo liga ChatGPT à morte de mulher de 31 anos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/novo-processo-liga-chatgpt-a-morte-de-mulher-de-31-anos/",
-      "data": "2026-10-29T15:09:28+00:00"
     }
   ]
 }
