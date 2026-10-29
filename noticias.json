@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-29T00:29:20.882121+00:00",
+  "atualizado_em": "2026-10-29T06:12:58.707701+00:00",
   "noticias": [
     {
       "titulo": "O que é nudify? Entenda os apps que preocupam autoridades",
@@ -78,12 +78,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/apps/uber-moto-lanca-preco-fixo-de-r-498-para-viagens-de-ate-3-km/",
       "data": "2026-10-28T21:03:00+00:00"
-    },
-    {
-      "titulo": "Google lança ‘Perfis de Busca’ no Brasil para criadores de conteúdo e editores",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/google-lanca-perfis-de-busca-no-brasil-para-criadores-de-conteudo-e-editores/",
-      "data": "2026-10-28T21:00:00+00:00"
     },
     {
       "titulo": "PlayStation anuncia coleção Prism com controles DualSense transparentes para PS5",
@@ -180,6 +174,12 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/apos-vazamento-smart-sampa-tera-reconhecimento-facial-para-acessar-sistema/",
       "data": "2026-10-28T17:01:03+00:00"
+    },
+    {
+      "titulo": "Galaxy Buds 4 com ANC cai para quase metade do preço em oferta",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-buds-4-com-anc-cai-para-metade-do-preco-em-oferta-historica/",
+      "data": "2026-10-28T17:00:53+00:00"
     }
   ]
 }
