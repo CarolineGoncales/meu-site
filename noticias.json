@@ -1,101 +1,125 @@
 {
-  "atualizado_em": "2026-10-29T06:12:58.707701+00:00",
+  "atualizado_em": "2026-10-29T13:23:58.891415+00:00",
   "noticias": [
     {
-      "titulo": "O que é nudify? Entenda os apps que preocupam autoridades",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/nudify-como-esses-aplicativos-usam-inteligencia-artificial/",
-      "data": "2026-10-29T00:15:00+00:00"
-    },
-    {
-      "titulo": "Capcom desliga servidores e remove Street Fighter 5 das lojas por falha de segurança",
+      "titulo": "Samsung W27 é lançado com conexão via satélite e design luxuoso",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/capcom-desliga-servidores-e-remove-street-fighter-5-das-lojas-por-falha-de-seguranca/",
-      "data": "2026-10-28T23:20:00+00:00"
+      "link": "https://canaltech.com.br/smartphone/samsung-w27-e-lancado-com-conexao-via-satelite-e-design-luxuoso/",
+      "data": "2026-10-29T13:23:49+00:00"
     },
     {
-      "titulo": "EA Sports FC 27 e mais jogos de Xbox com até 90% OFF; confira",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ea-sports-fc-27-e-mais-jogos-de-xbox-com-ate-90-off-confira/",
-      "data": "2026-10-28T23:00:00+00:00"
+      "titulo": "Google lança Gemini 4 Carbon com avanços em cibersegurança, mas você ainda não pode usá-lo",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-4-carbon-com-avancos-em-ciberseguranca-mas-voce-ainda-nao-pode-usa-lo/",
+      "data": "2026-10-29T13:19:18+00:00"
     },
     {
-      "titulo": "Dev faz Mario Kart World rodar no iPhone dias após jailbreak do Switch 2",
+      "titulo": "Apple acaba com tabu e lança MacBook Pro com tela de toque e painel PROLED XDR",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/dev-faz-mario-kart-world-rodar-no-iphone-dias-apos-jailbreak-do-switch-2/",
-      "data": "2026-10-28T22:19:00+00:00"
+      "link": "https://canaltech.com.br/notebook/apple-acaba-com-tabu-e-lanca-macbook-pro-com-tela-de-toque-e-painel-proled-xdr/",
+      "data": "2026-10-29T13:12:00+00:00"
     },
     {
-      "titulo": "IA não lançada pela Anthropic transforma vulnerabilidades em códigos de invasão",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ia-nao-lancada-pela-anthropic-encontra-falhas-e-cria-codigos-de-invasao/",
-      "data": "2026-10-28T22:15:00+00:00"
-    },
-    {
-      "titulo": "Nem robô pega robô: IAs falham em identificar outras IAs no Teste de Turing",
+      "titulo": "Gemini Notebook agora grava reuniões e aulas direto no celular sem precisar de upload",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/nem-robo-pega-robo-ias-falham-em-identificar-outras-ias-no-teste-de-turing/",
-      "data": "2026-10-28T22:15:00+00:00"
+      "link": "https://canaltech.com.br/apps/gemini-notebook-agora-grava-reunioes-e-aulas-direto-no-celular-sem-precisar-de-upload/",
+      "data": "2026-10-29T13:02:00+00:00"
     },
     {
-      "titulo": "Uber Moto anuncia viagens com preço fixo de R$ 4,98 para curtas distâncias",
+      "titulo": "Amazon demite 250 funcionários de produto após lançar aparelhos",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/uber-moto-anuncia-viagens-com-preco-fixo-de-r-498-para-curtas-distancias/",
-      "data": "2026-10-28T22:00:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/amazon-demite-250-funcionarios-de-produto-apos-lancar-aparelhos/",
+      "data": "2026-10-29T13:00:00+00:00"
     },
     {
-      "titulo": "Na era da IA, resiliência não pode ser privilégio de poucos",
+      "titulo": "SK Hynix esgota estoques e prevê escassez de memória até 2030",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/sk-hynix-esgota-estoques-e-preve-escassez-de-memoria-ate-2030/",
+      "data": "2026-10-29T12:57:58+00:00"
+    },
+    {
+      "titulo": "POCO X8 Pro: quanto vale a pena pagar na Black Friday 2026?",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/na-era-da-ia-resiliencia-nao-pode-ser-privilegio-de-poucos/",
-      "data": "2026-10-28T21:37:43+00:00"
+      "link": "https://canaltech.com.br/smartphone/poco-x8-pro-quanto-vale-a-pena-pagar-na-black-friday-2026/",
+      "data": "2026-10-29T12:49:58+00:00"
     },
     {
-      "titulo": "Lançamentos da Netflix em novembro têm esquenta para o Natal e estreias originais",
+      "titulo": "Usuários da Starlink viram alvo de espionagem israelense, diz Reuters",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/lancamentos-da-netflix-em-novembro-tem-esquenta-para-o-natal-e-estreias-originais/",
-      "data": "2026-10-28T21:34:00+00:00"
+      "link": "https://canaltech.com.br/telecom/usuarios-da-starlink-viram-alvo-de-espionagem-israelense-diz-reuters/",
+      "data": "2026-10-29T12:43:46+00:00"
     },
     {
-      "titulo": "ShinyHunters: criminosos abusaram de três falhas em ataque inédito a Oracle",
+      "titulo": "Chrome agora preenche formulários sozinho puxando dados do seu Gmail via IA",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/chrome-agora-preenche-formularios-sozinho-puxando-dados-do-seu-gmail-via-ia/",
+      "data": "2026-10-29T12:21:51+00:00"
+    },
+    {
+      "titulo": "GTA VI, Zelda e mais! Confira os lançamentos de jogos de novembro",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/shinyhunters-criminosos-abusaram-de-tres-falhas-em-ataque-inedito-a-oracle/",
-      "data": "2026-10-28T21:30:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-vi-zelda-e-mais-confira-os-lancamentos-de-jogos-de-novembro/",
+      "data": "2026-10-29T12:15:00+00:00"
     },
     {
-      "titulo": "Crise? Primeira COO do XBOX teria sido desligada por violação de políticas",
+      "titulo": "Nova série de Agatha Christie é a mistura perfeita de mistério e romance",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/crise-primeira-coo-do-xbox-teria-sido-desligada-por-violacao-de-politicas/",
-      "data": "2026-10-28T21:18:00+00:00"
+      "link": "https://canaltech.com.br/entretenimento/nova-serie-de-agatha-christie-e-a-mistura-perfeita-de-misterio-e-romance/",
+      "data": "2026-10-29T12:06:14+00:00"
     },
     {
-      "titulo": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (28)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-28/",
-      "data": "2026-10-28T21:15:00+00:00"
-    },
-    {
-      "titulo": "Uber Moto lança preço fixo de R$ 4,98 para viagens de até 3 km",
+      "titulo": "Tesla cancela reservas da Cybertruck após 7 anos por motivo inusitado",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/uber-moto-lanca-preco-fixo-de-r-498-para-viagens-de-ate-3-km/",
-      "data": "2026-10-28T21:03:00+00:00"
+      "link": "https://canaltech.com.br/carros/tesla-cancela-reservas-da-cybertruck-apos-7-anos-por-motivo-inusitado/",
+      "data": "2026-10-29T12:05:00+00:00"
     },
     {
-      "titulo": "PlayStation anuncia coleção Prism com controles DualSense transparentes para PS5",
+      "titulo": "Ataques via Teams permitem acesso a redes corporativas em menos de 15 minutos",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/playstation-anuncia-colecao-prism-com-controles-dualsense-transparentes-para-ps5/",
-      "data": "2026-10-28T20:31:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ataques-via-teams-permitem-acesso-a-redes-corporativas-em-menos-de-15-minutos/",
+      "data": "2026-10-29T12:00:00+00:00"
+    },
+    {
+      "titulo": "Google anuncia novo modelo de IA de ponta Gemini 4 Carbon",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/google-anuncia-novo-modelo-de-ia-de-ponta-gemini-4-carbon/",
+      "data": "2026-10-29T11:45:00+00:00"
+    },
+    {
+      "titulo": "Receita do Xbox continua em queda, e Microsoft confirma recuo no Game Pass e nas vendas de consoles",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/receita-do-xbox-continua-em-queda/",
+      "data": "2026-10-29T11:37:04+00:00"
+    },
+    {
+      "titulo": "Prime Gaming: Amazon Luna recebe os últimos jogos grátis de outubro! Resgate agora (29)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/prime-gaming-amazon-luna-recebe-os-ultimos-jogos-gratis-de-outubro-resgate-agora-29/",
+      "data": "2026-10-29T11:15:00+00:00"
+    },
+    {
+      "titulo": "Família processa OpenAI após mulher morrer depois de receber conselhos médicos do ChatGPT",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/familia-processa-openai-apos-mulher-morrer-depois-de-receber-conselhos-medicos-do-chatgpt/",
+      "data": "2026-10-29T11:00:00+00:00"
+    },
+    {
+      "titulo": "TVs da LG perdem acesso à IA da Microsoft",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/microsoft-encerra-suporte-ao-copilot-em-smart-tvs-da-lg/",
+      "data": "2026-10-29T09:51:59+00:00"
+    },
+    {
+      "titulo": "Tecnologia israelense rastreia usuários de Starlink por meio de anúncios",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/tecnologia-israelense-rastreia-usuarios-de-starlink-por-meio-de-anuncios/",
+      "data": "2026-10-29T08:00:00+00:00"
     },
     {
       "titulo": "Ainda dá tempo: Motorola Edge 70 Fusion Plus (512 GB) pelo menor preço",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/ainda-da-tempo-motorola-edge-70-fusion-plus-512-gb-pelo-menor-preco/",
       "data": "2026-10-28T20:22:53+00:00"
-    },
-    {
-      "titulo": "Opera libera IA que roda no próprio PC para usar em sites e extensões",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/opera-libera-ia-que-roda-no-proprio-pc-para-usar-em-sites-e-extensoes/",
-      "data": "2026-10-28T20:15:00+00:00"
     },
     {
       "titulo": "RTX 5080 disparou de preço nos EUA e já custa mais que a RTX 5090 no lançamento",
@@ -152,34 +176,10 @@
       "data": "2026-10-28T17:21:18+00:00"
     },
     {
-      "titulo": "Galaxy A57 despenca 58% para quem busca custo-benefício",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-a57-despenca-58-para-quem-busca-custo-beneficio/",
-      "data": "2026-10-28T17:17:32+00:00"
-    },
-    {
       "titulo": "GameSir apresenta controles inspirados em GTA 6 que são mais bonitos que os do PlayStation",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/gamesir-controles-gta-6/",
       "data": "2026-10-28T17:14:16+00:00"
-    },
-    {
-      "titulo": "Reddit traz o feed “Para Você”: conheça o novo jeito de descobrir posts",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/reddit-for-you-feed-nova-homepage/",
-      "data": "2026-10-28T17:03:35+00:00"
-    },
-    {
-      "titulo": "Após vazamento, Smart Sampa terá reconhecimento facial para acessar sistema",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/apos-vazamento-smart-sampa-tera-reconhecimento-facial-para-acessar-sistema/",
-      "data": "2026-10-28T17:01:03+00:00"
-    },
-    {
-      "titulo": "Galaxy Buds 4 com ANC cai para quase metade do preço em oferta",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-4-com-anc-cai-para-metade-do-preco-em-oferta-historica/",
-      "data": "2026-10-28T17:00:53+00:00"
     }
   ]
 }
