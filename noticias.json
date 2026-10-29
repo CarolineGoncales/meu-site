@@ -1,17 +1,101 @@
 {
-  "atualizado_em": "2026-10-28T20:38:19.435729+00:00",
+  "atualizado_em": "2026-10-29T00:29:20.882121+00:00",
   "noticias": [
+    {
+      "titulo": "O que é nudify? Entenda os apps que preocupam autoridades",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/nudify-como-esses-aplicativos-usam-inteligencia-artificial/",
+      "data": "2026-10-29T00:15:00+00:00"
+    },
+    {
+      "titulo": "Capcom desliga servidores e remove Street Fighter 5 das lojas por falha de segurança",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/capcom-desliga-servidores-e-remove-street-fighter-5-das-lojas-por-falha-de-seguranca/",
+      "data": "2026-10-28T23:20:00+00:00"
+    },
+    {
+      "titulo": "EA Sports FC 27 e mais jogos de Xbox com até 90% OFF; confira",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/ea-sports-fc-27-e-mais-jogos-de-xbox-com-ate-90-off-confira/",
+      "data": "2026-10-28T23:00:00+00:00"
+    },
+    {
+      "titulo": "Dev faz Mario Kart World rodar no iPhone dias após jailbreak do Switch 2",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/dev-faz-mario-kart-world-rodar-no-iphone-dias-apos-jailbreak-do-switch-2/",
+      "data": "2026-10-28T22:19:00+00:00"
+    },
+    {
+      "titulo": "IA não lançada pela Anthropic transforma vulnerabilidades em códigos de invasão",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ia-nao-lancada-pela-anthropic-encontra-falhas-e-cria-codigos-de-invasao/",
+      "data": "2026-10-28T22:15:00+00:00"
+    },
+    {
+      "titulo": "Nem robô pega robô: IAs falham em identificar outras IAs no Teste de Turing",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nem-robo-pega-robo-ias-falham-em-identificar-outras-ias-no-teste-de-turing/",
+      "data": "2026-10-28T22:15:00+00:00"
+    },
+    {
+      "titulo": "Uber Moto anuncia viagens com preço fixo de R$ 4,98 para curtas distâncias",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/uber-moto-anuncia-viagens-com-preco-fixo-de-r-498-para-curtas-distancias/",
+      "data": "2026-10-28T22:00:00+00:00"
+    },
+    {
+      "titulo": "Na era da IA, resiliência não pode ser privilégio de poucos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/na-era-da-ia-resiliencia-nao-pode-ser-privilegio-de-poucos/",
+      "data": "2026-10-28T21:37:43+00:00"
+    },
+    {
+      "titulo": "Lançamentos da Netflix em novembro têm esquenta para o Natal e estreias originais",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/lancamentos-da-netflix-em-novembro-tem-esquenta-para-o-natal-e-estreias-originais/",
+      "data": "2026-10-28T21:34:00+00:00"
+    },
+    {
+      "titulo": "ShinyHunters: criminosos abusaram de três falhas em ataque inédito a Oracle",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/shinyhunters-criminosos-abusaram-de-tres-falhas-em-ataque-inedito-a-oracle/",
+      "data": "2026-10-28T21:30:00+00:00"
+    },
+    {
+      "titulo": "Crise? Primeira COO do XBOX teria sido desligada por violação de políticas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/crise-primeira-coo-do-xbox-teria-sido-desligada-por-violacao-de-politicas/",
+      "data": "2026-10-28T21:18:00+00:00"
+    },
+    {
+      "titulo": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (28)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-28/",
+      "data": "2026-10-28T21:15:00+00:00"
+    },
+    {
+      "titulo": "Uber Moto lança preço fixo de R$ 4,98 para viagens de até 3 km",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/uber-moto-lanca-preco-fixo-de-r-498-para-viagens-de-ate-3-km/",
+      "data": "2026-10-28T21:03:00+00:00"
+    },
+    {
+      "titulo": "Google lança ‘Perfis de Busca’ no Brasil para criadores de conteúdo e editores",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/google-lanca-perfis-de-busca-no-brasil-para-criadores-de-conteudo-e-editores/",
+      "data": "2026-10-28T21:00:00+00:00"
+    },
+    {
+      "titulo": "PlayStation anuncia coleção Prism com controles DualSense transparentes para PS5",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/playstation-anuncia-colecao-prism-com-controles-dualsense-transparentes-para-ps5/",
+      "data": "2026-10-28T20:31:00+00:00"
+    },
     {
       "titulo": "Ainda dá tempo: Motorola Edge 70 Fusion Plus (512 GB) pelo menor preço",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/ainda-da-tempo-motorola-edge-70-fusion-plus-512-gb-pelo-menor-preco/",
       "data": "2026-10-28T20:22:53+00:00"
-    },
-    {
-      "titulo": "Steve Jobs e Tim Cook eram contra lançar MacBook com tela sensível ao toque",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/steve-jobs-e-tim-cook-eram-contra-lancar-macbook-com-tela-sensivel-ao-toque/",
-      "data": "2026-10-28T20:15:00+00:00"
     },
     {
       "titulo": "Opera libera IA que roda no próprio PC para usar em sites e extensões",
@@ -20,64 +104,10 @@
       "data": "2026-10-28T20:15:00+00:00"
     },
     {
-      "titulo": "Chevrolet derrete preços de SUV para enfrentar SW4 e chineses",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/chevrolet-derrete-precos-de-suv-para-enfrentar-sw4-e-chineses/",
-      "data": "2026-10-28T20:04:00+00:00"
-    },
-    {
-      "titulo": "Quem é Dylan Rourke? Conheça astro que pode viver protagonista de GTA 6",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/quem-e-dylan-rourke-conheca-astro-que-pode-viver-protagonista-de-gta-6/",
-      "data": "2026-10-28T20:01:00+00:00"
-    },
-    {
-      "titulo": "iPhone Duo: dobradiça pode ser a causa de quebra na tela",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-duo-dobradica-pode-ser-a-causa-de-quebra-na-tela/",
-      "data": "2026-10-28T20:00:00+00:00"
-    },
-    {
-      "titulo": "Capcom vai concluir história de Resident Evil em 10 anos, mas promete muitos jogos novos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/capcom-vai-concluir-historia-de-resident-evil-em-10-anos-mas-promete-muitos-jogos-novos/",
-      "data": "2026-10-28T19:45:00+00:00"
-    },
-    {
       "titulo": "RTX 5080 disparou de preço nos EUA e já custa mais que a RTX 5090 no lançamento",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware/rtx-5080-disparou-de-preco-nos-eua/",
       "data": "2026-10-28T19:44:45+00:00"
-    },
-    {
-      "titulo": "Galaxy Watch Ultra 2 dá problema em sensor e Samsung admite falha",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartwatch/galaxy-watch-ultra-2-da-problema-em-sensor-e-samsung-admite-falha/",
-      "data": "2026-10-28T19:41:40+00:00"
-    },
-    {
-      "titulo": "Echo Time e Echo Dot: confira comparativo entre os dispositivos com Alexa",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/echo-time-e-echo-dot-confira-comparativo-entre-os-dispositivos-com-alexa/",
-      "data": "2026-10-28T19:30:00+00:00"
-    },
-    {
-      "titulo": "MacBook Pro com tela PROLED XDR pode custar até R$ 182 mil no Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/macbook-pro-com-tela-proled-xdr-pode-custar-ate-r-182-mil-no-brasil/",
-      "data": "2026-10-28T19:15:00+00:00"
-    },
-    {
-      "titulo": "CPU Intel Nova Lake mostra evolução tímida sobre Arrow Lake em benchmark vazado",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/cpu-intel-nova-lake-mostra-evolucao-timida-sobre-arrow-lake-em-benchmark-vazado/",
-      "data": "2026-10-28T19:05:04+00:00"
-    },
-    {
-      "titulo": "Óculos de realidade mista para Android XR aposta em leveza extrema",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/oculos-de-realidade-mista-para-android-xr-aposta-em-leveza-extrema/",
-      "data": "2026-10-28T18:59:09+00:00"
     },
     {
       "titulo": "Uber Moto agora tem viagens com preço fixo de R$ 4,98",
@@ -98,34 +128,10 @@
       "data": "2026-10-28T18:38:52+00:00"
     },
     {
-      "titulo": "Mercado Livre derruba preço do Galaxy Buds mais top da Samsung",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/mercado-livre-derruba-preco-do-galaxy-buds-mais-top-da-samsung/",
-      "data": "2026-10-28T18:31:03+00:00"
-    },
-    {
-      "titulo": "GameSir revela controles não oficiais inspirados em GTA 6; conheça os modelos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gamesir-revela-controles-nao-oficiais-inspirados-em-gta-6-conheca-os-modelos/",
-      "data": "2026-10-28T18:15:00+00:00"
-    },
-    {
       "titulo": "Amazon apresenta o Echo Show 16 com tela personalizável, mapa 3D da sua casa e muito mais",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware/amazon-echo-show-16/",
       "data": "2026-10-28T18:08:32+00:00"
-    },
-    {
-      "titulo": "T-Roc brasileiro será híbrido e tem previsão para chegar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/t-roc-brasileiro-sera-hibrido-e-tem-previsao-para-chegar/",
-      "data": "2026-10-28T18:04:00+00:00"
-    },
-    {
-      "titulo": "CapCut ganha novos recursos de IA e atalho de edição via ChatGPT",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/capcut-ganha-novos-recursos-de-ia-e-atalho-de-edicao-via-chatgpt/",
-      "data": "2026-10-28T18:00:00+00:00"
     },
     {
       "titulo": "GTA 6 pode chegar ao PC em apenas 6 ou 7 meses, prevê analista",
@@ -144,12 +150,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware/hp-volta-producao-china-ia/",
       "data": "2026-10-28T17:32:16+00:00"
-    },
-    {
-      "titulo": "Apple lança MacBook Pro com tela OLED sensível a toques pela primeira vez",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-anuncia-macbook-pro-tela-sensivel-a-toques/",
-      "data": "2026-10-28T17:31:00+00:00"
     },
     {
       "titulo": "Apple anuncia MacBook Pro com tela OLED sensível a toques; veja preços",
