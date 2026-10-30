@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-10-29T23:25:21.339481+00:00",
+  "atualizado_em": "2026-10-30T02:43:37.437865+00:00",
   "noticias": [
+    {
+      "titulo": "Binance sofre suposto ataque hacker bilionário; corretora investiga",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/binance-sofre-suposto-ataque-hacker-bilionario-corretora-investiga/",
+      "data": "2026-10-29T23:32:00+00:00"
+    },
+    {
+      "titulo": "Superinteligência artificial: o que é e por que gera tanta preocupação",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/superinteligencia-artificial-o-que-e-riscos-e-quando-chega/",
+      "data": "2026-10-29T23:15:00+00:00"
+    },
     {
       "titulo": "Fim da busca limpa: Google vai colocar anúncios no Modo IA e Brasil está na lista",
       "fonte": "Canaltech",
@@ -44,12 +56,6 @@
       "data": "2026-10-29T21:56:00+00:00"
     },
     {
-      "titulo": "Funcionários da Rockstar vão votar sobre sindicato durante lançamento de GTA 6",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/funcionarios-da-rockstar-vao-votar-sobre-sindicato-durante-lancamento-de-gta-6/",
-      "data": "2026-10-29T21:45:00+00:00"
-    },
-    {
       "titulo": "Lançamento histórico: Phantom Blade Zero passa de 700 mil jogadores no Steam",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/games/lancamento-historico-phantom-blade-zero-passa-de-700-mil-jogadores-no-steam/",
@@ -66,18 +72,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/carros/fiat-argo-x-esses-sao-os-segredos-do-futuro-carro-mais-vendido-do-brasil/",
       "data": "2026-10-29T21:00:05+00:00"
-    },
-    {
-      "titulo": "Samsung zoa problemas de tela do iPhone Duo em posts nas redes",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-zoa-problemas-de-tela-do-iphone-duo-em-posts-nas-redes/",
-      "data": "2026-10-29T21:00:00+00:00"
-    },
-    {
-      "titulo": "Patrick Stewart: confira 9 jogos que o ator britânico participou",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/patrick-stewart-confira-9-jogos-que-o-ator-britanico-participou/",
-      "data": "2026-10-29T20:48:00+00:00"
     },
     {
       "titulo": "Dona da TIM pode sair do Brasil e sinaliza venda da operadora",
@@ -180,6 +174,12 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/huawei-watch-gt-7-pro-com-gps-avancado-chega-a-43-off-na-amazon/",
       "data": "2026-10-29T17:33:31+00:00"
+    },
+    {
+      "titulo": "Mapa de GTA 6 será quase tão grande quanto GTA 4, GTA 5 e Red Dead Redemption 2 juntos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/mapa-de-gta-6-gigante/",
+      "data": "2026-10-29T17:13:11+00:00"
     }
   ]
 }
