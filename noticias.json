@@ -1,137 +1,167 @@
 {
-  "atualizado_em": "2026-10-30T16:03:27.662668+00:00",
+  "atualizado_em": "2026-10-30T20:55:23.863383+00:00",
   "noticias": [
     {
-      "titulo": "Google lança perfis de criadores e sites na Busca; veja como funciona",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/internet-e-redes-sociais/google-lanca-perfis-de-criadores-e-sites-na-busca-veja-como-funciona/",
-      "data": "2026-10-30T16:02:00+00:00"
-    },
-    {
-      "titulo": "Antena da Starlink aparece com preço impressionante no Magalu",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/antena-da-starlink-aparece-com-preco-impressionante-no-magalu/",
-      "data": "2026-10-30T16:01:32+00:00"
-    },
-    {
-      "titulo": "Monitor curvo é melhor? Conheça o modelo da Samsung que faz sucesso",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/monitor-curvo-e-melhor-conheca-o-modelo-da-samsung-que-faz-sucesso/",
-      "data": "2026-10-30T16:00:17+00:00"
-    },
-    {
-      "titulo": "Novo pneu testado no Brasil e no Japão promete quase 5% de economia no tanque",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/novo-pneu-testado-no-brasil-e-no-japao-promete-quase-5-de-economia-no-tanque/",
-      "data": "2026-10-30T16:00:05+00:00"
-    },
-    {
-      "titulo": "Amazon prorroga acesso grátis à Alexa turbinada",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/amazon-prorroga-acesso-gratis-a-alexa-turbinada/",
-      "data": "2026-10-30T15:57:15+00:00"
-    },
-    {
-      "titulo": "GitHub precisou de 4 milhões de núcleos de CPU extras devido ao enorme influxo de códigos gerados por IA",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/github-7-4-bilhoes-commits-ia/",
-      "data": "2026-10-30T15:51:09+00:00"
-    },
-    {
-      "titulo": "Maior roubo da história: Binance perde US$ 6,3 bilhões em ataque hacker relâmpago",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/maior-roubo-da-historia-binance-perde-us-63-bilhoes-em-ataque-hacker-relampago/",
-      "data": "2026-10-30T15:40:04+00:00"
-    },
-    {
-      "titulo": "EUA classificam robôs industriais estrangeiros como ameaça à segurança nacional, mas dependem deles nas fábricas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/eua-robos-industriais-importados-ameaca-seguranca-nacional/",
-      "data": "2026-10-30T15:37:16+00:00"
-    },
-    {
-      "titulo": "Intel Nova Lake vai cobrir lacuna em CPUs de alta performance, diz CEO",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/intel-nova-lake-vai-cobrir-lacuna-em-cpus-de-alta-performance-diz-ceo/",
-      "data": "2026-10-30T15:36:00+00:00"
-    },
-    {
-      "titulo": "GTX 750 Ti está de volta com 8 GB de memória após 12 anos, mas desempenho surpreende nos testes",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/gtx-750-ti-8gb-china-testes-jogos-2026/",
-      "data": "2026-10-30T15:26:12+00:00"
-    },
-    {
-      "titulo": "Chips para notebooks baratos estão esgotados, revela Intel",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/chips-para-notebooks-baratos-estao-esgotados-revela-intel/",
-      "data": "2026-10-30T15:13:53+00:00"
-    },
-    {
-      "titulo": "Intel confirma Nova Lake para CES 2027 e promete recuperar espaço no desktop high-end",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/intel-nova-lake-ces-2027/",
-      "data": "2026-10-30T15:03:59+00:00"
-    },
-    {
-      "titulo": "Sem sair do chat: Gemini ganha edição interativa de documentos no celular e na web",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/sem-sair-do-chat-gemini-ganha-edicao-interativa-de-documentos-no-celular-e-na-web/",
-      "data": "2026-10-30T15:02:00+00:00"
-    },
-    {
-      "titulo": "HyperX Pulsefire Core: mouse gamer de R$314 saindo por R$85 — e com nota 4.8 de 5 estrelas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/hyperx-pulsefire-core-mouse-gamer-de-r314-saindo-por-r85-e-com-nota-4-8-de-5-estrelas/",
-      "data": "2026-10-30T15:00:26+00:00"
-    },
-    {
-      "titulo": "Vitrola moderna, novo Galaxy dobrável e mais: confira os lançamentos da semana",
+      "titulo": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (30)",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/vitrola-moderna-novo-galaxy-dobravel-e-mais-confira-os-lancamentos-da-semana/",
-      "data": "2026-10-30T15:00:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-30/",
+      "data": "2026-10-30T20:15:00+00:00"
     },
     {
-      "titulo": "Reddit testa login obrigatório para acessar plataforma",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/reddit-testa-login-obrigatorio-para-acessar-plataforma/",
-      "data": "2026-10-30T15:00:00+00:00"
-    },
-    {
-      "titulo": "Google vai encerrar agente de IA que programa sozinho",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/google-vai-encerrar-agente-de-ia-que-programa-sozinho/",
-      "data": "2026-10-30T14:42:59+00:00"
-    },
-    {
-      "titulo": "Nintendo Switch OLED em oferta hoje traz cores vivas no modo portátil",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/nintendo-switch-oled-em-oferta-hoje-traz-cores-vivas-no-modo-portatil/",
-      "data": "2026-10-30T14:41:28+00:00"
-    },
-    {
-      "titulo": "Seleção de smartwatches e smartbands com até 73% de desconto",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/selecao-de-smartwatches-e-smartbands-com-ate-73-de-desconto/",
-      "data": "2026-10-30T14:32:00+00:00"
-    },
-    {
-      "titulo": "IA criada pela USP permite conversar com mapas para achar desigualdade nas cidades",
+      "titulo": "Mais de 300 extensões do Chrome sequestram buscas dos usuários; veja se você foi afetado",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-criada-pela-usp-permite-conversar-com-mapas-para-achar-desigualdade-nas-cidades/",
-      "data": "2026-10-30T14:31:00+00:00"
+      "link": "https://canaltech.com.br/apps/mais-de-300-extensoes-do-chrome-sequestram-buscas-dos-usuarios-veja-se-voce-foi-afetado/",
+      "data": "2026-10-30T20:06:00+00:00"
     },
     {
-      "titulo": "Fone de Ouvido Philips TAT1109BK/00 sai por menos de R$110: vale a pena conferir essa oferta",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/fone-ouvido-philips-tat1109bk-00-sai-por-menos-de-r110-vale-a-pena-conferir-essa-oferta/",
-      "data": "2026-10-30T14:30:09+00:00"
+      "titulo": "Samsung pode lançar tablet dobrável com tela de 17 polegadas",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/samsung-pode-lancar-tablet-dobravel-com-tela-de-17-polegadas/",
+      "data": "2026-10-30T20:03:10+00:00"
     },
     {
-      "titulo": "Reddit começará a exigir login para visualizar publicações e encerra era da navegação anônima no site",
+      "titulo": "Review da Sabala DR-500: uma caixa para festas em alto e bom som",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/testamos/review-da-sabala-dr-500-uma-caixa-para-festas-em-alto-e-bom-som/",
+      "data": "2026-10-30T20:01:19+00:00"
+    },
+    {
+      "titulo": "Android 17 está em apenas 1% dos celulares meses após o lançamento",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/android-17-esta-em-apenas-1-dos-celulares-meses-apos-o-lancamento/",
+      "data": "2026-10-30T20:00:00+00:00"
+    },
+    {
+      "titulo": "BYD dá mais um passo para ter fábrica \"completa\" na Bahia; entenda",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/byd-da-mais-um-passo-para-ter-fabrica-completa-na-bahia-entenda/",
+      "data": "2026-10-30T20:00:00+00:00"
+    },
+    {
+      "titulo": "Motorola Razr 70 Ultra não é barato, mas atinge 45% OFF nessa oferta",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/motorola-razr-70-ultra-nao-e-barato-mas-atinge-45-off-nessa-oferta/",
+      "data": "2026-10-30T19:59:29+00:00"
+    },
+    {
+      "titulo": "Melhor robô aspirador do Brasil fica no \"precinho\" antes da Black Friday",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/melhor-robo-aspirador-do-brasil-fica-no-precinho-antes-da-black-friday/",
+      "data": "2026-10-30T19:55:51+00:00"
+    },
+    {
+      "titulo": "Ubisoft tem novidades sobre o futuro de Assassin's Creed que desanima os fãs",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/ubisoft-tem-novidades-sobre-o-futuro-de-assassins-creed-que-desanima-os-fas/",
+      "data": "2026-10-30T19:55:00+00:00"
+    },
+    {
+      "titulo": "Entire, do ex-CEO do GitHub, já hospeda códigos no Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/entire-do-ex-ceo-do-github-ja-hospeda-codigos-no-brasil/",
+      "data": "2026-10-30T19:49:18+00:00"
+    },
+    {
+      "titulo": "Xiaomi lança panela inteligente que cozinha arroz em 14 minutos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/xiaomi-lanca-panela-inteligente-que-cozinha-arroz-em-14-minutos/",
+      "data": "2026-10-30T19:24:15+00:00"
+    },
+    {
+      "titulo": "Wuchang: Fallen Feathers, EVERSPACE 2 e mais jogos grátis no fim de semana",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-gratis-fim-de-semana-wuchang-fallen-feathers-everspace-2-e-mais/",
+      "data": "2026-10-30T19:11:10+00:00"
+    },
+    {
+      "titulo": "Elon Musk afirma que implantes da Neuralink poderão devolver movimentos e visão a pessoas com paralisia e cegueira",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/reddit-exige-login/",
-      "data": "2026-10-30T14:19:37+00:00"
+      "link": "https://www.hardware.com.br/tecnologia/elon-musk-neuralink-devolver-movimentos/",
+      "data": "2026-10-30T19:10:43+00:00"
+    },
+    {
+      "titulo": "CEO da OpenAI critica usuários que mantêm muita RAM nos próprios PCs: “É algo terrível”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/ceo-openai-critica-usuarios-mantem-muita-ram-proprios-pcs/",
+      "data": "2026-10-30T19:06:27+00:00"
+    },
+    {
+      "titulo": "Meta passa a monitorar conversas de adolescentes com IA para alertar famílias sobre riscos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/meta-passa-a-monitorar-conversas-de-adolescentes-com-ia-para-alertar-familias-sobre-riscos/",
+      "data": "2026-10-30T19:02:00+00:00"
+    },
+    {
+      "titulo": "Netflix fará série live-action de PUBG comandada por Donald Glover",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/netflix-fara-serie-live-action-de-pubg-comandada-por-donald-glover/",
+      "data": "2026-10-30T18:48:00+00:00"
+    },
+    {
+      "titulo": "Repositórios falsos de emuladores de PS5 no GitHub escondem malware que rouba senhas",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/anyps5-falso-github-desativa-defender-rouba-senhas/",
+      "data": "2026-10-30T18:37:36+00:00"
+    },
+    {
+      "titulo": "“Qualidade do som insuperável” Galaxy Buds4 Pro com 37% de desconto garante som premium, ANC inteligente e design sofisticado",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/galaxy-buds4-pro-com-37-de-desconto-som-premium-anc-inteligente-e-design-sofisticado/",
+      "data": "2026-10-30T18:30:57+00:00"
+    },
+    {
+      "titulo": "Itaú Pay: novo serviço do banco permite pagar em lojas online sem cartão",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/itau-pay-novo-servico-do-banco-permite-pagar-em-lojas-online-sem-cartao/",
+      "data": "2026-10-30T18:05:40+00:00"
+    },
+    {
+      "titulo": "Binance sofre ataque hacker bilionário; veja o que clientes devem fazer",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/binance-sofre-ataque-hacker-bilionario-veja-o-que-clientes-devem-fazer/",
+      "data": "2026-10-30T18:00:00+00:00"
+    },
+    {
+      "titulo": "Papa Leão XIV afirma que IAs não possuem direitos: “Não são pessoas”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/pope-leo-xiv-pede-desarmamento-da-ia/",
+      "data": "2026-10-30T17:39:32+00:00"
+    },
+    {
+      "titulo": "Crise da memória chega às câmeras e Canon alerta para aumento de preços em 2027",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/crise-memoria-camera-canon/",
+      "data": "2026-10-30T17:31:21+00:00"
+    },
+    {
+      "titulo": "Cursor diz que extensão falsa do Claude Code afetou até 5 mil usuários",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/cursor-diz-que-extensao-falsa-do-claude-code-afetou-ate-5-mil-usuarios/",
+      "data": "2026-10-30T17:05:00+00:00"
+    },
+    {
+      "titulo": "YouTuber usa radiador de ar-condicionado para resfriar RTX 3080 e reduz temperatura em quase 40°C",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/youtuber-radiador-rtx-3080/",
+      "data": "2026-10-30T16:58:02+00:00"
+    },
+    {
+      "titulo": "Nova parafusadeira com IA promete identificar o tamanho exato do parafuso para você",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/arrowspace-s1-parafusadeira-ia-camera/",
+      "data": "2026-10-30T16:37:42+00:00"
+    },
+    {
+      "titulo": "SpaceX quer comprar casas de vizinhos incomodados com seus data centers",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/spacex-quer-comprar-casas-de-vizinhos-incomodados-com-seus-data-centers/",
+      "data": "2026-10-30T16:17:43+00:00"
+    },
+    {
+      "titulo": "PS5 desbloqueado vira “Steam Machine” e roda jogos de PC",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/ps5-desbloqueado-vira-steam-machine-e-roda-jogos-de-pc/",
+      "data": "2026-10-30T16:08:29+00:00"
     },
     {
       "titulo": "Resident Evil 7: Como fazer o ensopado da Marguerite Baker na vida real? Veja a receita",
@@ -140,46 +170,16 @@
       "data": "2026-10-30T14:15:00+00:00"
     },
     {
-      "titulo": "Após jailbreak, jogos de Nintendo Switch 2 rodam em PC e até iPhone",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/apos-jailbreak-jogos-de-nintendo-switch-2-rodam-em-pc-e-ate-iphone/",
-      "data": "2026-10-30T14:14:10+00:00"
-    },
-    {
-      "titulo": "Rockstar define data da trilha de GTA 6 e antecipa clima do game com Justice",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/rockstar-define-data-da-trilha-de-gta-6-e-antecipa-clima-do-game-com-justice/",
-      "data": "2026-10-30T14:11:00+00:00"
-    },
-    {
-      "titulo": "Galaxy Z Fold 8 com novo design chega a quase R$ 2 mil de desconto",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-z-fold-8-com-novo-design-chega-a-quase-r-2-mil-de-desconto/",
-      "data": "2026-10-30T14:07:03+00:00"
-    },
-    {
-      "titulo": "The Duskbloods, exclusivo de Switch 2 feito pela FromSoftware, é adiado para 2027; saiba motivo",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/the-duskbloods-exclusivo-de-switch-2-feito-pela-fromsoftware-e-adiado-para-2027-saiba-o-motivo/",
-      "data": "2026-10-30T13:15:00+00:00"
-    },
-    {
-      "titulo": "Galaxy S26 Plus cai para quase metade do preço com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-plus-cai-para-quase-metade-do-preco-com-cupom/",
-      "data": "2026-10-30T13:13:33+00:00"
-    },
-    {
-      "titulo": "Binance perde US$ 6,3 bilhões no maior roubo de criptomoedas do mundo",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/binance-perde-us-63-bilhoes-no-maior-roubo-de-criptomoedas-do-mundo/",
-      "data": "2026-10-30T12:57:16+00:00"
-    },
-    {
       "titulo": "Binance: grupo norte-coreano é suspeito em roubo de US$ 6,3 bilhões",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/binance-grupo-norte-coreano-e-suspeito-em-roubo-de-us-63-bilhoes/",
       "data": "2026-10-30T12:50:00+00:00"
+    },
+    {
+      "titulo": "Binance diz que ‘começou a recuperar ativos afetados’ após roubo de US$ 6,3 bilhões",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/binance-diz-que-comecou-a-recuperar-ativos-afetados-apos-roubo-de-us-63-bilhoes/",
+      "data": "2026-10-30T11:36:00+00:00"
     }
   ]
 }
