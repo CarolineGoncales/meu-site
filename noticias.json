@@ -1,17 +1,83 @@
 {
-  "atualizado_em": "2026-10-30T20:55:23.863383+00:00",
+  "atualizado_em": "2026-10-31T00:12:54.586305+00:00",
   "noticias": [
     {
-      "titulo": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (30)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-30/",
-      "data": "2026-10-30T20:15:00+00:00"
+      "titulo": "OpenAI cede à pressão de usuários e dobra limites de uso do ChatGPT Pro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/openai-cede-a-pressao-de-usuarios-e-dobra-limites-de-uso-do-chatgpt-pro/",
+      "data": "2026-10-31T00:07:00+00:00"
     },
     {
-      "titulo": "Mais de 300 extensões do Chrome sequestram buscas dos usuários; veja se você foi afetado",
+      "titulo": "Como limpar placas soares? 5 dicas e cuidados importantes",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/stem/placa-solar-pode-ser-lavada-veja-como-fazer-a-limpeza/",
+      "data": "2026-10-30T23:15:00+00:00"
+    },
+    {
+      "titulo": "App expõe vício em redes sociais e tempo perdido de maneira chocante",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/mais-de-300-extensoes-do-chrome-sequestram-buscas-dos-usuarios-veja-se-voce-foi-afetado/",
-      "data": "2026-10-30T20:06:00+00:00"
+      "link": "https://canaltech.com.br/apps/app-expoe-vicio-em-redes-sociais-e-tempo-perdido-de-maneira-chocante/",
+      "data": "2026-10-30T23:04:00+00:00"
+    },
+    {
+      "titulo": "Resident Evil Requiem e mais jogos para Switch com até 90% OFF na eShop",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/resident-evil-requiem-e-mais-jogos-para-switch-com-ate-90-off-na-eshop/",
+      "data": "2026-10-30T22:30:00+00:00"
+    },
+    {
+      "titulo": "7 melhores edições limitadas do Master System",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/7-melhores-edicoes-limitadas-do-master-system/",
+      "data": "2026-10-30T22:19:00+00:00"
+    },
+    {
+      "titulo": "Tiggo 5X fica com preços no chão; confira prazos e condições",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/tiggo-5x-fica-com-precos-no-chao-confira-prazos-e-condicoes/",
+      "data": "2026-10-30T22:02:00+00:00"
+    },
+    {
+      "titulo": "Show do BTS: por que quem estava na pista ouviu a arquibancada cantar “atrasada”?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/ciencia-e-espaco/show-do-bts-por-que-quem-estava-na-pista-ouviu-a-arquibancada-cantar-atrasada/",
+      "data": "2026-10-30T22:00:03+00:00"
+    },
+    {
+      "titulo": "Falha no Telegram permite invasão remota de celulares por ligação",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-no-telegram-permite-invasao-remota-de-celulares-por-ligacao/",
+      "data": "2026-10-30T22:00:00+00:00"
+    },
+    {
+      "titulo": "Como usar o My FanCam no celular Samsung Galaxy",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/como-usar-o-my-fancam-no-celular-samsung-galaxy/",
+      "data": "2026-10-30T22:00:00+00:00"
+    },
+    {
+      "titulo": "Como cancelar o Kindle+ (antigo Kindle Unlimited)",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/responde/como-cancelar-o-kindle-unlimited/",
+      "data": "2026-10-30T21:59:49+00:00"
+    },
+    {
+      "titulo": "Chrome vai ganhar novos recursos de busca extremamente úteis; conheça",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/software/chrome-vai-ganhar-novos-recursos-de-busca-extremamente-uteis-conheca/",
+      "data": "2026-10-30T21:30:03+00:00"
+    },
+    {
+      "titulo": "Extensão falsa do Claude Code abre brecha para invasão em computadores",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/extensao-falsa-do-claude-code-abre-brecha-para-invasao-em-computadores/",
+      "data": "2026-10-30T21:30:00+00:00"
+    },
+    {
+      "titulo": "'SMS da Morte' derruba ligações e trava celulares Android sem você clicar em nada",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/sms-da-morte-derruba-ligacoes-e-trava-celulares-android-sem-voce-clicar-em-nada/",
+      "data": "2026-10-30T21:03:00+00:00"
     },
     {
       "titulo": "Samsung pode lançar tablet dobrável com tela de 17 polegadas",
@@ -26,34 +92,10 @@
       "data": "2026-10-30T20:01:19+00:00"
     },
     {
-      "titulo": "Android 17 está em apenas 1% dos celulares meses após o lançamento",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/android-17-esta-em-apenas-1-dos-celulares-meses-apos-o-lancamento/",
-      "data": "2026-10-30T20:00:00+00:00"
-    },
-    {
-      "titulo": "BYD dá mais um passo para ter fábrica \"completa\" na Bahia; entenda",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/byd-da-mais-um-passo-para-ter-fabrica-completa-na-bahia-entenda/",
-      "data": "2026-10-30T20:00:00+00:00"
-    },
-    {
       "titulo": "Motorola Razr 70 Ultra não é barato, mas atinge 45% OFF nessa oferta",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/motorola-razr-70-ultra-nao-e-barato-mas-atinge-45-off-nessa-oferta/",
       "data": "2026-10-30T19:59:29+00:00"
-    },
-    {
-      "titulo": "Melhor robô aspirador do Brasil fica no \"precinho\" antes da Black Friday",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/melhor-robo-aspirador-do-brasil-fica-no-precinho-antes-da-black-friday/",
-      "data": "2026-10-30T19:55:51+00:00"
-    },
-    {
-      "titulo": "Ubisoft tem novidades sobre o futuro de Assassin's Creed que desanima os fãs",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/ubisoft-tem-novidades-sobre-o-futuro-de-assassins-creed-que-desanima-os-fas/",
-      "data": "2026-10-30T19:55:00+00:00"
     },
     {
       "titulo": "Entire, do ex-CEO do GitHub, já hospeda códigos no Brasil",
@@ -62,16 +104,10 @@
       "data": "2026-10-30T19:49:18+00:00"
     },
     {
-      "titulo": "Xiaomi lança panela inteligente que cozinha arroz em 14 minutos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/xiaomi-lanca-panela-inteligente-que-cozinha-arroz-em-14-minutos/",
-      "data": "2026-10-30T19:24:15+00:00"
-    },
-    {
-      "titulo": "Wuchang: Fallen Feathers, EVERSPACE 2 e mais jogos grátis no fim de semana",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-gratis-fim-de-semana-wuchang-fallen-feathers-everspace-2-e-mais/",
-      "data": "2026-10-30T19:11:10+00:00"
+      "titulo": "CEO da OpenAI diz que é ‘terrível’ ter muita RAM no próprio PC",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/ceo-da-openai-diz-que-e-terrivel-ter-muita-ram-no-proprio-pc/",
+      "data": "2026-10-30T19:30:00+00:00"
     },
     {
       "titulo": "Elon Musk afirma que implantes da Neuralink poderão devolver movimentos e visão a pessoas com paralisia e cegueira",
@@ -84,18 +120,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/ceo-openai-critica-usuarios-mantem-muita-ram-proprios-pcs/",
       "data": "2026-10-30T19:06:27+00:00"
-    },
-    {
-      "titulo": "Meta passa a monitorar conversas de adolescentes com IA para alertar famílias sobre riscos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/meta-passa-a-monitorar-conversas-de-adolescentes-com-ia-para-alertar-familias-sobre-riscos/",
-      "data": "2026-10-30T19:02:00+00:00"
-    },
-    {
-      "titulo": "Netflix fará série live-action de PUBG comandada por Donald Glover",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/netflix-fara-serie-live-action-de-pubg-comandada-por-donald-glover/",
-      "data": "2026-10-30T18:48:00+00:00"
     },
     {
       "titulo": "Repositórios falsos de emuladores de PS5 no GitHub escondem malware que rouba senhas",
@@ -114,12 +138,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/itau-pay-novo-servico-do-banco-permite-pagar-em-lojas-online-sem-cartao/",
       "data": "2026-10-30T18:05:40+00:00"
-    },
-    {
-      "titulo": "Binance sofre ataque hacker bilionário; veja o que clientes devem fazer",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/binance-sofre-ataque-hacker-bilionario-veja-o-que-clientes-devem-fazer/",
-      "data": "2026-10-30T18:00:00+00:00"
     },
     {
       "titulo": "Papa Leão XIV afirma que IAs não possuem direitos: “Não são pessoas”",
@@ -158,28 +176,10 @@
       "data": "2026-10-30T16:17:43+00:00"
     },
     {
-      "titulo": "PS5 desbloqueado vira “Steam Machine” e roda jogos de PC",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/ps5-desbloqueado-vira-steam-machine-e-roda-jogos-de-pc/",
-      "data": "2026-10-30T16:08:29+00:00"
-    },
-    {
-      "titulo": "Resident Evil 7: Como fazer o ensopado da Marguerite Baker na vida real? Veja a receita",
+      "titulo": "Cupom Terabyte | Até 65% de desconto - Novembro 2026",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/resident-evil-7-como-fazer-o-ensopado-da-marguerite-baker-na-vida-real-veja-a-receita/",
-      "data": "2026-10-30T14:15:00+00:00"
-    },
-    {
-      "titulo": "Binance: grupo norte-coreano é suspeito em roubo de US$ 6,3 bilhões",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/binance-grupo-norte-coreano-e-suspeito-em-roubo-de-us-63-bilhoes/",
-      "data": "2026-10-30T12:50:00+00:00"
-    },
-    {
-      "titulo": "Binance diz que ‘começou a recuperar ativos afetados’ após roubo de US$ 6,3 bilhões",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/binance-diz-que-comecou-a-recuperar-ativos-afetados-apos-roubo-de-us-63-bilhoes/",
-      "data": "2026-10-30T11:36:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-terabyte/",
+      "data": "2026-10-20T12:53:00+00:00"
     }
   ]
 }
