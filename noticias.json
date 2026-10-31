@@ -1,6 +1,48 @@
 {
-  "atualizado_em": "2026-10-31T05:59:22.268043+00:00",
+  "atualizado_em": "2026-10-31T11:43:24.619224+00:00",
   "noticias": [
+    {
+      "titulo": "10 melhores filmes para assistir no Halloween no streaming",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/melhores-filmes-halloween-assistir-streaming/",
+      "data": "2026-10-31T11:30:03+00:00"
+    },
+    {
+      "titulo": "5 jogos grátis para curtir o fim de semana no PC e consoles! (31)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-e-consoles-31/",
+      "data": "2026-10-31T11:15:00+00:00"
+    },
+    {
+      "titulo": "O que comprar na Black Friday: notebooks para estudar",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-notebooks-para-estudar/",
+      "data": "2026-10-31T11:15:00+00:00"
+    },
+    {
+      "titulo": "De Arlequina a Shrek: os personagens mais buscados para fantasias de Halloween",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/de-arlequina-a-shrek-os-personagens-mais-buscados-para-fantasias-de-halloween/",
+      "data": "2026-10-31T11:02:00+00:00"
+    },
+    {
+      "titulo": "Do jogo ao trabalho: o que os games ensinam sobre liderança e desenvolvimento profissional",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/do-jogo-ao-trabalho-o-que-os-games-ensinam-sobre-lideranca-e-desenvolvimento-profissional/",
+      "data": "2026-10-31T11:00:02+00:00"
+    },
+    {
+      "titulo": "Por que o Instagram de Haaland está azul? Conheça o prêmio Rings",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/instagram-rings-2026-perfil-haaland/",
+      "data": "2026-10-31T10:00:00+00:00"
+    },
+    {
+      "titulo": "Campanha criminosa usa apps falsos de IA para infectar computadores com vírus",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/campanha-criminosa-usa-apps-falsos-de-ia-para-infectar-computadores-com-virus/",
+      "data": "2026-10-31T08:00:00+00:00"
+    },
     {
       "titulo": "OpenAI cede à pressão de usuários e dobra limites de uso do ChatGPT Pro",
       "fonte": "Canaltech",
@@ -50,34 +92,10 @@
       "data": "2026-10-30T22:00:00+00:00"
     },
     {
-      "titulo": "Como usar o My FanCam no celular Samsung Galaxy",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/como-usar-o-my-fancam-no-celular-samsung-galaxy/",
-      "data": "2026-10-30T22:00:00+00:00"
-    },
-    {
       "titulo": "Como cancelar o Kindle+ (antigo Kindle Unlimited)",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/responde/como-cancelar-o-kindle-unlimited/",
       "data": "2026-10-30T21:59:49+00:00"
-    },
-    {
-      "titulo": "Chrome vai ganhar novos recursos de busca extremamente úteis; conheça",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/chrome-vai-ganhar-novos-recursos-de-busca-extremamente-uteis-conheca/",
-      "data": "2026-10-30T21:30:03+00:00"
-    },
-    {
-      "titulo": "Extensão falsa do Claude Code abre brecha para invasão em computadores",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/extensao-falsa-do-claude-code-abre-brecha-para-invasao-em-computadores/",
-      "data": "2026-10-30T21:30:00+00:00"
-    },
-    {
-      "titulo": "'SMS da Morte' derruba ligações e trava celulares Android sem você clicar em nada",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/sms-da-morte-derruba-ligacoes-e-trava-celulares-android-sem-voce-clicar-em-nada/",
-      "data": "2026-10-30T21:03:00+00:00"
     },
     {
       "titulo": "Samsung pode lançar tablet dobrável com tela de 17 polegadas",
@@ -162,24 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/youtuber-radiador-rtx-3080/",
       "data": "2026-10-30T16:58:02+00:00"
-    },
-    {
-      "titulo": "Nova parafusadeira com IA promete identificar o tamanho exato do parafuso para você",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/arrowspace-s1-parafusadeira-ia-camera/",
-      "data": "2026-10-30T16:37:42+00:00"
-    },
-    {
-      "titulo": "SpaceX quer comprar casas de vizinhos incomodados com seus data centers",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/spacex-quer-comprar-casas-de-vizinhos-incomodados-com-seus-data-centers/",
-      "data": "2026-10-30T16:17:43+00:00"
-    },
-    {
-      "titulo": "Cupom Terabyte | Até 65% de desconto - Novembro 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-terabyte/",
-      "data": "2026-10-20T12:53:00+00:00"
     }
   ]
 }
