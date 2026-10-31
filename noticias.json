@@ -1,6 +1,42 @@
 {
-  "atualizado_em": "2026-10-31T20:07:49.392629+00:00",
+  "atualizado_em": "2026-10-31T23:29:38.490342+00:00",
   "noticias": [
+    {
+      "titulo": "7 melhores jogos de Pokémon fora dos consoles portáteis",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/7-jogos-de-pokemon-fora-dos-portateis-que-vale-conhecer/",
+      "data": "2026-10-31T23:15:00+00:00"
+    },
+    {
+      "titulo": "Chevrolet derruba preço do Spark para voltar a incomodar BYD Dolphin",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/chevrolet-derruba-preco-do-spark-para-voltar-a-incomodar-byd-dolphin/",
+      "data": "2026-10-31T22:01:00+00:00"
+    },
+    {
+      "titulo": "Emprego em big techs: confira vagas de trabalho disponíveis no Brasil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/emprego-em-big-techs-confira-vagas-de-trabalho-disponiveis-no-brasil/",
+      "data": "2026-10-31T22:00:00+00:00"
+    },
+    {
+      "titulo": "Quem são os atores que estão na disputa para ser o novo James Bond no cinema",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/quem-sao-os-atores-que-estao-na-disputa-para-ser-o-novo-james-bond-no-cinema/",
+      "data": "2026-10-31T21:00:06+00:00"
+    },
+    {
+      "titulo": "Discord vai permitir que mensagens de servidores apareçam no Google",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/discord-vai-permitir-que-mensagens-de-servidores-publicos-aparecam-no-google/",
+      "data": "2026-10-31T20:22:48+00:00"
+    },
+    {
+      "titulo": "Ubisoft não tem nenhum remake de Assassin’s Creed em desenvolvimento atualmente",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/ubisoft-nao-tem-nenhum-remake-de-assassins-creed-em-desenvolvimento-atualmente/",
+      "data": "2026-10-31T20:15:00+00:00"
+    },
     {
       "titulo": "SUV híbrido da BYD fica \"no precinho\" e é ótima opção entre usados",
       "fonte": "Canaltech",
@@ -68,22 +104,10 @@
       "data": "2026-10-31T17:07:20+00:00"
     },
     {
-      "titulo": "10 melhores edições limitadas do PlayStation já lançadas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/playstation-melhores-edicoes-limitadas/",
-      "data": "2026-10-31T17:00:02+00:00"
-    },
-    {
       "titulo": "Lumi: conheça o modelo de IA open-source desenvolvido pela Universidade Federal de Goiás",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/lumi-conheca-o-modelo-de-ia-open-source-desenvolvido-pela-universidade-federal-de-goias/",
       "data": "2026-10-31T17:00:00+00:00"
-    },
-    {
-      "titulo": "O que são parâmetros de modelos de IA?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-sao-parametros-de-modelos-de-ia/",
-      "data": "2026-10-31T16:30:02+00:00"
     },
     {
       "titulo": "Funcionário nos EUA consegue dispensa para não usar inteligência artificial no trabalho por motivos religiosos",
@@ -110,40 +134,16 @@
       "data": "2026-10-31T15:03:51+00:00"
     },
     {
-      "titulo": "Quais são as vantagens de ter um purificador de água em casa? Veja indicações de modelos variados",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/quais-sao-as-vantagens-de-ter-um-purificador-de-agua-em-casa-veja-indicacoes-de-modelos-variados/",
-      "data": "2026-10-31T14:30:58+00:00"
-    },
-    {
-      "titulo": "Resonance: A Plague Tale Legacy e mais jogos para PC com até 92% OFF na Steam",
+      "titulo": "Como limpar placas solares? 5 dicas e cuidados importantes",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/resonance-a-plague-tale-legacy-e-mais-jogos-para-pc-com-ate-92-off-na-steam/",
-      "data": "2026-10-31T14:00:00+00:00"
-    },
-    {
-      "titulo": "Campanha criminosa usa apps falsos de IA para infectar computadores com vírus",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/campanha-criminosa-usa-apps-falsos-de-ia-para-infectar-computadores-com-virus/",
-      "data": "2026-10-31T08:00:00+00:00"
-    },
-    {
-      "titulo": "Falha de segurança no Telegram permite invasão remota de celulares por ligação",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-no-telegram-permite-invasao-remota-de-celulares-por-ligacao/",
-      "data": "2026-10-30T22:00:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/stem/placa-solar-pode-ser-lavada-veja-como-fazer-a-limpeza/",
+      "data": "2026-10-30T23:15:00+00:00"
     },
     {
       "titulo": "Como cancelar o Kindle+ (antigo Kindle Unlimited)",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/responde/como-cancelar-o-kindle-unlimited/",
       "data": "2026-10-30T21:59:49+00:00"
-    },
-    {
-      "titulo": "Extensão falsa do Claude Code abre brecha para invasão em computadores",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/extensao-falsa-do-claude-code-abre-brecha-para-invasao-em-computadores/",
-      "data": "2026-10-30T21:30:00+00:00"
     },
     {
       "titulo": "Samsung pode lançar tablet dobrável com tela de 17 polegadas",
