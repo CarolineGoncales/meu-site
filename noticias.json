@@ -1,6 +1,90 @@
 {
-  "atualizado_em": "2026-10-31T16:24:33.137941+00:00",
+  "atualizado_em": "2026-10-31T20:07:49.392629+00:00",
   "noticias": [
+    {
+      "titulo": "SUV híbrido da BYD fica \"no precinho\" e é ótima opção entre usados",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/suv-hibrido-da-byd-fica-no-precinho-e-e-otima-opcao-entre-usados/",
+      "data": "2026-10-31T20:03:00+00:00"
+    },
+    {
+      "titulo": "iPhone 13 ainda vale a pena em 2026 ou o Galaxy A57 é melhor opção?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/iphone-13-ainda-vale-a-pena-em-2026-ou-o-galaxy-a57-e-melhor-opcao/",
+      "data": "2026-10-31T19:30:02+00:00"
+    },
+    {
+      "titulo": "Como usar o Claude no Google Planilhas para criar gráficos interativos sem fórmulas difíceis",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-claude-no-google-planilhas-para-criar-graficos-interativos-sem-formulas-dificeis/",
+      "data": "2026-10-31T19:00:00+00:00"
+    },
+    {
+      "titulo": "Ninguém derruba o Steam? Analista explica por que a Valve é “intocável”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/ninguem-derruba-steam-analista-valve/",
+      "data": "2026-10-31T18:35:00+00:00"
+    },
+    {
+      "titulo": "Ar-condicionado portátil LG: quanto vale pagar na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/ar-condicionado-portatil-lg-quanto-vale-pagar-na-black-friday/",
+      "data": "2026-10-31T18:30:03+00:00"
+    },
+    {
+      "titulo": "Instagram lança vídeos de até 90 minutos, mas falta de monetização desanima criadores",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/instagram-features-pagamento-criadores/",
+      "data": "2026-10-31T18:19:38+00:00"
+    },
+    {
+      "titulo": "Xbox Game Pass recebe Final Fantasy VII Remake e mais jogos esta semana! Veja os lançamentos (31)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-final-fantasy-vii-remake-e-mais-jogos-esta-semana-veja-os-lancamentos-31/",
+      "data": "2026-10-31T18:15:00+00:00"
+    },
+    {
+      "titulo": "Quanto vale à pena pagar na RTX 5060 na Black Friday 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/rtx-5060-quanto-vale-a-pena-pagar-black-friday-2026/",
+      "data": "2026-10-31T18:00:02+00:00"
+    },
+    {
+      "titulo": "Como transformar PDFs em audiobooks com o ChatGPT",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-chatgpt-para-transformar-pdfs-em-audiobooks/",
+      "data": "2026-10-31T17:30:01+00:00"
+    },
+    {
+      "titulo": "Um dos processadores mais populares para jogos, Ryzen 7 7800X3D está com 15% de desconto na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/ryzen-7-7800x3d-15-por-cento-desconto-amazon/",
+      "data": "2026-10-31T17:18:01+00:00"
+    },
+    {
+      "titulo": "Sony apresenta display 3D de 6 polegadas que faz personagens de anime flutuarem na sua mesa",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/sony-elf-mn1-display-3d-mesa/",
+      "data": "2026-10-31T17:07:20+00:00"
+    },
+    {
+      "titulo": "10 melhores edições limitadas do PlayStation já lançadas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/playstation-melhores-edicoes-limitadas/",
+      "data": "2026-10-31T17:00:02+00:00"
+    },
+    {
+      "titulo": "Lumi: conheça o modelo de IA open-source desenvolvido pela Universidade Federal de Goiás",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/lumi-conheca-o-modelo-de-ia-open-source-desenvolvido-pela-universidade-federal-de-goias/",
+      "data": "2026-10-31T17:00:00+00:00"
+    },
+    {
+      "titulo": "O que são parâmetros de modelos de IA?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-sao-parametros-de-modelos-de-ia/",
+      "data": "2026-10-31T16:30:02+00:00"
+    },
     {
       "titulo": "Funcionário nos EUA consegue dispensa para não usar inteligência artificial no trabalho por motivos religiosos",
       "fonte": "Hardware.com.br",
@@ -8,10 +92,10 @@
       "data": "2026-10-31T16:16:55+00:00"
     },
     {
-      "titulo": "NVIDIA RTX Spark: Tudo que você precisa saber antes do 1º review do Canaltech",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/nvidia-rtx-spark-tudo-que-voce-precisa-saber-antes-do-1-review-do-canaltech/",
-      "data": "2026-10-31T16:00:02+00:00"
+      "titulo": "GTA San Andreas e Need for Speed Most Wanted viram um jogo só em novo mod! Confira o resultado",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-san-andreas-e-need-for-speed-most-wanted-viram-um-jogo-so-em-novo-mod-confira-o-resultado/",
+      "data": "2026-10-31T16:15:00+00:00"
     },
     {
       "titulo": "Konami escondeu outros jogos de Silent Hill dos criadores de Townfall para evitar ideias repetidas",
@@ -26,94 +110,16 @@
       "data": "2026-10-31T15:03:51+00:00"
     },
     {
-      "titulo": "Usar o carro com motor frio pode dar problema em revisões?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/usar-o-carro-com-motor-frio-pode-dar-problema-em-revisoes-entenda/",
-      "data": "2026-10-31T15:02:00+00:00"
-    },
-    {
       "titulo": "Quais são as vantagens de ter um purificador de água em casa? Veja indicações de modelos variados",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/quais-sao-as-vantagens-de-ter-um-purificador-de-agua-em-casa-veja-indicacoes-de-modelos-variados/",
       "data": "2026-10-31T14:30:58+00:00"
     },
     {
-      "titulo": "Quanto tempo leva para zerar The Legend of Zelda: Ocarina of Time?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/quanto-tempo-para-terminar-the-legend-of-zelda-ocarina-of-time/",
-      "data": "2026-10-31T14:30:05+00:00"
-    },
-    {
       "titulo": "Resonance: A Plague Tale Legacy e mais jogos para PC com até 92% OFF na Steam",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/resonance-a-plague-tale-legacy-e-mais-jogos-para-pc-com-ate-92-off-na-steam/",
       "data": "2026-10-31T14:00:00+00:00"
-    },
-    {
-      "titulo": "Aprenda a usar o YouTube com Gemini Notebook para acelerar seus estudos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-youtube-com-gemini-notebook-para-estudar/",
-      "data": "2026-10-31T14:00:00+00:00"
-    },
-    {
-      "titulo": "Para quem umidificador de ar é indicado? Modelo com desconto chama atenção",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/para-quem-umidificador-de-ar-e-indicado-modelo-com-desconto-chama-atencao/",
-      "data": "2026-10-31T13:30:37+00:00"
-    },
-    {
-      "titulo": "Motorola Razr Fold é bom? Testamos o rival do Galaxy Z Fold 8",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartwatch/motorola-razr-fold-e-bom-testamos-o-rival-do-galaxy-z-fold-8/",
-      "data": "2026-10-31T13:30:03+00:00"
-    },
-    {
-      "titulo": "GTA 6 está assustando a indústria de jogos, mas analista acredita que o medo é exagerado",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-medo-exagerado-analista/",
-      "data": "2026-10-31T13:26:04+00:00"
-    },
-    {
-      "titulo": "5G gasta mais bateria que 4G? Testamos no mesmo celular",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/5g-gasta-mais-bateria-que-4g-testamos-no-mesmo-celular/",
-      "data": "2026-10-31T13:00:00+00:00"
-    },
-    {
-      "titulo": "Quer dirigir caminhão ou ônibus? Veja como mudar a CNH",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/quer-dirigir-caminhao-ou-onibus-veja-como-mudar-a-cnh/",
-      "data": "2026-10-31T12:30:00+00:00"
-    },
-    {
-      "titulo": "Após perguntar “como ainda não fui banido?”, streamer de Arc Raiders recebe banimento de hardware por uso de aimbot",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/arc-raiders-banido-aimkey-aimbot2/",
-      "data": "2026-10-31T12:11:52+00:00"
-    },
-    {
-      "titulo": "Que fim levou o MP3, o formato clássico de músicas baixadas pela internet?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/stem/que-fim-levou-o-mp3-o-formato-classico-de-musicas-baixadas-pela-internet/",
-      "data": "2026-10-31T12:00:00+00:00"
-    },
-    {
-      "titulo": "Galaxy A57: quanto vale pagar na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/galaxy-a57-quanto-vale-pagar-na-black-friday-2026/",
-      "data": "2026-10-31T12:00:00+00:00"
-    },
-    {
-      "titulo": "5 jogos grátis para curtir o fim de semana no PC e consoles! (31)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-e-consoles-31/",
-      "data": "2026-10-31T11:15:00+00:00"
-    },
-    {
-      "titulo": "O que comprar na Black Friday: notebooks para estudar",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-notebooks-para-estudar/",
-      "data": "2026-10-31T11:15:00+00:00"
     },
     {
       "titulo": "Campanha criminosa usa apps falsos de IA para infectar computadores com vírus",
@@ -162,12 +168,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/entire-do-ex-ceo-do-github-ja-hospeda-codigos-no-brasil/",
       "data": "2026-10-30T19:49:18+00:00"
-    },
-    {
-      "titulo": "Elon Musk afirma que implantes da Neuralink poderão devolver movimentos e visão a pessoas com paralisia e cegueira",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/elon-musk-neuralink-devolver-movimentos/",
-      "data": "2026-10-30T19:10:43+00:00"
     },
     {
       "titulo": "Itaú Pay: novo serviço do banco permite pagar em lojas online sem cartão",
