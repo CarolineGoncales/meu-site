@@ -1,6 +1,132 @@
 {
-  "atualizado_em": "2026-11-01T09:27:42.306662+00:00",
+  "atualizado_em": "2026-11-01T16:12:15.132399+00:00",
   "noticias": [
+    {
+      "titulo": "Como fazer pretinho para pneu em casa sem danificar a borracha",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/como-fazer-pretinho-para-pneu-em-casa-sem-danificar-a-borracha/",
+      "data": "2026-11-01T16:05:00+00:00"
+    },
+    {
+      "titulo": "Marvel’s Wolverine quase alcança 30 FPS no PC com emulador KytyPS5",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/marvels-wolverine-kytyps5-30fps/",
+      "data": "2026-11-01T15:35:17+00:00"
+    },
+    {
+      "titulo": "Usuário tenta modificar RAM de notebook com dezenas de fios de cobre, mas resultado espanta",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware/usuario-tenta-modificar-ram-de-notebook-com-dezenas-de-fios-de-cobre/",
+      "data": "2026-11-01T15:20:07+00:00"
+    },
+    {
+      "titulo": "França quer cobrar imposto por gigabyte transmitido e medida pode afetar jogos digitais",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/franca-imposto-downloads-streaming-gigabyte/",
+      "data": "2026-11-01T15:05:21+00:00"
+    },
+    {
+      "titulo": "Ainda vale a pena comprar a Radeon RX 580 em 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/ainda-vale-a-pena-comprar-a-radeon-rx-560-em-2026/",
+      "data": "2026-11-01T15:00:04+00:00"
+    },
+    {
+      "titulo": "Irritado com anúncios na Smart TV dos pais, desenvolvedor usa Claude Code para removê-los e acaba criando ferramenta para outras TVs",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/claude-code-remover-anuncios-smart-tv-cleanyourtv/",
+      "data": "2026-11-01T14:55:19+00:00"
+    },
+    {
+      "titulo": "Desenvolvedor cria versão do Telegram que funciona em celulares com Windows Mobile de mais de 20 anos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/mobilegram-telegram-windows-mobile-celulares-antigos/",
+      "data": "2026-11-01T14:30:58+00:00"
+    },
+    {
+      "titulo": "Como usar o ChatGPT direto na barra lateral do Chrome e Edge",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-chatgpt-direto-na-barra-lateral-do-chrome-e-edge/",
+      "data": "2026-11-01T14:30:04+00:00"
+    },
+    {
+      "titulo": "Athlon 64 e GeForce 6800 GT: entusiasta revive uma das configurações gamer mais desejadas de 2004",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/athlon-64-geforce-6800-gt-pc-gamer-2004/",
+      "data": "2026-11-01T14:20:00+00:00"
+    },
+    {
+      "titulo": "GTA V baratinho, Final Fantasy 7 Remake Intergrade na Game Pass e mais! Veja as indicações de games",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-v-baratinho-final-fantasy-7-remake-intergrade-na-game-pass-e-mais-veja-as-indicacoes-de-games/",
+      "data": "2026-11-01T14:15:00+00:00"
+    },
+    {
+      "titulo": "Entusiasta cria seu próprio PS3 Pro com refrigeração líquida, overclock, SSD e visual impressionante",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/ps3-pro-entuasiasta-refrigeracao-liquida-overclock-ssd/",
+      "data": "2026-11-01T14:04:24+00:00"
+    },
+    {
+      "titulo": "Vai comprar ar-condicionado na Black Friday? Guia completo para não errar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/vai-comprar-ar-condicionado-na-black-friday-guia-completo-para-nao-errar/",
+      "data": "2026-11-01T14:00:03+00:00"
+    },
+    {
+      "titulo": "Homem passa 7 anos construindo PC gamer dos sonhos e cria gabinete que parece uma obra de arte",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/homem-7-anos-pc-gamer-gabinete-madeira/",
+      "data": "2026-11-01T13:47:33+00:00"
+    },
+    {
+      "titulo": "Microsoft prepara \"arma secreta\" para receber GTA 6 no XBOX Series",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/arma-secreta-xbox-series-lancamento-gta-6/",
+      "data": "2026-11-01T13:30:00+00:00"
+    },
+    {
+      "titulo": "Promo 11.11 do AliExpress começa com descontos de até 90% e vários cupons para resgatar",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/promo-1111-do-aliexpress-comeca-com-descontos-de-ate-90-e-varios-cupons-para-resgatar/",
+      "data": "2026-11-01T13:05:00+00:00"
+    },
+    {
+      "titulo": "Ciclo rápido ou lavagem normal? Veja qual pode pesar mais na conta de luz",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/ciclo-rapido-ou-lavagem-normal-veja-qual-pode-pesar-mais-na-conta-de-luz/",
+      "data": "2026-11-01T13:00:00+00:00"
+    },
+    {
+      "titulo": "Com GTA 6 e Zelda, novembro começa como o mês do ‘Barbenheimer’ dos games",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/com-gta-6-e-zelda-novembro-comeca-como-o-mes-do-barbenheimer-dos-games/",
+      "data": "2026-11-01T12:15:00+00:00"
+    },
+    {
+      "titulo": "Veja quanto custa importar um carro antigo dos EUA para o Brasil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/veja-quanto-custa-importar-um-carro-antigo-dos-eua-para-o-brasil/",
+      "data": "2026-11-01T12:03:00+00:00"
+    },
+    {
+      "titulo": "Bleach terá sequência? O que é o “No Breathes from Hell”?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/bleach-tera-sequencia-o-que-e-o-no-breathes-from-hell/",
+      "data": "2026-11-01T11:30:00+00:00"
+    },
+    {
+      "titulo": "Empresas de tecnologia dominam ranking de marcas mais valiosas do mundo; veja lista",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/empresas-de-tecnologia-dominam-ranking-de-marcas-mais-valiosas-do-mundo-veja-lista/",
+      "data": "2026-11-01T11:00:00+00:00"
+    },
+    {
+      "titulo": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (01)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-01/",
+      "data": "2026-11-01T10:15:00+00:00"
+    },
     {
       "titulo": "7 melhores jogos de Pokémon fora dos consoles portáteis",
       "fonte": "TecMundo",
@@ -8,130 +134,10 @@
       "data": "2026-10-31T23:15:00+00:00"
     },
     {
-      "titulo": "Chevrolet derruba preço do Spark para voltar a incomodar BYD Dolphin",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/chevrolet-derruba-preco-do-spark-para-voltar-a-incomodar-byd-dolphin/",
-      "data": "2026-10-31T22:01:00+00:00"
-    },
-    {
       "titulo": "Emprego em big techs: confira vagas de trabalho disponíveis no Brasil",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/big-techs/emprego-em-big-techs-confira-vagas-de-trabalho-disponiveis-no-brasil/",
       "data": "2026-10-31T22:00:00+00:00"
-    },
-    {
-      "titulo": "Quem são os atores que estão na disputa para ser o novo James Bond no cinema",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/quem-sao-os-atores-que-estao-na-disputa-para-ser-o-novo-james-bond-no-cinema/",
-      "data": "2026-10-31T21:00:06+00:00"
-    },
-    {
-      "titulo": "Discord vai permitir que mensagens de servidores apareçam no Google",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/discord-vai-permitir-que-mensagens-de-servidores-publicos-aparecam-no-google/",
-      "data": "2026-10-31T20:22:48+00:00"
-    },
-    {
-      "titulo": "Ubisoft não tem nenhum remake de Assassin’s Creed em desenvolvimento atualmente",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ubisoft-nao-tem-nenhum-remake-de-assassins-creed-em-desenvolvimento-atualmente/",
-      "data": "2026-10-31T20:15:00+00:00"
-    },
-    {
-      "titulo": "SUV híbrido da BYD fica \"no precinho\" e é ótima opção entre usados",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/suv-hibrido-da-byd-fica-no-precinho-e-e-otima-opcao-entre-usados/",
-      "data": "2026-10-31T20:03:00+00:00"
-    },
-    {
-      "titulo": "iPhone 13 ainda vale a pena em 2026 ou o Galaxy A57 é melhor opção?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/iphone-13-ainda-vale-a-pena-em-2026-ou-o-galaxy-a57-e-melhor-opcao/",
-      "data": "2026-10-31T19:30:02+00:00"
-    },
-    {
-      "titulo": "Como usar o Claude no Google Planilhas para criar gráficos interativos sem fórmulas difíceis",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-claude-no-google-planilhas-para-criar-graficos-interativos-sem-formulas-dificeis/",
-      "data": "2026-10-31T19:00:00+00:00"
-    },
-    {
-      "titulo": "Ninguém derruba o Steam? Analista explica por que a Valve é “intocável”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/ninguem-derruba-steam-analista-valve/",
-      "data": "2026-10-31T18:35:00+00:00"
-    },
-    {
-      "titulo": "Ar-condicionado portátil LG: quanto vale pagar na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/ar-condicionado-portatil-lg-quanto-vale-pagar-na-black-friday/",
-      "data": "2026-10-31T18:30:03+00:00"
-    },
-    {
-      "titulo": "Instagram lança vídeos de até 90 minutos, mas falta de monetização desanima criadores",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/instagram-features-pagamento-criadores/",
-      "data": "2026-10-31T18:19:38+00:00"
-    },
-    {
-      "titulo": "Xbox Game Pass recebe Final Fantasy VII Remake e mais jogos esta semana! Veja os lançamentos (31)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-final-fantasy-vii-remake-e-mais-jogos-esta-semana-veja-os-lancamentos-31/",
-      "data": "2026-10-31T18:15:00+00:00"
-    },
-    {
-      "titulo": "Quanto vale à pena pagar na RTX 5060 na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/rtx-5060-quanto-vale-a-pena-pagar-black-friday-2026/",
-      "data": "2026-10-31T18:00:02+00:00"
-    },
-    {
-      "titulo": "Como transformar PDFs em audiobooks com o ChatGPT",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-chatgpt-para-transformar-pdfs-em-audiobooks/",
-      "data": "2026-10-31T17:30:01+00:00"
-    },
-    {
-      "titulo": "Um dos processadores mais populares para jogos, Ryzen 7 7800X3D está com 15% de desconto na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/ryzen-7-7800x3d-15-por-cento-desconto-amazon/",
-      "data": "2026-10-31T17:18:01+00:00"
-    },
-    {
-      "titulo": "Sony apresenta display 3D de 6 polegadas que faz personagens de anime flutuarem na sua mesa",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/sony-elf-mn1-display-3d-mesa/",
-      "data": "2026-10-31T17:07:20+00:00"
-    },
-    {
-      "titulo": "Lumi: conheça o modelo de IA open-source desenvolvido pela Universidade Federal de Goiás",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/lumi-conheca-o-modelo-de-ia-open-source-desenvolvido-pela-universidade-federal-de-goias/",
-      "data": "2026-10-31T17:00:00+00:00"
-    },
-    {
-      "titulo": "Funcionário nos EUA consegue dispensa para não usar inteligência artificial no trabalho por motivos religiosos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/funcionario-consegue-dispensa-para-nao-usar-inteligencia-artificial-no-trabalho-por-motivos-religiosos/",
-      "data": "2026-10-31T16:16:55+00:00"
-    },
-    {
-      "titulo": "GTA San Andreas e Need for Speed Most Wanted viram um jogo só em novo mod! Confira o resultado",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-san-andreas-e-need-for-speed-most-wanted-viram-um-jogo-so-em-novo-mod-confira-o-resultado/",
-      "data": "2026-10-31T16:15:00+00:00"
-    },
-    {
-      "titulo": "Konami escondeu outros jogos de Silent Hill dos criadores de Townfall para evitar ideias repetidas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/konami-escondeu-outros-silent-hill/",
-      "data": "2026-10-31T15:08:16+00:00"
-    },
-    {
-      "titulo": "Pesquisadores criam tecido com tela touchscreen que funciona mesmo após 50 lavagens",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/pesquisadores-criam-tecido-com-tela-touchscreen-que-funciona-mesmo-apos-50-lavagens/",
-      "data": "2026-10-31T15:03:51+00:00"
     },
     {
       "titulo": "Como limpar placas solares? 5 dicas e cuidados importantes",
@@ -174,12 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/itau-pay-novo-servico-do-banco-permite-pagar-em-lojas-online-sem-cartao/",
       "data": "2026-10-30T18:05:40+00:00"
-    },
-    {
-      "titulo": "Cursor diz que extensão falsa do Claude Code afetou até 5 mil usuários",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/cursor-diz-que-extensao-falsa-do-claude-code-afetou-ate-5-mil-usuarios/",
-      "data": "2026-10-30T17:05:00+00:00"
     }
   ]
 }
