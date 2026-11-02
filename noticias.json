@@ -1,6 +1,78 @@
 {
-  "atualizado_em": "2026-11-02T04:33:42.241396+00:00",
+  "atualizado_em": "2026-11-02T12:55:13.115471+00:00",
   "noticias": [
+    {
+      "titulo": "RTX 3060 recupera liderança no Steam, enquanto PCs com 32 GB de RAM registram forte queda",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/rtx-3060-recupera-lideranca-steam/",
+      "data": "2026-11-02T12:41:50+00:00"
+    },
+    {
+      "titulo": "Cupons da Black November no Mercado Livre: como usar e economizar até R$ 200",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/cupons-black-friday-2026-mercado-livre/",
+      "data": "2026-11-02T12:32:20+00:00"
+    },
+    {
+      "titulo": "10 jogos de The Legend of Zelda para curtir antes do remake de Ocarina of Time",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/the-legend-of-zelda-para-jogar-antes-ocarina-of-time-remake/",
+      "data": "2026-11-02T12:30:02+00:00"
+    },
+    {
+      "titulo": "EUA planejam bloquear ligações de operadoras chinesas",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/eua-planejam-bloquear-ligacoes-de-operadoras-chinesas/",
+      "data": "2026-11-02T12:15:21+00:00"
+    },
+    {
+      "titulo": "Atores de GTA 6 podem não ficar ricos mesmo com o jogo vendendo bilhões; entenda o motivo",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/atores-de-gta-6-podem-nao-ficar-ricos-mesmo-com-o-jogo-vendendo-bilhoes-entenda-o-motivo/",
+      "data": "2026-11-02T12:15:00+00:00"
+    },
+    {
+      "titulo": "Disney+ por R$$ 9,90: último dia para assinar o streaming com desconto",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/disney-por-r-990-ultimo-dia-para-assinar-o-streaming-com-desconto/",
+      "data": "2026-11-02T12:15:00+00:00"
+    },
+    {
+      "titulo": "Anthropic muda regras do Claude para impedir criação de cópias de jogos com IA",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/anthropic-claude-impedir-copias-jogos/",
+      "data": "2026-11-02T12:12:45+00:00"
+    },
+    {
+      "titulo": "Apple prepara três novos modelos de iPad para o começo de 2027",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tablet/apple-prepara-tres-novos-modelos-de-ipad-para-o-comeco-de-2027/",
+      "data": "2026-11-02T12:07:09+00:00"
+    },
+    {
+      "titulo": "JBL Endurance Zone é bom? Testamos o fone que não cai da orelha",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/fone-de-ouvido/jbl-endurance-zone-e-bom-testamos-o-fone-que-nao-cai-da-orelha/",
+      "data": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "titulo": "Novo suspense \"impossível de parar de ver\" do Apple TV tem vilão parecido com Hannibal",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/novo-suspense-impossivel-de-parar-de-ver-do-apple-tv-tem-vilao-parecido-com-hannibal/",
+      "data": "2026-11-02T11:30:03+00:00"
+    },
+    {
+      "titulo": "Toyota Corolla ou BYD King: qual sedan híbrido vale mais a pena?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/toyota-corolla-ou-byd-king-qual-sedan-hibrido-vale-mais-a-pena/",
+      "data": "2026-11-02T10:31:00+00:00"
+    },
+    {
+      "titulo": "Fire TV Stick: qual preço é promoção de verdade na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tv/fire-tv-stick-qual-preco-e-promocao-de-verdade-na-black-friday/",
+      "data": "2026-11-02T10:00:04+00:00"
+    },
     {
       "titulo": "Review Dell XPS 14 2026 | Ultrabook potente que consegue ficar longe da tomada",
       "fonte": "Canaltech",
@@ -26,42 +98,6 @@
       "data": "2026-11-01T22:03:00+00:00"
     },
     {
-      "titulo": "Home office: 60 vagas para trabalho remoto internacional [01/11]",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/home-office-60-vagas-para-trabalho-remoto-internacional-0111/",
-      "data": "2026-11-01T22:00:00+00:00"
-    },
-    {
-      "titulo": "6 melhores filmes de terror sobrenatural para assistir na Netflix",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/netflix-melhores-filmes-terror-sobrenatural-assistir/",
-      "data": "2026-11-01T21:00:00+00:00"
-    },
-    {
-      "titulo": "Quanto custaria um Mitsubishi Lancer hoje, com a inflação?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/quanto-custaria-um-mitsubishi-lancer-hoje-com-a-inflacao/",
-      "data": "2026-11-01T20:03:00+00:00"
-    },
-    {
-      "titulo": "Testamos a bateria do Motorola Razr Fold; veja quanto tempo ela dura",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/testamos-a-bateria-do-motorola-razr-fold-veja-quanto-tempo-ela-dura/",
-      "data": "2026-11-01T19:30:10+00:00"
-    },
-    {
-      "titulo": "Até onde as empresas vão para treinar suas IAs",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ate-onde-as-empresas-vao-para-treinar-suas-ias/",
-      "data": "2026-11-01T19:00:00+00:00"
-    },
-    {
-      "titulo": "Lava e seca estraga as roupas mais rápido? Descubra antes de comprar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/lava-e-seca-estraga-as-roupas-mais-rapido-descubra-antes-de-comprar/",
-      "data": "2026-11-01T18:30:00+00:00"
-    },
-    {
       "titulo": "GTX 750 Ti de 12 anos aparece com 8 GB de VRAM e consegue rodar Cyberpunk 2077",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/gtx-750-ti-8-gb-cyberpunk-2077/",
@@ -72,12 +108,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/resident-evil-historia-encerrada-10-anos/",
       "data": "2026-11-01T18:07:09+00:00"
-    },
-    {
-      "titulo": "PlayStation 5 ou PlayStation 5 Pro: qual comprar na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/playstation-5-ou-playstation-5-pro-qual-comprar-black-friday-2026/",
-      "data": "2026-11-01T18:00:00+00:00"
     },
     {
       "titulo": "Pokémon Pokopia já roda no PS5: emuladores avançam em ritmo impressionante",
@@ -102,18 +132,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/marvels-wolverine-kytyps5-30fps/",
       "data": "2026-11-01T15:35:17+00:00"
-    },
-    {
-      "titulo": "Usuário tenta modificar RAM de notebook com dezenas de fios de cobre, mas resultado espanta",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware/usuario-tenta-modificar-ram-de-notebook-com-dezenas-de-fios-de-cobre/",
-      "data": "2026-11-01T15:20:07+00:00"
-    },
-    {
-      "titulo": "França quer cobrar imposto por gigabyte transmitido e medida pode afetar jogos digitais",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/franca-imposto-downloads-streaming-gigabyte/",
-      "data": "2026-11-01T15:05:21+00:00"
     },
     {
       "titulo": "Como cancelar o Kindle+ (antigo Kindle Unlimited)",
@@ -150,24 +168,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/itau-pay-novo-servico-do-banco-permite-pagar-em-lojas-online-sem-cartao/",
       "data": "2026-10-30T18:05:40+00:00"
-    },
-    {
-      "titulo": "Cursor diz que extensão falsa do Claude Code afetou até 5 mil usuários",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/cursor-diz-que-extensao-falsa-do-claude-code-afetou-ate-5-mil-usuarios/",
-      "data": "2026-10-30T17:05:00+00:00"
-    },
-    {
-      "titulo": "SpaceX quer comprar casas de vizinhos incomodados com seus data centers",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/spacex-quer-comprar-casas-de-vizinhos-incomodados-com-seus-data-centers/",
-      "data": "2026-10-30T16:17:43+00:00"
-    },
-    {
-      "titulo": "Ataques via teams permitem acesso a redes corporativas em menos de 15 minutos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ataques-via-teams-permitem-acesso-a-redes-corporativas-em-menos-de-15-minutos/",
-      "data": "2026-10-29T12:00:00+00:00"
     },
     {
       "titulo": "Tecnologia israelense rastreia usuários de Starlink por meio de anúncios",
