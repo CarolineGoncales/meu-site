@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-11-02T21:59:01.568350+00:00",
+  "atualizado_em": "2026-11-03T03:18:05.681725+00:00",
   "noticias": [
+    {
+      "titulo": "Melhor TV com Roku OS: 6 modelos para comprar em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-tv-roku/",
+      "data": "2026-11-02T23:50:21+00:00"
+    },
+    {
+      "titulo": "Projetor Epson: quanto vale pagar na Black Friday 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/projetor-epson-quanto-vale-pagar-na-black-friday-2026/",
+      "data": "2026-11-02T22:00:00+00:00"
+    },
     {
       "titulo": "Feito por uma pessoa, False Hero entende o que torna os soulslikes tão bons",
       "fonte": "TecMundo",
@@ -18,12 +30,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/melhor-tv-custo-beneficio/",
       "data": "2026-11-02T20:41:57+00:00"
-    },
-    {
-      "titulo": "Ataques com PHP2Shell forçam ordem de correção urgente nos EUA",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ataques-com-php2shell-forcam-ordem-de-correcao-urgente-nos-eua/",
-      "data": "2026-11-02T20:33:00+00:00"
     },
     {
       "titulo": "Por que Legend of Zelda: Ocarina of Time é um dos melhores jogos de todos os tempos? Entenda",
@@ -116,18 +122,6 @@
       "data": "2026-11-02T18:13:41+00:00"
     },
     {
-      "titulo": "Qual é a diferença entre rodar uma IA local e uma IA na nuvem?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-rodar-uma-ia-local-e-uma-ia-na-nuvem/",
-      "data": "2026-11-02T18:00:09+00:00"
-    },
-    {
-      "titulo": "Novas regras de SAC entram em vigor no Brasil; veja o que muda",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/novas-regras-de-sac-entram-em-vigor-no-brasil-veja-o-que-muda/",
-      "data": "2026-11-02T17:43:57+00:00"
-    },
-    {
       "titulo": "Homem encontra 7 conjuntos LEGO dos anos 1950 guardados em caixas antigas e descobre que podem valer milhares de dólares",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/colecao-lego-anos-1950-encontrada-caixas-antigas/",
@@ -158,12 +152,6 @@
       "data": "2026-11-02T17:04:12+00:00"
     },
     {
-      "titulo": "Opera começa a disponibilizar modelos de IA diretamente no navegador",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/opera-comeca-a-disponibilizar-modelos-de-ia-diretamente-no-navegador/",
-      "data": "2026-11-02T17:00:00+00:00"
-    },
-    {
       "titulo": "GTA 6: Sony sobe exigência do PS5 para firmware 14.22 e dificulta desbloqueio",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/gta-6-ps5-firmware-14-22-desbloqueio/",
@@ -180,6 +168,18 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/ciberataque-freezers-supermercados-europa/",
       "data": "2026-11-02T16:32:06+00:00"
+    },
+    {
+      "titulo": "Falha no Microsoft Authenticator permite roubo de credenciais em dispositivos Android",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-no-microsoft-authenticator-permite-roubo-de-credenciais-em-dispositivos-android/",
+      "data": "2026-10-27T17:30:00+00:00"
+    },
+    {
+      "titulo": "Autoridade dos EUA confirma ataques com PHP2Shell e ordena correção urgent",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/autoridade-dos-eua-confirma-ataques-com-php2shell-e-ordena-correcao-urgente/",
+      "data": "2026-10-27T16:30:00+00:00"
     }
   ]
 }
