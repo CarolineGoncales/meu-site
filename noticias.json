@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-11-03T23:34:40.745303+00:00",
+  "atualizado_em": "2026-11-04T03:34:48.395874+00:00",
   "noticias": [
+    {
+      "titulo": "Nvidia pode lançar RTX 5080 de 24 GB até janeiro de 2027",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/nvidia-pode-lancar-rtx-5080-de-24-gb-ate-janeiro-de-2027/",
+      "data": "2026-11-04T01:00:00+00:00"
+    },
+    {
+      "titulo": "Motorola Signature 27 ganha vídeo que revela todos os detalhes do novo smartphone",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/motorola-signature-27-ganha-video-que-revela-todos-os-detalhes-do-novo-smartphone/",
+      "data": "2026-11-04T00:00:00+00:00"
+    },
     {
       "titulo": "Ex-COO do Xbox quebra o silêncio após demissão misteriosa e rebate acusações",
       "fonte": "Canaltech",
@@ -50,22 +62,10 @@
       "data": "2026-11-03T21:45:00+00:00"
     },
     {
-      "titulo": "Regulamentação de vapes e tabaco aquecido divide Brasil e vizinhos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/stem/regulamentacao-de-vapes-e-tabaco-aquecido-divide-brasil-e-vizinhos/",
-      "data": "2026-11-03T21:45:00+00:00"
-    },
-    {
       "titulo": "Inimaginável: Hacker faz jogos do Switch 2 rodarem no Switch original",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/games/inimaginavel-hacker-faz-jogos-do-switch-2-rodarem-no-switch-original/",
       "data": "2026-11-03T21:45:00+00:00"
-    },
-    {
-      "titulo": "Hackers enviam alertas falsos de ataque nuclear na Ucrânia na Rússia",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/hackers-enviam-alertas-falsos-de-ataque-nuclear-na-ucrania-na-russia/",
-      "data": "2026-11-03T21:30:00+00:00"
     },
     {
       "titulo": "Esperança? Ubisoft pode comprar estúdio do XBOX; entenda",
