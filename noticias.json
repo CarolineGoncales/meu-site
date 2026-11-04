@@ -1,6 +1,54 @@
 {
-  "atualizado_em": "2026-11-04T03:34:48.395874+00:00",
+  "atualizado_em": "2026-11-04T11:39:47.625767+00:00",
   "noticias": [
+    {
+      "titulo": "Zelda: Ocarina of Time conquista nota 95 no Metacritic e 100% de aprovação",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/zelda-ocarina-of-time-notas/",
+      "data": "2026-11-04T11:36:32+00:00"
+    },
+    {
+      "titulo": "Suspense de assalto com Ben Affleck é tão ruim que faz sucesso no streaming",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/suspense-de-assalto-com-ben-affleck-e-tao-ruim-que-faz-sucesso-no-streaming/",
+      "data": "2026-11-04T11:31:00+00:00"
+    },
+    {
+      "titulo": "Universidade nos EUA desenvolve drone que rastreia pessoas sem utilizar GPS ou satélite",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/universidade-nos-eua-desenvolve-drone-que-rastreia-pessoas-sem-utilizar-gps-ou-satelite/",
+      "data": "2026-11-04T11:15:00+00:00"
+    },
+    {
+      "titulo": "The Legend of Zelda Ocarina of Time Remake é versão definitiva de um clássico quase impecável",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/remake-de-ocarina-of-time-se-torna-a-versao-definitiva-de-um-classico-quase-impecavel/",
+      "data": "2026-11-04T11:00:00+00:00"
+    },
+    {
+      "titulo": "Roubos de carros elétricos e híbridos triplicam em SP; veja os mais visados",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/roubos-de-carros-eletricos-e-hibridos-triplicam-em-sp-veja-os-mais-visados/",
+      "data": "2026-11-04T10:05:00+00:00"
+    },
+    {
+      "titulo": "‘Campus de Computação de IA’: OpenAI propõe novo nome para os data centers",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/campus-de-computacao-de-ia-openai-propoe-novo-nome-para-os-data-centers/",
+      "data": "2026-11-04T10:00:00+00:00"
+    },
+    {
+      "titulo": "Samsung prepara correções para bugs do Good Lock, mas não deu prazo",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-prepara-correcoes-para-bugs-do-good-lock-mas-nao-deu-prazo/",
+      "data": "2026-11-04T09:00:00+00:00"
+    },
+    {
+      "titulo": "Câmara de vapor do iPhone 18 Pro cumpre sua proposta, mas traz efeito colateral",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/camara-de-vapor-do-iphone-18-pro-cumpre-sua-proposta-mas-traz-efeito-colateral/",
+      "data": "2026-11-04T08:00:00+00:00"
+    },
     {
       "titulo": "Nvidia pode lançar RTX 5080 de 24 GB até janeiro de 2027",
       "fonte": "TecMundo",
@@ -20,34 +68,10 @@
       "data": "2026-11-03T23:16:00+00:00"
     },
     {
-      "titulo": "Eglantine: Emulador de Nintendo Switch 2 evolui no PC e consegue rodar Mario Kart World a 60 FPS",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/eglantine-emulador-de-nintendo-switch-2-evolui-no-pc-e-consegue-rodar-mario-kart-world-a-60-fps/",
-      "data": "2026-11-03T23:15:00+00:00"
-    },
-    {
       "titulo": "Netflix lança aba com IA que recomenda filmes e séries pelo seu humor",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/apps/netflix-lanca-aba-com-ia-que-recomenda-filmes-e-series-pelo-seu-humor/",
       "data": "2026-11-03T23:07:00+00:00"
-    },
-    {
-      "titulo": "Castlevania: Belmont’s Curse e mais jogos da Steam com até 95% OFF na Nuuvem; confira",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/castlevania-belmonts-curse-e-mais-jogos-da-steam-com-ate-95-off-na-nuuvem-confira/",
-      "data": "2026-11-03T22:30:00+00:00"
-    },
-    {
-      "titulo": "Google corrige 216 falhas de segurança no Android em atualização",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/google-corrige-216-falhas-de-seguranca-no-android-em-atualizacao/",
-      "data": "2026-11-03T22:15:00+00:00"
-    },
-    {
-      "titulo": "Home office: 125 vagas para trabalho remoto [03/11]",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/home-office-125-vagas-para-trabalho-remoto-0311/",
-      "data": "2026-11-03T22:00:00+00:00"
     },
     {
       "titulo": "Gemini para Gmail vai ganhar janela flutuante e busca avançada no Drive",
@@ -86,18 +110,6 @@
       "data": "2026-11-03T21:05:36+00:00"
     },
     {
-      "titulo": "25 anos depois, obra-prima do terror com Nicole Kidman volta a bombar no streaming",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/25-anos-depois-obra-prima-do-terror-com-nicole-kidman-volta-a-bombar-no-streaming/",
-      "data": "2026-11-03T21:04:00+00:00"
-    },
-    {
-      "titulo": "Marcas tradicionais derrubam preços de hatch e SUVs com “efeito China”",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/marcas-tradicionais-derrubam-precos-de-hatch-e-suvs-com-efeito-china/",
-      "data": "2026-11-03T21:00:00+00:00"
-    },
-    {
       "titulo": "Garmin Forerunner 165 para treinos despenca 51% em oferta inédita",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/garmin-forerunner-165-para-treinos-despenca-51-em-oferta-inedita/",
@@ -114,12 +126,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/r-31-milhoes-anatel-fica-sem-dinheiro-para-pagar-o-proprio-data-center/",
       "data": "2026-11-03T19:52:12+00:00"
-    },
-    {
-      "titulo": "O que comprar na Black Friday 2026: geladeiras",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-geladeiras/",
-      "data": "2026-11-03T19:45:00+00:00"
     },
     {
       "titulo": "OpenAI cria programa para reduzir consumo de energia de data centers durante picos de demanda",
@@ -174,12 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/navegador-brave-e-processado-por-coleta-de-dados-para-ia-e-ferramentas-anti-paywall/",
       "data": "2026-11-03T16:42:08+00:00"
-    },
-    {
-      "titulo": "Undervolt: Entusiasta faz RTX 5070 Ti registrar apenas 143 W de consumo, menos da metade de sua potência nominal",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/rtx-5070-ti-undervolting-consumo-143w/",
-      "data": "2026-11-03T16:00:57+00:00"
     }
   ]
 }
