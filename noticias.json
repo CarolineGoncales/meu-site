@@ -1,83 +1,167 @@
 {
-  "atualizado_em": "2026-11-04T18:57:08.182658+00:00",
+  "atualizado_em": "2026-11-05T00:04:16.303430+00:00",
   "noticias": [
+    {
+      "titulo": "ROG Xbox Ally X20 chega ao Brasil com visual retrô por R$ 15.999",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/rog-xbox-ally-x20-chega-ao-brasil-com-visual-retro-por-r-15999/",
+      "data": "2026-11-04T23:45:00+00:00"
+    },
+    {
+      "titulo": "Smart TV boa e barata: 7 modelos até R$ 2.000 antes da Black Friday 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/tv-smart-boa-e-barata/",
+      "data": "2026-11-04T23:23:39+00:00"
+    },
+    {
+      "titulo": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (04)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-04/",
+      "data": "2026-11-04T23:15:00+00:00"
+    },
+    {
+      "titulo": "Melhor TV 75 polegadas: 7 modelos com o melhor custo-benefício em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-tv-75-polegadas-custo-beneficio/",
+      "data": "2026-11-04T23:04:42+00:00"
+    },
+    {
+      "titulo": "Melhor TV para PS5 e Xbox: 6 modelos para jogos em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-tv-ps5-xbox/",
+      "data": "2026-11-04T22:34:30+00:00"
+    },
+    {
+      "titulo": "Galaxy S26 FE é bom, mas depende de desconto para fazer sentido",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/galaxy-s26-fe-e-bom-mas-depende-de-desconto-para-fazer-sentido/",
+      "data": "2026-11-04T22:17:23+00:00"
+    },
+    {
+      "titulo": "Skyone lança plataforma corporativa com acesso a mais de 400 modelos de IA",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/skyone-lanca-plataforma-corporativa-com-acesso-a-mais-de-400-modelos-de-ia/",
+      "data": "2026-11-04T22:15:05+00:00"
+    },
+    {
+      "titulo": "Polícia desativa 1,3 milhão de TV boxes; iPhone 18 com bateria maior e mais - Hoje no TecMundo (4)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/policia-desativa-13-milhao-de-tv-boxes-iphone-18-com-bateria-maior-e-mais-hoje-no-tecmundo-4/",
+      "data": "2026-11-04T22:15:00+00:00"
+    },
+    {
+      "titulo": "Em virada histórica, AMD deve faturar mais que a Intel pela primeira vez",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/em-virada-historica-amd-deve-faturar-mais-que-a-intel-pela-primeira-vez/",
+      "data": "2026-11-04T22:15:00+00:00"
+    },
+    {
+      "titulo": "Cientistas criam possível solução para combater risco de extinção das bananas",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/stem/cientistas-criam-possivel-solucao-para-combater-risco-de-extincao-das-bananas/",
+      "data": "2026-11-04T22:00:00+00:00"
+    },
+    {
+      "titulo": "Uma das estrelas mais brilhantes do céu está escurecendo de novo; entenda",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/ciencia-e-espaco/uma-das-estrelas-mais-brilhantes-do-ceu-esta-escurecendo-de-novo-entenda/",
+      "data": "2026-11-04T22:00:00+00:00"
+    },
+    {
+      "titulo": "Operação criminosa atinge mais de 40 instituições financeiras no Brasil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/open-ledger-operacao-criminosa-atinge-mais-de-40-instituicoes-financeiras-no-brasil/",
+      "data": "2026-11-04T21:45:00+00:00"
+    },
+    {
+      "titulo": "Novos Godzilla e Jogos Vorazes são destaque em novembro nos cinemas; veja estreias",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/novos-godzilla-e-jogos-vorazes-sao-destaque-em-novembro-nos-cinemas-veja-estreias/",
+      "data": "2026-11-04T21:32:00+00:00"
+    },
+    {
+      "titulo": "Qualcomm assina parceria com SpaceX para implantar rede 5G nos EUA",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/qualcomm-assina-parceria-com-spacex-para-implantar-rede-5g-nos-eua/",
+      "data": "2026-11-04T21:30:00+00:00"
+    },
+    {
+      "titulo": "iPhone 16 (256 GB) recebe quase R$ 4 mil de desconto na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/iphone-16-256-gb-recebe-quase-r-4-mil-de-desconto-na-amazon/",
+      "data": "2026-11-04T21:25:58+00:00"
+    },
+    {
+      "titulo": "Código do YouTube revela nova rede social secreta rival do Instagram",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/codigo-do-youtube-revela-nova-rede-social-secreta-rival-do-instagram/",
+      "data": "2026-11-04T21:21:00+00:00"
+    },
+    {
+      "titulo": "LG lança geladeira French Door de 590 litros por menos de R$ 8 mil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/lg-lanca-geladeira-french-door-de-590-litros-por-menos-de-r-8-mil/",
+      "data": "2026-11-04T21:18:57+00:00"
+    },
+    {
+      "titulo": "Códigos de Dress To Impress para resgatar em novembro no Roblox! Confira a lista",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/codigos-de-dress-to-impress-para-resgatar-em-novembro-no-roblox-confira-a-lista/",
+      "data": "2026-11-04T21:15:00+00:00"
+    },
+    {
+      "titulo": "AMD deve atrasar nova arquitetura RDNA 5+ para notebooks; veja nova previsão",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/amd-deve-atrasar-nova-arquitetura-rdna-5-para-notebooks-veja-nova-previsao/",
+      "data": "2026-11-04T21:06:00+00:00"
+    },
+    {
+      "titulo": "Google amplia programa de demissão voluntária para mais países em meio a gastos com IA",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/google-amplia-programa-de-demissao-voluntaria-para-mais-paises-em-meio-a-gastos-com-ia/",
+      "data": "2026-11-04T21:00:00+00:00"
+    },
+    {
+      "titulo": "ChatGPT agora permite criar GIFs animados diretamente pelo chat",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/chatgpt-cria-gifs-animados/",
+      "data": "2026-11-04T20:30:12+00:00"
+    },
+    {
+      "titulo": "Galaxy Watch 9 tem oferta imbatível na Black November do Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-9-tem-oferta-imbativel-na-black-november-do-mercado-livre/",
+      "data": "2026-11-04T20:24:02+00:00"
+    },
+    {
+      "titulo": "Xiaomi começa a liberar HyperOS 4; veja quais celulares recebem",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/xiaomi-comeca-a-liberar-hyperos-4-veja-quais-celulares-recebem/",
+      "data": "2026-11-04T20:14:31+00:00"
+    },
+    {
+      "titulo": "Enough Phone é um Android para quem sente falta de celulares pequenos",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/enough-phone-e-um-android-para-quem-sente-falta-de-celulares-pequenos/",
+      "data": "2026-11-04T20:00:11+00:00"
+    },
+    {
+      "titulo": "Nova versão do Bluetooth promete ser quase 4 vezes mais rápida e melhorar conexões",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware/bluetooth-hdt-transferencias-rapidas/",
+      "data": "2026-11-04T19:43:58+00:00"
+    },
+    {
+      "titulo": "Galaxy S26 Ultra despenca de preço no mês da Black Friday",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-despenca-de-preco-no-mes-da-black-friday/",
+      "data": "2026-11-04T19:09:11+00:00"
+    },
     {
       "titulo": "Uber revela que apenas 4 corridas foram agendadas por agentes de IA no último trimestre",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/uber-4-corridas-agentes-ia-trimestre/",
       "data": "2026-11-04T18:49:24+00:00"
-    },
-    {
-      "titulo": "Nova tecnologia deixa o Bluetooth 4 vezes mais rápido",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/nova-tecnologia-deixa-o-bluetooth-4-vezes-mais-rapido/",
-      "data": "2026-11-04T18:44:22+00:00"
-    },
-    {
-      "titulo": "Garmin Forerunner 70 com 5 ATM cai 38% com cupom no Mercado Livre",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/garmin-forerunner-70-com-5-atm-cai-38-com-cupom-no-mercado-livre/",
-      "data": "2026-11-04T18:42:53+00:00"
-    },
-    {
-      "titulo": "Samsung libera One UI 9 para mais smartphones no Brasil",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/samsung-libera-one-ui-9-para-mais-smartphones/",
-      "data": "2026-11-04T18:38:29+00:00"
-    },
-    {
-      "titulo": "Galaxy S26 com fone grátis fica mais barato que iPhone 17 em oferta",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/galaxy-s26-com-fone-gratis-fica-mais-barato-que-iphone-17-em-oferta/",
-      "data": "2026-11-04T18:32:25+00:00"
-    },
-    {
-      "titulo": "OpenAI encaminha compra da Pierre Computer, startup rival do GitHub",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/openai-encaminha-compra-da-pierre-computer-startup-rival-do-github/",
-      "data": "2026-11-04T18:30:00+00:00"
-    },
-    {
-      "titulo": "Google Maps prepara recurso para viajantes conhecerem nova cidade assim que aterrissam",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/google-maps-prepara-recurso-para-viajantes-conhecerem-nova-cidade-assim-que-aterrissam/",
-      "data": "2026-11-04T18:08:00+00:00"
-    },
-    {
-      "titulo": "O adeus a Chandler: docussérie sobre Matthew Perry é a mais vista da Netflix",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/o-adeus-a-chandler-docusserie-sobre-matthew-perry-e-a-mais-vista-da-netflix/",
-      "data": "2026-11-04T18:04:00+00:00"
-    },
-    {
-      "titulo": "Starlink usará tecnologia da Qualcomm para ampliar cobertura 5G",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/starlink-usara-tecnologia-da-qualcomm-para-ampliar-cobertura-5g/",
-      "data": "2026-11-04T18:01:59+00:00"
-    },
-    {
-      "titulo": "BMW atinge marca histórica com carros que dirigem sozinhos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/bmw-atinge-marca-historica-com-carros-que-dirigem-sozinhos-ate-o-patio/",
-      "data": "2026-11-04T18:00:00+00:00"
-    },
-    {
-      "titulo": "Galaxy Tab S10 FE Plus 5G tem melhor oferta de 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-5g-tem-melhor-oferta-de-2026/",
-      "data": "2026-11-04T17:55:47+00:00"
-    },
-    {
-      "titulo": "Xbox vai sortear Series X escondido em réplica de jacaré",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/xbox-vai-sortear-series-x-escondido-em-replica-de-jacare/",
-      "data": "2026-11-04T17:53:21+00:00"
-    },
-    {
-      "titulo": "Starlink Mini X no precinho: antena portátil sai por R$ 499",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/starlink-mini-x-no-precinho-antena-portatil-sai-por-r-499/",
-      "data": "2026-11-04T17:52:02+00:00"
     },
     {
       "titulo": "YouTube pode lançar rede social própria para competir com Instagram e TikTok",
@@ -86,100 +170,16 @@
       "data": "2026-11-04T17:42:38+00:00"
     },
     {
-      "titulo": "God of War Laufey é adiado e Faye escapa de mês com Fable e Tomb Raider",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/god-of-war-laufey-e-adiado-e-faye-escapa-de-mes-com-fable-e-tomb-raider/",
-      "data": "2026-11-04T17:41:32+00:00"
-    },
-    {
-      "titulo": "God of War Laufey é adiado para maio no PS5! Veja a nova data de lançamento",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/god-of-war-laufey-e-adiado-para-maio-no-ps5-veja-a-nova-data-de-lancamento/",
-      "data": "2026-11-04T17:41:00+00:00"
-    },
-    {
-      "titulo": "Moto G Max (256 GB) atinge menor preço com cupom da Black November",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/moto-g-max-256-gb-atinge-menor-preco-com-cupom-da-black-november/",
-      "data": "2026-11-04T17:33:58+00:00"
-    },
-    {
-      "titulo": "Anatel aprova roaming obrigatório para rodovias e pequenas localidades",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/anatel-aprova-roaming-obrigatorio-para-rodovias-e-pequenas-localidades/",
-      "data": "2026-11-04T17:28:40+00:00"
-    },
-    {
       "titulo": "God of War Laufey é oficialmente adiado para maio de 2027",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/god-of-war-laufey-adiado-maio-2027/",
       "data": "2026-11-04T17:24:53+00:00"
     },
     {
-      "titulo": "Que horas o remake de Zelda Ocarina of Time será lançado no Switch 2? Confira",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/que-horas-o-remake-de-zelda-ocarina-of-time-sera-lancado-no-switch-2-confira/",
-      "data": "2026-11-04T17:15:00+00:00"
-    },
-    {
-      "titulo": "Nova \"escova de dentes tech\" da Xiaomi tem tela colorida e bateria para 190 dias",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/nova-escova-de-dentes-tech-da-xiaomi-tem-tela-colorida-e-bateria-para-190-dias/",
-      "data": "2026-11-04T17:11:54+00:00"
-    },
-    {
-      "titulo": "Honor estaria testando bateria de celular que pode durar uma semana inteira",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/honor-estaria-testando-bateria-de-celular-que-pode-durar-uma-semana-inteira/",
-      "data": "2026-11-04T17:00:00+00:00"
-    },
-    {
       "titulo": "Sam Altman esclarece seu polêmico comentário sobre memória: “Quero que vocês tenham muita RAM”",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/sam-altman-tenta-esclarecer-seu-polemico-comentario-sobre-memoria-ram/",
       "data": "2026-11-04T16:59:09+00:00"
-    },
-    {
-      "titulo": "Google descobre 1,3 milhão de TV Boxes infectadas de fábrica; Brasil está entre os mais afetados",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/google-13-milhao-tv-boxes-infectadas/",
-      "data": "2026-11-04T16:33:33+00:00"
-    },
-    {
-      "titulo": "AMD pode superar a Intel em receita pela primeira vez na história após décadas de rivalidade",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/amd-superar-a-intel-receita/",
-      "data": "2026-11-04T16:13:23+00:00"
-    },
-    {
-      "titulo": "Apple pode acabar com o MacBook Pro sem tela touch",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/apple-pode-acabar-com-o-macbook-pro-sem-tela-touch/",
-      "data": "2026-11-04T16:10:07+00:00"
-    },
-    {
-      "titulo": "Logitech G515 LIGHTSPEED com 40% de desconto: teclado gamer mecânico sem fio ultrafino",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/logitech-g515-lightspeed-com-40-de-desconto-teclado-gamer-mecanico-sem-fio-ultrafino/",
-      "data": "2026-11-04T16:00:15+00:00"
-    },
-    {
-      "titulo": "Google testa projeto Tamba com recursos de rede social dentro do YouTube",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/google-testa-projeto-tamba-com-recursos-de-rede-social-dentro-do-youtube/",
-      "data": "2026-11-04T16:00:00+00:00"
-    },
-    {
-      "titulo": "Airpods 4 entra em promoção nos dois modelos, com e sem ANC: entenda a diferença entre eles",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/airpods-4-entre-em-promocao-nos-dois-modelos-com-e-sem-anc-entenda-a-diferenca-entre-eles/",
-      "data": "2026-11-04T15:30:22+00:00"
-    },
-    {
-      "titulo": "Black dos Sonhos na Amazon começa com ofertas de até 80% OFF",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-dos-sonhos-na-amazon-comeca-com-ofertas-de-ate-80-off/",
-      "data": "2026-11-04T15:28:00+00:00"
     }
   ]
 }
