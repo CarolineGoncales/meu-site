@@ -1,6 +1,30 @@
 {
-  "atualizado_em": "2026-11-05T00:04:16.303430+00:00",
+  "atualizado_em": "2026-11-05T07:04:11.891554+00:00",
   "noticias": [
+    {
+      "titulo": "Hackers também invadiram sistema de refrigeração de sangue na França",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/hackers-tambem-invadiram-sistema-de-refrigeracao-de-sangue-na-franca/",
+      "data": "2026-11-05T02:00:00+00:00"
+    },
+    {
+      "titulo": "Ataques em massa miram repositórios no GitHub; 61 atingidos em 1 hora",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ataques-em-massa-miram-repositorios-no-github-61-atingidos-em-1-hora/",
+      "data": "2026-11-05T01:00:00+00:00"
+    },
+    {
+      "titulo": "Gerador de energia residencial: como funciona e quando usar",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/como-funciona-um-gerador-de-energia-residencial/",
+      "data": "2026-11-05T00:27:00+00:00"
+    },
+    {
+      "titulo": "Instagram e Facebook lançam no Brasil função que permite assistir vídeos em episódios",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/instagram-e-facebook-lancam-no-brasil-funcao-que-permite-assistir-videos-em-episodios/",
+      "data": "2026-11-05T00:00:00+00:00"
+    },
     {
       "titulo": "ROG Xbox Ally X20 chega ao Brasil com visual retrô por R$ 15.999",
       "fonte": "TecMundo",
@@ -56,12 +80,6 @@
       "data": "2026-11-04T22:15:00+00:00"
     },
     {
-      "titulo": "Cientistas criam possível solução para combater risco de extinção das bananas",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/stem/cientistas-criam-possivel-solucao-para-combater-risco-de-extincao-das-bananas/",
-      "data": "2026-11-04T22:00:00+00:00"
-    },
-    {
       "titulo": "Uma das estrelas mais brilhantes do céu está escurecendo de novo; entenda",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/ciencia-e-espaco/uma-das-estrelas-mais-brilhantes-do-ceu-esta-escurecendo-de-novo-entenda/",
@@ -78,12 +96,6 @@
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/entretenimento/novos-godzilla-e-jogos-vorazes-sao-destaque-em-novembro-nos-cinemas-veja-estreias/",
       "data": "2026-11-04T21:32:00+00:00"
-    },
-    {
-      "titulo": "Qualcomm assina parceria com SpaceX para implantar rede 5G nos EUA",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/qualcomm-assina-parceria-com-spacex-para-implantar-rede-5g-nos-eua/",
-      "data": "2026-11-04T21:30:00+00:00"
     },
     {
       "titulo": "iPhone 16 (256 GB) recebe quase R$ 4 mil de desconto na Amazon",
@@ -104,22 +116,10 @@
       "data": "2026-11-04T21:18:57+00:00"
     },
     {
-      "titulo": "Códigos de Dress To Impress para resgatar em novembro no Roblox! Confira a lista",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/codigos-de-dress-to-impress-para-resgatar-em-novembro-no-roblox-confira-a-lista/",
-      "data": "2026-11-04T21:15:00+00:00"
-    },
-    {
       "titulo": "AMD deve atrasar nova arquitetura RDNA 5+ para notebooks; veja nova previsão",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/hardware/amd-deve-atrasar-nova-arquitetura-rdna-5-para-notebooks-veja-nova-previsao/",
       "data": "2026-11-04T21:06:00+00:00"
-    },
-    {
-      "titulo": "Google amplia programa de demissão voluntária para mais países em meio a gastos com IA",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/google-amplia-programa-de-demissao-voluntaria-para-mais-paises-em-meio-a-gastos-com-ia/",
-      "data": "2026-11-04T21:00:00+00:00"
     },
     {
       "titulo": "ChatGPT agora permite criar GIFs animados diretamente pelo chat",
