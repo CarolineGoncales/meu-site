@@ -1,185 +1,185 @@
 {
-  "atualizado_em": "2026-11-05T07:04:11.891554+00:00",
+  "atualizado_em": "2026-11-05T15:39:01.252199+00:00",
   "noticias": [
     {
-      "titulo": "Hackers também invadiram sistema de refrigeração de sangue na França",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/hackers-tambem-invadiram-sistema-de-refrigeracao-de-sangue-na-franca/",
-      "data": "2026-11-05T02:00:00+00:00"
+      "titulo": "Huawei FreeBuds 6 com 46% de desconto: som sem perdas, bateria de 36 horas e conforto o dia todo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/huawei-freebuds-6-com-46-de-desconto-som-sem-perdas-bateria-de-36-horas-e-conforto-o-dia-todo/",
+      "data": "2026-11-05T15:30:00+00:00"
     },
     {
-      "titulo": "Ataques em massa miram repositórios no GitHub; 61 atingidos em 1 hora",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ataques-em-massa-miram-repositorios-no-github-61-atingidos-em-1-hora/",
-      "data": "2026-11-05T01:00:00+00:00"
+      "titulo": "CEO da Team Group alerta que ‘nem dinheiro comprará’ memória em 2027",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware/team-group-ddr5-escassez-2027/",
+      "data": "2026-11-05T15:24:43+00:00"
     },
     {
-      "titulo": "Gerador de energia residencial: como funciona e quando usar",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/como-funciona-um-gerador-de-energia-residencial/",
-      "data": "2026-11-05T00:27:00+00:00"
+      "titulo": "FGC sofre invasão e notifica investidores sobre dados vazados",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/fgc-sofre-invasao-e-notifica-investidores-sobre-dados-vazados/",
+      "data": "2026-11-05T15:24:14+00:00"
     },
     {
-      "titulo": "Instagram e Facebook lançam no Brasil função que permite assistir vídeos em episódios",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/instagram-e-facebook-lancam-no-brasil-funcao-que-permite-assistir-videos-em-episodios/",
-      "data": "2026-11-05T00:00:00+00:00"
+      "titulo": "Inteligência artificial já é mais inteligente que os melhores cientistas do mundo, afirma Sam Altman",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/sam-altman-inteligencia-artificial-superou-cientistas/",
+      "data": "2026-11-05T15:16:14+00:00"
     },
     {
-      "titulo": "ROG Xbox Ally X20 chega ao Brasil com visual retrô por R$ 15.999",
+      "titulo": "Epic Games Store libera dois jogos grátis nesta quinta (05)! Resgate agora",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/rog-xbox-ally-x20-chega-ao-brasil-com-visual-retro-por-r-15999/",
-      "data": "2026-11-04T23:45:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-store-libera-dois-jogos-gratis-nesta-quinta-05-resgate-agora/",
+      "data": "2026-11-05T15:15:00+00:00"
+    },
+    {
+      "titulo": "ChatGPT agora cria GIFs animados direto no chat e permite editar quadros",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-cria-gifs-animados-direto-no-chat-e-permite-editar-quadros/",
+      "data": "2026-11-05T15:07:00+00:00"
+    },
+    {
+      "titulo": "Esquenta Black Friday! Teclado sem fio Logitech Pebble Keys 2 com 39% OFF vira aliado do setup prático, bonito e silencioso",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/teclado-sem-fio-logitech-pebble-keys-2-com-39-off-vira-aliado-do-setup-pratico-bonito-e-silencioso/",
+      "data": "2026-11-05T15:00:26+00:00"
+    },
+    {
+      "titulo": "Galaxy Studio: fone premium da Samsung aparece em primeiras imagens vazadas",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/galaxy-studio-fone-premium-da-samsung-aparece-em-primeiras-imagens-vazadas/",
+      "data": "2026-11-05T15:00:00+00:00"
+    },
+    {
+      "titulo": "Entusiasta usa 7 placas de vídeo, incluindo modelos lançados há 10 anos, para rodar IA local e alcança 96 tokens por segundo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/entusiasta-7-placas-video-antigas-ia-local-96-tokens-segundo/",
+      "data": "2026-11-05T14:57:54+00:00"
+    },
+    {
+      "titulo": "Xbox Nano pode se conectar direto aos servidores da Microsoft, descartando conexão bluetooth",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/xbox-nano-controller-cloud-connect/",
+      "data": "2026-11-05T14:56:27+00:00"
+    },
+    {
+      "titulo": "Fã está levando Dark Souls ao PS2 e já conseguiu rodar o jogo a 30 FPS",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/dark-souls-no-ps2/",
+      "data": "2026-11-05T14:52:30+00:00"
+    },
+    {
+      "titulo": "Projeto usa IA para rodar jogos de Nintendo Switch a 60 FPS na Apple TV",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/projeto-usa-ia-para-rodar-jogos-de-nintendo-switch-a-60-fps-na-apple-tv/",
+      "data": "2026-11-05T14:52:00+00:00"
+    },
+    {
+      "titulo": "Amazon derrete preço do iPhone 17 com cupom",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/amazon-derrete-preco-do-iphone-17-com-cupom/",
+      "data": "2026-11-05T14:47:41+00:00"
+    },
+    {
+      "titulo": "Japão tem feiras dedicadas a objetos esquecidos nos trens, incluindo milhares de eletrônicos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/japao-feiras-objetos-esquecidos-trens-eletronicos/",
+      "data": "2026-11-05T14:41:31+00:00"
+    },
+    {
+      "titulo": "Seleção Tech de Black Friday do Magalu tem notebooks, tablets, consoles e mais com desconto e cupons",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/selecao-tech-de-black-friday-do-magalu-tem-notebooks-tablets-consoles-e-mais-com-desconto-e-cupons/",
+      "data": "2026-11-05T14:35:00+00:00"
+    },
+    {
+      "titulo": "Modo espião: WhatsApp testa como ler mensagens sem o tique azul",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/modo-espiao-whatsapp-testa-como-ler-mensagens-sem-o-tique-azul/",
+      "data": "2026-11-05T14:32:00+00:00"
+    },
+    {
+      "titulo": "Wolverine tem 2,4 milhões de cópias vendidas em 2 meses, ficando atrás de Marvel’s Spider-Man",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/wolverine-tem-24-milhoes-de-copias-vendidas-em-2-meses-ficando-atras-de-marvels-spider-man/",
+      "data": "2026-11-05T14:15:00+00:00"
+    },
+    {
+      "titulo": "Apple acaba com sigilo e vai escanear links do iCloud em busca de conteúdo ilegal",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/apple-acaba-com-sigilo-e-vai-escanear-links-do-icloud-em-busca-de-conteudo-ilegal/",
+      "data": "2026-11-05T14:14:00+00:00"
+    },
+    {
+      "titulo": "Intel prepara mais uma linha de processadores para notebooks em 2027",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/intel-prepara-mais-uma-linha-de-processadores-para-notebooks-em-2027/",
+      "data": "2026-11-05T14:06:00+00:00"
+    },
+    {
+      "titulo": "GAC estipula prazo para levar bateria de estado sólido aos EVs",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/gac-estipula-prazo-para-levar-bateria-de-estado-solido-aos-evs/",
+      "data": "2026-11-05T14:03:00+00:00"
+    },
+    {
+      "titulo": "Caixa de som toca música dentro do travesseiro para não incomodar outras pessoas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/caixa-de-som/caixa-de-som-toca-musica-dentro-do-travesseiro-para-nao-incomodar-outras-pessoas/",
+      "data": "2026-11-05T14:01:22+00:00"
+    },
+    {
+      "titulo": "Falha crítica no Ruby on Rails expõe servidores a ataques",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-critica-no-ruby-on-rails-expoe-servidores-a-ataques/",
+      "data": "2026-11-05T14:00:00+00:00"
+    },
+    {
+      "titulo": "Qualcomm fecha acordo de infraestrutura 5G com a Starlink",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/qualcomm-fecha-acordo-de-infraestrutura-5g-com-a-starlink/",
+      "data": "2026-11-05T13:24:06+00:00"
+    },
+    {
+      "titulo": "Android permitirá backup automático de fotos e vídeos no Windows",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/android-permitira-backup-automatico-de-fotos-e-videos-no-windows/",
+      "data": "2026-11-05T13:03:17+00:00"
+    },
+    {
+      "titulo": "Celular com a 2ª melhor câmera do mundo chega ao Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/celular-com-a-2a-melhor-camera-do-mundo-chega-ao-brasil/",
+      "data": "2026-11-05T13:00:21+00:00"
+    },
+    {
+      "titulo": "Motorola lança top de linha Signature 27 para disputar em câmera, hardware e preço",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/motorola-signature-27-lancamento-oficial/",
+      "data": "2026-11-05T13:00:00+00:00"
+    },
+    {
+      "titulo": "Proton se desculpa após polêmica sobre uso de IA",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/proton-se-desculpa-apos-polemica-sobre-uso-de-ia/",
+      "data": "2026-11-05T12:47:17+00:00"
+    },
+    {
+      "titulo": "Amazon agora oferece AppleCare na compra de iPhones no Brasil",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/amazon-agora-oferece-applecare-na-compra-de-iphones-no-brasil/",
+      "data": "2026-11-05T12:17:18+00:00"
+    },
+    {
+      "titulo": "PEC da Segurança Pública: o que muda para a tecnologia das polícias?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/pec-da-seguranca-publica-o-que-muda-para-a-tecnologia-das-policias/",
+      "data": "2026-11-05T12:00:00+00:00"
     },
     {
       "titulo": "Smart TV boa e barata: 7 modelos até R$ 2.000 antes da Black Friday 2026",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/tv-smart-boa-e-barata/",
       "data": "2026-11-04T23:23:39+00:00"
-    },
-    {
-      "titulo": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (04)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-04/",
-      "data": "2026-11-04T23:15:00+00:00"
-    },
-    {
-      "titulo": "Melhor TV 75 polegadas: 7 modelos com o melhor custo-benefício em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-tv-75-polegadas-custo-beneficio/",
-      "data": "2026-11-04T23:04:42+00:00"
-    },
-    {
-      "titulo": "Melhor TV para PS5 e Xbox: 6 modelos para jogos em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-tv-ps5-xbox/",
-      "data": "2026-11-04T22:34:30+00:00"
-    },
-    {
-      "titulo": "Galaxy S26 FE é bom, mas depende de desconto para fazer sentido",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/galaxy-s26-fe-e-bom-mas-depende-de-desconto-para-fazer-sentido/",
-      "data": "2026-11-04T22:17:23+00:00"
-    },
-    {
-      "titulo": "Skyone lança plataforma corporativa com acesso a mais de 400 modelos de IA",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/skyone-lanca-plataforma-corporativa-com-acesso-a-mais-de-400-modelos-de-ia/",
-      "data": "2026-11-04T22:15:05+00:00"
-    },
-    {
-      "titulo": "Polícia desativa 1,3 milhão de TV boxes; iPhone 18 com bateria maior e mais - Hoje no TecMundo (4)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/policia-desativa-13-milhao-de-tv-boxes-iphone-18-com-bateria-maior-e-mais-hoje-no-tecmundo-4/",
-      "data": "2026-11-04T22:15:00+00:00"
-    },
-    {
-      "titulo": "Em virada histórica, AMD deve faturar mais que a Intel pela primeira vez",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/em-virada-historica-amd-deve-faturar-mais-que-a-intel-pela-primeira-vez/",
-      "data": "2026-11-04T22:15:00+00:00"
-    },
-    {
-      "titulo": "Uma das estrelas mais brilhantes do céu está escurecendo de novo; entenda",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/uma-das-estrelas-mais-brilhantes-do-ceu-esta-escurecendo-de-novo-entenda/",
-      "data": "2026-11-04T22:00:00+00:00"
-    },
-    {
-      "titulo": "Operação criminosa atinge mais de 40 instituições financeiras no Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/open-ledger-operacao-criminosa-atinge-mais-de-40-instituicoes-financeiras-no-brasil/",
-      "data": "2026-11-04T21:45:00+00:00"
-    },
-    {
-      "titulo": "Novos Godzilla e Jogos Vorazes são destaque em novembro nos cinemas; veja estreias",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/novos-godzilla-e-jogos-vorazes-sao-destaque-em-novembro-nos-cinemas-veja-estreias/",
-      "data": "2026-11-04T21:32:00+00:00"
-    },
-    {
-      "titulo": "iPhone 16 (256 GB) recebe quase R$ 4 mil de desconto na Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/iphone-16-256-gb-recebe-quase-r-4-mil-de-desconto-na-amazon/",
-      "data": "2026-11-04T21:25:58+00:00"
-    },
-    {
-      "titulo": "Código do YouTube revela nova rede social secreta rival do Instagram",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/codigo-do-youtube-revela-nova-rede-social-secreta-rival-do-instagram/",
-      "data": "2026-11-04T21:21:00+00:00"
-    },
-    {
-      "titulo": "LG lança geladeira French Door de 590 litros por menos de R$ 8 mil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/lg-lanca-geladeira-french-door-de-590-litros-por-menos-de-r-8-mil/",
-      "data": "2026-11-04T21:18:57+00:00"
-    },
-    {
-      "titulo": "AMD deve atrasar nova arquitetura RDNA 5+ para notebooks; veja nova previsão",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/amd-deve-atrasar-nova-arquitetura-rdna-5-para-notebooks-veja-nova-previsao/",
-      "data": "2026-11-04T21:06:00+00:00"
-    },
-    {
-      "titulo": "ChatGPT agora permite criar GIFs animados diretamente pelo chat",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/chatgpt-cria-gifs-animados/",
-      "data": "2026-11-04T20:30:12+00:00"
-    },
-    {
-      "titulo": "Galaxy Watch 9 tem oferta imbatível na Black November do Mercado Livre",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-9-tem-oferta-imbativel-na-black-november-do-mercado-livre/",
-      "data": "2026-11-04T20:24:02+00:00"
-    },
-    {
-      "titulo": "Xiaomi começa a liberar HyperOS 4; veja quais celulares recebem",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/xiaomi-comeca-a-liberar-hyperos-4-veja-quais-celulares-recebem/",
-      "data": "2026-11-04T20:14:31+00:00"
-    },
-    {
-      "titulo": "Enough Phone é um Android para quem sente falta de celulares pequenos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/enough-phone-e-um-android-para-quem-sente-falta-de-celulares-pequenos/",
-      "data": "2026-11-04T20:00:11+00:00"
-    },
-    {
-      "titulo": "Nova versão do Bluetooth promete ser quase 4 vezes mais rápida e melhorar conexões",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware/bluetooth-hdt-transferencias-rapidas/",
-      "data": "2026-11-04T19:43:58+00:00"
-    },
-    {
-      "titulo": "Galaxy S26 Ultra despenca de preço no mês da Black Friday",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-despenca-de-preco-no-mes-da-black-friday/",
-      "data": "2026-11-04T19:09:11+00:00"
-    },
-    {
-      "titulo": "Uber revela que apenas 4 corridas foram agendadas por agentes de IA no último trimestre",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/uber-4-corridas-agentes-ia-trimestre/",
-      "data": "2026-11-04T18:49:24+00:00"
-    },
-    {
-      "titulo": "YouTube pode lançar rede social própria para competir com Instagram e TikTok",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/entretenimento/youtube-pode-lancar-rede-social/",
-      "data": "2026-11-04T17:42:38+00:00"
-    },
-    {
-      "titulo": "God of War Laufey é oficialmente adiado para maio de 2027",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/god-of-war-laufey-adiado-maio-2027/",
-      "data": "2026-11-04T17:24:53+00:00"
-    },
-    {
-      "titulo": "Sam Altman esclarece seu polêmico comentário sobre memória: “Quero que vocês tenham muita RAM”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/sam-altman-tenta-esclarecer-seu-polemico-comentario-sobre-memoria-ram/",
-      "data": "2026-11-04T16:59:09+00:00"
     }
   ]
 }
