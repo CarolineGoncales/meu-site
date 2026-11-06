@@ -1,11 +1,65 @@
 {
-  "atualizado_em": "2026-11-05T21:37:45.787538+00:00",
+  "atualizado_em": "2026-11-06T01:51:24.573029+00:00",
   "noticias": [
     {
-      "titulo": "Hackers atacam freezers na Europa; entenda o que motiva e como funcionam as invasões",
+      "titulo": "Instagram lança app de edição de vídeo no desktop, mas só para Macs",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/hackers-atacam-freezers-na-europa-entenda-o-que-motiva-e-como-funcionam-as-invasoes/",
-      "data": "2026-11-05T21:15:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/instagram-lanca-app-de-edicao-de-video-no-desktop-mas-so-para-macs/",
+      "data": "2026-11-06T01:00:00+00:00"
+    },
+    {
+      "titulo": "GPT-6 Cyber: OpenAI lança novo modelo que já identificou mais de 80 falhas",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/gpt-6-cyber-openai-lanca-novo-modelo-que-ja-identificou-mais-de-80-falhas/",
+      "data": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "titulo": "Hoje no TecMundo (5): Universidade cria drone que rastreia pessoas sem GPS e mais",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-5-universidade-cria-drone-que-rastreia-pessoas-sem-gps-e-mais/",
+      "data": "2026-11-05T23:14:00+00:00"
+    },
+    {
+      "titulo": "Opera supera 100 milhões de usuários no PC impulsionada por IA",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/opera-supera-100-milhoes-de-usuarios-no-pc-impulsionada-por-ia/",
+      "data": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "titulo": "Death Stranding 2 e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/death-stranding-2-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store-2/",
+      "data": "2026-11-05T22:30:00+00:00"
+    },
+    {
+      "titulo": "Nova falha no Android trava celulares em ‘reinicialização infinita’",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/nova-falha-no-android-trava-celulares-em-reinicializacao-infinita/",
+      "data": "2026-11-05T22:15:00+00:00"
+    },
+    {
+      "titulo": "Google anuncia Gemini Omni 1.2 Flash para criar vídeos de até 15 segundos",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/google-anuncia-gemini-omni-1-2-flash-para-criar-videos-de-ate-15-segundos/",
+      "data": "2026-11-05T22:06:01+00:00"
+    },
+    {
+      "titulo": "iPhone 18e terá chip atualizado e poucas mudanças notáveis, revela leaker",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-18e-tera-chip-atualizado-e-poucas-mudancas-notaveis-revela-leaker/",
+      "data": "2026-11-05T22:00:00+00:00"
+    },
+    {
+      "titulo": "Falha permite acesso root a servidores Linux ao digitar senha longa",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-permite-acesso-root-a-servidores-linux-apenas-ao-digitar-senha-longa/",
+      "data": "2026-11-05T21:45:00+00:00"
+    },
+    {
+      "titulo": "Custo-benefício: Galaxy A57 fica 57% mais barato com cupom",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/custo-beneficio-galaxy-a57-fica-57-mais-barato-com-cupom/",
+      "data": "2026-11-05T21:43:42+00:00"
     },
     {
       "titulo": "Sem controle? XBOX Cloud Gaming deixa usar o celular na Smart TV",
@@ -20,22 +74,10 @@
       "data": "2026-11-05T21:00:56+00:00"
     },
     {
-      "titulo": "WhatsApp ganha central de eventos e convites para quem não usa o app",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/whatsapp-ganha-central-de-eventos-e-convites-para-quem-nao-usa-o-app/",
-      "data": "2026-11-05T21:00:00+00:00"
-    },
-    {
       "titulo": "Toyota faz queima e joga no chão preços do Yaris Cross híbrido",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/carros/toyota-faz-queima-e-joga-no-chao-precos-do-yaris-cross-hibrido/",
       "data": "2026-11-05T20:45:03+00:00"
-    },
-    {
-      "titulo": "Prime Gaming: Amazon Luna recebe novos jogos grátis de novembro! Resgate agora (05)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/prime-gaming-amazon-luna-recebe-novos-jogos-gratis-de-novembro-resgate-agora-05/",
-      "data": "2026-11-05T20:45:00+00:00"
     },
     {
       "titulo": "Black November: Galaxy Buds 4 recebe melhor oferta registrada",
@@ -128,18 +170,6 @@
       "data": "2026-11-05T17:51:57+00:00"
     },
     {
-      "titulo": "Sony lucra 44% mais apesar da queda nas vendas de PS5",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/sony-lucra-44-mais-apesar-da-queda-nas-vendas-de-ps5/",
-      "data": "2026-11-05T17:51:26+00:00"
-    },
-    {
-      "titulo": "Review do Xiaomi Poco X8: boa resistência e bateria gigante",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/testamos/review-do-poco-x8-boa-resistencia-e-bateria-gigante/",
-      "data": "2026-11-05T17:49:20+00:00"
-    },
-    {
       "titulo": "Netflix ganha recurso de IA que permite encontrar filmes e séries baseado em seu humor",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/netflix-ai-discover-pergunta-humor/",
@@ -150,36 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/rtx-5080-310-fps-ray-tracing-directx/",
       "data": "2026-11-05T17:41:13+00:00"
-    },
-    {
-      "titulo": "Rockstar divulga 39 novas imagens de GTA 6; veja todas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/39-novas-imagens-de-gta-6/",
-      "data": "2026-11-05T17:01:20+00:00"
-    },
-    {
-      "titulo": "Microsoft cria console bizarro: Xbox Series X dentro de um jacaré gigante",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/xbox-series-x-bite-jacare/",
-      "data": "2026-11-05T16:25:52+00:00"
-    },
-    {
-      "titulo": "Seleção Tech de Black Friday do Magalu tem notebooks, tablets, consoles e mais com desconto e cupons",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/selecao-tech-de-black-friday-do-magalu-tem-notebooks-tablets-consoles-e-mais-com-desconto-e-cupons/",
-      "data": "2026-11-05T14:35:00+00:00"
-    },
-    {
-      "titulo": "iOS 27.3 Beta 1 traz Siri Recap, Live Rewind e melhorias para iPhone",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/ios-273-beta-1-traz-siri-recap-live-rewind-e-melhorias-para-iphone/",
-      "data": "2026-11-05T11:30:00+00:00"
-    },
-    {
-      "titulo": "iPhone 18 base deve ter acréscimo somente na bateria, revela informante",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-18-base-deve-ter-acrescimo-somente-na-bateria-revela-informante/",
-      "data": "2026-11-04T14:00:00+00:00"
     }
   ]
 }
