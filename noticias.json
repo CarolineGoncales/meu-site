@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-11-06T01:51:24.573029+00:00",
+  "atualizado_em": "2026-11-06T08:38:42.376454+00:00",
   "noticias": [
+    {
+      "titulo": "O risco da IA para a humanidade é ‘próximo de zero’, diz CEO da Hugging Face",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/o-risco-da-ia-para-a-humanidade-e-proximo-de-zero-diz-ceo-da-hugging-face/",
+      "data": "2026-11-06T08:00:00+00:00"
+    },
     {
       "titulo": "Instagram lança app de edição de vídeo no desktop, mas só para Macs",
       "fonte": "TecMundo",
@@ -48,12 +54,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-18e-tera-chip-atualizado-e-poucas-mudancas-notaveis-revela-leaker/",
       "data": "2026-11-05T22:00:00+00:00"
-    },
-    {
-      "titulo": "Falha permite acesso root a servidores Linux ao digitar senha longa",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-permite-acesso-root-a-servidores-linux-apenas-ao-digitar-senha-longa/",
-      "data": "2026-11-05T21:45:00+00:00"
     },
     {
       "titulo": "Custo-benefício: Galaxy A57 fica 57% mais barato com cupom",
