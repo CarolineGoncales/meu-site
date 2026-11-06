@@ -1,23 +1,161 @@
 {
-  "atualizado_em": "2026-11-06T16:24:03.578227+00:00",
+  "atualizado_em": "2026-11-06T21:39:48.805973+00:00",
   "noticias": [
     {
-      "titulo": "Nostalgia: empresa lança aparelho de quase R$ 3 mil para quem ainda coleciona CDs",
+      "titulo": "Marvel pode ter achado novo Wolverine para substituir Hugh Jackman; veja quem é",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/nostalgia-empresa-lanca-aparelho-de-quase-r-3-mil-para-quem-ainda-coleciona-cds/",
-      "data": "2026-11-06T16:22:07+00:00"
+      "link": "https://canaltech.com.br/entretenimento/marvel-pode-ter-achado-novo-wolverine-para-substituir-hugh-jackman-veja-quem-e/",
+      "data": "2026-11-06T21:36:00+00:00"
     },
     {
-      "titulo": "Falha grave inutiliza e trava celulares Android em loop infinito",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/falha-grave-inutiliza-e-trava-celulares-android-em-loop-infinito/",
-      "data": "2026-11-06T16:05:00+00:00"
+      "titulo": "OpenAI lança GPT-6 Cyber e afirma que modelo caça falhas sem desobedecer pesquisadores",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/openai-lanca-gpt-6-cyber-e-afirma-que-modelo-caca-falhas-sem-desobedecer-pesquisadores/",
+      "data": "2026-11-06T21:15:00+00:00"
     },
     {
-      "titulo": "EA ouve fãs e relança Road Rash, Ultima e mais 23 clássicos no PC",
+      "titulo": "Novo GPT-6 Cyber encontra falhas de segurança mais rápido que qualquer hacker",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/ea-ouve-fas-e-relanca-road-rash-ultima-e-mais-23-classicos-no-pc/",
-      "data": "2026-11-06T16:04:00+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/novo-gpt-6-cyber-encontra-falhas-de-seguranca-mais-rapido-que-qualquer-hacker/",
+      "data": "2026-11-06T21:03:00+00:00"
+    },
+    {
+      "titulo": "Shopee e Nubank anunciam parceria que dará até 50% de desconto no 11.11",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/shopee-e-nubank-anunciam-parceria-que-dara-ate-50-de-desconto-no-1111/",
+      "data": "2026-11-06T21:00:00+00:00"
+    },
+    {
+      "titulo": "Phantom Blade Zero é ou não é soulslike?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/phantom-blade-zero-e-ou-nao-e-soulslike/",
+      "data": "2026-11-06T21:00:00+00:00"
+    },
+    {
+      "titulo": "YMTC planeja usar até 70% de equipamentos chineses em nova fábrica de chips de memória",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/ymtc-planeja-usar-ate-70-de-equipamentos-chineses-em-nova-fabrica-de-chips-de-memoria/",
+      "data": "2026-11-06T20:45:00+00:00"
+    },
+    {
+      "titulo": "Dublagem de Dragon Ball Super: Beerus estreia em novembro; veja elenco",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/dublagem-de-dragon-ball-super-beerus-estreia-em-novembro-veja-elenco/",
+      "data": "2026-11-06T20:25:03+00:00"
+    },
+    {
+      "titulo": "História do fim da BioWare, estúdio de Mass Effect, será contada em documentário",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/historia-do-fim-da-bioware-estudio-de-mass-effect-sera-contada-em-documentario/",
+      "data": "2026-11-06T20:15:00+00:00"
+    },
+    {
+      "titulo": "iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/iphone-tem-lista-secreta-com-mais-de-100-mil-palavras-que-evita-sugerir/",
+      "data": "2026-11-06T20:14:27+00:00"
+    },
+    {
+      "titulo": "WhatsApp começa a usar IA para completar fotos e evitar bordas pretas em tela cheia",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/whatsapp-comeca-a-usar-ia-para-completar-fotos-e-evitar-bordas-pretas-em-tela-cheia/",
+      "data": "2026-11-06T20:06:00+00:00"
+    },
+    {
+      "titulo": "Citroën antecipa Black Friday e derrete preços de Basalt e C3",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/citroen-antecipa-black-friday-e-derrete-precos-de-basalt-e-c3/",
+      "data": "2026-11-06T20:06:00+00:00"
+    },
+    {
+      "titulo": "Intel Nova Lake pode limitar clock a 5,1 GHz e exigir super cooler",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/intel-nova-lake-pode-limitar-clock-a-51-ghz-e-exigir-super-cooler/",
+      "data": "2026-11-06T20:05:00+00:00"
+    },
+    {
+      "titulo": "Apple pode unir os botões de ação e de câmera no iPhone 19",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-pode-unir-os-botoes-de-acao-e-de-camera-no-iphone-19/",
+      "data": "2026-11-06T20:00:00+00:00"
+    },
+    {
+      "titulo": "AMD agora prioriza data centers; mas e os jogos e os PCs?",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/amd-agora-prioriza-data-centers-mas-e-os-jogos-e-os-pcs/",
+      "data": "2026-11-06T19:59:24+00:00"
+    },
+    {
+      "titulo": "Falta de dinheiro atrasa fiscalização de satélites da Starlink no Brasil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/falta-de-dinheiro-atrasa-fiscalizacao-de-satelites-da-starlink-no-brasil/",
+      "data": "2026-11-06T19:57:52+00:00"
+    },
+    {
+      "titulo": "IA muda o trabalho dos programadores, mas criatividade segue essencial",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/ia-muda-o-trabalho-dos-programadores-mas-criatividade-segue-essencial/",
+      "data": "2026-11-06T19:45:00+00:00"
+    },
+    {
+      "titulo": "Plataforma Itch.io adiciona recurso que permite filtrar jogos feitos por IA generativa",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/plataforma-itchio-adiciona-recurso-que-permite-filtrar-jogos-feitos-por-ia-generativa/",
+      "data": "2026-11-06T19:15:00+00:00"
+    },
+    {
+      "titulo": "Tesla vai sacrificar Cybertruck para fabricar mais robotáxis",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/tesla-vai-sacrificar-cybertruck-para-fabricar-mais-robotaxis/",
+      "data": "2026-11-06T19:08:01+00:00"
+    },
+    {
+      "titulo": "GPT-6 Cyber: o novo braço da OpenAI que acha e corrige falhas antes dos hackers",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/gpt-6-cyber-novo-braco-openai-corrige-falhas/",
+      "data": "2026-11-06T19:05:18+00:00"
+    },
+    {
+      "titulo": "Reforma Tributária expõe atraso tecnológico em 52,9% dos escritórios contábeis",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/stem/reforma-tributaria-avanca-mas-529-dos-contadores-ainda-nao-se-prepararam/",
+      "data": "2026-11-06T18:50:00+00:00"
+    },
+    {
+      "titulo": "Amazon lança Alexa que faz compras por mensagem para você",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/alexa-for-shopping-compras-por-mensagem/",
+      "data": "2026-11-06T18:02:33+00:00"
+    },
+    {
+      "titulo": "Após supermercados, hackers atacam freezers de bancos de sangue na França",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/apos-supermercados-hackers-atacam-freezers-de-bancos-de-sangue-na-franca/",
+      "data": "2026-11-06T17:42:24+00:00"
+    },
+    {
+      "titulo": "New York Times processa o navegador Brave por roubo de conteúdo para alimentar IAs",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/new-york-times-processa-navegador-brave/",
+      "data": "2026-11-06T17:05:20+00:00"
+    },
+    {
+      "titulo": "Microsoft Paint tem falha grave que permite ataques remotos",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/microsoft-paint-tem-falha-grave-que-permite-ataques-remotos/",
+      "data": "2026-11-06T17:01:28+00:00"
+    },
+    {
+      "titulo": "RTX 5070 Ti dispara de preço e já custa quase o dobro do valor de lançamento",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/rtx-5070-ti-dispara-de-preco/",
+      "data": "2026-11-06T16:51:42+00:00"
+    },
+    {
+      "titulo": "GOG Galaxy chegará ao Linux em 2027 e facilitará acesso aos jogos no Steam Deck",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gog-galaxy-chegara-linux-steam-deck/",
+      "data": "2026-11-06T16:32:38+00:00"
     },
     {
       "titulo": "Homem acusa Claude Code de expor seu e-mail a terceiros durante pesquisas na internet",
@@ -32,154 +170,16 @@
       "data": "2026-11-06T16:00:25+00:00"
     },
     {
-      "titulo": "Citroën confirma primeiros carros híbridos para o Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/citroen-confirma-primeiros-carros-hibridos-para-o-brasil/",
-      "data": "2026-11-06T16:00:07+00:00"
-    },
-    {
-      "titulo": "‘Funcionário virtual’: Perplexity lança agente de IA que trabalha 24 horas por dia",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/funcionario-virtual-perplexity-lanca-agente-de-ia-que-trabalha-24-horas-por-dia/",
-      "data": "2026-11-06T16:00:00+00:00"
-    },
-    {
-      "titulo": "Black Friday: 11 produtos que devem bater menor preço do ano",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/black-friday-11-produtos-que-devem-bater-menor-preco-do-ano/",
-      "data": "2026-11-06T16:00:00+00:00"
-    },
-    {
-      "titulo": "Casa Branca usa Zelda Ocarina of Time para promover Donald Trump! Entenda",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/casa-branca-usa-zelda-ocarina-of-time-para-promover-donald-trump-entenda/",
-      "data": "2026-11-06T15:45:00+00:00"
-    },
-    {
       "titulo": "Mochila Lenovo B210 com 60% de desconto: um achado para quem precisa de praticidade no dia a dia",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/mochila-lenovo-b210-com-53-de-desconto-um-achado-para-quem-precisa-de-praticidade-no-dia-a-dia/",
       "data": "2026-11-06T15:30:36+00:00"
     },
     {
-      "titulo": "WhatsApp ganha recurso para organizar festas de fim de ano e mais; veja como funciona",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/whatsapp-ganha-recurso-para-organizar-festas-de-fim-de-ano-e-mais-veja-como-funciona/",
-      "data": "2026-11-06T15:21:00+00:00"
-    },
-    {
-      "titulo": "Smart TVs da LG começarão a permitir pedir comida diretamente pela televisão",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/lg-smart-tv-pedir-comida/",
-      "data": "2026-11-06T15:16:29+00:00"
-    },
-    {
-      "titulo": "Black Friday Elements tem cadeiras gamer e ergonômicas com até 40% OFF",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-elements-tem-cadeiras-gamer-e-ergonomicas-com-ate-40-off/",
-      "data": "2026-11-06T15:15:00+00:00"
-    },
-    {
-      "titulo": "NVIDIA App testa recurso secreto para dar prioridade da GPU a jogos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/nvidia-app-testa-recurso-secreto-para-dar-prioridade-da-gpu-a-jogos/",
-      "data": "2026-11-06T15:13:00+00:00"
-    },
-    {
-      "titulo": "Cupom Sephora | Até 70% de desconto - Novembro 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-sephora/",
-      "data": "2026-11-06T15:11:00+00:00"
-    },
-    {
       "titulo": "Microsoft quer patentear IA que altera falas ao vivo",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
       "data": "2026-11-06T15:10:46+00:00"
-    },
-    {
-      "titulo": "TSLA, NVDA, META, MSFT: ações de big techs derretem nas bolsas",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/tsla-nvda-meta-msft-acoes-de-big-techs-derretem-nas-bolsas/",
-      "data": "2026-11-06T15:01:33+00:00"
-    },
-    {
-      "titulo": "Ventilador de coluna Mondial com 29% de desconto: alívio imediato contra a onda de calor",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/ventilador-de-coluna-mondial-em-promocao-alivio-imediato-contra-a-onda-de-calor/",
-      "data": "2026-11-06T15:00:29+00:00"
-    },
-    {
-      "titulo": "Sony relança os clássicos fones de ouvido do primeiro Walkman",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/sony-relanca-os-classicos-fones-de-ouvido-do-primeiro-walkman/",
-      "data": "2026-11-06T15:00:00+00:00"
-    },
-    {
-      "titulo": "Samsung vai ajudar Apple a lançar iPad Air com tela OLED em 2027",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tablet/samsung-vai-ajudar-apple-a-lancar-ipad-air-com-tela-oled-em-2027/",
-      "data": "2026-11-06T14:43:46+00:00"
-    },
-    {
-      "titulo": "Claude apaga acidentalmente um ano de anotações de professor de Direito",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/claude-ai-apaga-ano-de-anotacoes-de-professor/",
-      "data": "2026-11-06T14:42:59+00:00"
-    },
-    {
-      "titulo": "Voltou a cair: Motorola Signature recebe R$ 1,5 mil de desconto no Magalu",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/voltou-a-cair-motorola-signature-recebe-r-15-mil-de-desconto-no-magalu/",
-      "data": "2026-11-06T14:40:41+00:00"
-    },
-    {
-      "titulo": "GTA 6 pode chegar ao PC antes do esperado por causa da inteligência artificial",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-pc-antes-do-esperado/",
-      "data": "2026-11-06T14:37:04+00:00"
-    },
-    {
-      "titulo": "Galaxy Buds Core com 47% de desconto: cancelamento de ruído e intérprete inteligente com preço em conta!",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/galaxy-buds-core-com-47-de-desconto-cancelamento-de-ruido-e-interprete-inteligente-com-preco-em-conta/",
-      "data": "2026-11-06T14:35:07+00:00"
-    },
-    {
-      "titulo": "EUA vão finalmente deixar de usar disquetes no controle de tráfego aéreo",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/eua-vao-finalmente-deixar-de-usar-disquetes-no-controle-de-trafego-aereo/",
-      "data": "2026-11-06T14:16:31+00:00"
-    },
-    {
-      "titulo": "Galaxy Watch Ultra para aventuras cai 63% no mês da Black Friday",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-para-aventuras-cai-63-no-mes-da-black-friday/",
-      "data": "2026-11-06T14:09:37+00:00"
-    },
-    {
-      "titulo": "Huawei Watch GT 7 com GPS está 42% mais barato na Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/huawei-watch-gt-7-com-gps-esta-42-mais-barato-na-amazon/",
-      "data": "2026-11-06T13:43:32+00:00"
-    },
-    {
-      "titulo": "Notebooks, monitores, jogos e mais ofertas gamer no 11.11 do Meli",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/notebooks-monitores-jogos-e-mais-ofertas-gamer-no-1111-do-meli/",
-      "data": "2026-11-06T13:15:00+00:00"
-    },
-    {
-      "titulo": "Nubank demite funcionários após IA reduzir fila de fraudes",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/nubank-demite-funcionarios-apos-ia-reduzir-fila-de-fraudes/",
-      "data": "2026-11-06T13:09:13+00:00"
-    },
-    {
-      "titulo": "Black November: iPhone 15 (256 GB) cai para quase metade do preço original",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/black-november-iphone-15-256-gb-cai-para-quase-metade-do-preco-original/",
-      "data": "2026-11-06T12:47:22+00:00"
     }
   ]
 }
