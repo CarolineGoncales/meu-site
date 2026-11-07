@@ -1,17 +1,83 @@
 {
-  "atualizado_em": "2026-11-06T21:39:48.805973+00:00",
+  "atualizado_em": "2026-11-07T01:21:58.348526+00:00",
   "noticias": [
+    {
+      "titulo": "Valor Mortis serve um soulslike com sabor de novidade",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/valor-mortis-serve-um-soulslike-com-sabor-de-novidade/",
+      "data": "2026-11-07T00:15:00+00:00"
+    },
+    {
+      "titulo": "Banco do Brasil caiu? Pix fora do ar atinge usuários nesta sexta-feira (6)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/banco-do-brasil-caiu-pix-fora-do-ar-atinge-usuarios-nesta-sexta-feira-06/",
+      "data": "2026-11-06T23:40:00+00:00"
+    },
+    {
+      "titulo": "Novo app do XBOX para PC abre 60% mais rápido e ganha cara nova; veja novidades",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/novo-app-do-xbox-para-pc-abre-60-mais-rapido-e-ganha-cara-nova-veja-novidades/",
+      "data": "2026-11-06T23:15:02+00:00"
+    },
+    {
+      "titulo": "IA pode sair do controle? Entenda o debate sobre os riscos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ia-fora-de-controle-riscos-casos-reais-e-como-evitar/",
+      "data": "2026-11-06T23:15:00+00:00"
+    },
+    {
+      "titulo": "GTA 6, Zelda Ocarina of Time e mais lançamentos de jogos em novembro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/lancamentos-jogos-novos-novembro-2026/",
+      "data": "2026-11-06T23:00:00+00:00"
+    },
+    {
+      "titulo": "FF7 Rebirth e mais jogos para Switch na eShop com até 90% OFF",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/ff7-rebirth-e-mais-jogos-para-switch-na-eshop-com-ate-90-off/",
+      "data": "2026-11-06T22:30:00+00:00"
+    },
+    {
+      "titulo": "Pré-download de GTA 6 começa na próxima semana: veja o que fazer antes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/pre-download-de-gta-6-comeca-na-proxima-semana-veja-o-que-fazer-antes/",
+      "data": "2026-11-06T22:30:00+00:00"
+    },
+    {
+      "titulo": "Chainalysis: empresa de inteligência em blockchain sofre ataque e expõe clientes",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/chainalysis-empresa-de-inteligencia-em-blockchain-sofre-ataque-e-expoe-clientes/",
+      "data": "2026-11-06T22:15:00+00:00"
+    },
+    {
+      "titulo": "Entregas da Black Friday podem \"travar\" o trânsito nas grandes cidades do Brasil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/entregas-da-black-friday-podem-travar-o-transito-nas-grandes-cidades-do-brasil/",
+      "data": "2026-11-06T22:00:03+00:00"
+    },
+    {
+      "titulo": "Windows 11 recebe atualização para corrigir vulnerabilidade grave do Paint",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/windows-11-recebe-atualizacao-para-corrigir-vulnerabilidade-grave-do-paint/",
+      "data": "2026-11-06T22:00:00+00:00"
+    },
+    {
+      "titulo": "Vagas em big techs: confira oportunidades de emprego abertas no Brasil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/vagas-em-big-techs-confira-oportunidades-de-emprego-abertas-no-brasil/",
+      "data": "2026-11-06T22:00:00+00:00"
+    },
+    {
+      "titulo": "Documentário filmou momento exato em que a BioWare foi fechada pela EA",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/documentario-filmou-momento-exato-em-que-a-bioware-foi-fechada-pela-ea/",
+      "data": "2026-11-06T21:47:00+00:00"
+    },
     {
       "titulo": "Marvel pode ter achado novo Wolverine para substituir Hugh Jackman; veja quem é",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/entretenimento/marvel-pode-ter-achado-novo-wolverine-para-substituir-hugh-jackman-veja-quem-e/",
       "data": "2026-11-06T21:36:00+00:00"
-    },
-    {
-      "titulo": "OpenAI lança GPT-6 Cyber e afirma que modelo caça falhas sem desobedecer pesquisadores",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/openai-lanca-gpt-6-cyber-e-afirma-que-modelo-caca-falhas-sem-desobedecer-pesquisadores/",
-      "data": "2026-11-06T21:15:00+00:00"
     },
     {
       "titulo": "Novo GPT-6 Cyber encontra falhas de segurança mais rápido que qualquer hacker",
@@ -32,76 +98,16 @@
       "data": "2026-11-06T21:00:00+00:00"
     },
     {
-      "titulo": "YMTC planeja usar até 70% de equipamentos chineses em nova fábrica de chips de memória",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/ymtc-planeja-usar-ate-70-de-equipamentos-chineses-em-nova-fabrica-de-chips-de-memoria/",
-      "data": "2026-11-06T20:45:00+00:00"
-    },
-    {
-      "titulo": "Dublagem de Dragon Ball Super: Beerus estreia em novembro; veja elenco",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/dublagem-de-dragon-ball-super-beerus-estreia-em-novembro-veja-elenco/",
-      "data": "2026-11-06T20:25:03+00:00"
-    },
-    {
-      "titulo": "História do fim da BioWare, estúdio de Mass Effect, será contada em documentário",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/historia-do-fim-da-bioware-estudio-de-mass-effect-sera-contada-em-documentario/",
-      "data": "2026-11-06T20:15:00+00:00"
-    },
-    {
       "titulo": "iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/iphone-tem-lista-secreta-com-mais-de-100-mil-palavras-que-evita-sugerir/",
       "data": "2026-11-06T20:14:27+00:00"
     },
     {
-      "titulo": "WhatsApp começa a usar IA para completar fotos e evitar bordas pretas em tela cheia",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/whatsapp-comeca-a-usar-ia-para-completar-fotos-e-evitar-bordas-pretas-em-tela-cheia/",
-      "data": "2026-11-06T20:06:00+00:00"
-    },
-    {
-      "titulo": "Citroën antecipa Black Friday e derrete preços de Basalt e C3",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/citroen-antecipa-black-friday-e-derrete-precos-de-basalt-e-c3/",
-      "data": "2026-11-06T20:06:00+00:00"
-    },
-    {
-      "titulo": "Intel Nova Lake pode limitar clock a 5,1 GHz e exigir super cooler",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/intel-nova-lake-pode-limitar-clock-a-51-ghz-e-exigir-super-cooler/",
-      "data": "2026-11-06T20:05:00+00:00"
-    },
-    {
-      "titulo": "Apple pode unir os botões de ação e de câmera no iPhone 19",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-pode-unir-os-botoes-de-acao-e-de-camera-no-iphone-19/",
-      "data": "2026-11-06T20:00:00+00:00"
-    },
-    {
       "titulo": "AMD agora prioriza data centers; mas e os jogos e os PCs?",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/amd-agora-prioriza-data-centers-mas-e-os-jogos-e-os-pcs/",
       "data": "2026-11-06T19:59:24+00:00"
-    },
-    {
-      "titulo": "Falta de dinheiro atrasa fiscalização de satélites da Starlink no Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/falta-de-dinheiro-atrasa-fiscalizacao-de-satelites-da-starlink-no-brasil/",
-      "data": "2026-11-06T19:57:52+00:00"
-    },
-    {
-      "titulo": "IA muda o trabalho dos programadores, mas criatividade segue essencial",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/ia-muda-o-trabalho-dos-programadores-mas-criatividade-segue-essencial/",
-      "data": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "titulo": "Plataforma Itch.io adiciona recurso que permite filtrar jogos feitos por IA generativa",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/plataforma-itchio-adiciona-recurso-que-permite-filtrar-jogos-feitos-por-ia-generativa/",
-      "data": "2026-11-06T19:15:00+00:00"
     },
     {
       "titulo": "Tesla vai sacrificar Cybertruck para fabricar mais robotáxis",
@@ -114,12 +120,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/gpt-6-cyber-novo-braco-openai-corrige-falhas/",
       "data": "2026-11-06T19:05:18+00:00"
-    },
-    {
-      "titulo": "Reforma Tributária expõe atraso tecnológico em 52,9% dos escritórios contábeis",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/stem/reforma-tributaria-avanca-mas-529-dos-contadores-ainda-nao-se-prepararam/",
-      "data": "2026-11-06T18:50:00+00:00"
     },
     {
       "titulo": "Amazon lança Alexa que faz compras por mensagem para você",
