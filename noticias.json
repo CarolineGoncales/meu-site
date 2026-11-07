@@ -1,6 +1,120 @@
 {
-  "atualizado_em": "2026-11-07T14:13:13.597145+00:00",
+  "atualizado_em": "2026-11-07T18:55:26.676663+00:00",
   "noticias": [
+    {
+      "titulo": "Entusiasta cria painel analógico para monitorar PC com mostradores inspirados em aviões",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware/entusiasta-cria-painel-analogico-para-monitorar-pc/",
+      "data": "2026-11-07T18:50:35+00:00"
+    },
+    {
+      "titulo": "Como montar um PC para rodar Phantom Blade Zero em FHD?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-montar-um-pc-para-rodar-phantom-blade-zero-em-fhd/",
+      "data": "2026-11-07T18:15:00+00:00"
+    },
+    {
+      "titulo": "Você sabia que o Google paga até US$ 500 milhões por ano à Mozilla para manter o Firefox vivo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/google-paga-ate-500-milhoes-por-ano-mozilla-manter-firefox-vivo/",
+      "data": "2026-11-07T18:08:21+00:00"
+    },
+    {
+      "titulo": "The Elder Scrolls 6: Sentinel não terá o mesmo impacto de GTA 6, afirma analista",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/the-elder-scrolls-6-sentinel-gta-6x/",
+      "data": "2026-11-07T18:03:37+00:00"
+    },
+    {
+      "titulo": "9 melhores edições limitadas do Mega Drive",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/mega-drive-melhores-edicoes-limitadas/",
+      "data": "2026-11-07T18:00:00+00:00"
+    },
+    {
+      "titulo": "Ar-condicionado pode acumular bactérias? 7 cuidados para evitar riscos à saúde",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/ar-condicionado-pode-acumular-bacterias-7-cuidados-para-evitar-riscos-a-saude/",
+      "data": "2026-11-07T17:37:11+00:00"
+    },
+    {
+      "titulo": "Fã de 2001: Uma Odisseia no Espaço recria HAL 9000 com Raspberry Pi e inteligência artificial que conversa de verdade",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/fa-recria-hal-9000-raspberry-pi-inteligencia-artificial/",
+      "data": "2026-11-07T17:28:15+00:00"
+    },
+    {
+      "titulo": "Homem cria rádio com visual retrô usando impressão 3D e consegue sintonizar emissoras do mundo inteiro",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/homem-cria-radio-retro-impressao-3d-wifi/",
+      "data": "2026-11-07T17:14:41+00:00"
+    },
+    {
+      "titulo": "TV com MiniLED Pro e SSD ultracompacto: confira os lançamentos da semana",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/tv-com-miniled-pro-e-ssd-ultracompacto-confira-os-lancamentos-da-semana/",
+      "data": "2026-11-07T17:00:00+00:00"
+    },
+    {
+      "titulo": "Como usar o mapa do Gemini para encontrar novos lugares?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-mapa-do-gemini-para-encontrar-novos-lugares/",
+      "data": "2026-11-07T17:00:00+00:00"
+    },
+    {
+      "titulo": "Homem monta supercomputador caseiro com 18 placas NVIDIA para rodar IA e usa calor para aquecer piscina",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/homem-computador-18-placas-nvidia-ia-piscina/",
+      "data": "2026-11-07T16:58:17+00:00"
+    },
+    {
+      "titulo": "Reddit começa a exibir anúncios nos resultados de busca da plataforma",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/conteudo/reddit-anuncios-buscas/",
+      "data": "2026-11-07T16:54:51+00:00"
+    },
+    {
+      "titulo": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (07)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-6-novos-jogos-esta-semana-veja-os-lancamentos-07/",
+      "data": "2026-11-07T16:15:00+00:00"
+    },
+    {
+      "titulo": "Você sabe instalar a cadeirinha de bebê no carro de acordo com a lei?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/voce-sabe-instalar-a-cadeirinha-de-bebe-no-carro-de-acordo-com-a-lei/",
+      "data": "2026-11-07T16:03:00+00:00"
+    },
+    {
+      "titulo": "Confira 5 ótimos drones DJI com preços variados e entenda seus principais recursos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/confira-5-otimos-drones-dji-com-precos-variados-e-entenda-seus-principais-recursos/",
+      "data": "2026-11-07T15:30:30+00:00"
+    },
+    {
+      "titulo": "Quanto vale à pena pagar na RTX 5060 Ti na Black Friday 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/geforce-rtx-5060-ti-quanto-vale-a-pena-pagar-black-friday-2026/",
+      "data": "2026-11-07T15:00:05+00:00"
+    },
+    {
+      "titulo": "Alphabet revela aquisição de participação de US$ 547,9 milhões na Qualcomm",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/alphabet-revela-aquisicao-de-participacao-de-us-5479-milhoes-na-qualcomm/",
+      "data": "2026-11-07T15:00:00+00:00"
+    },
+    {
+      "titulo": "Control Resonant e mais jogos para PC na Steam com até 90% OFF",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/control-resonant-e-mais-jogos-para-pc-na-steam-com-ate-90-off/",
+      "data": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "titulo": "Hoje no TecMundo (6): Motorola supera iPhone em ranking de câmeras, Anatel combate golpes e mais",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-6-motorola-supera-iphone-em-ranking-de-cameras-anatel-combate-golpes-e-mais/",
+      "data": "2026-11-07T14:20:00+00:00"
+    },
     {
       "titulo": "10 cenas mais icônicas do cinema nos anos 1990",
       "fonte": "Canaltech",
@@ -14,40 +128,10 @@
       "data": "2026-11-07T14:00:00+00:00"
     },
     {
-      "titulo": "GameSir G7 SE: controle sem drift com 37% de desconto para quem joga no PC",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/gamesir-g7-se-controle-sem-drift-com-34-de-desconto-para-quem-joga-no-pc/",
-      "data": "2026-11-07T13:33:01+00:00"
-    },
-    {
-      "titulo": "God of War Ragnarok já gerou US$ 1,4 bilhão e é o maior sucesso da PlayStation nesta geração",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/god-of-war-ragnarok-gerou-14-bilhao/",
-      "data": "2026-11-07T13:28:05+00:00"
-    },
-    {
-      "titulo": "Black dos Sonhos Amazon: iPhone, airpods e mais Apple em oferta",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-dos-sonhos-amazon-iphone-airpods-e-mais-apple-em-oferta/",
-      "data": "2026-11-07T13:15:00+00:00"
-    },
-    {
-      "titulo": "Vivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/vivo-satelite-como-verificar-a-compatibilidade-do-celular-e-usar-a-internet-da-starlink/",
-      "data": "2026-11-07T13:00:00+00:00"
-    },
-    {
       "titulo": "O que são e como funcionam os dots do ChatGPT?",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-como-funciona-chatgpt-dots/",
       "data": "2026-11-07T13:00:00+00:00"
-    },
-    {
-      "titulo": "Sam Houser participa de todas as decisões criativas de GTA 6, afirma chefe da Rockstar",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/sam-houser-gta-6/",
-      "data": "2026-11-07T12:15:26+00:00"
     },
     {
       "titulo": "Review Leapmotor C10 REEV: um SUV para enterrar qualquer preconceito",
@@ -56,64 +140,10 @@
       "data": "2026-11-07T12:01:00+00:00"
     },
     {
-      "titulo": "Quem é quem em Jogos Vorazes: Amanhecer na Colheita, novo filme da franquia",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/quem-e-quem-em-jogos-vorazes-amanhecer-na-colheita-novo-filme-da-franquia/",
-      "data": "2026-11-07T12:00:04+00:00"
-    },
-    {
-      "titulo": "iPhone Duo ganha versão inspirada nos signos do zodíaco por mais de R$ 380 mil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-duo-ganha-versao-inspirada-nos-signos-do-zodiaco-por-mais-de-r-380-mil/",
-      "data": "2026-11-07T12:00:00+00:00"
-    },
-    {
-      "titulo": "O que comprar na Black Friday: notebooks para jogos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-notebooks-para-jogos/",
-      "data": "2026-11-07T11:45:00+00:00"
-    },
-    {
-      "titulo": "Como a IA vai criar o carro de F1 do futuro antes mesmo de colocá-lo nas pistas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-a-ia-vai-criar-o-carro-de-f1-do-futuro-antes-mesmo-de-coloca-lo-nas-pistas/",
-      "data": "2026-11-07T11:30:02+00:00"
-    },
-    {
-      "titulo": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile! (7)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-7/",
-      "data": "2026-11-07T11:15:00+00:00"
-    },
-    {
-      "titulo": "3 ajustes para rodar Phantom Blade Zero com o máximo desempenho no PC",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/phantom-blade-zero-ajustes-para-rodar-maximo-desempenho-pc/",
-      "data": "2026-11-07T11:00:00+00:00"
-    },
-    {
-      "titulo": "Valor Mortis serve um soulslike com sabor de novidade",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/valor-mortis-serve-um-soulslike-com-sabor-de-novidade/",
-      "data": "2026-11-07T00:15:00+00:00"
-    },
-    {
       "titulo": "Banco do Brasil caiu? Pix fora do ar atinge usuários nesta sexta-feira (6)",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/big-techs/banco-do-brasil-caiu-pix-fora-do-ar-atinge-usuarios-nesta-sexta-feira-06/",
       "data": "2026-11-06T23:40:00+00:00"
-    },
-    {
-      "titulo": "Novo app do XBOX para PC abre 60% mais rápido e ganha cara nova; veja novidades",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/novo-app-do-xbox-para-pc-abre-60-mais-rapido-e-ganha-cara-nova-veja-novidades/",
-      "data": "2026-11-06T23:15:02+00:00"
-    },
-    {
-      "titulo": "GTA 6, Zelda Ocarina of Time e mais lançamentos de jogos em novembro",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/lancamentos-jogos-novos-novembro-2026/",
-      "data": "2026-11-06T23:00:00+00:00"
     },
     {
       "titulo": "iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir",
@@ -134,46 +164,16 @@
       "data": "2026-11-06T19:08:01+00:00"
     },
     {
-      "titulo": "GPT-6 Cyber: o novo braço da OpenAI que acha e corrige falhas antes dos hackers",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/gpt-6-cyber-novo-braco-openai-corrige-falhas/",
-      "data": "2026-11-06T19:05:18+00:00"
-    },
-    {
-      "titulo": "Amazon lança Alexa que faz compras por mensagem para você",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/alexa-for-shopping-compras-por-mensagem/",
-      "data": "2026-11-06T18:02:33+00:00"
-    },
-    {
       "titulo": "Após supermercados, hackers atacam freezers de bancos de sangue na França",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/apos-supermercados-hackers-atacam-freezers-de-bancos-de-sangue-na-franca/",
       "data": "2026-11-06T17:42:24+00:00"
     },
     {
-      "titulo": "New York Times processa o navegador Brave por roubo de conteúdo para alimentar IAs",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/new-york-times-processa-navegador-brave/",
-      "data": "2026-11-06T17:05:20+00:00"
-    },
-    {
       "titulo": "Microsoft Paint tem falha grave que permite ataques remotos",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/microsoft-paint-tem-falha-grave-que-permite-ataques-remotos/",
       "data": "2026-11-06T17:01:28+00:00"
-    },
-    {
-      "titulo": "RTX 5070 Ti dispara de preço e já custa quase o dobro do valor de lançamento",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/rtx-5070-ti-dispara-de-preco/",
-      "data": "2026-11-06T16:51:42+00:00"
-    },
-    {
-      "titulo": "GOG Galaxy chegará ao Linux em 2027 e facilitará acesso aos jogos no Steam Deck",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gog-galaxy-chegara-linux-steam-deck/",
-      "data": "2026-11-06T16:32:38+00:00"
     },
     {
       "titulo": "Microsoft quer patentear IA que altera falas ao vivo",
