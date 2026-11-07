@@ -1,6 +1,96 @@
 {
-  "atualizado_em": "2026-11-07T07:23:42.013540+00:00",
+  "atualizado_em": "2026-11-07T14:13:13.597145+00:00",
   "noticias": [
+    {
+      "titulo": "10 cenas mais icônicas do cinema nos anos 1990",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/cenas-mais-iconicas-cinema-anos-1990/",
+      "data": "2026-11-07T14:00:04+00:00"
+    },
+    {
+      "titulo": "Que fim levou a Compaq, uma das primeiras sensações do mercado de PCs?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/que-fim-levou-a-compaq-uma-das-primeiras-sensacoes-do-mercado-de-pcs/",
+      "data": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "titulo": "GameSir G7 SE: controle sem drift com 37% de desconto para quem joga no PC",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/gamesir-g7-se-controle-sem-drift-com-34-de-desconto-para-quem-joga-no-pc/",
+      "data": "2026-11-07T13:33:01+00:00"
+    },
+    {
+      "titulo": "God of War Ragnarok já gerou US$ 1,4 bilhão e é o maior sucesso da PlayStation nesta geração",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/god-of-war-ragnarok-gerou-14-bilhao/",
+      "data": "2026-11-07T13:28:05+00:00"
+    },
+    {
+      "titulo": "Black dos Sonhos Amazon: iPhone, airpods e mais Apple em oferta",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-dos-sonhos-amazon-iphone-airpods-e-mais-apple-em-oferta/",
+      "data": "2026-11-07T13:15:00+00:00"
+    },
+    {
+      "titulo": "Vivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/vivo-satelite-como-verificar-a-compatibilidade-do-celular-e-usar-a-internet-da-starlink/",
+      "data": "2026-11-07T13:00:00+00:00"
+    },
+    {
+      "titulo": "O que são e como funcionam os dots do ChatGPT?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-como-funciona-chatgpt-dots/",
+      "data": "2026-11-07T13:00:00+00:00"
+    },
+    {
+      "titulo": "Sam Houser participa de todas as decisões criativas de GTA 6, afirma chefe da Rockstar",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/sam-houser-gta-6/",
+      "data": "2026-11-07T12:15:26+00:00"
+    },
+    {
+      "titulo": "Review Leapmotor C10 REEV: um SUV para enterrar qualquer preconceito",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/review-leapmotor-c10-reev-um-suv-para-enterrar-qualquer-preconceito/",
+      "data": "2026-11-07T12:01:00+00:00"
+    },
+    {
+      "titulo": "Quem é quem em Jogos Vorazes: Amanhecer na Colheita, novo filme da franquia",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/quem-e-quem-em-jogos-vorazes-amanhecer-na-colheita-novo-filme-da-franquia/",
+      "data": "2026-11-07T12:00:04+00:00"
+    },
+    {
+      "titulo": "iPhone Duo ganha versão inspirada nos signos do zodíaco por mais de R$ 380 mil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-duo-ganha-versao-inspirada-nos-signos-do-zodiaco-por-mais-de-r-380-mil/",
+      "data": "2026-11-07T12:00:00+00:00"
+    },
+    {
+      "titulo": "O que comprar na Black Friday: notebooks para jogos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-notebooks-para-jogos/",
+      "data": "2026-11-07T11:45:00+00:00"
+    },
+    {
+      "titulo": "Como a IA vai criar o carro de F1 do futuro antes mesmo de colocá-lo nas pistas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-a-ia-vai-criar-o-carro-de-f1-do-futuro-antes-mesmo-de-coloca-lo-nas-pistas/",
+      "data": "2026-11-07T11:30:02+00:00"
+    },
+    {
+      "titulo": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile! (7)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-7/",
+      "data": "2026-11-07T11:15:00+00:00"
+    },
+    {
+      "titulo": "3 ajustes para rodar Phantom Blade Zero com o máximo desempenho no PC",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/phantom-blade-zero-ajustes-para-rodar-maximo-desempenho-pc/",
+      "data": "2026-11-07T11:00:00+00:00"
+    },
     {
       "titulo": "Valor Mortis serve um soulslike com sabor de novidade",
       "fonte": "TecMundo",
@@ -20,82 +110,10 @@
       "data": "2026-11-06T23:15:02+00:00"
     },
     {
-      "titulo": "IA pode sair do controle? Entenda o debate sobre os riscos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ia-fora-de-controle-riscos-casos-reais-e-como-evitar/",
-      "data": "2026-11-06T23:15:00+00:00"
-    },
-    {
       "titulo": "GTA 6, Zelda Ocarina of Time e mais lançamentos de jogos em novembro",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/games/lancamentos-jogos-novos-novembro-2026/",
       "data": "2026-11-06T23:00:00+00:00"
-    },
-    {
-      "titulo": "FF7 Rebirth e mais jogos para Switch na eShop com até 90% OFF",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ff7-rebirth-e-mais-jogos-para-switch-na-eshop-com-ate-90-off/",
-      "data": "2026-11-06T22:30:00+00:00"
-    },
-    {
-      "titulo": "Pré-download de GTA 6 começa na próxima semana: veja o que fazer antes",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/pre-download-de-gta-6-comeca-na-proxima-semana-veja-o-que-fazer-antes/",
-      "data": "2026-11-06T22:30:00+00:00"
-    },
-    {
-      "titulo": "Chainalysis: empresa de inteligência em blockchain sofre ataque e expõe clientes",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/chainalysis-empresa-de-inteligencia-em-blockchain-sofre-ataque-e-expoe-clientes/",
-      "data": "2026-11-06T22:15:00+00:00"
-    },
-    {
-      "titulo": "Entregas da Black Friday podem \"travar\" o trânsito nas grandes cidades do Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/entregas-da-black-friday-podem-travar-o-transito-nas-grandes-cidades-do-brasil/",
-      "data": "2026-11-06T22:00:03+00:00"
-    },
-    {
-      "titulo": "Windows 11 recebe atualização para corrigir vulnerabilidade grave do Paint",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/windows-11-recebe-atualizacao-para-corrigir-vulnerabilidade-grave-do-paint/",
-      "data": "2026-11-06T22:00:00+00:00"
-    },
-    {
-      "titulo": "Vagas em big techs: confira oportunidades de emprego abertas no Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/vagas-em-big-techs-confira-oportunidades-de-emprego-abertas-no-brasil/",
-      "data": "2026-11-06T22:00:00+00:00"
-    },
-    {
-      "titulo": "Documentário filmou momento exato em que a BioWare foi fechada pela EA",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/documentario-filmou-momento-exato-em-que-a-bioware-foi-fechada-pela-ea/",
-      "data": "2026-11-06T21:47:00+00:00"
-    },
-    {
-      "titulo": "Marvel pode ter achado novo Wolverine para substituir Hugh Jackman; veja quem é",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/marvel-pode-ter-achado-novo-wolverine-para-substituir-hugh-jackman-veja-quem-e/",
-      "data": "2026-11-06T21:36:00+00:00"
-    },
-    {
-      "titulo": "Novo GPT-6 Cyber encontra falhas de segurança mais rápido que qualquer hacker",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/novo-gpt-6-cyber-encontra-falhas-de-seguranca-mais-rapido-que-qualquer-hacker/",
-      "data": "2026-11-06T21:03:00+00:00"
-    },
-    {
-      "titulo": "Shopee e Nubank anunciam parceria que dará até 50% de desconto no 11.11",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/shopee-e-nubank-anunciam-parceria-que-dara-ate-50-de-desconto-no-1111/",
-      "data": "2026-11-06T21:00:00+00:00"
-    },
-    {
-      "titulo": "Phantom Blade Zero é ou não é soulslike?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/phantom-blade-zero-e-ou-nao-e-soulslike/",
-      "data": "2026-11-06T21:00:00+00:00"
     },
     {
       "titulo": "iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir",
@@ -156,24 +174,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/gog-galaxy-chegara-linux-steam-deck/",
       "data": "2026-11-06T16:32:38+00:00"
-    },
-    {
-      "titulo": "Homem acusa Claude Code de expor seu e-mail a terceiros durante pesquisas na internet",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/claude-code-exposicao-email-usuario/",
-      "data": "2026-11-06T16:03:09+00:00"
-    },
-    {
-      "titulo": "GameSir X4 Aileron sem drift e com 33% de desconto! O controle ideal para quem joga no celular",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/gamesir-x4-aileron-sem-drift-e-com-promocao-o-controle-ideal-para-quem-joga-no-celular/",
-      "data": "2026-11-06T16:00:25+00:00"
-    },
-    {
-      "titulo": "Mochila Lenovo B210 com 60% de desconto: um achado para quem precisa de praticidade no dia a dia",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/mochila-lenovo-b210-com-53-de-desconto-um-achado-para-quem-precisa-de-praticidade-no-dia-a-dia/",
-      "data": "2026-11-06T15:30:36+00:00"
     },
     {
       "titulo": "Microsoft quer patentear IA que altera falas ao vivo",
