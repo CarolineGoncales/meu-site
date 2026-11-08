@@ -1,6 +1,102 @@
 {
-  "atualizado_em": "2026-11-08T15:25:04.871957+00:00",
+  "atualizado_em": "2026-11-08T19:48:37.820959+00:00",
   "noticias": [
+    {
+      "titulo": "Como criar GIFs animados no ChatGPT? Veja o passo a passo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/passo-a-passo-como-criar-gifs-animados-chatgpt/",
+      "data": "2026-11-08T19:30:00+00:00"
+    },
+    {
+      "titulo": "10 dicas e truques para melhorar seu gameplay em Palworld",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/10-dicas-e-truques-para-melhorar-seu-gameplay-em-palworld/",
+      "data": "2026-11-08T19:15:00+00:00"
+    },
+    {
+      "titulo": "Elétricos mais vendidos: BYD domina e Geely EX2 sai do pódio em outubro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/eletricos-mais-vendidos-byd-domina-e-geely-ex2-sai-do-podio-em-outubro/",
+      "data": "2026-11-08T19:03:00+00:00"
+    },
+    {
+      "titulo": "3 melhores notebooks para médicos e profissionais da saúde em 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/melhores-notebooks-para-medicos-e-profissionais-da-saude-2026/",
+      "data": "2026-11-08T18:30:00+00:00"
+    },
+    {
+      "titulo": "Crise de RAM faz PCs com 64 GB caírem em 18%, enquanto DDR4 volta a crescer",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/64-gb-de-ram-queda-18/",
+      "data": "2026-11-08T18:18:35+00:00"
+    },
+    {
+      "titulo": "Usuário comprou um Steam Deck OLED para fugir das pessoas e acabou encontrando uma namorada",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/steam-deck-oled-ajudou-gamer-encontrar-namorada/",
+      "data": "2026-11-08T18:18:24+00:00"
+    },
+    {
+      "titulo": "iPhone Duo já conta com mais de 100 mil apps otimizados, afirma Apple",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-duo-ja-conta-com-mais-de-100-mil-apps-otimizados-afirma-apple/",
+      "data": "2026-11-08T18:00:00+00:00"
+    },
+    {
+      "titulo": "Ar Samsung de 9.000 BTU: qual preço é promoção de verdade?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/ar-samsung-de-9000-btu-qual-preco-e-promocao-de-verdade/",
+      "data": "2026-11-08T18:00:00+00:00"
+    },
+    {
+      "titulo": "5 filmes novos de Natal da Netflix que vale a pena assistir",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/netflix-filmes-novos-de-natal-assistir/",
+      "data": "2026-11-08T17:30:00+00:00"
+    },
+    {
+      "titulo": "Economia que se paga: 5 produtos para comprar na Black Friday que se pagam",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/economia-que-se-paga-5-produtos-para-comprar-na-black-friday-que-se-pagam/",
+      "data": "2026-11-08T17:00:04+00:00"
+    },
+    {
+      "titulo": "Guia definitivo: Saiba qual versão do Gemini você realmente deve usar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/guia-definitivo-qual-versao-gemini-usar/",
+      "data": "2026-11-08T16:30:03+00:00"
+    },
+    {
+      "titulo": "Ex-diretor de South of Midnight diz que não teria financiado o próprio jogo se comandasse o Xbox",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/south-of-midnight-nao-financiado-jogo/",
+      "data": "2026-11-08T16:24:33+00:00"
+    },
+    {
+      "titulo": "Rockstar removerá vídeos com spoilers de GTA 6 mesmo após o lançamento do jogo",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/rockstar-removera-videos-com-spoilers-de-gta-6-mesmo-apos-o-lancamento-do-jogo/",
+      "data": "2026-11-08T16:15:00+00:00"
+    },
+    {
+      "titulo": "GTX 1080 revivida: GPU de 10 anos volta a funcionar após 35 minutos no forno",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/geforce-gtx-1080-revivida-35-minutos-forno/",
+      "data": "2026-11-08T16:05:56+00:00"
+    },
+    {
+      "titulo": "Posso lavar o carro na rua? Veja o que diz a lei",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/posso-lavar-o-carro-na-rua-veja-o-que-diz-a-lei/",
+      "data": "2026-11-08T16:02:00+00:00"
+    },
+    {
+      "titulo": "Jogar pela TV sem console? Entenda como isso é possível e os modelos compatíveis",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/jogar-pela-tv-sem-console-entenda-como-isso-e-possivel-e-os-modelos-compativeis/",
+      "data": "2026-11-08T15:30:55+00:00"
+    },
     {
       "titulo": "Neil Druckmann reescreveu Uncharted 4 em poucas semanas após a saída de Amy Hennig",
       "fonte": "Hardware.com.br",
@@ -14,22 +110,10 @@
       "data": "2026-11-08T15:00:00+00:00"
     },
     {
-      "titulo": "Lava e seca na Black Friday: 5 modelos que podem despencar de preço",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/lava-e-seca-na-black-friday-5-modelos-que-podem-despencar-de-preco/",
-      "data": "2026-11-08T15:00:00+00:00"
-    },
-    {
       "titulo": "5 caixas de som Bluetooth compactas para levar a qualquer lugar",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/6-caixas-de-som-bluetooth-compactas-para-levar-a-qualquer-lugar/",
       "data": "2026-11-08T14:35:05+00:00"
-    },
-    {
-      "titulo": "GTA 6, Zelda Ocarina of Time e 10 jogos que devem concorrer ao GOTY 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-que-devem-concorrer-ao-goty-2026/",
-      "data": "2026-11-08T14:30:00+00:00"
     },
     {
       "titulo": "Jogar o original ou esperar pelo remake? Discussão entre jogadores divide opiniões",
@@ -44,46 +128,10 @@
       "data": "2026-11-08T14:00:00+00:00"
     },
     {
-      "titulo": "Echo Dot: qual preço é promoção de verdade na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/echo-dot-qual-preco-e-promocao-de-verdade-na-black-friday/",
-      "data": "2026-11-08T14:00:00+00:00"
-    },
-    {
-      "titulo": "Sem drift? Entenda o que é Hall Effect nos controles e dicas de modelos com a tecnologia",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/sem-drift-entenda-o-que-e-hall-effect-nos-controles-e-dicas-de-modelos-com-a-tecnologia/",
-      "data": "2026-11-08T13:30:57+00:00"
-    },
-    {
-      "titulo": "Por que algumas portas USB são pretas?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/por-que-algumas-portas-usb-sao-pretas/",
-      "data": "2026-11-08T13:30:00+00:00"
-    },
-    {
       "titulo": "Black Friday Nike tem ofertas a partir de R$ 45",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-nike-tem-ofertas-a-partir-de-r-45/",
       "data": "2026-11-08T13:15:00+00:00"
-    },
-    {
-      "titulo": "Take-Two defende adiamentos de GTA 6 e cita desastre semelhante ao de Cyberpunk 2077",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-evitar-cyberpunk-2077/",
-      "data": "2026-11-08T13:12:55+00:00"
-    },
-    {
-      "titulo": "8 ferramentas para descobrir se texto, foto ou vídeo foram feitos por IA",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ferramentas-para-descobrir-texto-foto-video-feito-por-ia/",
-      "data": "2026-11-08T13:00:00+00:00"
-    },
-    {
-      "titulo": "Xbox Cloud Gaming agora permite usar celular como controle na TV",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/xbox-cloud-gaming-celular-controle-tv/",
-      "data": "2026-11-08T12:29:39+00:00"
     },
     {
       "titulo": "O que comprar na Black Friday: smartphones intermediários",
@@ -92,52 +140,10 @@
       "data": "2026-11-08T12:15:00+00:00"
     },
     {
-      "titulo": "5 coisas legais (e outras nem tanto) do Leapmotor C10 REEV",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/5-coisas-legais-e-outras-nem-tanto-do-leapmotor-c10-reev/",
-      "data": "2026-11-08T12:04:00+00:00"
-    },
-    {
-      "titulo": "Feito Pipa: filme brasileiro tem chance de concorrer ao Oscar 2027?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/feito-pipa-filme-brasileiro-tem-chance-de-concorrer-ao-oscar-2027/",
-      "data": "2026-11-08T12:00:03+00:00"
-    },
-    {
       "titulo": "Usuários relatam falhas de Wi-Fi e 5G após atualização One UI 9",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/usuarios-relatam-falhas-de-wi-fi-e-5g-apos-atualizacao-one-ui-9/",
       "data": "2026-11-08T12:00:00+00:00"
-    },
-    {
-      "titulo": "Epic Games libera dois jogos grátis no celular! Resgate agora no Android (08)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-dois-jogos-gratis-no-celular-resgate-agora-no-android-08/",
-      "data": "2026-11-08T11:15:00+00:00"
-    },
-    {
-      "titulo": "10 jogos do Nintendo 64 que são jogáveis nos consoles da atual geração",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-nintendo-64-jogaveis-consoles-atuais/",
-      "data": "2026-11-08T11:00:00+00:00"
-    },
-    {
-      "titulo": "Fita, CD, DVD e Blu-ray: mídias de games ao longo da história",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/fitas-cds-dvds-e-blu-rays-a-evolucao-dos-jogos-em-midia-fisica/",
-      "data": "2026-11-07T22:15:00+00:00"
-    },
-    {
-      "titulo": "Golpistas usam imagens geradas por IA para extorquir donos de pets desaparecidos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/imagens-geradas-por-ia-golpe-pets/",
-      "data": "2026-11-07T19:25:28+00:00"
-    },
-    {
-      "titulo": "Entusiasta cria painel analógico para monitorar PC com mostradores inspirados em aviões",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware/entusiasta-cria-painel-analogico-para-monitorar-pc/",
-      "data": "2026-11-07T18:50:35+00:00"
     },
     {
       "titulo": "iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir",
@@ -174,12 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
       "data": "2026-11-06T15:10:46+00:00"
-    },
-    {
-      "titulo": "TSLA, NVDA, META, MSFT: ações de big techs derretem nas bolsas",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/tsla-nvda-meta-msft-acoes-de-big-techs-derretem-nas-bolsas/",
-      "data": "2026-11-06T15:01:33+00:00"
     }
   ]
 }
