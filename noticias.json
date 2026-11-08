@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-08T01:35:35.919317+00:00",
+  "atualizado_em": "2026-11-08T08:10:37.822234+00:00",
   "noticias": [
     {
       "titulo": "7 TVs de 55 e 65 polegadas para ficar de olho durante a Black Friday",
@@ -140,12 +140,6 @@
       "data": "2026-11-07T15:00:00+00:00"
     },
     {
-      "titulo": "Control Resonant e mais jogos para PC na Steam com até 90% OFF",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/control-resonant-e-mais-jogos-para-pc-na-steam-com-ate-90-off/",
-      "data": "2026-11-07T14:30:00+00:00"
-    },
-    {
       "titulo": "iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/iphone-tem-lista-secreta-com-mais-de-100-mil-palavras-que-evita-sugerir/",
@@ -180,6 +174,12 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
       "data": "2026-11-06T15:10:46+00:00"
+    },
+    {
+      "titulo": "TSLA, NVDA, META, MSFT: ações de big techs derretem nas bolsas",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/tsla-nvda-meta-msft-acoes-de-big-techs-derretem-nas-bolsas/",
+      "data": "2026-11-06T15:01:33+00:00"
     }
   ]
 }
