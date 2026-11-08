@@ -1,6 +1,30 @@
 {
-  "atualizado_em": "2026-11-07T22:24:38.381823+00:00",
+  "atualizado_em": "2026-11-08T01:35:35.919317+00:00",
   "noticias": [
+    {
+      "titulo": "7 TVs de 55 e 65 polegadas para ficar de olho durante a Black Friday",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tv/7-tvs-de-55-e-65-polegadas-para-ficar-de-olho-durante-a-black-friday/",
+      "data": "2026-11-07T23:30:00+00:00"
+    },
+    {
+      "titulo": "5 séries de terror da Netflix que são perfeitas do começo ao fim",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/series-de-terror-netflix-perfeitas-do-comeco-ao-fim/",
+      "data": "2026-11-07T23:00:01+00:00"
+    },
+    {
+      "titulo": "A rinite está atacando? Saiba se seu ar condicionado é o vilão",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/a-rinite-esta-atacando-saiba-se-seu-ar-condicionado-e-o-vilao/",
+      "data": "2026-11-07T22:30:00+00:00"
+    },
+    {
+      "titulo": "Fita, CD, DVD e Blu-ray: mídias de games ao longo da história",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/fitas-cds-dvds-e-blu-rays-a-evolucao-dos-jogos-em-midia-fisica/",
+      "data": "2026-11-07T22:15:00+00:00"
+    },
     {
       "titulo": "Vidro elétrico \"fantasma\"? Veja o que é e como resolver",
       "fonte": "Canaltech",
@@ -50,18 +74,6 @@
       "data": "2026-11-07T19:25:28+00:00"
     },
     {
-      "titulo": "Galaxy Tab S10 Lite ou S10 FE: qual tablet da Samsung comprar na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tablet/galaxy-tab-s10-lite-ou-s10-fe-qual-comprar-na-black-friday/",
-      "data": "2026-11-07T19:05:39+00:00"
-    },
-    {
-      "titulo": "SUV elétrico da Peugeot \"no precinho\" sai mais em conta que VW Tera",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/suv-eletrico-da-peugeot-no-precinho-sai-mais-em-conta-que-vw-tera/",
-      "data": "2026-11-07T19:03:00+00:00"
-    },
-    {
       "titulo": "Entusiasta cria painel analógico para monitorar PC com mostradores inspirados em aviões",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware/entusiasta-cria-painel-analogico-para-monitorar-pc/",
@@ -84,12 +96,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/the-elder-scrolls-6-sentinel-gta-6x/",
       "data": "2026-11-07T18:03:37+00:00"
-    },
-    {
-      "titulo": "9 melhores edições limitadas do Mega Drive",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/mega-drive-melhores-edicoes-limitadas/",
-      "data": "2026-11-07T18:00:00+00:00"
     },
     {
       "titulo": "Fã de 2001: Uma Odisseia no Espaço recria HAL 9000 com Raspberry Pi e inteligência artificial que conversa de verdade",
@@ -138,12 +144,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/control-resonant-e-mais-jogos-para-pc-na-steam-com-ate-90-off/",
       "data": "2026-11-07T14:30:00+00:00"
-    },
-    {
-      "titulo": "Hoje no TecMundo (6): Motorola supera iPhone em ranking de câmeras, Anatel combate golpes e mais",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-6-motorola-supera-iphone-em-ranking-de-cameras-anatel-combate-golpes-e-mais/",
-      "data": "2026-11-07T14:20:00+00:00"
     },
     {
       "titulo": "iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir",
