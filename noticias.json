@@ -1,71 +1,131 @@
 {
-  "atualizado_em": "2026-11-08T08:10:37.822234+00:00",
+  "atualizado_em": "2026-11-08T15:25:04.871957+00:00",
   "noticias": [
     {
-      "titulo": "7 TVs de 55 e 65 polegadas para ficar de olho durante a Black Friday",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/7-tvs-de-55-e-65-polegadas-para-ficar-de-olho-durante-a-black-friday/",
-      "data": "2026-11-07T23:30:00+00:00"
+      "titulo": "Neil Druckmann reescreveu Uncharted 4 em poucas semanas após a saída de Amy Hennig",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/neil-druckmann-uncharted-4-semanas/",
+      "data": "2026-11-08T15:12:48+00:00"
     },
     {
-      "titulo": "5 séries de terror da Netflix que são perfeitas do começo ao fim",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/series-de-terror-netflix-perfeitas-do-comeco-ao-fim/",
-      "data": "2026-11-07T23:00:01+00:00"
+      "titulo": "Meta Muse ganha conversas naturais por voz e avatares expressivos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/meta-muse-ganha-conversas-naturais-por-voz-e-avatares-expressivos/",
+      "data": "2026-11-08T15:00:00+00:00"
     },
     {
-      "titulo": "A rinite está atacando? Saiba se seu ar condicionado é o vilão",
+      "titulo": "Lava e seca na Black Friday: 5 modelos que podem despencar de preço",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/a-rinite-esta-atacando-saiba-se-seu-ar-condicionado-e-o-vilao/",
-      "data": "2026-11-07T22:30:00+00:00"
+      "link": "https://canaltech.com.br/eletro/lava-e-seca-na-black-friday-5-modelos-que-podem-despencar-de-preco/",
+      "data": "2026-11-08T15:00:00+00:00"
+    },
+    {
+      "titulo": "5 caixas de som Bluetooth compactas para levar a qualquer lugar",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/6-caixas-de-som-bluetooth-compactas-para-levar-a-qualquer-lugar/",
+      "data": "2026-11-08T14:35:05+00:00"
+    },
+    {
+      "titulo": "GTA 6, Zelda Ocarina of Time e 10 jogos que devem concorrer ao GOTY 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-que-devem-concorrer-ao-goty-2026/",
+      "data": "2026-11-08T14:30:00+00:00"
+    },
+    {
+      "titulo": "Jogar o original ou esperar pelo remake? Discussão entre jogadores divide opiniões",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/jogar-o-original-ou-esperar-pelo-remake/",
+      "data": "2026-11-08T14:25:42+00:00"
+    },
+    {
+      "titulo": "Dead Island 2 na PS Plus, Silent Hill f baratinho e mais! Veja as indicações de games",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/dead-island-2-na-ps-plus-silent-hill-f-baratinho-e-mais-veja-as-indicacoes-de-games/",
+      "data": "2026-11-08T14:00:00+00:00"
+    },
+    {
+      "titulo": "Echo Dot: qual preço é promoção de verdade na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/echo-dot-qual-preco-e-promocao-de-verdade-na-black-friday/",
+      "data": "2026-11-08T14:00:00+00:00"
+    },
+    {
+      "titulo": "Sem drift? Entenda o que é Hall Effect nos controles e dicas de modelos com a tecnologia",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/sem-drift-entenda-o-que-e-hall-effect-nos-controles-e-dicas-de-modelos-com-a-tecnologia/",
+      "data": "2026-11-08T13:30:57+00:00"
+    },
+    {
+      "titulo": "Por que algumas portas USB são pretas?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/por-que-algumas-portas-usb-sao-pretas/",
+      "data": "2026-11-08T13:30:00+00:00"
+    },
+    {
+      "titulo": "Black Friday Nike tem ofertas a partir de R$ 45",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-nike-tem-ofertas-a-partir-de-r-45/",
+      "data": "2026-11-08T13:15:00+00:00"
+    },
+    {
+      "titulo": "Take-Two defende adiamentos de GTA 6 e cita desastre semelhante ao de Cyberpunk 2077",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-evitar-cyberpunk-2077/",
+      "data": "2026-11-08T13:12:55+00:00"
+    },
+    {
+      "titulo": "8 ferramentas para descobrir se texto, foto ou vídeo foram feitos por IA",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ferramentas-para-descobrir-texto-foto-video-feito-por-ia/",
+      "data": "2026-11-08T13:00:00+00:00"
+    },
+    {
+      "titulo": "Xbox Cloud Gaming agora permite usar celular como controle na TV",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/xbox-cloud-gaming-celular-controle-tv/",
+      "data": "2026-11-08T12:29:39+00:00"
+    },
+    {
+      "titulo": "O que comprar na Black Friday: smartphones intermediários",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-smartphones-intermediarios/",
+      "data": "2026-11-08T12:15:00+00:00"
+    },
+    {
+      "titulo": "5 coisas legais (e outras nem tanto) do Leapmotor C10 REEV",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/5-coisas-legais-e-outras-nem-tanto-do-leapmotor-c10-reev/",
+      "data": "2026-11-08T12:04:00+00:00"
+    },
+    {
+      "titulo": "Feito Pipa: filme brasileiro tem chance de concorrer ao Oscar 2027?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/feito-pipa-filme-brasileiro-tem-chance-de-concorrer-ao-oscar-2027/",
+      "data": "2026-11-08T12:00:03+00:00"
+    },
+    {
+      "titulo": "Usuários relatam falhas de Wi-Fi e 5G após atualização One UI 9",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/usuarios-relatam-falhas-de-wi-fi-e-5g-apos-atualizacao-one-ui-9/",
+      "data": "2026-11-08T12:00:00+00:00"
+    },
+    {
+      "titulo": "Epic Games libera dois jogos grátis no celular! Resgate agora no Android (08)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-dois-jogos-gratis-no-celular-resgate-agora-no-android-08/",
+      "data": "2026-11-08T11:15:00+00:00"
+    },
+    {
+      "titulo": "10 jogos do Nintendo 64 que são jogáveis nos consoles da atual geração",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-nintendo-64-jogaveis-consoles-atuais/",
+      "data": "2026-11-08T11:00:00+00:00"
     },
     {
       "titulo": "Fita, CD, DVD e Blu-ray: mídias de games ao longo da história",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/fitas-cds-dvds-e-blu-rays-a-evolucao-dos-jogos-em-midia-fisica/",
       "data": "2026-11-07T22:15:00+00:00"
-    },
-    {
-      "titulo": "Vidro elétrico \"fantasma\"? Veja o que é e como resolver",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/vidro-eletrico-fantasma-veja-o-que-e-e-como-resolver/",
-      "data": "2026-11-07T22:03:00+00:00"
-    },
-    {
-      "titulo": "Galaxy Watch 8 LTE: quanto vale pagar na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartwatch/galaxy-watch-8-lte-quanto-vale-pagar-na-black-friday/",
-      "data": "2026-11-07T21:30:00+00:00"
-    },
-    {
-      "titulo": "5 recursos e funcionalidades que só quem tem Android com root tem",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/recursos-funcionalidades-celulares-android-com-root/",
-      "data": "2026-11-07T21:00:04+00:00"
-    },
-    {
-      "titulo": "Samsung define data para iniciar a pré-venda de óculos inteligentes nos EUA",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-define-data-para-iniciar-a-pre-venda-de-oculos-inteligentes-nos-eua/",
-      "data": "2026-11-07T21:00:00+00:00"
-    },
-    {
-      "titulo": "Epic Games anuncia mudanças no Clube Fortnite e V-Bucks da assinatura; confira as novidades",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-anuncia-mudancas-no-clube-fortnite-e-v-bucks-da-assinatura-confira-as-novidades/",
-      "data": "2026-11-07T20:15:00+00:00"
-    },
-    {
-      "titulo": "O que é recompilação? Entenda técnica que roda jogos antigos no PC sem emulador",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/o-que-e-recompilacao-de-jogos/",
-      "data": "2026-11-07T20:00:00+00:00"
-    },
-    {
-      "titulo": "8 melhores apps para acompanhar preços e encontrar ofertas na Black Friday",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/melhores-apps-precos-ofertas-black-friday/",
-      "data": "2026-11-07T19:30:00+00:00"
     },
     {
       "titulo": "Golpistas usam imagens geradas por IA para extorquir donos de pets desaparecidos",
@@ -78,66 +138,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware/entusiasta-cria-painel-analogico-para-monitorar-pc/",
       "data": "2026-11-07T18:50:35+00:00"
-    },
-    {
-      "titulo": "Como montar um PC para rodar Phantom Blade Zero em FHD?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/como-montar-um-pc-para-rodar-phantom-blade-zero-em-fhd/",
-      "data": "2026-11-07T18:15:00+00:00"
-    },
-    {
-      "titulo": "Você sabia que o Google paga até US$ 500 milhões por ano à Mozilla para manter o Firefox vivo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/google-paga-ate-500-milhoes-por-ano-mozilla-manter-firefox-vivo/",
-      "data": "2026-11-07T18:08:21+00:00"
-    },
-    {
-      "titulo": "The Elder Scrolls 6: Sentinel não terá o mesmo impacto de GTA 6, afirma analista",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/the-elder-scrolls-6-sentinel-gta-6x/",
-      "data": "2026-11-07T18:03:37+00:00"
-    },
-    {
-      "titulo": "Fã de 2001: Uma Odisseia no Espaço recria HAL 9000 com Raspberry Pi e inteligência artificial que conversa de verdade",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/fa-recria-hal-9000-raspberry-pi-inteligencia-artificial/",
-      "data": "2026-11-07T17:28:15+00:00"
-    },
-    {
-      "titulo": "Homem cria rádio com visual retrô usando impressão 3D e consegue sintonizar emissoras do mundo inteiro",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/homem-cria-radio-retro-impressao-3d-wifi/",
-      "data": "2026-11-07T17:14:41+00:00"
-    },
-    {
-      "titulo": "TV com MiniLED Pro e SSD ultracompacto: confira os lançamentos da semana",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/tv-com-miniled-pro-e-ssd-ultracompacto-confira-os-lancamentos-da-semana/",
-      "data": "2026-11-07T17:00:00+00:00"
-    },
-    {
-      "titulo": "Homem monta supercomputador caseiro com 18 placas NVIDIA para rodar IA e usa calor para aquecer piscina",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/homem-computador-18-placas-nvidia-ia-piscina/",
-      "data": "2026-11-07T16:58:17+00:00"
-    },
-    {
-      "titulo": "Reddit começa a exibir anúncios nos resultados de busca da plataforma",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/conteudo/reddit-anuncios-buscas/",
-      "data": "2026-11-07T16:54:51+00:00"
-    },
-    {
-      "titulo": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (07)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-6-novos-jogos-esta-semana-veja-os-lancamentos-07/",
-      "data": "2026-11-07T16:15:00+00:00"
-    },
-    {
-      "titulo": "Alphabet revela aquisição de participação de US$ 547,9 milhões na Qualcomm",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/alphabet-revela-aquisicao-de-participacao-de-us-5479-milhoes-na-qualcomm/",
-      "data": "2026-11-07T15:00:00+00:00"
     },
     {
       "titulo": "iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir",
