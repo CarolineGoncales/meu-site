@@ -1,6 +1,30 @@
 {
-  "atualizado_em": "2026-11-09T02:47:04.565545+00:00",
+  "atualizado_em": "2026-11-09T10:29:54.701157+00:00",
   "noticias": [
+    {
+      "titulo": "Galaxy S27 Pro e Ultra devem dominar 75% da produção da Samsung em 2027",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/galaxy-s27-pro-e-ultra-devem-representar-ate-75-da-producao-da-samsung/",
+      "data": "2026-11-09T10:23:29+00:00"
+    },
+    {
+      "titulo": "Quanto vale a pena pagar em um BYD Dolphin Mini na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/quanto-vale-a-pena-pagar-em-um-byd-dolphin-mini-na-black-friday/",
+      "data": "2026-11-09T10:06:00+00:00"
+    },
+    {
+      "titulo": "Motorola lança versão global de relógio com 100 exercícios e duração de 12 dias",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartwatch/motorola-lanca-versao-global-de-relogio-com-100-exercicios-e-duracao-de-12-dias/",
+      "data": "2026-11-09T09:56:18+00:00"
+    },
+    {
+      "titulo": "Dona da 99 teve número “insignificante” de corridas solicitadas por agentes de IA",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/dona-da-99-teve-numero-insignificante-de-corridas-solicitadas-por-agentes-de-ia/",
+      "data": "2026-11-09T04:18:55+00:00"
+    },
     {
       "titulo": "Fable: todos os jogos da franquia em ordem",
       "fonte": "TecMundo",
@@ -68,12 +92,6 @@
       "data": "2026-11-08T19:03:00+00:00"
     },
     {
-      "titulo": "3 melhores notebooks para médicos e profissionais da saúde em 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/melhores-notebooks-para-medicos-e-profissionais-da-saude-2026/",
-      "data": "2026-11-08T18:30:00+00:00"
-    },
-    {
       "titulo": "Crise de RAM faz PCs com 64 GB caírem em 18%, enquanto DDR4 volta a crescer",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/64-gb-de-ram-queda-18/",
@@ -86,34 +104,10 @@
       "data": "2026-11-08T18:18:24+00:00"
     },
     {
-      "titulo": "iPhone Duo já conta com mais de 100 mil apps otimizados, afirma Apple",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-duo-ja-conta-com-mais-de-100-mil-apps-otimizados-afirma-apple/",
-      "data": "2026-11-08T18:00:00+00:00"
-    },
-    {
-      "titulo": "Ar Samsung de 9.000 BTU: qual preço é promoção de verdade?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/ar-samsung-de-9000-btu-qual-preco-e-promocao-de-verdade/",
-      "data": "2026-11-08T18:00:00+00:00"
-    },
-    {
-      "titulo": "5 filmes novos de Natal da Netflix que vale a pena assistir",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/netflix-filmes-novos-de-natal-assistir/",
-      "data": "2026-11-08T17:30:00+00:00"
-    },
-    {
       "titulo": "Ex-diretor de South of Midnight diz que não teria financiado o próprio jogo se comandasse o Xbox",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/south-of-midnight-nao-financiado-jogo/",
       "data": "2026-11-08T16:24:33+00:00"
-    },
-    {
-      "titulo": "Rockstar removerá vídeos com spoilers de GTA 6 mesmo após o lançamento do jogo",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/rockstar-removera-videos-com-spoilers-de-gta-6-mesmo-apos-o-lancamento-do-jogo/",
-      "data": "2026-11-08T16:15:00+00:00"
     },
     {
       "titulo": "GTX 1080 revivida: GPU de 10 anos volta a funcionar após 35 minutos no forno",
@@ -180,6 +174,12 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/tsla-nvda-meta-msft-acoes-de-big-techs-derretem-nas-bolsas/",
       "data": "2026-11-06T15:01:33+00:00"
+    },
+    {
+      "titulo": "Bancos dos EUA bloqueiam IA em contas de clientes por falta de segurança, alega fonte",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/bancos-dos-eua-bloqueiam-ia-em-contas-de-clientes-por-falha-de-seguranca-alega-fonte/",
+      "data": "2026-10-26T22:30:00+00:00"
     }
   ]
 }
