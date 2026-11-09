@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-11-08T23:14:23.980925+00:00",
+  "atualizado_em": "2026-11-09T02:47:04.565545+00:00",
   "noticias": [
+    {
+      "titulo": "Fable: todos os jogos da franquia em ordem",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/fable-todos-os-jogos-da-franquia-em-ordem-de-lancamento/",
+      "data": "2026-11-08T23:58:00+00:00"
+    },
     {
       "titulo": "Sonic Pico Park, Shrek 2 Remastered e mais! Veja os lançamentos de games da semana",
       "fonte": "TecMundo",
@@ -128,22 +134,10 @@
       "data": "2026-11-08T15:12:48+00:00"
     },
     {
-      "titulo": "Meta Muse ganha conversas naturais por voz e avatares expressivos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/meta-muse-ganha-conversas-naturais-por-voz-e-avatares-expressivos/",
-      "data": "2026-11-08T15:00:00+00:00"
-    },
-    {
       "titulo": "5 caixas de som Bluetooth compactas para levar a qualquer lugar",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/6-caixas-de-som-bluetooth-compactas-para-levar-a-qualquer-lugar/",
       "data": "2026-11-08T14:35:05+00:00"
-    },
-    {
-      "titulo": "Dead Island 2 na PS Plus, Silent Hill f baratinho e mais! Veja as indicações de games",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/dead-island-2-na-ps-plus-silent-hill-f-baratinho-e-mais-veja-as-indicacoes-de-games/",
-      "data": "2026-11-08T14:00:00+00:00"
     },
     {
       "titulo": "iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir",
@@ -180,6 +174,12 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
       "data": "2026-11-06T15:10:46+00:00"
+    },
+    {
+      "titulo": "TSLA, NVDA, META, MSFT: ações de big techs derretem nas bolsas",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/tsla-nvda-meta-msft-acoes-de-big-techs-derretem-nas-bolsas/",
+      "data": "2026-11-06T15:01:33+00:00"
     }
   ]
 }
