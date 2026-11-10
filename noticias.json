@@ -1,185 +1,185 @@
 {
-  "atualizado_em": "2026-11-10T11:27:02.533713+00:00",
+  "atualizado_em": "2026-11-10T18:44:13.277084+00:00",
   "noticias": [
     {
-      "titulo": "Dona de GTA 6 acredita que IA facilitará a criação de jogos, mas faz um alerta",
+      "titulo": "Marca dos \"celulares indestrutíveis\" prepara aparelho com tela achatada",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/marca-dos-celulares-indestrutiveis-prepara-aparelho-com-tela-achatada/",
+      "data": "2026-11-10T18:35:11+00:00"
+    },
+    {
+      "titulo": "HBO Max e Paramount+ terão plano conjunto com desconto em 2027",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/hbo-max-e-paramount-terao-plano-conjunto-com-desconto-em-2027/",
+      "data": "2026-11-10T18:33:00+00:00"
+    },
+    {
+      "titulo": "Anthropic mira avaliação de US$ 1 trilhão em oferta pública de ações",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/anthropic-mira-avaliacao-de-us-1-trilhao-em-oferta-publica-de-acoes/",
+      "data": "2026-11-10T18:30:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 chegará ao Xbox Cloud Gaming no lançamento",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/gta-6-chegara-ao-xbox-cloud-gaming-no-lancamento/",
+      "data": "2026-11-10T18:28:33+00:00"
+    },
+    {
+      "titulo": "PS4 fica de fora: Microsoft encontra solução para levar GTA 6 ao Xbox One",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-ia-facilitara-criacao-jogos/",
-      "data": "2026-11-10T11:26:08+00:00"
+      "link": "https://www.hardware.com.br/games/gta-6-no-xbox-one/",
+      "data": "2026-11-10T18:24:31+00:00"
     },
     {
-      "titulo": "7 melhores consoles portáteis de todos os tempos (do Game Boy ao Steam Deck)",
+      "titulo": "Echo Dot Max com acesso antecipado à Alexa+ entra em oferta na Amazon",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/7-melhores-consoles-portateis-de-todos-os-tempos-do-game-boy-ao-steam-deck/",
-      "data": "2026-11-10T11:15:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/echo-dot-max-com-acesso-antecipado-a-alexa-entra-em-oferta-na-amazon/",
+      "data": "2026-11-10T18:19:00+00:00"
     },
     {
-      "titulo": "Novo nº 1 da Apple TV: suspense sombrio desbanca Silo e vira febre no streaming",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/novo-n-1-da-apple-tv-suspense-sombrio-desbanca-silo-e-vira-febre-no-streaming/",
-      "data": "2026-11-10T11:01:00+00:00"
-    },
-    {
-      "titulo": "Ex-agente do FBI desviou milhões de dólares roubados de crimes virtuais",
+      "titulo": "Fortnite revela chances de encontrar Token Pirata que deixa toda a loja do jogo gratuita",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ex-agente-do-fbi-desviou-milhoes-de-dolares-roubados-de-crimes-virtuais/",
-      "data": "2026-11-10T11:00:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/fortnite-revela-chances-de-encontrar-token-pirata-que-deixa-toda-a-loja-do-jogo-gratuita/",
+      "data": "2026-11-10T18:15:00+00:00"
     },
     {
-      "titulo": "Quais carros estão isentos do \"imposto do pecado\"?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/quais-carros-estao-isentos-do-imposto-do-pecado/",
-      "data": "2026-11-10T10:02:00+00:00"
-    },
-    {
-      "titulo": "Apple tem 100 mil termos restritos nas sugestões automáticas do iPhone, afirma pesquisador",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-tem-100-mil-termos-restritos-nas-sugestoes-automaticas-do-iphone-afirma-pesquisador/",
-      "data": "2026-11-10T09:00:00+00:00"
-    },
-    {
-      "titulo": "França acusa o Irã por ataques cibernéticos contra refrigeradores de supermercados",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/franca-acusa-o-ira-por-ataques-ciberneticos-contra-refrigeradores-de-supermercados/",
-      "data": "2026-11-10T09:00:00+00:00"
-    },
-    {
-      "titulo": "NASA abre vagas para candidatos a astronauta que poderão ir à Lua e Marte",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/stem/nasa-abre-vagas-para-candidatos-a-astronauta-que-poderao-ir-a-lua-e-marte/",
-      "data": "2026-11-10T00:00:00+00:00"
-    },
-    {
-      "titulo": "Sony lança nova versão do PlayStation Portal com armazenamento extra para ‘nova função’",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/sony-lanca-nova-versao-do-playstation-portal-com-armazenamento-extra-para-nova-funcao/",
-      "data": "2026-11-09T23:15:00+00:00"
-    },
-    {
-      "titulo": "Polícia Civil de São Paulo sofre suposto ataque cibernético e vazamento de dados",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/policia-civil-de-sao-paulo-sofre-suposto-ataque-cibernetico-e-vazamento-de-dados/",
-      "data": "2026-11-09T23:00:00+00:00"
-    },
-    {
-      "titulo": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (09)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-09/",
-      "data": "2026-11-09T22:15:00+00:00"
-    },
-    {
-      "titulo": "Samsung cria novo app de IA para organizar prints e links perdidos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/samsung-cria-novo-app-de-ia-para-organizar-prints-e-links-perdidos/",
-      "data": "2026-11-09T22:04:00+00:00"
-    },
-    {
-      "titulo": "Esqueça Ruptura: Apple TV tem joia de ficção científica que quase ninguém viu",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/esqueca-ruptura-apple-tv-tem-joia-de-ficcao-cientifica-que-quase-ninguem-viu/",
-      "data": "2026-11-09T22:02:00+00:00"
-    },
-    {
-      "titulo": "Galaxy Book 4 para multitarefas surge com 40% OFF em oferta Black Friday",
+      "titulo": "Nvidia e CEO são processados por omitir caso com executiva chinesa",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-book-4-para-multitarefas-surge-com-40-off-em-oferta-black-friday/",
-      "data": "2026-11-09T21:55:20+00:00"
+      "link": "https://tecnoblog.net/noticias/nvidia-e-ceo-sao-processados-por-omitir-riscos-em-caso-com-executiva-chinesa/",
+      "data": "2026-11-10T18:10:45+00:00"
     },
     {
-      "titulo": "Alerta para devs: Claude Code vaza senhas e chaves de API em massa no GitHub",
+      "titulo": "Crise na Capcom? Resident Evil Veronica enfrenta problemas e pode ficar para 2028",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/alerta-para-devs-claude-code-vaza-senhas-e-chaves-de-api-em-massa-no-github/",
-      "data": "2026-11-09T21:03:00+00:00"
+      "link": "https://canaltech.com.br/games/crise-na-capcom-remake-de-resident-evil-code-veronica-enfrenta-problemas-e-pode-ficar-para-2028/",
+      "data": "2026-11-10T18:04:00+00:00"
     },
     {
-      "titulo": "Celulares baratinho da Samsung podem ganhar baita upgrade de tela em 2027",
+      "titulo": "Celulares Galaxy com One UI 9.5 vão gravar chamadas do WhatsApp e Telegram",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celulares-baratinho-da-samsung-podem-ganhar-baita-upgrade-de-tela-em-2027/",
-      "data": "2026-11-09T20:43:27+00:00"
+      "link": "https://canaltech.com.br/apps/celulares-galaxy-com-one-ui-95-vao-gravar-chamadas-do-whatsapp-e-telegram/",
+      "data": "2026-11-10T18:03:19+00:00"
     },
     {
-      "titulo": "Starlink começa a adotar preços dinâmicos e aumenta mensalidades em até 20% nos EUA",
+      "titulo": "Meta lança Muse Ember, IA ‘econômica’ para competir com Claude Haiku e GPT-6 Luna",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/meta-lanca-muse-ember-ia-economica-para-competir-com-claude-haiku-e-gpt-6-luna/",
+      "data": "2026-11-10T18:00:00+00:00"
+    },
+    {
+      "titulo": "TCL C6K: quanto vale pagar na TV MiniLED na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tv/tcl-c6k-quanto-vale-pagar-na-tv-miniled-na-black-friday/",
+      "data": "2026-11-10T17:52:14+00:00"
+    },
+    {
+      "titulo": "GTA 6 ganha novo teaser de gameplay anunciando preload do jogo",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-ganha-novo-teaser-de-gameplay-anunciando-preload-do-jogo/",
+      "data": "2026-11-10T17:38:00+00:00"
+    },
+    {
+      "titulo": "Novo suspense da Netflix traz Jessica Chastain e crime que promete te prender na TV",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/novo-suspense-da-netflix-traz-jessica-chastain-e-crime-que-promete-te-prender-na-tv/",
+      "data": "2026-11-10T17:32:00+00:00"
+    },
+    {
+      "titulo": "CEO da Paramount diz que IA pode ser o maior salto criativo da história do cinema",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/starlink-comeca-a-adotar-precos-dinamicos-e-aumenta-mensalidades-em-ate-20-nos-eua/",
-      "data": "2026-11-09T20:38:24+00:00"
+      "link": "https://www.hardware.com.br/entretenimento/paramount-skydance-ia-maior-desbloqueio-criativo/",
+      "data": "2026-11-10T17:27:50+00:00"
     },
     {
-      "titulo": "Galaxy Tab S10 FE atinge 41% OFF em até 12x no mês da Black Friday",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-atinge-41-off-em-ate-12x-no-mes-da-black-friday/",
-      "data": "2026-11-09T20:35:56+00:00"
-    },
-    {
-      "titulo": "Galaxy Tab S10 Lite com caneta fica mais barato próximo à Black 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-com-caneta-fica-mais-barato-proximo-a-black-2026/",
-      "data": "2026-11-09T20:31:35+00:00"
-    },
-    {
-      "titulo": "Apple começa a cobrar por uso extra de IA em apps profissionais",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/apple-comeca-a-cobrar-por-uso-extra-de-ia-em-apps-profissionais/",
-      "data": "2026-11-09T20:28:43+00:00"
-    },
-    {
-      "titulo": "Ex-chefe do PlayStation diz que PS6 deveria focar em ser barato em vez de mais potência",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/ex-chefe-do-playstation-diz-que-ps6-deveria-focar-em-ser-barato-em-vez-de-mais-potencia/",
-      "data": "2026-11-09T20:15:52+00:00"
-    },
-    {
-      "titulo": "Empresa americana é acusada de roubar tecnologia da Samsung, diz jornal",
+      "titulo": "12.000 mAh! Dois celulares com bateria absurda estão prestes a chegar ao mercado",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/empresa-americana-e-acusada-de-roubar-tecnologia-da-samsung-diz-jornal/",
-      "data": "2026-11-09T20:10:33+00:00"
+      "link": "https://canaltech.com.br/smartphone/12000-mah-dois-celulares-com-bateria-absurda-estao-prestes-a-chegar-ao-mercado/",
+      "data": "2026-11-10T17:22:32+00:00"
     },
     {
-      "titulo": "Meta vai usar IA para identificar adolescentes no Instagram mesmo com idade falsa",
+      "titulo": "X lança ferramenta para cortar vídeos sem baixar e permite ganhar dinheiro com clipes",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/x-ferramenta-para-cortar-videos/",
+      "data": "2026-11-10T17:20:21+00:00"
+    },
+    {
+      "titulo": "Alexa+ ganha versão web no Brasil para controlar sua casa inteligente direto do PC",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/meta-vai-usar-ia-para-identificar-adolescentes-no-instagram-mesmo-com-idade-falsa/",
-      "data": "2026-11-09T20:09:00+00:00"
+      "link": "https://canaltech.com.br/apps/alexa-ganha-versao-web-no-brasil-para-controlar-sua-casa-inteligente-direto-do-pc/",
+      "data": "2026-11-10T17:15:14+00:00"
     },
     {
-      "titulo": "Portugal quer investigar LG por possível coleta indevida de dados em Smart TVs",
+      "titulo": "Galaxy S27: linha tem câmeras vazadas com melhorias para modelos Ultra e Pro",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/galaxy-s27-linha-tem-cameras-vazadas-com-melhorias-para-modelos-ultra-e-pro/",
+      "data": "2026-11-10T17:00:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 quebra recordes de pré-vendas no PlayStation e Xbox e se aproxima de US$ 1 bilhão antes do lançamento",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/portugal-quer-investigar-lg-por-possivel-coleta-indevida-de-dados-em-smart-tvs/",
-      "data": "2026-11-09T19:53:01+00:00"
+      "link": "https://www.hardware.com.br/games/gta-6-quebra-recordes-de-pre-vendas/",
+      "data": "2026-11-10T16:48:53+00:00"
     },
     {
-      "titulo": "TV AOC é boa? Veja 5 modelos para comprar em 2026",
+      "titulo": "ViewFinity S7 é o novo monitor 4K de 32” da Samsung; veja preço no Brasil",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-tv-aoc/",
-      "data": "2026-11-09T19:45:13+00:00"
+      "link": "https://tecnoblog.net/noticias/viewfinity-s7-e-o-novo-monitor-4k-de-32-da-samsung-veja-preco-no-brasil/",
+      "data": "2026-11-10T16:47:05+00:00"
     },
     {
-      "titulo": "Google apresenta versões mais potentes de seus chips de IA",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/google-apresenta-versoes-mais-potentes-de-seus-chips-de-ia/",
-      "data": "2026-11-09T18:53:38+00:00"
-    },
-    {
-      "titulo": "Sony recebe prêmio de “Hall da Vergonha” após polêmicas sobre jogos digitais e fim dos discos",
+      "titulo": "Descontão! Samsung Galaxy Fit 3 com 65% OFF: monitora sua saúde, seus treinos e ainda avisa suas mensagens",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/sony-recebe-premio-de-hall-da-vergonha-apos-polemicas-sobre-jogos-digitais/",
-      "data": "2026-11-09T18:39:10+00:00"
+      "link": "https://www.hardware.com.br/hardware-indica/descontao-samsung-galaxy-fit-3-com-65-off-monitora-sua-saude-seus-treinos-e-ainda-avisa-suas-mensagens/",
+      "data": "2026-11-10T16:00:18+00:00"
     },
     {
-      "titulo": "Black November 2026: Nintendo Switch 2 tem promoção em até 12x sem juros",
+      "titulo": "TIM Brasil não está à venda, diz CEO após mudança de controle na Itália",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/black-november-2026-nintendo-switch-2-tem-promocao-em-ate-12x-sem-juros/",
-      "data": "2026-11-09T18:30:12+00:00"
+      "link": "https://tecnoblog.net/noticias/tim-brasil-nao-esta-a-venda-garante-ceo-apos-mudanca-de-controle-na-italia/",
+      "data": "2026-11-10T15:45:32+00:00"
     },
     {
-      "titulo": "Tem uma placa de vídeo AMD Radeon? Cuidado com o bug que sobrecarrega o SSD",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/tem-uma-placa-de-video-amd-radeon-cuidado-o-bug-que-sobrecarrega-o-ssd/",
-      "data": "2026-11-09T18:21:26+00:00"
-    },
-    {
-      "titulo": "NVIDIA chega a perder US$ 330 bilhões em valor de mercado após escândalo envolvendo Jensen Huang",
+      "titulo": "Quer aposentar a gilete? O aparador Philips Multigroom 9 em 1 está com 48% de desconto e serve para o corpo todo!",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/nvidia-perder-us-330-bilhoes/",
-      "data": "2026-11-09T17:59:08+00:00"
+      "link": "https://www.hardware.com.br/hardware-indica/quer-aposentar-a-gilete-o-aparador-philips-multigroom-9-em-1-esta-com-48-de-desconto-e-serve-para-o-corpo-todo/",
+      "data": "2026-11-10T15:30:43+00:00"
+    },
+    {
+      "titulo": "Ethereum Foundation é processada após exigir juramento de suicídio em documento interno",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/processo-ethereum-foundation-source-seppuku/",
+      "data": "2026-11-10T15:16:41+00:00"
+    },
+    {
+      "titulo": "Homem transforma monitor Apple de 1986 em radar de aviões em tempo real usando um ESP32",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/monitor-apple-1986-radar-avioes-esp32/",
+      "data": "2026-11-10T15:10:55+00:00"
+    },
+    {
+      "titulo": "Motorola deixa escapar nome de novo dobrável “passaporte”",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/motorola-deixa-escapar-nome-de-novo-dobravel-passaporte/",
+      "data": "2026-11-10T15:02:14+00:00"
+    },
+    {
+      "titulo": "Caso Nvidia: quais os interesses da China na suposta espionagem contra Jensen Huang?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/o-que-a-china-tinha-a-ganhar-com-a-suposta-espionagem-contra-jensen-huang/",
+      "data": "2026-11-10T15:00:00+00:00"
+    },
+    {
+      "titulo": "Aproveite: PlayStation 5 Slim cai de preço em até 12x antes da Black Friday",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/aproveite-playstation-5-slim-cai-de-preco-em-ate-12x-antes-da-black-friday/",
+      "data": "2026-11-10T14:26:46+00:00"
+    },
+    {
+      "titulo": "Galaxy S25 Plus (512 GB) cai para metade do preço no mês da Black na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-cai-para-metade-do-preco-no-mes-da-black-na-amazon/",
+      "data": "2026-11-10T14:05:26+00:00"
     }
   ]
 }
