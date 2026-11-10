@@ -1,6 +1,48 @@
 {
-  "atualizado_em": "2026-11-10T03:06:02.902596+00:00",
+  "atualizado_em": "2026-11-10T11:27:02.533713+00:00",
   "noticias": [
+    {
+      "titulo": "Dona de GTA 6 acredita que IA facilitará a criação de jogos, mas faz um alerta",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-ia-facilitara-criacao-jogos/",
+      "data": "2026-11-10T11:26:08+00:00"
+    },
+    {
+      "titulo": "7 melhores consoles portáteis de todos os tempos (do Game Boy ao Steam Deck)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/7-melhores-consoles-portateis-de-todos-os-tempos-do-game-boy-ao-steam-deck/",
+      "data": "2026-11-10T11:15:00+00:00"
+    },
+    {
+      "titulo": "Novo nº 1 da Apple TV: suspense sombrio desbanca Silo e vira febre no streaming",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/novo-n-1-da-apple-tv-suspense-sombrio-desbanca-silo-e-vira-febre-no-streaming/",
+      "data": "2026-11-10T11:01:00+00:00"
+    },
+    {
+      "titulo": "Ex-agente do FBI desviou milhões de dólares roubados de crimes virtuais",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ex-agente-do-fbi-desviou-milhoes-de-dolares-roubados-de-crimes-virtuais/",
+      "data": "2026-11-10T11:00:00+00:00"
+    },
+    {
+      "titulo": "Quais carros estão isentos do \"imposto do pecado\"?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/quais-carros-estao-isentos-do-imposto-do-pecado/",
+      "data": "2026-11-10T10:02:00+00:00"
+    },
+    {
+      "titulo": "Apple tem 100 mil termos restritos nas sugestões automáticas do iPhone, afirma pesquisador",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-tem-100-mil-termos-restritos-nas-sugestoes-automaticas-do-iphone-afirma-pesquisador/",
+      "data": "2026-11-10T09:00:00+00:00"
+    },
+    {
+      "titulo": "França acusa o Irã por ataques cibernéticos contra refrigeradores de supermercados",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/franca-acusa-o-ira-por-ataques-ciberneticos-contra-refrigeradores-de-supermercados/",
+      "data": "2026-11-10T09:00:00+00:00"
+    },
     {
       "titulo": "NASA abre vagas para candidatos a astronauta que poderão ir à Lua e Marte",
       "fonte": "TecMundo",
@@ -26,12 +68,6 @@
       "data": "2026-11-09T22:15:00+00:00"
     },
     {
-      "titulo": "Hoje no TecMundo (9): CEO da Nvidia admite traição, Vivo lança internet via Starlink e mais",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-9-ceo-da-nvidia-admite-traicao-vivo-lanca-internet-via-starlink-e-mais/",
-      "data": "2026-11-09T22:04:00+00:00"
-    },
-    {
       "titulo": "Samsung cria novo app de IA para organizar prints e links perdidos",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/inteligencia-artificial/samsung-cria-novo-app-de-ia-para-organizar-prints-e-links-perdidos/",
@@ -48,18 +84,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/galaxy-book-4-para-multitarefas-surge-com-40-off-em-oferta-black-friday/",
       "data": "2026-11-09T21:55:20+00:00"
-    },
-    {
-      "titulo": "Anthropic lança Claude Mythos 5.2 e Fable 5.2, novas versões de sua IA ‘superpoderosa’",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/anthropic-lanca-claude-mythos-52-e-fable-52-novas-versoes-de-sua-ia-superpoderosa/",
-      "data": "2026-11-09T21:30:00+00:00"
-    },
-    {
-      "titulo": "Onde encontrar todos os pedaços de coração em Zelda Ocarina of Time? Confira guia",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/onde-encontrar-todos-os-pedacos-de-coracao-em-zelda-ocarina-of-time/",
-      "data": "2026-11-09T21:15:00+00:00"
     },
     {
       "titulo": "Alerta para devs: Claude Code vaza senhas e chaves de API em massa no GitHub",
@@ -116,18 +140,6 @@
       "data": "2026-11-09T20:09:00+00:00"
     },
     {
-      "titulo": "Rivais de BYD e GWM derretem preços para alavancar vendas de SUVs",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/rivais-de-byd-e-gwm-derretem-precos-para-alavancar-vendas-de-suvs/",
-      "data": "2026-11-09T20:05:00+00:00"
-    },
-    {
-      "titulo": "Herdeiro de La Casa de Papel, Lupin vira fenômeno mundial na Netflix e choca com traição",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/herdeiro-de-la-casa-de-papel-lupin-vira-fenomeno-mundial-na-netflix-e-choca-com-traicao/",
-      "data": "2026-11-09T20:01:00+00:00"
-    },
-    {
       "titulo": "Portugal quer investigar LG por possível coleta indevida de dados em Smart TVs",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/portugal-quer-investigar-lg-por-possivel-coleta-indevida-de-dados-em-smart-tvs/",
@@ -168,18 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/nvidia-perder-us-330-bilhoes/",
       "data": "2026-11-09T17:59:08+00:00"
-    },
-    {
-      "titulo": "Jensen Huang vira meme após admitir traição em meio a suspeitas de espionagem chinesa",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/jensen-huang-memes-traicao-espionagem-chinesa/",
-      "data": "2026-11-09T17:48:45+00:00"
-    },
-    {
-      "titulo": "Professores criticam Google por bloquear buscas em escolas que rejeitarem sua IA: “Isso é extorsão”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/professores-criticam-google-por-ameacar-bloquear-buscas-em-escolas-que-rejeitarem-sua-ia-isso-e-extorsao/",
-      "data": "2026-11-09T17:45:09+00:00"
     }
   ]
 }
