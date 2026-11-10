@@ -1,6 +1,72 @@
 {
-  "atualizado_em": "2026-11-09T20:57:34.322651+00:00",
+  "atualizado_em": "2026-11-10T03:06:02.902596+00:00",
   "noticias": [
+    {
+      "titulo": "NASA abre vagas para candidatos a astronauta que poderão ir à Lua e Marte",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/stem/nasa-abre-vagas-para-candidatos-a-astronauta-que-poderao-ir-a-lua-e-marte/",
+      "data": "2026-11-10T00:00:00+00:00"
+    },
+    {
+      "titulo": "Sony lança nova versão do PlayStation Portal com armazenamento extra para ‘nova função’",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/sony-lanca-nova-versao-do-playstation-portal-com-armazenamento-extra-para-nova-funcao/",
+      "data": "2026-11-09T23:15:00+00:00"
+    },
+    {
+      "titulo": "Polícia Civil de São Paulo sofre suposto ataque cibernético e vazamento de dados",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/policia-civil-de-sao-paulo-sofre-suposto-ataque-cibernetico-e-vazamento-de-dados/",
+      "data": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "titulo": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (09)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-09/",
+      "data": "2026-11-09T22:15:00+00:00"
+    },
+    {
+      "titulo": "Hoje no TecMundo (9): CEO da Nvidia admite traição, Vivo lança internet via Starlink e mais",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-9-ceo-da-nvidia-admite-traicao-vivo-lanca-internet-via-starlink-e-mais/",
+      "data": "2026-11-09T22:04:00+00:00"
+    },
+    {
+      "titulo": "Samsung cria novo app de IA para organizar prints e links perdidos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/samsung-cria-novo-app-de-ia-para-organizar-prints-e-links-perdidos/",
+      "data": "2026-11-09T22:04:00+00:00"
+    },
+    {
+      "titulo": "Esqueça Ruptura: Apple TV tem joia de ficção científica que quase ninguém viu",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/esqueca-ruptura-apple-tv-tem-joia-de-ficcao-cientifica-que-quase-ninguem-viu/",
+      "data": "2026-11-09T22:02:00+00:00"
+    },
+    {
+      "titulo": "Galaxy Book 4 para multitarefas surge com 40% OFF em oferta Black Friday",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-book-4-para-multitarefas-surge-com-40-off-em-oferta-black-friday/",
+      "data": "2026-11-09T21:55:20+00:00"
+    },
+    {
+      "titulo": "Anthropic lança Claude Mythos 5.2 e Fable 5.2, novas versões de sua IA ‘superpoderosa’",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/anthropic-lanca-claude-mythos-52-e-fable-52-novas-versoes-de-sua-ia-superpoderosa/",
+      "data": "2026-11-09T21:30:00+00:00"
+    },
+    {
+      "titulo": "Onde encontrar todos os pedaços de coração em Zelda Ocarina of Time? Confira guia",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/onde-encontrar-todos-os-pedacos-de-coracao-em-zelda-ocarina-of-time/",
+      "data": "2026-11-09T21:15:00+00:00"
+    },
+    {
+      "titulo": "Alerta para devs: Claude Code vaza senhas e chaves de API em massa no GitHub",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/alerta-para-devs-claude-code-vaza-senhas-e-chaves-de-api-em-massa-no-github/",
+      "data": "2026-11-09T21:03:00+00:00"
+    },
     {
       "titulo": "Celulares baratinho da Samsung podem ganhar baita upgrade de tela em 2027",
       "fonte": "Canaltech",
@@ -12,12 +78,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/starlink-comeca-a-adotar-precos-dinamicos-e-aumenta-mensalidades-em-ate-20-nos-eua/",
       "data": "2026-11-09T20:38:24+00:00"
-    },
-    {
-      "titulo": "15 ofertas do esquenta Black Friday do KaBuM! para garantir já",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/15-ofertas-do-esquenta-black-friday-do-kabum-para-garantir-ja/",
-      "data": "2026-11-09T20:36:00+00:00"
     },
     {
       "titulo": "Galaxy Tab S10 FE atinge 41% OFF em até 12x no mês da Black Friday",
@@ -68,12 +128,6 @@
       "data": "2026-11-09T20:01:00+00:00"
     },
     {
-      "titulo": "Quer mandar seu nome em missão da NASA que vai à lua de Saturno? Saiba como!",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/quer-mandar-seu-nome-em-missao-da-nasa-que-vai-a-lua-de-saturno-saiba-como/",
-      "data": "2026-11-09T20:00:00+00:00"
-    },
-    {
       "titulo": "Portugal quer investigar LG por possível coleta indevida de dados em Smart TVs",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/portugal-quer-investigar-lg-por-possivel-coleta-indevida-de-dados-em-smart-tvs/",
@@ -84,18 +138,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/melhor-tv-aoc/",
       "data": "2026-11-09T19:45:13+00:00"
-    },
-    {
-      "titulo": "\"iPhone Duo da Motorola\" tem nome revelado antes da hora; veja o que já sabemos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/iphone-duo-da-motorola-tem-nome-revelado-antes-da-hora-veja-o-que-ja-sabemos/",
-      "data": "2026-11-09T19:33:24+00:00"
-    },
-    {
-      "titulo": "Fim do anonimato: Claude passa a marcar todos os textos com marca d'água invisível",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/fim-do-anonimato-claude-passa-a-marcar-todos-os-textos-com-marca-dagua-invisivel/",
-      "data": "2026-11-09T19:09:00+00:00"
     },
     {
       "titulo": "Google apresenta versões mais potentes de seus chips de IA",
@@ -114,12 +156,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/black-november-2026-nintendo-switch-2-tem-promocao-em-ate-12x-sem-juros/",
       "data": "2026-11-09T18:30:12+00:00"
-    },
-    {
-      "titulo": "CEO da Nvidia vira meme após traição e possível caso de espionagem; veja reações da internet",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/ceo-da-nvidia-vira-meme-apos-confessar-traicao-veja-memes-e-reacoes-da-internet/",
-      "data": "2026-11-09T18:30:00+00:00"
     },
     {
       "titulo": "Tem uma placa de vídeo AMD Radeon? Cuidado com o bug que sobrecarrega o SSD",
@@ -144,42 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/professores-criticam-google-por-ameacar-bloquear-buscas-em-escolas-que-rejeitarem-sua-ia-isso-e-extorsao/",
       "data": "2026-11-09T17:45:09+00:00"
-    },
-    {
-      "titulo": "Google descobre limitação de segurança no modo anônimo do Chrome e prepara correção",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/google-seguranca-modo-anonimo-chrome/",
-      "data": "2026-11-09T17:26:53+00:00"
-    },
-    {
-      "titulo": "“Novo patamar”: os bastidores de produção de celulares Oppo na China",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/especiais/novo-patamar-os-bastidores-de-producao-de-celulares-oppo-na-china/",
-      "data": "2026-11-09T17:25:48+00:00"
-    },
-    {
-      "titulo": "A bolha de IA pode estourar com o caso de infidelidade do CEO da Nvidia?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/a-bolha-de-ia-pode-estourar-com-o-caso-de-infidelidade-do-ceo-da-nvidia/",
-      "data": "2026-11-09T15:00:00+00:00"
-    },
-    {
-      "titulo": "Jensen Huang admite caso com suposta espiã e Trump apoia CEO da Nvidia",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/jensen-huang-admite-caso-com-suposta-espia-e-trump-apoia-ceo-da-nvidia/",
-      "data": "2026-11-09T12:00:00+00:00"
-    },
-    {
-      "titulo": "O que comprar na Black Friday: notebooks para jogos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-notebooks-para-jogos/",
-      "data": "2026-11-07T11:45:00+00:00"
-    },
-    {
-      "titulo": "WhatsApp ganha central de eventos e convites para quem não usa o app",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/whatsapp-ganha-central-de-eventos-e-convites-para-quem-nao-usa-o-app/",
-      "data": "2026-11-05T21:00:00+00:00"
     }
   ]
 }
