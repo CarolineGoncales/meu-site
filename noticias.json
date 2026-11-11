@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-11-10T23:48:00.401706+00:00",
+  "atualizado_em": "2026-11-11T03:25:33.042862+00:00",
   "noticias": [
+    {
+      "titulo": "Disney e Adobe anunciam parceria para desenvolvimento de IA",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/disney-e-adobe-anunciam-parceria-para-desenvolvimento-de-ia/",
+      "data": "2026-11-11T01:22:06+00:00"
+    },
+    {
+      "titulo": "Google libera Gemini 4 Carbon ao público com recurso para equipes de agentes de IA",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/google-libera-gemini-4-carbon-ao-publico-com-recurso-para-equipes-de-agentes-de-ia/",
+      "data": "2026-11-11T01:20:24+00:00"
+    },
+    {
+      "titulo": "Party de Call of Duty no FaceTime faz avião e aeroporto serem evacuados",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/party-de-call-of-duty-no-facetime-faz-aviao-e-aeroporto-serem-evacuados/",
+      "data": "2026-11-11T00:22:00+00:00"
+    },
+    {
+      "titulo": "GTA VI de graça: na compra de uma TV Hisense na Amazon, os membros Primes ganham o jogo. Entenda!",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/gta-vi-de-graca-na-compra-de-uma-tv-hisense-na-amazon-os-membros-primes-ganham-o-jogo-entenda/",
+      "data": "2026-11-11T00:15:08+00:00"
+    },
+    {
+      "titulo": "Hoje no TecMundo (10): Polícia Civil de SP sofre suposto ataque hacker, GTA 6 tem novidades e mais",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-10-policia-civil-de-sp-sofre-suposto-ataque-hacker-gta-6-tem-novidades-e-mais/",
+      "data": "2026-11-11T00:03:00+00:00"
+    },
     {
       "titulo": "Cancelamento de ruído em fones de ouvido: como funciona?",
       "fonte": "TecMundo",
@@ -68,12 +98,6 @@
       "data": "2026-11-10T21:15:36+00:00"
     },
     {
-      "titulo": "Rockstar reitera que GTA 6 rodará a 30 FPS em todos os consoles, mas terá atrativo extra no PS5 Pro",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/rockstar-reitera-que-gta-6-rodara-a-30-fps-em-todos-os-consoles-mas-tera-atrativo-extra-no-ps5-pro/",
-      "data": "2026-11-10T21:15:00+00:00"
-    },
-    {
       "titulo": "Durou pouco: Nintendo barra jailbreak do Switch 2 com atualização 23.5.0",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/games/durou-pouco-nintendo-barra-jailbreak-do-switch-2-com-atualizacao-2350/",
@@ -134,12 +158,6 @@
       "data": "2026-11-10T20:03:00+00:00"
     },
     {
-      "titulo": "Mitsubishi derruba preços do Eclipse Cross e SUV sai mais em conta que VW Nivus Highline",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/mitsubishi-derruba-precos-do-eclipse-cross-e-suv-sai-mais-em-conta-que-vw-nivus-highline/",
-      "data": "2026-11-10T20:00:03+00:00"
-    },
-    {
       "titulo": "Amazon anuncia versão web da Alexa+ para usuários no Brasil",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/amazon-anuncia-versao-web-da-alexa-para-usuarios-no-brasil/",
@@ -162,24 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/gta-6-no-xbox-one/",
       "data": "2026-11-10T18:24:31+00:00"
-    },
-    {
-      "titulo": "Nvidia e CEO são processados por omitir caso com executiva chinesa",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/nvidia-e-ceo-sao-processados-por-omitir-riscos-em-caso-com-executiva-chinesa/",
-      "data": "2026-11-10T18:10:45+00:00"
-    },
-    {
-      "titulo": "CEO da Paramount diz que IA pode ser o maior salto criativo da história do cinema",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/entretenimento/paramount-skydance-ia-maior-desbloqueio-criativo/",
-      "data": "2026-11-10T17:27:50+00:00"
-    },
-    {
-      "titulo": "X lança ferramenta para cortar vídeos sem baixar e permite ganhar dinheiro com clipes",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/x-ferramenta-para-cortar-videos/",
-      "data": "2026-11-10T17:20:21+00:00"
     }
   ]
 }
