@@ -1,6 +1,54 @@
 {
-  "atualizado_em": "2026-11-11T03:25:33.042862+00:00",
+  "atualizado_em": "2026-11-11T11:16:42.299371+00:00",
   "noticias": [
+    {
+      "titulo": "Muse: agente de IA da Meta ganha versão para Apple Watch e Wear OS",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/muse-agente-de-ia-da-meta-ganha-versao-para-apple-watch-e-wear-os/",
+      "data": "2026-11-11T11:00:00+00:00"
+    },
+    {
+      "titulo": "Logitech dá folga a funcionários para jogar GTA 6 no lançamento",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/logitech-da-folga-a-funcionarios-para-jogar-gta-6-no-lancamento/",
+      "data": "2026-11-11T10:33:00+00:00"
+    },
+    {
+      "titulo": "Esqueça os dobráveis: Samsung prepara celular com tela que \"desliza e estica\"",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/esqueca-os-dobraveis-samsung-prepara-celular-com-tela-que-desliza-e-estica/",
+      "data": "2026-11-11T10:28:44+00:00"
+    },
+    {
+      "titulo": "10 SUVs e picapes mais vendidos do Brasil em outubro de 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/10-suvs-e-picapes-mais-vendidos-do-brasil-em-outubro-de-2026/",
+      "data": "2026-11-11T10:01:00+00:00"
+    },
+    {
+      "titulo": "Motorola Signature 27 terá novas funções do Gemini Intelligence; confira",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/motorola-signature-27-tera-novas-funcoes-do-gemini-intelligence-confira/",
+      "data": "2026-11-11T10:00:00+00:00"
+    },
+    {
+      "titulo": "Cupons do 11.11 no AliExpress: veja como conseguir até R$ 750 OFF",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/cupons-do-11-11-no-aliexpress-veja-como-conseguir-ate-r-750-off/",
+      "data": "2026-11-11T10:00:00+00:00"
+    },
+    {
+      "titulo": "Dois terços das empresas investem em IA sem calcular o retorno financeiro",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/dois-tercos-das-empresas-investem-em-ia-sem-calcular-o-retorno-financeiro/",
+      "data": "2026-11-11T09:09:36+00:00"
+    },
+    {
+      "titulo": "IA autônoma invadiu operadora de telecomunicações na Europa por 2 semanas",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/ia-autonoma-invadiu-operadora-de-telecomunicacoes-na-europa-por-2-semanas/",
+      "data": "2026-11-11T09:00:00+00:00"
+    },
     {
       "titulo": "Disney e Adobe anunciam parceria para desenvolvimento de IA",
       "fonte": "Tecnoblog",
@@ -62,28 +110,10 @@
       "data": "2026-11-10T22:30:00+00:00"
     },
     {
-      "titulo": "Pesquisadores exploram falha para destravar e dar partida em carros à distância",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/pesquisadores-exploram-falha-para-destravar-e-dar-partida-em-carros-a-distancia/",
-      "data": "2026-11-10T22:15:00+00:00"
-    },
-    {
       "titulo": "Novo monitor Samsung ViewFinity S7 traz divisão de tela e modo para 2 PCs; conheça",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/hardware/novo-monitor-samsung-viewfinity-s7-traz-divisao-de-tela-e-modo-para-2-pcs-conheca/",
       "data": "2026-11-10T22:06:00+00:00"
-    },
-    {
-      "titulo": "Microsoft pede a Trump que não proíba tecnologia chinesa em data centers",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/microsoft-pede-a-trump-que-nao-proiba-tecnologia-chinesa-em-data-centers/",
-      "data": "2026-11-10T22:00:00+00:00"
-    },
-    {
-      "titulo": "Home office: 130 vagas para trabalho remoto [10/11]",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/home-office-130-vagas-para-trabalho-remoto-1011/",
-      "data": "2026-11-10T22:00:00+00:00"
     },
     {
       "titulo": "Black November: Smart TV TCL MiniLED 65″ cai 32% em até 12x sem juros",
@@ -134,46 +164,16 @@
       "data": "2026-11-10T20:34:47+00:00"
     },
     {
-      "titulo": "Rockstar anuncia festival de música de GTA 6 com Travis Scott e Cardi B",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/rockstar-anuncia-festival-de-musica-de-gta-6-com-travis-scott-e-cardi-b/",
-      "data": "2026-11-10T20:34:00+00:00"
-    },
-    {
-      "titulo": "Capa vazada de GTA 6 no XBOX revela vantagens de imagem e som sobre o PS5",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/capa-vazada-de-gta-6-no-xbox-revela-vantagens-de-imagem-e-som-sobre-o-ps5/",
-      "data": "2026-11-10T20:13:00+00:00"
-    },
-    {
       "titulo": "Bancos britânicos começam a bloquear agentes de IA por medo de operações financeiras fora de controle",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/bancos-britanicos-bloqueiam-agentes-ia-medo-operacoes-financeiras-fora-controle/",
       "data": "2026-11-10T20:12:33+00:00"
     },
     {
-      "titulo": "Galeria da Samsung faz backup automático de fotos e vídeos no Google para liberar espaço",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/galeria-da-samsung-faz-backup-automatico-de-fotos-e-videos-no-google-para-liberar-espaco/",
-      "data": "2026-11-10T20:03:00+00:00"
-    },
-    {
-      "titulo": "Amazon anuncia versão web da Alexa+ para usuários no Brasil",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/amazon-anuncia-versao-web-da-alexa-para-usuarios-no-brasil/",
-      "data": "2026-11-10T18:54:36+00:00"
-    },
-    {
       "titulo": "Amazon anuncia drone de segurança que patrulha a sua casa por conta própria",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/ring-drone-cam-drone-seguranca-casa/",
       "data": "2026-11-10T18:53:57+00:00"
-    },
-    {
-      "titulo": "GTA 6 chegará ao Xbox Cloud Gaming no lançamento",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/gta-6-chegara-ao-xbox-cloud-gaming-no-lancamento/",
-      "data": "2026-11-10T18:28:33+00:00"
     },
     {
       "titulo": "PS4 fica de fora: Microsoft encontra solução para levar GTA 6 ao Xbox One",
