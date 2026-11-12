@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-11-12T01:07:25.626721+00:00",
+  "atualizado_em": "2026-11-12T08:29:01.139301+00:00",
   "noticias": [
+    {
+      "titulo": "Análise – Gamesir G8 Galileo Plus Wireless Fortnite",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/analises/analise-gamesir-g8-galileo-plus-wireless-fortnite/",
+      "data": "2026-11-12T02:13:59+00:00"
+    },
+    {
+      "titulo": "Airalo lança eSIM único que pode ser utilizado em qualquer viagem internacional",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/airalo-lanca-esim-unico-que-pode-ser-utilizado-em-qualquer-viagem-internacional/",
+      "data": "2026-11-12T01:00:00+00:00"
+    },
     {
       "titulo": "AMD vai superar Intel pela 1ª vez: o que tornou isso possível?",
       "fonte": "TecMundo",
@@ -92,12 +104,6 @@
       "data": "2026-11-11T21:15:00+00:00"
     },
     {
-      "titulo": "iPhone 17: até quanto vale a pena pagar por ele na Black Friday?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-17-ate-quanto-vale-a-pena-pagar-por-ele-na-black-friday/",
-      "data": "2026-11-11T21:00:00+00:00"
-    },
-    {
       "titulo": "WhatsApp vira solução para dores de cabeça ao enviar dinheiro para o exterior",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/mercado/whatsapp-vira-solucao-para-dores-de-cabeca-ao-enviar-dinheiro-para-o-exterior/",
@@ -174,12 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/forgerock-vulnerabilidade-carros/",
       "data": "2026-11-11T18:51:28+00:00"
-    },
-    {
-      "titulo": "“Jogar não é o oposto de trabalhar”: Logitech dará folga a 7 mil funcionários para jogar GTA 6",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/logitech-folga-7-funcionarios-gta-6/",
-      "data": "2026-11-11T18:46:25+00:00"
     }
   ]
 }
