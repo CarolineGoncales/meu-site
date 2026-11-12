@@ -1,185 +1,185 @@
 {
-  "atualizado_em": "2026-11-12T08:29:01.139301+00:00",
+  "atualizado_em": "2026-11-12T16:58:05.801012+00:00",
   "noticias": [
     {
-      "titulo": "Análise – Gamesir G8 Galileo Plus Wireless Fortnite",
+      "titulo": "Hoje no TecMundo (11): GTA 6 é recorde de pré-venda, Google lança nova IA e mais",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-11-gta-6-e-recorde-de-pre-venda-google-lanca-nova-ia-e-mais/",
+      "data": "2026-11-12T16:47:00+00:00"
+    },
+    {
+      "titulo": "YouTuber brasileiro que cobre GTA há 10 anos vai participar de lançamento de GTA 6 em Miami",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/youtuber-brasileiro-que-cobre-gta-ha-10-anos-vai-participar-de-lancamento-de-gta-6-em-miami/",
+      "data": "2026-11-12T16:45:00+00:00"
+    },
+    {
+      "titulo": "TSMC confirma vazamento de dados de funcionários e hackers exigem resgate em Bitcoin",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/analises/analise-gamesir-g8-galileo-plus-wireless-fortnite/",
-      "data": "2026-11-12T02:13:59+00:00"
+      "link": "https://www.hardware.com.br/tecnologia/tsmc-vazamento-dado-resgate-bitcoin/",
+      "data": "2026-11-12T16:32:02+00:00"
     },
     {
-      "titulo": "Airalo lança eSIM único que pode ser utilizado em qualquer viagem internacional",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/airalo-lanca-esim-unico-que-pode-ser-utilizado-em-qualquer-viagem-internacional/",
-      "data": "2026-11-12T01:00:00+00:00"
+      "titulo": "United Airlines bane agentes de IA na compra de passagens",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/united-airlines-bane-agentes-de-ia-na-compra-de-passagens/",
+      "data": "2026-11-12T16:30:58+00:00"
     },
     {
-      "titulo": "AMD vai superar Intel pela 1ª vez: o que tornou isso possível?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/amd-vai-superar-intel-pela-1-vez-o-que-tornou-isso-possivel/",
-      "data": "2026-11-12T00:00:00+00:00"
+      "titulo": "Grok vaza dados confidenciais de mais de 35 mil aplicativos",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/grok-vaza-dados-confidenciais-de-mais-de-35-mil-aplicativos/",
+      "data": "2026-11-12T16:03:27+00:00"
     },
     {
-      "titulo": "Jensen Huang, CEO da NVIDIA, teria tido segunda amante (e desta vez não seria uma suposta espiã chinesa)",
+      "titulo": "Hollywood teme que GTA 6 esvazie cinemas e derrube audiência de séries",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/hollywood-teme-que-gta-6-esvazie-cinemas-e-derrube-audiencia-de-series/",
+      "data": "2026-11-12T16:03:00+00:00"
+    },
+    {
+      "titulo": "Torradeira Star Wars da Mallory está saindo por menos de R$ 124 e é o presente geek perfeito",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/jensen-huang-nvidia-segunda-amante-kimberly-powell/",
-      "data": "2026-11-11T23:06:52+00:00"
+      "link": "https://www.hardware.com.br/hardware-indica/torradeira-star-wars-da-mallory-esta-saindo-por-menos-de-r-100-e-e-o-presente-geek-perfeito/",
+      "data": "2026-11-12T16:00:55+00:00"
     },
     {
-      "titulo": "Melhor TV QLED em 2026: 8 modelos para comprar",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-tv-qled/",
-      "data": "2026-11-11T23:05:59+00:00"
+      "titulo": "Fiat Argo X, o \"Grande Panda brasileiro\", ganha fotos oficiais e data de estreia",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/fiat-argo-x-o-grande-panda-brasileiro-ganha-fotos-oficiais-e-data-de-estreia/",
+      "data": "2026-11-12T16:00:05+00:00"
     },
     {
-      "titulo": "Última chance! 30 ofertas do 11.11 que você não pode perder",
+      "titulo": "‘Seria uma honra’: Elon Musk diz que contrataria Jensen Huang, ex-CEO da Nvidia",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/ultima-chance-30-ofertas-do-1111-que-voce-nao-pode-perder/",
-      "data": "2026-11-11T22:30:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/seria-uma-honra-elon-musk-diz-que-contrataria-jensen-huang-ex-ceo-da-nvidia/",
+      "data": "2026-11-12T16:00:00+00:00"
     },
     {
-      "titulo": "WhatsApp testa barra de navegação flutuante no Android; veja o novo visual",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/whatsapp-testa-barra-de-navegacao-flutuante-no-android-veja-o-novo-visual/",
-      "data": "2026-11-11T22:30:00+00:00"
-    },
-    {
-      "titulo": "Wuchang: Fallen Feathers e mais jogos de Xbox com até 90% OFF; confira",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/wuchang-fallen-feathers-e-mais-jogos-de-xbox-com-ate-90-off-confira/",
-      "data": "2026-11-11T22:15:00+00:00"
-    },
-    {
-      "titulo": "Voluntários brasileiros colocam o português em destaque no Linux 7.3",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/especiais/voluntarios-brasileiros-colocam-o-portugues-em-destaque-no-linux-7-3/",
-      "data": "2026-11-11T22:08:20+00:00"
-    },
-    {
-      "titulo": "Trabalho dos sonhos: Nintendo abre vaga para 'bibliotecário' de jogos clássicos",
+      "titulo": "Seu celular aceita Starlink sem antena no Brasil? Veja como descobrir",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/trabalho-dos-sonhos-nintendo-abre-vaga-para-bibliotecario-de-jogos-classicos/",
-      "data": "2026-11-11T22:05:02+00:00"
+      "link": "https://canaltech.com.br/telecom/seu-celular-aceita-starlink-sem-antena-no-brasil-veja-como-descobrir/",
+      "data": "2026-11-12T15:44:51+00:00"
     },
     {
-      "titulo": "Últimas horas 11.11: Lenovo Idea Tab com 33% OFF em até 12x sem juros",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/ultimas-horas-11-11-lenovo-idea-tab-com-33-off-em-ate-12x-sem-juros/",
-      "data": "2026-11-11T22:04:17+00:00"
-    },
-    {
-      "titulo": "Kindle Colorsoft com até 4 mil cores cai de preço no 11.11 em 10x sem juros",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/kindle-colorsoft-com-ate-4-mil-cores-cai-de-preco-no-11-11-em-10x-sem-juros/",
-      "data": "2026-11-11T21:55:10+00:00"
-    },
-    {
-      "titulo": "Recurso ‘secreto’ do X permite tirar print de post direto pelo app",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/recurso-secreto-do-x-permite-tirar-print-de-post-direto-pelo-app/",
-      "data": "2026-11-11T21:52:00+00:00"
-    },
-    {
-      "titulo": "Melhor TV Philco em 2026: 5 modelos para comprar em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-tv-philco/",
-      "data": "2026-11-11T21:34:08+00:00"
-    },
-    {
-      "titulo": "PS5 chega a 100 milhões de unidades: veja como ele se compara ao PS4, PS3 e PS2",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/ps5-chega-a-100-milhoes-de-unidades-veja-como-ele-se-compara-ao-ps4-ps3-e-ps2/",
-      "data": "2026-11-11T21:23:00+00:00"
-    },
-    {
-      "titulo": "11.11: Motorola Edge 70 Fusion Plus (512 GB) com Snapdragon tem maior desconto registrado",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/11-11-motorola-edge-70-fusion-plus-512-gb-com-snapdragon-tem-maior-desconto-registrado/",
-      "data": "2026-11-11T21:20:53+00:00"
-    },
-    {
-      "titulo": "Efeito GTA 6? Logitech cria dia de folga para funcionários jogarem videogame",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/efeito-gta-6-logitech-cria-dia-de-folga-para-funcionarios-jogarem-video-game/",
-      "data": "2026-11-11T21:15:00+00:00"
-    },
-    {
-      "titulo": "WhatsApp vira solução para dores de cabeça ao enviar dinheiro para o exterior",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/whatsapp-vira-solucao-para-dores-de-cabeca-ao-enviar-dinheiro-para-o-exterior/",
-      "data": "2026-11-11T20:45:31+00:00"
-    },
-    {
-      "titulo": "Galaxy S26 volta a cair e atinge quase metade do preço no 11.11 do Magalu",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-volta-a-cair-e-atinge-quase-metade-do-preco-no-11-11-do-magalu/",
-      "data": "2026-11-11T20:34:58+00:00"
-    },
-    {
-      "titulo": "Pós-créditos de VisionQuest confirma volta de personagem sumida para Vingadores: Doutor Destino",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/pos-creditos-de-visionquest-confirma-volta-de-personagem-sumida-para-vingadores-doutor-destino/",
-      "data": "2026-11-11T20:27:09+00:00"
-    },
-    {
-      "titulo": "Galaxy Watch 9 tem promoção histórica com 50% OFF no 11.11 do Mercado Livre",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-9-tem-promocao-historica-com-50-off-no-11-11-do-mercado-livre/",
-      "data": "2026-11-11T20:17:50+00:00"
-    },
-    {
-      "titulo": "Celular com \"tela de papel\" chega ao Brasil por R$ 3.299; conheça o TCL P80 Pro",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/celular-com-tela-de-papel-chega-ao-brasil-por-r-3299-conheca-o-tcl-p80-pro/",
-      "data": "2026-11-11T20:17:02+00:00"
-    },
-    {
-      "titulo": "O que comprar na Black Friday 2026: passagens aéreas",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/passagens-aereas-na-black-friday-6-dicas-para-economizar/",
-      "data": "2026-11-11T20:15:00+00:00"
-    },
-    {
-      "titulo": "Caoa Chery joga preços de toda linha no chão para celebrar 10 anos de Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/caoa-chery-joga-precos-de-toda-linha-no-chao-para-celebrar-10-anos-de-brasil/",
-      "data": "2026-11-11T20:06:00+00:00"
-    },
-    {
-      "titulo": "Recursos do Gemini Intelligence chegam a celulares Motorola com novidades",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/recursos-do-gemini-intelligence-chegam-a-celulares-motorola-com-novidades/",
-      "data": "2026-11-11T20:03:00+00:00"
-    },
-    {
-      "titulo": "Toshiba está de volta: TV gigante de 100 polegadas chega ao Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/toshiba-esta-de-volta-tv-gigante-de-100-polegadas-chega-ao-brasil/",
-      "data": "2026-11-11T19:30:55+00:00"
-    },
-    {
-      "titulo": "Homem transforma maleta em central de comunicação com Raspberry Pi 4 que funciona sem internet e sem sinal de celular",
+      "titulo": "Microsoft admite que nem todos querem IA nas pesquisas e lança ferramentas para desativar recursos no Bing",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/raspberry-pi-4-central-comunicacao-sem-internet/",
-      "data": "2026-11-11T19:20:28+00:00"
+      "link": "https://www.hardware.com.br/noticias/microsoft-admite-que-nem-todos-querem-ia-nas-pesquisas/",
+      "data": "2026-11-12T15:31:06+00:00"
     },
     {
-      "titulo": "Anthropic investe US$ 3,4 bilhões em geradores para garantir energia aos seus data centers",
+      "titulo": "Café profissional em casa: Cafeteira Espresso Philips Walita praticamente pela metade do preço!",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/anthropic-investe-3-bilhoes-dolares-geradores-para-garantir-energia-data-centers/",
-      "data": "2026-11-11T19:17:18+00:00"
+      "link": "https://www.hardware.com.br/hardware-indica/cafe-profissional-em-casa-cafeteira-espresso-philips-walita-praticamente-pela-metade-do-preco/",
+      "data": "2026-11-12T15:30:52+00:00"
     },
     {
-      "titulo": "Mais um caso: Homem mostra conector de energia derretido em RTX 5070",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/rtx-5070-conector-energia-derretido-novo-caso/",
-      "data": "2026-11-11T19:03:44+00:00"
+      "titulo": "Apple e Samsung vão compartilhar tecnologia de tela dobrável, diz jornal",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/apple-e-samsung-vao-compartilhar-tecnologia-de-tela-dobravel-diz-jornal/",
+      "data": "2026-11-12T15:30:12+00:00"
     },
     {
-      "titulo": "Falha de segurança permitia que hackers destravassem e ligassem remotamente carros de duas grandes montadoras",
+      "titulo": "Ressaca 11.11 da Shopee tem promoção nos itens mais vendidos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/ressaca-1111-da-shopee-tem-promocao-nos-itens-mais-vendidos/",
+      "data": "2026-11-12T15:27:00+00:00"
+    },
+    {
+      "titulo": "Nintendo vai encerrar login com Google e Apple; veja o que muda",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/nintendo-vai-encerrar-login-com-google-e-apple-veja-o-que-muda/",
+      "data": "2026-11-12T15:17:50+00:00"
+    },
+    {
+      "titulo": "Epic Games Store libera novo jogo gratuito nesta quinta (12)! Resgate agora",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-store-libera-novo-jogo-gratuito-nesta-quinta-12-resgate-agora/",
+      "data": "2026-11-12T15:15:00+00:00"
+    },
+    {
+      "titulo": "Real ou videogame? Novo vídeo de GTA 6 confunde fãs com realismo absurdo de Miami",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/real-ou-videogame-novo-video-de-gta-6-confunde-fas-com-realismo-absurdo-de-miami/",
+      "data": "2026-11-12T15:12:00+00:00"
+    },
+    {
+      "titulo": "OpenAI vai aposentar vozes clássicas e Modo Avançado do ChatGPT",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/openai-vai-aposentar-vozes-classicas-e-modo-avancado-do-chatgpt/",
+      "data": "2026-11-12T15:06:00+00:00"
+    },
+    {
+      "titulo": "Galaxy Z Flip 7 recebe desconto imperdível na Black do Mercado Livre",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-z-flip-7-recebe-desconto-imperdivel-na-black-do-mercado-livre/",
+      "data": "2026-11-12T15:05:51+00:00"
+    },
+    {
+      "titulo": "Homem de Ferro: 3 conjuntos LEGO estão em promoção na Amazon",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/forgerock-vulnerabilidade-carros/",
-      "data": "2026-11-11T18:51:28+00:00"
+      "link": "https://www.hardware.com.br/hardware-indica/homem-de-ferro-3-conjuntos-lego-estao-em-promocao-na-amazon/",
+      "data": "2026-11-12T15:00:36+00:00"
+    },
+    {
+      "titulo": "Caixa Vida e Previdência sofre ataque hacker e dados de 7,6 milhões são expostos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/caixa-vida-e-previdencia-sofre-ataque-hacker-e-dados-de-76-milhoes-sao-expostos/",
+      "data": "2026-11-12T15:00:00+00:00"
+    },
+    {
+      "titulo": "Jensen Huang renuncia ao cargo de CEO da Nvidia após admitir traição",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/jensen-huang-renuncia-ao-cargo-de-ceo-da-nvidia-apos-admitir-traicao/",
+      "data": "2026-11-12T14:48:19+00:00"
+    },
+    {
+      "titulo": "Fujifilm X-T6 pode surpreender com sensor totalmente novo de 40 MP",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/fujifilm-x-t6-pode-surpreender-com-sensor-totalmente-novo-de-40-mp/",
+      "data": "2026-11-12T14:44:35+00:00"
+    },
+    {
+      "titulo": "Homem transforma Raspberry Pi 5 em roteador Wi-Fi com seis antenas e bloqueador de anúncios",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/raspberry-pi-5-roteador-wifi-seis-antenas/",
+      "data": "2026-11-12T14:30:48+00:00"
+    },
+    {
+      "titulo": "Teclado Gamer Redragon Karura 2 está com 42% de desconto na Amazon, confira!",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/teclado-gamer-redragon-karura-2-esta-com-42-de-desconto-na-amazon-confira/",
+      "data": "2026-11-12T14:30:24+00:00"
+    },
+    {
+      "titulo": "Moto G86 (256 GB) cai ao menor preço dos últimos meses na Black November",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/moto-g86-256-gb-cai-ao-menor-preco-dos-ultimos-meses-na-black-november/",
+      "data": "2026-11-12T14:26:54+00:00"
+    },
+    {
+      "titulo": "Jensen Huang deixa Nvidia: confira linha do tempo da fundação até a saída da empresa",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/jensen-huang-deixa-nvidia-linha-do-tempo/",
+      "data": "2026-11-12T14:20:00+00:00"
+    },
+    {
+      "titulo": "Empresas revelam que agentes de IA ainda são pouco utilizados para realizar tarefas do cotidiano",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/empresas-revelam-que-agentes-de-ia-ainda-sao-pouco-utilizados-para-realizar-tarefas-do-cotidiano/",
+      "data": "2026-11-12T14:17:22+00:00"
+    },
+    {
+      "titulo": "Motorola Signature despenca 50% com cupom exclusivo na Black da Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/motorola-signature-despenca-50-com-cupom-exclusivo-na-black-da-amazon/",
+      "data": "2026-11-12T13:53:01+00:00"
+    },
+    {
+      "titulo": "Caixa fora do ar? Pix do banco fica indisponível nesta quinta-feira (12)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/caixa-fora-do-ar-12-novembro-pix/",
+      "data": "2026-11-12T13:49:00+00:00"
     }
   ]
 }
