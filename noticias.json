@@ -1,6 +1,30 @@
 {
-  "atualizado_em": "2026-11-12T22:31:52.901342+00:00",
+  "atualizado_em": "2026-11-13T03:00:01.368222+00:00",
   "noticias": [
+    {
+      "titulo": "Caso Nvidia: Singapura proíbe suposta espiã chinesa de entrar no país",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/caso-nvidia-singapura-proibe-suposta-espia-chinesa-de-entrar-no-pais/",
+      "data": "2026-11-13T00:00:00+00:00"
+    },
+    {
+      "titulo": "Review do Moto G86: ainda vale a pena comprar o intermediário da Motorola?",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/testamos/review-do-moto-g86-ainda-vale-a-pena-comprar-o-intermediario-da-motorola/",
+      "data": "2026-11-12T23:15:21+00:00"
+    },
+    {
+      "titulo": "GTA 6 teria ultrapassado a marca de US$ 1 bilhão em pré-vendas, segundo relatório",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-teria-ultrapassado-a-marca-de-us-1-bilhao-em-pre-vendas-segundo-relatorio/",
+      "data": "2026-11-12T23:12:00+00:00"
+    },
+    {
+      "titulo": "Fraudes judiciais usam emails falsos para roubar dados na América Latina",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/fraudes-judiciais-usam-emails-falsos-para-roubar-dados-na-america-latina/",
+      "data": "2026-11-12T22:30:00+00:00"
+    },
     {
       "titulo": "Lançamento: Galaxy Tab S12 Plus (512 GB) já recebe desconto pré-Black Friday",
       "fonte": "Tecnoblog",
@@ -20,12 +44,6 @@
       "data": "2026-11-12T22:00:00+00:00"
     },
     {
-      "titulo": "Zoom corrige falhas críticas que permitiam invasão remota no Windows",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/zoom-corrige-falhas-criticas-que-permitiam-invasao-remota-no-windows/",
-      "data": "2026-11-12T21:30:00+00:00"
-    },
-    {
       "titulo": "Melhor TV de 55 polegadas: 8 modelos para comprar em 2026",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/guias/melhor-tv-55-polegadas/",
@@ -36,12 +54,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/huawei-watch-gt-7-pro-sai-pelo-menor-preco-em-oferta-black-antecipada/",
       "data": "2026-11-12T21:03:05+00:00"
-    },
-    {
-      "titulo": "Samsung Galaxy A57: até quanto vale a pena pagar na Black Friday?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-galaxy-a57-ate-quanto-vale-a-pena-pagar-na-black-friday/",
-      "data": "2026-11-12T21:00:00+00:00"
     },
     {
       "titulo": "Comunidade faz “funeral” para a NVIDIA após saída de Jensen Huang e teme futuro da GeForce",
@@ -60,12 +72,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/chatgpt-e-gemini-indicam-lojas-falsas-para-compras-aponta-estudo/",
       "data": "2026-11-12T20:38:47+00:00"
-    },
-    {
-      "titulo": "United Airlines proíbe agentes de IA de reservar voos em contas de clientes",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/united-airlines-proibe-agentes-de-ia-de-reservar-voos-em-contas-de-clientes/",
-      "data": "2026-11-12T20:35:00+00:00"
     },
     {
       "titulo": "PF vai lançar base de dados para ajudar na busca de pessoas desaparecidas",
@@ -98,12 +104,6 @@
       "data": "2026-11-12T20:04:00+00:00"
     },
     {
-      "titulo": "Custo-benefício: iPhone 17e chega a 33% OFF em até 12x no mês da Black Friday",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/custo-beneficio-iphone-17e-chega-a-33-off-em-ate-12x-no-mes-da-black-friday/",
-      "data": "2026-11-12T19:49:36+00:00"
-    },
-    {
       "titulo": "Apple está \"comprando\" celulares dobráveis da Samsung; veja quanto paga",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/smartphone/apple-esta-comprando-celulares-dobraveis-da-samsung-veja-quanto-paga/",
@@ -114,12 +114,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/ia-generativa-40-desenvolvedores-70-mobile/",
       "data": "2026-11-12T19:12:34+00:00"
-    },
-    {
-      "titulo": "Microsoft Teams caiu? Outlook, 365 e outros serviços Microsoft instáveis nesta quinta (12)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/microsoft-teams-caiu-outlook-365-e-outros-servicos-microsoft-instaveis-nesta-quinta-12/",
-      "data": "2026-11-12T19:05:00+00:00"
     },
     {
       "titulo": "App Store brasileira começa a aceitar pagamento no Pix com algumas restrições",
@@ -180,6 +174,12 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/microsoft-admite-que-nem-todos-querem-ia-nas-pesquisas/",
       "data": "2026-11-12T15:31:06+00:00"
+    },
+    {
+      "titulo": "Vivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/vivo-satelite-como-verificar-a-compatibilidade-do-celular-e-usar-a-internet-da-starlink/",
+      "data": "2026-11-07T13:00:00+00:00"
     }
   ]
 }
