@@ -1,29 +1,167 @@
 {
-  "atualizado_em": "2026-11-13T18:12:49.500687+00:00",
+  "atualizado_em": "2026-11-13T23:44:11.815709+00:00",
   "noticias": [
+    {
+      "titulo": "GTA 6 vai virar filme? CEO da Take-Two fala sobre possibilidade de levar a franquia para o cinema",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-vai-virar-filme-ceo-da-take-two-fala-sobre-possibilidade-de-levar-a-franquia-para-o-cinema/",
+      "data": "2026-11-13T23:30:00+00:00"
+    },
+    {
+      "titulo": "Prompt leaking: o que é e como uma IA pode revelar seus próprios comandos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/prompt-leaking-o-que-e-riscos-e-como-proteger-sistemas-de-ia/",
+      "data": "2026-11-13T23:15:00+00:00"
+    },
+    {
+      "titulo": "Empresa brasileira de IA policial entra em programa de segurança da OpenAI",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/empresa-brasileira-de-ia-policial-entra-em-programa-de-seguranca-da-openai/",
+      "data": "2026-11-13T23:00:00+00:00"
+    },
+    {
+      "titulo": "10 jogos de videogame mais caros da história",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/10-jogos-de-videogame-mais-caros-da-historia/",
+      "data": "2026-11-13T22:55:03+00:00"
+    },
+    {
+      "titulo": "Hoje no TecMundo (13): Jensen Huang pode enfrentar Congresso dos EUA e Microsoft sofre pane global",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-13-jensen-huang-pode-enfrentar-congresso-dos-eua-e-microsoft-sofre-pane-global/",
+      "data": "2026-11-13T22:43:00+00:00"
+    },
+    {
+      "titulo": "Black November: Notebook ASUS Vivobook Go 15 despenca 46% na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/black-november-notebook-asus-vivobook-go-15-despenca-46-na-amazon/",
+      "data": "2026-11-13T22:35:26+00:00"
+    },
+    {
+      "titulo": "Dragon Quest VII Reimagined e mais jogos para Switch com até 90% OFF na eShop",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/dragon-quest-vii-reimagined-e-mais-jogos-para-switch-com-ate-90-off-na-eshop/",
+      "data": "2026-11-13T22:30:00+00:00"
+    },
+    {
+      "titulo": "Teste Caoa Changan CS55 PHEV: SUV chinês tem “gingado” brasileiro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/teste-caoa-changan-cs55-phev-suv-chines-tem-gingado-brasileiro/",
+      "data": "2026-11-13T22:03:00+00:00"
+    },
+    {
+      "titulo": "ChatGPT ganha carteira virtual que faz pagamentos ‘sozinha’ usando agente de IA",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/chatgpt-ganha-carteira-virtual-que-faz-pagamentos-sozinha-usando-agente-de-ia/",
+      "data": "2026-11-13T22:00:00+00:00"
+    },
+    {
+      "titulo": "Como montar seu próprio servidor de armazenamento caseiro",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/como-montar-seu-proprio-servidor-de-armazenamento-caseiro/",
+      "data": "2026-11-13T21:44:07+00:00"
+    },
+    {
+      "titulo": "Soundbar JBL para amplificar o som tem desconto com cupom de Black Friday",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/soundbar-jbl-para-amplificar-o-som-tem-desconto-com-cupom-de-black-friday/",
+      "data": "2026-11-13T21:14:45+00:00"
+    },
+    {
+      "titulo": "Como mudar o idioma da Siri AI no iPhone",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/como-mudar-o-idioma-da-siri-ai-no-iphone/",
+      "data": "2026-11-13T21:00:00+00:00"
+    },
+    {
+      "titulo": "Falha no Microsoft 365 faz trabalhadores japoneses voltarem a usar máquinas de fax",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/falha-no-microsoft-365-faz-trabalhadores-japoneses-voltarem-a-usar-maquinas-de-fax/",
+      "data": "2026-11-13T20:29:44+00:00"
+    },
+    {
+      "titulo": "Hyundai derrete preços da linha Creta em novembro; confira",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/hyundai-derrete-precos-da-linha-creta-em-novembro-confira/",
+      "data": "2026-11-13T20:10:00+00:00"
+    },
+    {
+      "titulo": "Thriller com Jessica Chastain e mais 15 estreias para assistir no fim de semana na Netflix",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/thriller-com-jessica-chastain-na-netflix-e-mais-15-estreias-para-assistir-no-fim-de-semana/",
+      "data": "2026-11-13T20:01:00+00:00"
+    },
+    {
+      "titulo": "Euro-Office libera versões para Windows, Mac e Linux",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/euro-office-libera-versoes-para-windows-mac-e-linux/",
+      "data": "2026-11-13T19:57:16+00:00"
+    },
+    {
+      "titulo": "Funcionários da NVIDIA pressionam conselho para trazer Jensen Huang de volta após renúncia",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/funcionarios-da-nvidia-pressionam-conselho-para-trazer-jensen-huang-de-volta-apos-renuncia/",
+      "data": "2026-11-13T19:46:56+00:00"
+    },
+    {
+      "titulo": "Starlink vai turbinar internet com nova geração de bases terrestres",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/starlink-vai-turbinar-internet-com-nova-geracao-de-bases-terrestres/",
+      "data": "2026-11-13T19:40:13+00:00"
+    },
+    {
+      "titulo": "Oficina leva treinamento de IA para pessoas idosas no Rec’n’Play 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/oficina-leva-treinamento-de-ia-para-pessoas-idosas-no-recnplay-2026/",
+      "data": "2026-11-13T19:28:18+00:00"
+    },
+    {
+      "titulo": "Black da Amazon: iPhone 16 (512 GB) volta a registrar menor preço em meses",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/black-da-amazon-iphone-16-512-gb-volta-a-registrar-menor-preco-em-meses/",
+      "data": "2026-11-13T19:27:49+00:00"
+    },
+    {
+      "titulo": "Pré-carregamento de GTA 6 bate recorde histórico de tráfego de internet",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/pre-carregamento-de-gta-6-bate-recorde-historico-de-trafego-de-internet/",
+      "data": "2026-11-13T19:26:04+00:00"
+    },
+    {
+      "titulo": "Rockstar começa a distribuir cópias de GTA 6 aos seus funcionários",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/rockstar-distribui-copias-gta-6-funcionarios/",
+      "data": "2026-11-13T19:19:59+00:00"
+    },
+    {
+      "titulo": "AMD reduz fornecimento de placas Radeon na China em até 50% e escassez pode durar meses",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/amd-radeon-gpus-queda-china-2027/",
+      "data": "2026-11-13T19:03:55+00:00"
+    },
+    {
+      "titulo": "Melhor TV 65 polegadas: 13 modelos para comprar em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-tv-65-polegadas/",
+      "data": "2026-11-13T18:32:49+00:00"
+    },
+    {
+      "titulo": "Por que apostar em um fone sem fio intra-auricular? JBL Wave Buds 2 com 59% OFF traz ANC e bateria de até 40 horas",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/por-que-apostar-em-um-fone-sem-fio-intra-auricular-jbl-wave-buds-2-com-59-off-traz-anc-e-bateria-de-ate-40-horas/",
+      "data": "2026-11-13T18:30:27+00:00"
+    },
+    {
+      "titulo": "OpenAI lança ChatGPT Wallet: agente de IA promete fazer compras sem expor dados do seu cartão",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/chatgpt-wallet-agentes-ia-compras/",
+      "data": "2026-11-13T18:27:05+00:00"
+    },
     {
       "titulo": "Mouse sem fio Pebble 2 da Logitech cai de R$124 para R$80: clique silencioso e 2 anos de bateria",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/mouse-sem-fio-pebble-2-da-logitech-cai-de-r124-para-r80-clique-silencioso-e-2-anos-de-bateria/",
       "data": "2026-11-13T18:00:30+00:00"
-    },
-    {
-      "titulo": "Funcionários da Nvidia pedem volta de Huang em chat interno",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/funcionarios-da-nvidia-pedem-volta-de-huang-em-chat-interno/",
-      "data": "2026-11-13T18:00:00+00:00"
-    },
-    {
-      "titulo": "Dunlop revela impacto real da invasão dos pneus importados no Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/dunlop-revela-impacto-real-da-invasao-dos-pneus-importados-no-brasil/",
-      "data": "2026-11-13T18:00:00+00:00"
-    },
-    {
-      "titulo": "Código Promocional Lufthansa | Até 50% de desconto - Novembro 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/codigo-promocional-lufthansa/",
-      "data": "2026-11-13T17:49:00+00:00"
     },
     {
       "titulo": "Microsoft vai encerrar suporte a documentos antigos do Word",
@@ -32,154 +170,16 @@
       "data": "2026-11-13T17:44:14+00:00"
     },
     {
-      "titulo": "Samsung Smart TV 55″ Crystal UHD 4K U8000H sai por R$2.500: Vision AI Companion, Modo Estádio, Xbox Cloud Gaming e mais",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/samsung-smart-tv-55-crystal-uhd-4k-u8000h-sai-por-menos-de-r2-790-vision-ai-companion-modo-estadio-xbox-cloud-gaming-e-mais/",
-      "data": "2026-11-13T17:30:58+00:00"
-    },
-    {
-      "titulo": "Compradores da Cybertruck se revoltam com fim da picape e temem falta de suporte",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/fim-cybertruck-fas-viram-contra-elon-musk/",
-      "data": "2026-11-13T17:29:09+00:00"
-    },
-    {
-      "titulo": "Sony leva tecnologia do PS5 Pro para mais seis jogos no PS5 padrão",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/sony-tecnologia-ps5-pro-ps5-padrao/",
-      "data": "2026-11-13T17:24:10+00:00"
-    },
-    {
       "titulo": "ChatGPT Wallet permite que um agente de IA compre e pague por você",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/chatgpt-wallet-permite-que-um-agente-de-ia-compre-e-pague-por-voce/",
       "data": "2026-11-13T17:19:32+00:00"
     },
     {
-      "titulo": "Parece ficção científica, mas aconteceu: robô da DARPA constrói antena sozinho no espaço",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/parece-ficcao-cientifica-mas-aconteceu-robo-da-darpa-constroi-antena-sozinho-no-espaco/",
-      "data": "2026-11-13T17:11:33+00:00"
-    },
-    {
-      "titulo": "AMD lembra gamers que está do lado deles após falas contraditórias da CEO",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/amd-lembra-gamers-que-sempre-esteve-ao-seu-lado-apos-falas-contraditorias-da-ceo/",
-      "data": "2026-11-13T17:06:00+00:00"
-    },
-    {
-      "titulo": "Brasileiro cria sozinho RPG de sobrevivência em pixel art que vai da Idade da Pedra às armas a laser",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/alia-domus-rpg-brasileiro-sobrevivencia-steam/",
-      "data": "2026-11-13T17:01:33+00:00"
-    },
-    {
-      "titulo": "Acer Aspire 15 Go com 31% de desconto: Intel Core i7, 16GB de RAM e 512GB de armazenamento SSD",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/acer-aspire-15-go-com-r1-600-off-intel-core-i7-16gb-de-ram-e-512gb-de-armazenamento-ssd/",
-      "data": "2026-11-13T17:00:17+00:00"
-    },
-    {
       "titulo": "Samsung lança óculos inteligentes com Gemini, câmera de 12 MP e autonomia de 9 horas",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-lanca-oculos-inteligentes-com-gemini-camera-de-12-mp-e-autonomia-de-9-horas/",
       "data": "2026-11-13T17:00:00+00:00"
-    },
-    {
-      "titulo": "Quanto custou fazer GTA 6? Jogo pode ser o mais caro da história",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/quanto-custou-fazer-gta-6/",
-      "data": "2026-11-13T16:50:39+00:00"
-    },
-    {
-      "titulo": "Epson traz tela gigante de 162 polegadas com nova tecnologia dvLED ao Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/epson-traz-tela-gigante-de-162-polegadas-com-nova-tecnologia-dvled-ao-brasil/",
-      "data": "2026-11-13T16:45:42+00:00"
-    },
-    {
-      "titulo": "Hammerhead V3 Chroma: fone da Razer para mobile traz RGB e ANC",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/hammerhead-v3-chroma-fone-da-razer-para-mobile-traz-rgb-e-anc/",
-      "data": "2026-11-13T16:45:00+00:00"
-    },
-    {
-      "titulo": "Voices 2026: evento gratuito no Rio terá debates sobre inteligência artificial e futuro do trabalho",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/voices-2026-evento-gratuito-rio-inteligencia-artificial/",
-      "data": "2026-11-13T16:44:38+00:00"
-    },
-    {
-      "titulo": "id Software anuncia novo jogo em meio ao “banho de sangue” no Xbox",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/id-software-anuncia-novo-jogo-xbox/",
-      "data": "2026-11-13T16:43:03+00:00"
-    },
-    {
-      "titulo": "Google lança modelo de IA veloz e eficiente; conheça o Gemini 4 Hydrogen",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-lanca-modelo-de-ia-veloz-e-eficiente-conheca-o-gemini-4-hydrogen/",
-      "data": "2026-11-13T16:33:03+00:00"
-    },
-    {
-      "titulo": "SSD mais fino do mundo parece cartão e gruda no iPhone; veja preço",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/ssd-mais-fino-do-mundo-parece-cartao-e-gruda-no-iphone-veja-preco/",
-      "data": "2026-11-13T16:32:52+00:00"
-    },
-    {
-      "titulo": "'Tragam o chefe volta': funcionários da NVIDIA se opõem à saída de Jensen Huang",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/tragam-o-chefe-volta-funcionarios-da-nvidia-se-opoem-a-saida-de-jensen-huang/",
-      "data": "2026-11-13T16:03:00+00:00"
-    },
-    {
-      "titulo": "Xbox amplia retrocompatibilidade com mais 21 jogos antigos no PC",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/xbox-amplia-retrocompatibilidade-com-mais-21-jogos-antigos-no-pc/",
-      "data": "2026-11-13T16:02:19+00:00"
-    },
-    {
-      "titulo": "Os bastidores da ‘Operação CloudFire’: a engenharia do golpe do Google Agenda",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/os-bastidores-da-operacao-cloudfire-a-engenharia-do-golpe-do-google-agenda/",
-      "data": "2026-11-13T16:00:00+00:00"
-    },
-    {
-      "titulo": "Tesouro Nacional alerta para vazamento de dados pessoais e chaves Pix",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/tesouro-nacional-alerta-para-vazamento-de-dados-pessoais-e-chaves-pix/",
-      "data": "2026-11-13T15:23:23+00:00"
-    },
-    {
-      "titulo": "TV Samsung Neo QLED 55″ tem perto de R$ 1.000 OFF em até 10x pré-Black 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/tv-samsung-neo-qled-55-tem-perto-de-r-1-000-off-em-ate-10x-pre-black-2026/",
-      "data": "2026-11-13T15:18:28+00:00"
-    },
-    {
-      "titulo": "Tinder proíbe que agentes de IA conversem pelos usuários",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/tinder-proibe-que-agentes-de-ia-conversem-pelos-usuarios/",
-      "data": "2026-11-13T14:17:13+00:00"
-    },
-    {
-      "titulo": "Office 365 voltou? Usuários relatam retorno do Outlook e outros serviços da Microsoft",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/office-365-voltou-usuarios-relatam-retorno-do-outlook-e-outros-servicos-da-microsoft/",
-      "data": "2026-11-13T14:12:00+00:00"
-    },
-    {
-      "titulo": "Black November: Galaxy Buds 4 Pro atingem desconto histórico com cupom",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/black-november-galaxy-buds-4-pro-atingem-desconto-historico-com-cupom/",
-      "data": "2026-11-13T13:49:35+00:00"
-    },
-    {
-      "titulo": "Um em cada três usuários xinga ChatGPT, Gemini ou Claude",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/um-em-cada-tres-usuarios-xinga-chatgpt-gemini-ou-claude/",
-      "data": "2026-11-13T13:42:16+00:00"
     }
   ]
 }
