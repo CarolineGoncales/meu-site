@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-11-13T03:00:01.368222+00:00",
+  "atualizado_em": "2026-11-13T10:37:19.681652+00:00",
   "noticias": [
+    {
+      "titulo": "Tiggo 9 prova que carro híbrido não tem medo de enchente; assista",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/tiggo-9-prova-que-carro-hibrido-nao-tem-medo-de-enchente-assista/",
+      "data": "2026-11-13T10:02:00+00:00"
+    },
+    {
+      "titulo": "Cientistas criam tecidos inteligentes que podem transformar roupas em gadgets",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/cientistas-criam-tecidos-inteligentes-que-podem-transformar-roupas-em-gadgets/",
+      "data": "2026-11-13T10:01:42+00:00"
+    },
+    {
+      "titulo": "Quanto custaria o iPhone 5C hoje? Veja o preço corrigido pela inflação",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/quanto-custaria-o-iphone-5c-hoje-veja-o-preco-corrigido-pela-inflacao/",
+      "data": "2026-11-13T10:00:00+00:00"
+    },
+    {
+      "titulo": "7 fones em forma de brinco para ficar de olho na Black Friday",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/fone-de-ouvido/7-fones-em-forma-de-brinco-para-ficar-de-olho-na-black-friday/",
+      "data": "2026-11-13T09:00:03+00:00"
+    },
+    {
+      "titulo": "Cachorrinha fantasiada de data center perde concurso de Halloween, mas viraliza",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/cachorrinha-fantasiada-de-data-center-perde-concurso-de-halloween-mas-viraliza/",
+      "data": "2026-11-13T09:00:00+00:00"
+    },
     {
       "titulo": "Caso Nvidia: Singapura proíbe suposta espiã chinesa de entrar no país",
       "fonte": "TecMundo",
@@ -122,30 +152,6 @@
       "data": "2026-11-12T19:03:00+00:00"
     },
     {
-      "titulo": "Quais consoles vão rodar GTA 6? Veja plataformas confirmadas para o lançamento",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/quais-consoles-vao-rodar-gta-6-veja-plataformas-confirmadas-para-o-lancamento/",
-      "data": "2026-11-12T18:30:30+00:00"
-    },
-    {
-      "titulo": "Alok e Whindersson Nunes lançam caixas de som da linha \"Insana\" no Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/caixa-de-som/alok-e-whindersson-nunes-lancam-caixas-de-som-da-linha-insana-no-brasil/",
-      "data": "2026-11-12T18:25:36+00:00"
-    },
-    {
-      "titulo": "Mistério resolvido: por que este exoplaneta pareceu \"sumir\" diante dos olhos da NASA?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/misterio-resolvido-por-que-este-exoplaneta-pareceu-sumir-diante-dos-olhos-da-nasa/",
-      "data": "2026-11-12T18:15:32+00:00"
-    },
-    {
-      "titulo": "Apple Sports ganha suporte ao UFC e promete adicionar novos esportes mensalmente",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/apple-sports-ganha-suporte-ao-ufc-e-promete-adicionar-novos-esportes-mensalmente/",
-      "data": "2026-11-12T18:10:09+00:00"
-    },
-    {
       "titulo": "GTA 6 já teria superado US$ 1 bilhão em pré-vendas e pode bater recorde de GTA 5",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/gta-6-us-1-bilhao-recorde-gta-5-10/",
@@ -174,12 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/microsoft-admite-que-nem-todos-querem-ia-nas-pesquisas/",
       "data": "2026-11-12T15:31:06+00:00"
-    },
-    {
-      "titulo": "Vivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/vivo-satelite-como-verificar-a-compatibilidade-do-celular-e-usar-a-internet-da-starlink/",
-      "data": "2026-11-07T13:00:00+00:00"
     }
   ]
 }
