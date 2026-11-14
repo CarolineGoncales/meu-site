@@ -1,6 +1,96 @@
 {
-  "atualizado_em": "2026-11-14T17:13:41.241026+00:00",
+  "atualizado_em": "2026-11-14T21:36:07.780781+00:00",
   "noticias": [
+    {
+      "titulo": "Australia pode ampliar restrições à internet e impedir menores de 18 anos de usar o Gmail",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/australia-pode-impedir-menores-de-18-anos-de-usar-o-gmail/",
+      "data": "2026-11-14T21:07:03+00:00"
+    },
+    {
+      "titulo": "Big techs: confira lista de vagas de emprego abertas no Brasil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/big-techs-confira-lista-de-vagas-de-emprego-abertas-no-brasil/",
+      "data": "2026-11-14T21:00:00+00:00"
+    },
+    {
+      "titulo": "O que é e como funciona o Teste de Turing?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/ciencia-e-espaco/o-que-e-e-como-funciona-o-teste-de-turing/",
+      "data": "2026-11-14T21:00:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 é tão grande que até indústria do cinema e TV sentirão o impacto do lançamento",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-e-tao-grande-que-ate-industria-do-cinema-e-tv-sentirao-o-impacto-do-lancamento/",
+      "data": "2026-11-14T20:15:00+00:00"
+    },
+    {
+      "titulo": "10 jogos do PlayStation 1 que são jogáveis nos consoles da atual geração",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/jogos-playstation-1-jogaveis-consoles-atuais/",
+      "data": "2026-11-14T20:00:00+00:00"
+    },
+    {
+      "titulo": "O jogo Guitar Hero: Aerosmith rendeu mais dinheiro à banda do que qualquer um de seus álbuns",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/guitar-hero-aerosmith-rendeu-mais-dinheiro-banda-seus-albuns/",
+      "data": "2026-11-14T19:31:50+00:00"
+    },
+    {
+      "titulo": "Como saída de James Gunn e Peter Safran vai impactar o futuro do DC Studios",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/como-saida-de-james-gunn-e-peter-safran-vai-impactar-o-futuro-do-dc-studios/",
+      "data": "2026-11-14T19:30:00+00:00"
+    },
+    {
+      "titulo": "SUV japonês com um ano de uso fica \"no precinho\" e sai mais barato que VW Tera",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/suv-japones-com-um-ano-de-uso-fica-no-precinho-e-sai-mais-barato-que-vw-tera/",
+      "data": "2026-11-14T19:03:00+00:00"
+    },
+    {
+      "titulo": "Terra já tem milhões de fragmentos espaciais em órbita, e cientistas temem uma reação em cadeia de colisões",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticia/terra-ja-tem-milhoes-de-fragmentos-espaciais-em-orbita/",
+      "data": "2026-11-14T19:01:24+00:00"
+    },
+    {
+      "titulo": "ROG XBOX Ally ou XBOX Series S: qual vale mais a pena comprar?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/rog-xbox-ally-ou-xbox-series-s-qual-vale-mais-a-pena-comprar/",
+      "data": "2026-11-14T18:30:00+00:00"
+    },
+    {
+      "titulo": "Xbox Game Pass recebe 5 novos jogos esta semana! Veja os lançamentos (14)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-5-novos-jogos-esta-semana-veja-os-lancamentos-14/",
+      "data": "2026-11-14T18:15:00+00:00"
+    },
+    {
+      "titulo": "6 séries da Netflix muito aguardadas que estreiam ainda em 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/netflix-series-muito-aguardadas-que-estreiam-ainda-em-2026/",
+      "data": "2026-11-14T18:00:04+00:00"
+    },
+    {
+      "titulo": "Galaxy S25 Ultra: qual preço é promoção de verdade na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/galaxy-s25-ultra-qual-preco-e-promocao-de-verdade-na-black-friday/",
+      "data": "2026-11-14T17:30:03+00:00"
+    },
+    {
+      "titulo": "Reddit revela que rejeitou pedidos do governo dos EUA por dados de usuários",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/reddit-revela-que-rejeitou-pedidos-do-governo-dos-eua-por-dados-de-usuarios/",
+      "data": "2026-11-14T17:22:20+00:00"
+    },
+    {
+      "titulo": "Sony perde na Justiça após brasileiro comprar jogos de PS4 e não receber acesso às versões para PS Vita",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/brasileiro-processa-sony-jogos-ps-vita/",
+      "data": "2026-11-14T17:19:20+00:00"
+    },
     {
       "titulo": "Golden Joystick Awards 2026: Resident Evil Requiem é Ultimate Game of the Year",
       "fonte": "Hardware.com.br",
@@ -26,40 +116,10 @@
       "data": "2026-11-14T16:41:00+00:00"
     },
     {
-      "titulo": "Soundbar JBL: quanto vale pagar na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/soundbar-jbl-quanto-vale-pagar-na-black-friday-2026/",
-      "data": "2026-11-14T16:30:00+00:00"
-    },
-    {
-      "titulo": "Intel recupera terreno contra a AMD e volta a dominar 70% do mercado de CPUs desktop",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/intel-recupera-mercado-cpus-desktop-amd/",
-      "data": "2026-11-14T16:28:19+00:00"
-    },
-    {
       "titulo": "Resident Evil Requiem é o jogo do ano do Golden Joystick Awards 2026",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/resident-evil-requiem-e-o-jogo-do-ano-do-golden-joystick-awards-2026/",
       "data": "2026-11-14T16:15:00+00:00"
-    },
-    {
-      "titulo": "Fabricante chinesa lança RTX 4070 Ti Super com apenas uma ventoinha",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/fabricante-chinesa-lanca-rtx-4070-ti-super-com-apenas-uma-ventoinha/",
-      "data": "2026-11-14T16:10:53+00:00"
-    },
-    {
-      "titulo": "Omoda prepara lançamento que promete desbancar o BYD Dolphin Mini no Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/omoda-prepara-lancamento-que-promete-desbancar-o-byd-dolphin-mini-no-brasil/",
-      "data": "2026-11-14T16:02:00+00:00"
-    },
-    {
-      "titulo": "Black Friday da Amazon traz GameSir Nova Lite por menos de R$153: o controle sem drift que funciona em tudo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/gamesir-nova-lite-por-r170-com-37-de-desconto-o-controle-sem-drift-que-funciona-em-tudo/",
-      "data": "2026-11-14T16:00:25+00:00"
     },
     {
       "titulo": "Esgotado: os últimos dias de Huang na Nvidia mostraram CEO apático",
@@ -68,22 +128,10 @@
       "data": "2026-11-14T16:00:00+00:00"
     },
     {
-      "titulo": "GTA 6 teria rodado a 60 FPS no PS5 Pro, mas com um grande sacrifício",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-rodado-60-fps-no-ps5-pro/",
-      "data": "2026-11-14T15:39:52+00:00"
-    },
-    {
       "titulo": "Itália anuncia multa de 805 milhões de euros contra Meta por acessar fotos sem consentimento",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/italia-anuncia-multa-de-805-milhoes-de-euros-contra-meta-por-acessar-fotos-sem-consentimento/",
       "data": "2026-11-14T15:36:00+00:00"
-    },
-    {
-      "titulo": "HUAWEI Band 10: a smartband completa está por menos de R$189 na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/huawei-band-10-a-smartband-completa-esta-por-menos-de-r189-na-amazon/",
-      "data": "2026-11-14T15:30:05+00:00"
     },
     {
       "titulo": "Microsoft afirma que serviços foram totalmente restaurados após interrupção global",
@@ -96,54 +144,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/one-ui-95-confira-6-novidades-do-sistema-encontradas-ate-agora/",
       "data": "2026-11-14T15:00:00+00:00"
-    },
-    {
-      "titulo": "Não é só GTA 6! 7 jogos que brilharam recriando o clima exótico da Flórida",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-que-se-passam-na-florida-como-gta-6/",
-      "data": "2026-11-14T15:00:00+00:00"
-    },
-    {
-      "titulo": "Xbox quer reconquistar o Brasil após críticas de jogadores sobre o abandono da marca",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-quer-reconquistar-o-brasil-apos-criticas-de-jogadores-sobre-o-abandono-da-marca/",
-      "data": "2026-11-14T14:45:00+00:00"
-    },
-    {
-      "titulo": "Starlink comum ou Mini: qual antena comprar na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/starlink-comum-ou-mini-qual-antena-comprar-na-black-friday/",
-      "data": "2026-11-14T14:30:00+00:00"
-    },
-    {
-      "titulo": "Qual é o problema de usar um app desatualizado por muito tempo?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/qual-e-o-problema-de-usar-um-app-desatualizado-por-muito-tempo/",
-      "data": "2026-11-14T14:00:03+00:00"
-    },
-    {
-      "titulo": "Ender Magnolia e mais jogos para PC com até 90% OFF na Steam",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ender-magnolia-e-mais-jogos-para-pc-com-ate-90-off-na-steam/",
-      "data": "2026-11-14T14:00:00+00:00"
-    },
-    {
-      "titulo": "Guia de compra para Black Friday: 4 TVs para comprar de olhos fechados",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/guia-de-compra-para-black-friday-4-tvs-para-comprar-de-olhos-fechados/",
-      "data": "2026-11-14T13:30:02+00:00"
-    },
-    {
-      "titulo": "Fone do Walkman, celular de K-pop e mais: os lançamentos da semana",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/fone-do-walkman-celular-de-k-pop-e-mais-os-lancamentos-da-semana/",
-      "data": "2026-11-14T13:00:00+00:00"
-    },
-    {
-      "titulo": "3 perfis de usuários que NÃO devem comprar um notebook gamer",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/perfis-que-nao-devem-comprar-notebook-gamer/",
-      "data": "2026-11-14T13:00:00+00:00"
     },
     {
       "titulo": "R$ 34 bilhões: Binance cobriu prejuízo do maior roubo de cripto da história",
