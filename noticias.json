@@ -1,6 +1,30 @@
 {
-  "atualizado_em": "2026-11-14T03:47:02.865555+00:00",
+  "atualizado_em": "2026-11-14T11:01:24.560390+00:00",
   "noticias": [
+    {
+      "titulo": "Como descobrir se uma loja online é confiável antes de comprar?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/como-descobrir-se-uma-loja-online-e-confiavel-antes-de-comprar/",
+      "data": "2026-11-14T11:00:00+00:00"
+    },
+    {
+      "titulo": "Prefeitura do Recife quer transformar sistema em “Amazon” dos serviços públicos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/prefeitura-do-recife-quer-transformar-sistema-em-amazon-dos-servicos-publicos/",
+      "data": "2026-11-14T10:00:00+00:00"
+    },
+    {
+      "titulo": "R$ 34 bilhões: Binance cobriu prejuízo do maior roubo de cripto da história",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/r-34-bilhoes-binance-cobriu-100-do-prejuizo-do-maior-roubo-de-cripto-da-historia/",
+      "data": "2026-11-14T09:29:01+00:00"
+    },
+    {
+      "titulo": "Anatel manda TIM desligar função que bloqueia telemarketing",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/anatel-manda-tim-desligar-funcao-que-bloqueia-telemarketing/",
+      "data": "2026-11-14T09:20:36+00:00"
+    },
     {
       "titulo": "GTA 6 vai virar filme? CEO da Take-Two fala sobre possibilidade de levar a franquia para o cinema",
       "fonte": "TecMundo",
@@ -110,22 +134,10 @@
       "data": "2026-11-13T19:40:13+00:00"
     },
     {
-      "titulo": "Oficina leva treinamento de IA para pessoas idosas no Rec’n’Play 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/oficina-leva-treinamento-de-ia-para-pessoas-idosas-no-recnplay-2026/",
-      "data": "2026-11-13T19:28:18+00:00"
-    },
-    {
       "titulo": "Black da Amazon: iPhone 16 (512 GB) volta a registrar menor preço em meses",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/black-da-amazon-iphone-16-512-gb-volta-a-registrar-menor-preco-em-meses/",
       "data": "2026-11-13T19:27:49+00:00"
-    },
-    {
-      "titulo": "Pré-carregamento de GTA 6 bate recorde histórico de tráfego de internet",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/pre-carregamento-de-gta-6-bate-recorde-historico-de-trafego-de-internet/",
-      "data": "2026-11-13T19:26:04+00:00"
     },
     {
       "titulo": "Rockstar começa a distribuir cópias de GTA 6 aos seus funcionários",
@@ -168,18 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/microsoft-vai-encerrar-suporte-a-documentos-antigos-do-word/",
       "data": "2026-11-13T17:44:14+00:00"
-    },
-    {
-      "titulo": "ChatGPT Wallet permite que um agente de IA compre e pague por você",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/chatgpt-wallet-permite-que-um-agente-de-ia-compre-e-pague-por-voce/",
-      "data": "2026-11-13T17:19:32+00:00"
-    },
-    {
-      "titulo": "Samsung lança óculos inteligentes com Gemini, câmera de 12 MP e autonomia de 9 horas",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-lanca-oculos-inteligentes-com-gemini-camera-de-12-mp-e-autonomia-de-9-horas/",
-      "data": "2026-11-13T17:00:00+00:00"
     }
   ]
 }
