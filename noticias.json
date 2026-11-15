@@ -1,6 +1,120 @@
 {
-  "atualizado_em": "2026-11-15T07:58:18.934371+00:00",
+  "atualizado_em": "2026-11-15T15:15:38.701493+00:00",
   "noticias": [
+    {
+      "titulo": "3 apps pagos ficam de graça na Play Store; confira os achados da semana",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/3-apps-pagos-ficam-de-graca-na-play-store-confira-os-achados-da-semana/",
+      "data": "2026-11-15T15:00:00+00:00"
+    },
+    {
+      "titulo": "7 produtos da Amazon para esperar a Black Friday antes de comprar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/7-produtos-da-amazon-para-esperar-a-black-friday-antes-de-comprar/",
+      "data": "2026-11-15T15:00:00+00:00"
+    },
+    {
+      "titulo": "Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/avioes-em-terra-apagao-da-microsoft-e-caos-no-vale-do-silicio-tudo-esta-quebrando/",
+      "data": "2026-11-15T14:37:00+00:00"
+    },
+    {
+      "titulo": "Qual é a diferença entre os modelos Muse Wonder, Muse Spark e Muse Ember?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-os-modelos-muse-wonder-muse-spark-e-muse-ember/",
+      "data": "2026-11-15T14:30:00+00:00"
+    },
+    {
+      "titulo": "VAIO TL10 8GB 128GB Octa-Core, Tela 10.4” 2K com teclado incluso está com ótimo desconto. Aproveita!",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/vaio-tl10-8gb-128gb-octa-core-tela-10-4-2k-com-teclado-incluso-esta-com-otimo-desconto-aproveita/",
+      "data": "2026-11-15T14:30:00+00:00"
+    },
+    {
+      "titulo": "Capcom revela por que deixou Resident Evil 1 de fora dos remakes modernos: “Temíamos que não agradasse”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/resident-evil-1-capcom-explica/",
+      "data": "2026-11-15T14:26:30+00:00"
+    },
+    {
+      "titulo": "Lava-louças Electrolux: quanto vale pagar na Black Friday 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/lava-loucas-electrolux-quanto-vale-pagar-na-black-friday-2026/",
+      "data": "2026-11-15T14:00:01+00:00"
+    },
+    {
+      "titulo": "Death Stranding 2 na PS Plus, Skyrim Special Edition baratinho e mais! Veja as indicações de games",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/death-stranding-2-na-ps-plus-skyrim-special-edition-baratinho-e-mais-veja-as-indicacoes-de-games/",
+      "data": "2026-11-15T14:00:00+00:00"
+    },
+    {
+      "titulo": "Contador confessa uso de IA para fraudar e tirar maior nota em exame nacional na Coreia do Sul",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/contador-confessa-uso-de-ia-para-fraudar-e-tirar-maior-nota-em-exame-nacional-na-coreia-do-sul/",
+      "data": "2026-11-15T13:44:00+00:00"
+    },
+    {
+      "titulo": "Por que você deveria ter uma churrasqueira de mesa: modelo por menos de R$85 com bandeja antifumaça",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/por-que-voce-deveria-ter-uma-churrasqueira-de-mesa-modelo-por-menos-de-r100-com-bandeja-antifumaca/",
+      "data": "2026-11-15T13:30:34+00:00"
+    },
+    {
+      "titulo": "5 notebooks bons até R$ 4.000 que valem a pena comprar na Black Friday 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/black-friday-notebooks-bons-ate-4000-reais-para-comprar/",
+      "data": "2026-11-15T13:30:00+00:00"
+    },
+    {
+      "titulo": "CD Projekt Red usa IA para recriar voz de Geralt em The Witcher 3 após ator sofrer AVC",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/ia-voz-geralt-the-witcher-3-avc-dlc/",
+      "data": "2026-11-15T13:19:29+00:00"
+    },
+    {
+      "titulo": "Resident Evil Veronica estaria enfrentando sérios problemas de desenvolvimento",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/resident-evil-veronica-problemas/",
+      "data": "2026-11-15T12:19:03+00:00"
+    },
+    {
+      "titulo": "\"Omissão de velocidade\" dá multa? Veja o que diz a lei",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/omissao-de-velocidade-da-multa-veja-o-que-diz-a-lei/",
+      "data": "2026-11-15T12:01:00+00:00"
+    },
+    {
+      "titulo": "Echo Pop com Alexa: até quanto vale a pena pagar na Black Friday 2026?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/echo-pop-com-alexa-ate-quanto-vale-a-pena-pagar-na-black-friday-2026/",
+      "data": "2026-11-15T12:00:00+00:00"
+    },
+    {
+      "titulo": "Novo Amazon Fire TV Stick com 40% de desconto",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/novo-amazon-fire-tv-stick-com-40-de-desconto/",
+      "data": "2026-11-15T11:45:00+00:00"
+    },
+    {
+      "titulo": "Quase R$ 5 milhões: Claro vai fornecer iPhones e mais celulares para Senado",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/quase-r-5-milhoes-claro-vai-fornecer-iphones-e-mais-celulares-para-senado/",
+      "data": "2026-11-15T11:35:32+00:00"
+    },
+    {
+      "titulo": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (15)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-15/",
+      "data": "2026-11-15T11:15:00+00:00"
+    },
+    {
+      "titulo": "Por que você continua vendo anúncios de produtos que já comprou?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/por-que-voce-continua-vendo-anuncios-de-produtos-que-ja-comprou/",
+      "data": "2026-11-15T11:00:03+00:00"
+    },
     {
       "titulo": "Como adicionar instruções para que o Gemini lembre de informações em qualquer conversa?",
       "fonte": "Canaltech",
@@ -8,21 +122,9 @@
       "data": "2026-11-14T23:00:00+00:00"
     },
     {
-      "titulo": "Entenda como Dungeons & Dragons influenciou os jogos eletrônicos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/dungeons-dragons-como-dd-influenciou-os-videogames/",
-      "data": "2026-11-14T22:19:00+00:00"
-    },
-    {
       "titulo": "Vídeo: Starship retorna à Terra após 22 horas no espaço e é capturada no ar pela SpaceX",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/starship-retorna-a-terra-apos-22-horas-no-espaco-e-e-capturada-no-ar-pela-spacex/",
-      "data": "2026-11-14T22:01:00+00:00"
-    },
-    {
-      "titulo": "LoL New Dawn: Riot Games anuncia grande atualização para League of Legends",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/lol-new-dawn-riot-games-anuncia-grande-atualizacao-para-league-of-legends/",
       "data": "2026-11-14T22:01:00+00:00"
     },
     {
@@ -38,106 +140,16 @@
       "data": "2026-11-14T21:07:03+00:00"
     },
     {
-      "titulo": "Big techs: confira lista de vagas de emprego abertas no Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/big-techs-confira-lista-de-vagas-de-emprego-abertas-no-brasil/",
-      "data": "2026-11-14T21:00:00+00:00"
-    },
-    {
-      "titulo": "O que é e como funciona o Teste de Turing?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/o-que-e-e-como-funciona-o-teste-de-turing/",
-      "data": "2026-11-14T21:00:00+00:00"
-    },
-    {
-      "titulo": "GTA 6 é tão grande que até indústria do cinema e TV sentirão o impacto do lançamento",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-e-tao-grande-que-ate-industria-do-cinema-e-tv-sentirao-o-impacto-do-lancamento/",
-      "data": "2026-11-14T20:15:00+00:00"
-    },
-    {
-      "titulo": "10 jogos do PlayStation 1 que são jogáveis nos consoles da atual geração",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-playstation-1-jogaveis-consoles-atuais/",
-      "data": "2026-11-14T20:00:00+00:00"
-    },
-    {
       "titulo": "O jogo Guitar Hero: Aerosmith rendeu mais dinheiro à banda do que qualquer um de seus álbuns",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/guitar-hero-aerosmith-rendeu-mais-dinheiro-banda-seus-albuns/",
       "data": "2026-11-14T19:31:50+00:00"
     },
     {
-      "titulo": "Como saída de James Gunn e Peter Safran vai impactar o futuro do DC Studios",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/como-saida-de-james-gunn-e-peter-safran-vai-impactar-o-futuro-do-dc-studios/",
-      "data": "2026-11-14T19:30:00+00:00"
-    },
-    {
-      "titulo": "SUV japonês com um ano de uso fica \"no precinho\" e sai mais barato que VW Tera",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/suv-japones-com-um-ano-de-uso-fica-no-precinho-e-sai-mais-barato-que-vw-tera/",
-      "data": "2026-11-14T19:03:00+00:00"
-    },
-    {
       "titulo": "Terra já tem milhões de fragmentos espaciais em órbita, e cientistas temem uma reação em cadeia de colisões",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticia/terra-ja-tem-milhoes-de-fragmentos-espaciais-em-orbita/",
       "data": "2026-11-14T19:01:24+00:00"
-    },
-    {
-      "titulo": "ROG XBOX Ally ou XBOX Series S: qual vale mais a pena comprar?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/rog-xbox-ally-ou-xbox-series-s-qual-vale-mais-a-pena-comprar/",
-      "data": "2026-11-14T18:30:00+00:00"
-    },
-    {
-      "titulo": "Xbox Game Pass recebe 5 novos jogos esta semana! Veja os lançamentos (14)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-5-novos-jogos-esta-semana-veja-os-lancamentos-14/",
-      "data": "2026-11-14T18:15:00+00:00"
-    },
-    {
-      "titulo": "6 séries da Netflix muito aguardadas que estreiam ainda em 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/netflix-series-muito-aguardadas-que-estreiam-ainda-em-2026/",
-      "data": "2026-11-14T18:00:04+00:00"
-    },
-    {
-      "titulo": "Reddit revela que rejeitou pedidos do governo dos EUA por dados de usuários",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/reddit-revela-que-rejeitou-pedidos-do-governo-dos-eua-por-dados-de-usuarios/",
-      "data": "2026-11-14T17:22:20+00:00"
-    },
-    {
-      "titulo": "Sony perde na Justiça após brasileiro comprar jogos de PS4 e não receber acesso às versões para PS Vita",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/brasileiro-processa-sony-jogos-ps-vita/",
-      "data": "2026-11-14T17:19:20+00:00"
-    },
-    {
-      "titulo": "Golden Joystick Awards 2026: Resident Evil Requiem é Ultimate Game of the Year",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/golden-joystick-awards-2026/",
-      "data": "2026-11-14T17:04:57+00:00"
-    },
-    {
-      "titulo": "Motorista é flagrada dormindo ao volante de Tesla com direção autônoma ativada e acaba multada",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/motorista-e-flagrada-dormindo-ao-volante-de-tesla-com-direcao-autonoma-ativada-e-acaba-multada/",
-      "data": "2026-11-14T16:51:14+00:00"
-    },
-    {
-      "titulo": "Brasileiro compra edição física de GTA 6, mas recebe uma caixa de lápis de cor",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/brasileiro-compra-gta-6-amazon-recebe-lapis-cor/",
-      "data": "2026-11-14T16:41:00+00:00"
-    },
-    {
-      "titulo": "Resident Evil Requiem é o jogo do ano do Golden Joystick Awards 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/resident-evil-requiem-e-o-jogo-do-ano-do-golden-joystick-awards-2026/",
-      "data": "2026-11-14T16:15:00+00:00"
     },
     {
       "titulo": "R$ 34 bilhões: Binance cobriu prejuízo do maior roubo de cripto da história",
@@ -168,18 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/euro-office-libera-versoes-para-windows-mac-e-linux/",
       "data": "2026-11-13T19:57:16+00:00"
-    },
-    {
-      "titulo": "Black da Amazon: iPhone 16 (512 GB) volta a registrar menor preço em meses",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/black-da-amazon-iphone-16-512-gb-volta-a-registrar-menor-preco-em-meses/",
-      "data": "2026-11-13T19:27:49+00:00"
-    },
-    {
-      "titulo": "Melhor TV 65 polegadas: 13 modelos para comprar em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-tv-65-polegadas/",
-      "data": "2026-11-13T18:32:49+00:00"
     }
   ]
 }
