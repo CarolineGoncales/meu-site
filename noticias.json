@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-11-14T21:36:07.780781+00:00",
+  "atualizado_em": "2026-11-15T01:23:24.929740+00:00",
   "noticias": [
+    {
+      "titulo": "Como adicionar instruções para que o Gemini lembre de informações em qualquer conversa?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-para-que-o-gemini-lembre-de-informacoes-em-qualquer-conversa/",
+      "data": "2026-11-14T23:00:00+00:00"
+    },
+    {
+      "titulo": "Entenda como Dungeons & Dragons influenciou os jogos eletrônicos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/dungeons-dragons-como-dd-influenciou-os-videogames/",
+      "data": "2026-11-14T22:19:00+00:00"
+    },
+    {
+      "titulo": "Vídeo: Starship retorna à Terra após 22 horas no espaço e é capturada no ar pela SpaceX",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/starship-retorna-a-terra-apos-22-horas-no-espaco-e-e-capturada-no-ar-pela-spacex/",
+      "data": "2026-11-14T22:01:00+00:00"
+    },
+    {
+      "titulo": "LoL New Dawn: Riot Games anuncia grande atualização para League of Legends",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/lol-new-dawn-riot-games-anuncia-grande-atualizacao-para-league-of-legends/",
+      "data": "2026-11-14T22:01:00+00:00"
+    },
+    {
+      "titulo": "Farol embaçado por dentro: quando é normal e quando preocupa?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/farol-embacado-por-dentro-quando-e-normal-e-quando-preocupa/",
+      "data": "2026-11-14T22:01:00+00:00"
+    },
     {
       "titulo": "Australia pode ampliar restrições à internet e impedir menores de 18 anos de usar o Gmail",
       "fonte": "Hardware.com.br",
@@ -74,12 +104,6 @@
       "data": "2026-11-14T18:00:04+00:00"
     },
     {
-      "titulo": "Galaxy S25 Ultra: qual preço é promoção de verdade na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/galaxy-s25-ultra-qual-preco-e-promocao-de-verdade-na-black-friday/",
-      "data": "2026-11-14T17:30:03+00:00"
-    },
-    {
       "titulo": "Reddit revela que rejeitou pedidos do governo dos EUA por dados de usuários",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/reddit-revela-que-rejeitou-pedidos-do-governo-dos-eua-por-dados-de-usuarios/",
@@ -98,12 +122,6 @@
       "data": "2026-11-14T17:04:57+00:00"
     },
     {
-      "titulo": "7 filmes com bastidores caóticos extremamente difíceis de gravar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/filmes-bastidores-caoticos-dificeis-gravar/",
-      "data": "2026-11-14T17:00:00+00:00"
-    },
-    {
       "titulo": "Motorista é flagrada dormindo ao volante de Tesla com direção autônoma ativada e acaba multada",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/noticias/motorista-e-flagrada-dormindo-ao-volante-de-tesla-com-direcao-autonoma-ativada-e-acaba-multada/",
@@ -120,30 +138,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/resident-evil-requiem-e-o-jogo-do-ano-do-golden-joystick-awards-2026/",
       "data": "2026-11-14T16:15:00+00:00"
-    },
-    {
-      "titulo": "Esgotado: os últimos dias de Huang na Nvidia mostraram CEO apático",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/esgotado-os-ultimos-dias-de-huang-na-nvidia-mostraram-ceo-apatico/",
-      "data": "2026-11-14T16:00:00+00:00"
-    },
-    {
-      "titulo": "Itália anuncia multa de 805 milhões de euros contra Meta por acessar fotos sem consentimento",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/italia-anuncia-multa-de-805-milhoes-de-euros-contra-meta-por-acessar-fotos-sem-consentimento/",
-      "data": "2026-11-14T15:36:00+00:00"
-    },
-    {
-      "titulo": "Microsoft afirma que serviços foram totalmente restaurados após interrupção global",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/microsoft-afirma-que-servicos-foram-totalmente-restaurados-apos-interrupcao-global/",
-      "data": "2026-11-14T15:19:00+00:00"
-    },
-    {
-      "titulo": "One UI 9.5: confira 6 novidades do sistema encontradas até agora",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/one-ui-95-confira-6-novidades-do-sistema-encontradas-ate-agora/",
-      "data": "2026-11-14T15:00:00+00:00"
     },
     {
       "titulo": "R$ 34 bilhões: Binance cobriu prejuízo do maior roubo de cripto da história",
@@ -180,6 +174,12 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/black-da-amazon-iphone-16-512-gb-volta-a-registrar-menor-preco-em-meses/",
       "data": "2026-11-13T19:27:49+00:00"
+    },
+    {
+      "titulo": "Melhor TV 65 polegadas: 13 modelos para comprar em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-tv-65-polegadas/",
+      "data": "2026-11-13T18:32:49+00:00"
     }
   ]
 }
