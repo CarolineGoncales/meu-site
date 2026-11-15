@@ -1,16 +1,118 @@
 {
-  "atualizado_em": "2026-11-15T15:15:38.701493+00:00",
+  "atualizado_em": "2026-11-15T20:27:11.223772+00:00",
   "noticias": [
+    {
+      "titulo": "Review Samsung Odyssey OLED G5 | O OLED mais barato do Brasil é tudo isso mesmo?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/review-samsung-odyssey-oled-g5/",
+      "data": "2026-11-15T20:00:00+00:00"
+    },
+    {
+      "titulo": "Nvidia teria financiado seus próprios clientes para manter preços de GPUs elevados, revela relatório",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/jensen-huang-avalanche-chips-nvidia-garantias/",
+      "data": "2026-11-15T19:39:32+00:00"
+    },
+    {
+      "titulo": "Quando tem promoção de Kindle na Amazon? Veja quando comprar mais barato",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/e-reader/quando-tem-promocao-de-kindle-na-amazon-veja-quando-comprar-mais-barato/",
+      "data": "2026-11-15T19:30:00+00:00"
+    },
+    {
+      "titulo": "\"Invasão\" de carros chineses está mais forte do que nunca no Brasil",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/invasao-de-carros-chineses-esta-mais-forte-do-que-nunca-no-brasil/",
+      "data": "2026-11-15T19:02:00+00:00"
+    },
+    {
+      "titulo": "Dá para comprar memória RAM e SSD com desconto na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/da-para-comprar-memoria-ram-e-ssd-com-desconto-na-black-friday/",
+      "data": "2026-11-15T18:30:02+00:00"
+    },
+    {
+      "titulo": "Novo ataque cibernético sequestra redes móveis para enganar vítima via mensagens",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/novo-ataque-cibernetico-sequestra-redes-moveis-para-enganar-vitima-via-mensagens/",
+      "data": "2026-11-15T18:00:00+00:00"
+    },
+    {
+      "titulo": "Galaxy Tab S10 Lite: quanto vale pagar na Black Friday 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tablet/galaxy-tab-s10-lite-quanto-vale-pagar-na-black-friday-2026/",
+      "data": "2026-11-15T18:00:00+00:00"
+    },
+    {
+      "titulo": "Quanto tempo dura GTA 6? Jogo pode exigir até 200 horas para completar tudo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-duracao-tom-henderson/",
+      "data": "2026-11-15T17:40:07+00:00"
+    },
+    {
+      "titulo": "Sem episódios ruins: 10 animes perfeitos de apenas uma temporada para maratonar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/animes-sem-episodios-ruins-com-apenas-uma-temporada/",
+      "data": "2026-11-15T17:30:03+00:00"
+    },
+    {
+      "titulo": "TV Samsung QLED 55\": qual preço é promoção de verdade na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tv/tv-samsung-qled-55-qual-preco-e-promocao-de-verdade-na-black-friday/",
+      "data": "2026-11-15T17:00:02+00:00"
+    },
+    {
+      "titulo": "3 apps pagos e vários pacotes de ícones ficam grátis na Play Store por tempo limitado",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/3-apps-pagos-e-varios-pacotes-de-icones-ficam-gratis-na-play-store-por-tempo-limitado/",
+      "data": "2026-11-15T17:00:00+00:00"
+    },
+    {
+      "titulo": "Petição para trazer Jensen Huang de volta à Nvidia supera 130 mil assinaturas e conta com suporte de Elon Musk",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/jensen-huang-peticao-reintegracao/",
+      "data": "2026-11-15T16:38:38+00:00"
+    },
+    {
+      "titulo": "Onde e como jogar todos os GTA antes do 6?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/onde-e-como-jogar-todos-os-gta-antes-do-6/",
+      "data": "2026-11-15T16:30:02+00:00"
+    },
+    {
+      "titulo": "Que horas GTA 6 será lançado no Brasil e onde jogar? Confira guia com tudo sobre",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/que-horas-gta-6-sera-lancado-no-brasil-e-onde-jogar-confira-guia-com-tudo-sobre/",
+      "data": "2026-11-15T16:15:00+00:00"
+    },
+    {
+      "titulo": "“É fantástico, deveriam se orgulhar”: Chefe da Take-Two elogia Zelda em meio à rivalidade com GTA 6",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/take-two-elogia-zelda-rivalidade-gta-6/",
+      "data": "2026-11-15T16:06:30+00:00"
+    },
+    {
+      "titulo": "Steam agora mostra quantos FPS os jogos rodam no Steam Deck antes da compra",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/steam-deck-fps-steam/",
+      "data": "2026-11-15T15:32:42+00:00"
+    },
+    {
+      "titulo": "Headset gamer JBL Quantum 100M2 com desconto a partir de R$158: entrega mais do que o preço sugere",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/headset-gamer-jbl-quantum-100m2-com-desconto-por-menos-de-r180-entrega-mais-do-que-o-preco-sugere-2/",
+      "data": "2026-11-15T15:30:38+00:00"
+    },
+    {
+      "titulo": "Usuário cria “Ram Altman”, um script que envia e-mails a Sam Altman quando seu PC tem RAM sobrando",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/ram-altman-envia-email-sam-altman-pc-ram-sobrando/",
+      "data": "2026-11-15T15:28:57+00:00"
+    },
     {
       "titulo": "3 apps pagos ficam de graça na Play Store; confira os achados da semana",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/3-apps-pagos-ficam-de-graca-na-play-store-confira-os-achados-da-semana/",
-      "data": "2026-11-15T15:00:00+00:00"
-    },
-    {
-      "titulo": "7 produtos da Amazon para esperar a Black Friday antes de comprar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/7-produtos-da-amazon-para-esperar-a-black-friday-antes-de-comprar/",
       "data": "2026-11-15T15:00:00+00:00"
     },
     {
@@ -20,28 +122,10 @@
       "data": "2026-11-15T14:37:00+00:00"
     },
     {
-      "titulo": "Qual é a diferença entre os modelos Muse Wonder, Muse Spark e Muse Ember?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-os-modelos-muse-wonder-muse-spark-e-muse-ember/",
-      "data": "2026-11-15T14:30:00+00:00"
-    },
-    {
       "titulo": "VAIO TL10 8GB 128GB Octa-Core, Tela 10.4” 2K com teclado incluso está com ótimo desconto. Aproveita!",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/vaio-tl10-8gb-128gb-octa-core-tela-10-4-2k-com-teclado-incluso-esta-com-otimo-desconto-aproveita/",
       "data": "2026-11-15T14:30:00+00:00"
-    },
-    {
-      "titulo": "Capcom revela por que deixou Resident Evil 1 de fora dos remakes modernos: “Temíamos que não agradasse”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/resident-evil-1-capcom-explica/",
-      "data": "2026-11-15T14:26:30+00:00"
-    },
-    {
-      "titulo": "Lava-louças Electrolux: quanto vale pagar na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/lava-loucas-electrolux-quanto-vale-pagar-na-black-friday-2026/",
-      "data": "2026-11-15T14:00:01+00:00"
     },
     {
       "titulo": "Death Stranding 2 na PS Plus, Skyrim Special Edition baratinho e mais! Veja as indicações de games",
@@ -56,100 +140,16 @@
       "data": "2026-11-15T13:44:00+00:00"
     },
     {
-      "titulo": "Por que você deveria ter uma churrasqueira de mesa: modelo por menos de R$85 com bandeja antifumaça",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/por-que-voce-deveria-ter-uma-churrasqueira-de-mesa-modelo-por-menos-de-r100-com-bandeja-antifumaca/",
-      "data": "2026-11-15T13:30:34+00:00"
-    },
-    {
-      "titulo": "5 notebooks bons até R$ 4.000 que valem a pena comprar na Black Friday 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/black-friday-notebooks-bons-ate-4000-reais-para-comprar/",
-      "data": "2026-11-15T13:30:00+00:00"
-    },
-    {
-      "titulo": "CD Projekt Red usa IA para recriar voz de Geralt em The Witcher 3 após ator sofrer AVC",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/ia-voz-geralt-the-witcher-3-avc-dlc/",
-      "data": "2026-11-15T13:19:29+00:00"
-    },
-    {
-      "titulo": "Resident Evil Veronica estaria enfrentando sérios problemas de desenvolvimento",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/resident-evil-veronica-problemas/",
-      "data": "2026-11-15T12:19:03+00:00"
-    },
-    {
-      "titulo": "\"Omissão de velocidade\" dá multa? Veja o que diz a lei",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/omissao-de-velocidade-da-multa-veja-o-que-diz-a-lei/",
-      "data": "2026-11-15T12:01:00+00:00"
-    },
-    {
       "titulo": "Echo Pop com Alexa: até quanto vale a pena pagar na Black Friday 2026?",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/echo-pop-com-alexa-ate-quanto-vale-a-pena-pagar-na-black-friday-2026/",
       "data": "2026-11-15T12:00:00+00:00"
     },
     {
-      "titulo": "Novo Amazon Fire TV Stick com 40% de desconto",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/novo-amazon-fire-tv-stick-com-40-de-desconto/",
-      "data": "2026-11-15T11:45:00+00:00"
-    },
-    {
       "titulo": "Quase R$ 5 milhões: Claro vai fornecer iPhones e mais celulares para Senado",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/quase-r-5-milhoes-claro-vai-fornecer-iphones-e-mais-celulares-para-senado/",
       "data": "2026-11-15T11:35:32+00:00"
-    },
-    {
-      "titulo": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (15)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-15/",
-      "data": "2026-11-15T11:15:00+00:00"
-    },
-    {
-      "titulo": "Por que você continua vendo anúncios de produtos que já comprou?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/por-que-voce-continua-vendo-anuncios-de-produtos-que-ja-comprou/",
-      "data": "2026-11-15T11:00:03+00:00"
-    },
-    {
-      "titulo": "Como adicionar instruções para que o Gemini lembre de informações em qualquer conversa?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-para-que-o-gemini-lembre-de-informacoes-em-qualquer-conversa/",
-      "data": "2026-11-14T23:00:00+00:00"
-    },
-    {
-      "titulo": "Vídeo: Starship retorna à Terra após 22 horas no espaço e é capturada no ar pela SpaceX",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/starship-retorna-a-terra-apos-22-horas-no-espaco-e-e-capturada-no-ar-pela-spacex/",
-      "data": "2026-11-14T22:01:00+00:00"
-    },
-    {
-      "titulo": "Farol embaçado por dentro: quando é normal e quando preocupa?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/farol-embacado-por-dentro-quando-e-normal-e-quando-preocupa/",
-      "data": "2026-11-14T22:01:00+00:00"
-    },
-    {
-      "titulo": "Australia pode ampliar restrições à internet e impedir menores de 18 anos de usar o Gmail",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/australia-pode-impedir-menores-de-18-anos-de-usar-o-gmail/",
-      "data": "2026-11-14T21:07:03+00:00"
-    },
-    {
-      "titulo": "O jogo Guitar Hero: Aerosmith rendeu mais dinheiro à banda do que qualquer um de seus álbuns",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/guitar-hero-aerosmith-rendeu-mais-dinheiro-banda-seus-albuns/",
-      "data": "2026-11-14T19:31:50+00:00"
-    },
-    {
-      "titulo": "Terra já tem milhões de fragmentos espaciais em órbita, e cientistas temem uma reação em cadeia de colisões",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticia/terra-ja-tem-milhoes-de-fragmentos-espaciais-em-orbita/",
-      "data": "2026-11-14T19:01:24+00:00"
     },
     {
       "titulo": "R$ 34 bilhões: Binance cobriu prejuízo do maior roubo de cripto da história",
