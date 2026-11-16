@@ -1,6 +1,174 @@
 {
-  "atualizado_em": "2026-11-16T06:52:41.264253+00:00",
+  "atualizado_em": "2026-11-16T16:33:00.731604+00:00",
   "noticias": [
+    {
+      "titulo": "Produtor de God of War Sons of Sparta fala sobre acessibilidade e desafios da indústria de games",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/produtor-de-god-of-war-sons-of-sparta-fala-sobre-acessibilidade-e-desafios-da-industria-de-games/",
+      "data": "2026-11-16T16:15:00+00:00"
+    },
+    {
+      "titulo": "Nova vida nos Galaxy: vazamento revela Bixby 5.0 com memória de IA e tarefas automáticas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nova-vida-nos-galaxy-vazamento-revela-bixby-50-com-memoria-de-ia-e-tarefas-automaticas/",
+      "data": "2026-11-16T16:02:00+00:00"
+    },
+    {
+      "titulo": "Sucessor espiritual de Professora Sem Classe: novo filme de Cameron Diaz ganha data na Netflix",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/sucessor-espiritual-de-professora-sem-classe-novo-filme-de-cameron-diaz-ganha-data-na-netflix/",
+      "data": "2026-11-16T16:01:00+00:00"
+    },
+    {
+      "titulo": "Elsys POP com 50% de desconto: a fechadura inteligente que elimina a chave e ainda deixa sua porta mais bonita",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/elsys-pop-com-50-de-desconto-a-fechadura-inteligente-que-elimina-a-chave-e-ainda-deixa-sua-porta-mais-bonita/",
+      "data": "2026-11-16T16:00:57+00:00"
+    },
+    {
+      "titulo": "Para evitar conectores derretidos, Corsair testa cabo com 6 interruptores",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/corsair-cabo-6-interruptores-conectores-derretidos-gpu/",
+      "data": "2026-11-16T16:00:07+00:00"
+    },
+    {
+      "titulo": "Word perderá recursos de compatibilidade e pode alterar layout de arquivos antigos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/word-perdera-recursos-de-compatibilidade-e-pode-alterar-layout-de-arquivos-antigos/",
+      "data": "2026-11-16T16:00:00+00:00"
+    },
+    {
+      "titulo": "Chevrolet vai lançar no Brasil os primeiros carros híbridos flex da GM no mundo",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/chevrolet-vai-lancar-no-brasil-os-primeiros-carros-hibridos-flex-da-gm-no-mundo/",
+      "data": "2026-11-16T16:00:00+00:00"
+    },
+    {
+      "titulo": "Hacker que vazou gameplay de GTA 6 em 2022 se declara culpado pelo ocorrido",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/hacker-que-vazou-gameplay-de-gta-6-em-2022-se-declara-culpado-pelo-ocorrido/",
+      "data": "2026-11-16T15:48:00+00:00"
+    },
+    {
+      "titulo": "Pacote com Nintendo Switch 2 e EA Sports FC 27 em oferta na Amazon",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/pacote-com-nintendo-switch-2-e-ea-sports-fc-27-em-oferta-na-amazon/",
+      "data": "2026-11-16T15:39:00+00:00"
+    },
+    {
+      "titulo": "Black Magalu: Motorola Edge 70 Pro (512 GB) tem a melhor oferta do momento",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/black-magalu-motorola-edge-70-pro-512-gb-tem-a-melhor-oferta-do-momento/",
+      "data": "2026-11-16T15:32:01+00:00"
+    },
+    {
+      "titulo": "Pack Resident Evil para Switch 2 em promoção: leve RE 7, Village e Requiem com 24% OFF",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/pack-resident-evil-para-switch-2-em-promocao-leve-re-7-village-e-requiem-com-24-off/",
+      "data": "2026-11-16T15:30:59+00:00"
+    },
+    {
+      "titulo": "Microsoft revela como um bug oculto do Windows derrubou serviços do Microsoft 365 no mundo todo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/microsoft-revela-bug-oculto-windows-derrubou-microsoft-365/",
+      "data": "2026-11-16T15:22:26+00:00"
+    },
+    {
+      "titulo": "Nova IA da Samsung vai contar calorias de refeições a partir de foto na One UI 9.5",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-da-samsung-vai-contar-calorias-de-refeicoes-a-partir-de-foto-na-one-ui-95/",
+      "data": "2026-11-16T15:08:00+00:00"
+    },
+    {
+      "titulo": "Vivo troca lixo eletrônico por bônus de internet; veja como ganhar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/vivo-troca-lixo-eletronico-por-bonus-de-internet-veja-como-ganhar/",
+      "data": "2026-11-16T15:07:55+00:00"
+    },
+    {
+      "titulo": "iPhone 18 Pro Max e iPhone Duo ganham versões em ouro maciço de 18 quilates",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/iphone-18-pro-max-duo-ouro-macico-18-quilates/",
+      "data": "2026-11-16T15:00:41+00:00"
+    },
+    {
+      "titulo": "Jensen Huang discute retorno como CEO da Nvidia e líderes tech lançam abaixo-assinado",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/jensen-huang-discute-possivel-retorno-como-ceo-da-nvidia-e-lideres-tech-lancam-abaixo-assinado/",
+      "data": "2026-11-16T15:00:00+00:00"
+    },
+    {
+      "titulo": "Adega Electrolux ACB08 de 8 garrafas em promoção: o charme que faltava na sua cozinha por menos de R$ 680",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/adega-electrolux-acb08-de-8-garrafas-em-promocao-o-charme-que-faltava-na-sua-cozinha-por-menos-de-r-680/",
+      "data": "2026-11-16T15:00:00+00:00"
+    },
+    {
+      "titulo": "Corrida contra o tempo: hacker desbloqueia o PS5 na versão exigida por GTA 6",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/corrida-contra-o-tempo-hacker-desbloqueia-o-ps5-na-versao-exigida-por-gta-6/",
+      "data": "2026-11-16T14:56:00+00:00"
+    },
+    {
+      "titulo": "Hacker que vazou GTA 6 se declara culpado a apenas três dias do lançamento do jogo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/hacker-vazou-gta-6-declara-culpado/",
+      "data": "2026-11-16T14:55:13+00:00"
+    },
+    {
+      "titulo": "GTA V roda no Nintendo Switch 2 em novo port nativo não oficial",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-v-switch-2-recompilacao-nativa/",
+      "data": "2026-11-16T14:45:37+00:00"
+    },
+    {
+      "titulo": "Novos tablets da TCL terão tecnologia de tela que não cansa os olhos do usuário",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tablet/novos-tablets-da-tcl-terao-tecnologia-de-tela-que-nao-cansa-os-olhos-do-usuario/",
+      "data": "2026-11-16T14:44:10+00:00"
+    },
+    {
+      "titulo": "Missão falha e Amazon Leo perde 40 satélites",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/missao-falha-e-amazon-leo-perde-40-satelites/",
+      "data": "2026-11-16T14:40:23+00:00"
+    },
+    {
+      "titulo": "Rival dos X3D? Intel prepara CPU Razor Lake com 12 núcleos puros e cache gigante",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/rival-dos-x3d-intel-prepara-cpu-razor-lake-com-12-nucleos-puros-e-cache-gigante/",
+      "data": "2026-11-16T14:39:00+00:00"
+    },
+    {
+      "titulo": "Galaxy S25 Ultra (512 GB) surge com preço imbatível na Black do Magalu",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-surge-com-preco-imbativel-na-black-do-magalu/",
+      "data": "2026-11-16T14:27:55+00:00"
+    },
+    {
+      "titulo": "The Game Awards 2026 anunciará indicados antes do lançamento de GTA 6! Veja onde assistir",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/the-game-awards-2026-anunciara-indicados-antes-do-lancamento-de-gta-6-veja-onde-assistir/",
+      "data": "2026-11-16T14:15:00+00:00"
+    },
+    {
+      "titulo": "Veterano do Linux reduz atividades no projeto por causa da IA",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/veterano-do-linux-reduz-atividades-no-projeto-por-causa-da-ia/",
+      "data": "2026-11-16T14:14:06+00:00"
+    },
+    {
+      "titulo": "Galaxy Buds 4 com Modo Intérprete ficam mais baratos no mês da Black Friday",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-buds-4-com-modo-interprete-ficam-mais-baratos-no-mes-da-black-friday/",
+      "data": "2026-11-16T13:52:52+00:00"
+    },
+    {
+      "titulo": "Black November: Galaxy A57 atinge a maior queda de preço desde agosto",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/black-november-galaxy-a57-atinge-a-maior-queda-de-preco-desde-agosto/",
+      "data": "2026-11-16T13:26:29+00:00"
+    },
     {
       "titulo": "Nubank agora é banco de fato",
       "fonte": "Tecnoblog",
@@ -8,178 +176,10 @@
       "data": "2026-11-16T01:54:08+00:00"
     },
     {
-      "titulo": "O que é a Busca Visual Aprimorada no app Fotos do iOS? Veja como ativar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/o-que-e-a-busca-visual-aprimorada-no-app-fotos-do-ios-veja-como-ativar/",
-      "data": "2026-11-15T23:00:00+00:00"
-    },
-    {
-      "titulo": "GTA 6 e mais! Veja os lançamentos de games da semana",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/gta-6-e-mais-veja-os-lancamentos-de-games-da-semana/",
-      "data": "2026-11-15T22:30:00+00:00"
-    },
-    {
-      "titulo": "Quanto custaria um Fiat Punto hoje, com a inflação?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/quanto-custaria-um-fiat-punto-hoje-com-a-inflacao/",
-      "data": "2026-11-15T22:02:00+00:00"
-    },
-    {
-      "titulo": "Home office: 60 vagas para trabalho remoto internacional [15/11]",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/home-office-60-vagas-para-trabalho-remoto-internacional-1511/",
-      "data": "2026-11-15T22:00:00+00:00"
-    },
-    {
-      "titulo": "China quer ampliar IA aberta no BRICS; o que o Brasil pode ganhar com isso?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/mercado/china-quer-ampliar-ia-aberta-no-brics-o-que-o-brasil-pode-ganhar-com-isso/",
-      "data": "2026-11-15T21:00:02+00:00"
-    },
-    {
-      "titulo": "Xbox Helix será um console capaz de rodar jogos de PC e aposta em Neural Rendering",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/xbox-helix-sera-um-console-capaz-de-rodar-jogos-de-pc/",
-      "data": "2026-11-15T20:54:50+00:00"
-    },
-    {
-      "titulo": "Review Samsung Odyssey OLED G5 | O OLED mais barato do Brasil é tudo isso mesmo?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/review-samsung-odyssey-oled-g5/",
-      "data": "2026-11-15T20:00:00+00:00"
-    },
-    {
-      "titulo": "Nvidia teria financiado seus próprios clientes para manter preços de GPUs elevados, revela relatório",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/jensen-huang-avalanche-chips-nvidia-garantias/",
-      "data": "2026-11-15T19:39:32+00:00"
-    },
-    {
-      "titulo": "Quando tem promoção de Kindle na Amazon? Veja quando comprar mais barato",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/e-reader/quando-tem-promocao-de-kindle-na-amazon-veja-quando-comprar-mais-barato/",
-      "data": "2026-11-15T19:30:00+00:00"
-    },
-    {
-      "titulo": "\"Invasão\" de carros chineses está mais forte do que nunca no Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/invasao-de-carros-chineses-esta-mais-forte-do-que-nunca-no-brasil/",
-      "data": "2026-11-15T19:02:00+00:00"
-    },
-    {
-      "titulo": "Dá para comprar memória RAM e SSD com desconto na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/da-para-comprar-memoria-ram-e-ssd-com-desconto-na-black-friday/",
-      "data": "2026-11-15T18:30:02+00:00"
-    },
-    {
-      "titulo": "Novo ataque cibernético sequestra redes móveis para enganar vítima via mensagens",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/novo-ataque-cibernetico-sequestra-redes-moveis-para-enganar-vitima-via-mensagens/",
-      "data": "2026-11-15T18:00:00+00:00"
-    },
-    {
-      "titulo": "Galaxy Tab S10 Lite: quanto vale pagar na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tablet/galaxy-tab-s10-lite-quanto-vale-pagar-na-black-friday-2026/",
-      "data": "2026-11-15T18:00:00+00:00"
-    },
-    {
-      "titulo": "Quanto tempo dura GTA 6? Jogo pode exigir até 200 horas para completar tudo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-duracao-tom-henderson/",
-      "data": "2026-11-15T17:40:07+00:00"
-    },
-    {
-      "titulo": "3 apps pagos e vários pacotes de ícones ficam grátis na Play Store por tempo limitado",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/3-apps-pagos-e-varios-pacotes-de-icones-ficam-gratis-na-play-store-por-tempo-limitado/",
-      "data": "2026-11-15T17:00:00+00:00"
-    },
-    {
-      "titulo": "Petição para trazer Jensen Huang de volta à Nvidia supera 130 mil assinaturas e conta com suporte de Elon Musk",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/jensen-huang-peticao-reintegracao/",
-      "data": "2026-11-15T16:38:38+00:00"
-    },
-    {
-      "titulo": "Que horas GTA 6 será lançado no Brasil e onde jogar? Confira guia com tudo sobre",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/que-horas-gta-6-sera-lancado-no-brasil-e-onde-jogar-confira-guia-com-tudo-sobre/",
-      "data": "2026-11-15T16:15:00+00:00"
-    },
-    {
-      "titulo": "“É fantástico, deveriam se orgulhar”: Chefe da Take-Two elogia Zelda em meio à rivalidade com GTA 6",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/take-two-elogia-zelda-rivalidade-gta-6/",
-      "data": "2026-11-15T16:06:30+00:00"
-    },
-    {
-      "titulo": "Steam agora mostra quantos FPS os jogos rodam no Steam Deck antes da compra",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/steam-deck-fps-steam/",
-      "data": "2026-11-15T15:32:42+00:00"
-    },
-    {
-      "titulo": "Headset gamer JBL Quantum 100M2 com desconto a partir de R$158: entrega mais do que o preço sugere",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/headset-gamer-jbl-quantum-100m2-com-desconto-por-menos-de-r180-entrega-mais-do-que-o-preco-sugere-2/",
-      "data": "2026-11-15T15:30:38+00:00"
-    },
-    {
-      "titulo": "Usuário cria “Ram Altman”, um script que envia e-mails a Sam Altman quando seu PC tem RAM sobrando",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/ram-altman-envia-email-sam-altman-pc-ram-sobrando/",
-      "data": "2026-11-15T15:28:57+00:00"
-    },
-    {
-      "titulo": "3 apps pagos ficam de graça na Play Store; confira os achados da semana",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/3-apps-pagos-ficam-de-graca-na-play-store-confira-os-achados-da-semana/",
-      "data": "2026-11-15T15:00:00+00:00"
-    },
-    {
-      "titulo": "Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/avioes-em-terra-apagao-da-microsoft-e-caos-no-vale-do-silicio-tudo-esta-quebrando/",
-      "data": "2026-11-15T14:37:00+00:00"
-    },
-    {
-      "titulo": "Death Stranding 2 na PS Plus, Skyrim Special Edition baratinho e mais! Veja as indicações de games",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/death-stranding-2-na-ps-plus-skyrim-special-edition-baratinho-e-mais-veja-as-indicacoes-de-games/",
-      "data": "2026-11-15T14:00:00+00:00"
-    },
-    {
       "titulo": "Quase R$ 5 milhões: Claro vai fornecer iPhones e mais celulares para Senado",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/quase-r-5-milhoes-claro-vai-fornecer-iphones-e-mais-celulares-para-senado/",
       "data": "2026-11-15T11:35:32+00:00"
-    },
-    {
-      "titulo": "R$ 34 bilhões: Binance cobriu prejuízo do maior roubo de cripto da história",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/r-34-bilhoes-binance-cobriu-100-do-prejuizo-do-maior-roubo-de-cripto-da-historia/",
-      "data": "2026-11-14T09:29:01+00:00"
-    },
-    {
-      "titulo": "Anatel manda TIM desligar função que bloqueia telemarketing",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/anatel-manda-tim-desligar-funcao-que-bloqueia-telemarketing/",
-      "data": "2026-11-14T09:20:36+00:00"
-    },
-    {
-      "titulo": "Black November: Notebook ASUS Vivobook Go 15 despenca 46% na Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/black-november-notebook-asus-vivobook-go-15-despenca-46-na-amazon/",
-      "data": "2026-11-13T22:35:26+00:00"
-    },
-    {
-      "titulo": "Soundbar JBL para amplificar o som tem desconto com cupom de Black Friday",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/soundbar-jbl-para-amplificar-o-som-tem-desconto-com-cupom-de-black-friday/",
-      "data": "2026-11-13T21:14:45+00:00"
     }
   ]
 }
