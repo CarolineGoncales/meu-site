@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-11-16T00:06:27.773877+00:00",
+  "atualizado_em": "2026-11-16T06:52:41.264253+00:00",
   "noticias": [
+    {
+      "titulo": "Nubank agora é banco de fato",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/nubank-agora-e-banco-de-fato/",
+      "data": "2026-11-16T01:54:08+00:00"
+    },
     {
       "titulo": "O que é a Busca Visual Aprimorada no app Fotos do iOS? Veja como ativar",
       "fonte": "Canaltech",
@@ -174,12 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/soundbar-jbl-para-amplificar-o-som-tem-desconto-com-cupom-de-black-friday/",
       "data": "2026-11-13T21:14:45+00:00"
-    },
-    {
-      "titulo": "Euro-Office libera versões para Windows, Mac e Linux",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/euro-office-libera-versoes-para-windows-mac-e-linux/",
-      "data": "2026-11-13T19:57:16+00:00"
     }
   ]
 }
