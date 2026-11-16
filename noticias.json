@@ -1,6 +1,42 @@
 {
-  "atualizado_em": "2026-11-15T20:27:11.223772+00:00",
+  "atualizado_em": "2026-11-16T00:06:27.773877+00:00",
   "noticias": [
+    {
+      "titulo": "O que é a Busca Visual Aprimorada no app Fotos do iOS? Veja como ativar",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/o-que-e-a-busca-visual-aprimorada-no-app-fotos-do-ios-veja-como-ativar/",
+      "data": "2026-11-15T23:00:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 e mais! Veja os lançamentos de games da semana",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/gta-6-e-mais-veja-os-lancamentos-de-games-da-semana/",
+      "data": "2026-11-15T22:30:00+00:00"
+    },
+    {
+      "titulo": "Quanto custaria um Fiat Punto hoje, com a inflação?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/quanto-custaria-um-fiat-punto-hoje-com-a-inflacao/",
+      "data": "2026-11-15T22:02:00+00:00"
+    },
+    {
+      "titulo": "Home office: 60 vagas para trabalho remoto internacional [15/11]",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/home-office-60-vagas-para-trabalho-remoto-internacional-1511/",
+      "data": "2026-11-15T22:00:00+00:00"
+    },
+    {
+      "titulo": "China quer ampliar IA aberta no BRICS; o que o Brasil pode ganhar com isso?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/mercado/china-quer-ampliar-ia-aberta-no-brics-o-que-o-brasil-pode-ganhar-com-isso/",
+      "data": "2026-11-15T21:00:02+00:00"
+    },
+    {
+      "titulo": "Xbox Helix será um console capaz de rodar jogos de PC e aposta em Neural Rendering",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/xbox-helix-sera-um-console-capaz-de-rodar-jogos-de-pc/",
+      "data": "2026-11-15T20:54:50+00:00"
+    },
     {
       "titulo": "Review Samsung Odyssey OLED G5 | O OLED mais barato do Brasil é tudo isso mesmo?",
       "fonte": "Canaltech",
@@ -50,18 +86,6 @@
       "data": "2026-11-15T17:40:07+00:00"
     },
     {
-      "titulo": "Sem episódios ruins: 10 animes perfeitos de apenas uma temporada para maratonar",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/animes-sem-episodios-ruins-com-apenas-uma-temporada/",
-      "data": "2026-11-15T17:30:03+00:00"
-    },
-    {
-      "titulo": "TV Samsung QLED 55\": qual preço é promoção de verdade na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/tv-samsung-qled-55-qual-preco-e-promocao-de-verdade-na-black-friday/",
-      "data": "2026-11-15T17:00:02+00:00"
-    },
-    {
       "titulo": "3 apps pagos e vários pacotes de ícones ficam grátis na Play Store por tempo limitado",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/3-apps-pagos-e-varios-pacotes-de-icones-ficam-gratis-na-play-store-por-tempo-limitado/",
@@ -72,12 +96,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/jensen-huang-peticao-reintegracao/",
       "data": "2026-11-15T16:38:38+00:00"
-    },
-    {
-      "titulo": "Onde e como jogar todos os GTA antes do 6?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/onde-e-como-jogar-todos-os-gta-antes-do-6/",
-      "data": "2026-11-15T16:30:02+00:00"
     },
     {
       "titulo": "Que horas GTA 6 será lançado no Brasil e onde jogar? Confira guia com tudo sobre",
@@ -122,28 +140,10 @@
       "data": "2026-11-15T14:37:00+00:00"
     },
     {
-      "titulo": "VAIO TL10 8GB 128GB Octa-Core, Tela 10.4” 2K com teclado incluso está com ótimo desconto. Aproveita!",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/vaio-tl10-8gb-128gb-octa-core-tela-10-4-2k-com-teclado-incluso-esta-com-otimo-desconto-aproveita/",
-      "data": "2026-11-15T14:30:00+00:00"
-    },
-    {
       "titulo": "Death Stranding 2 na PS Plus, Skyrim Special Edition baratinho e mais! Veja as indicações de games",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/death-stranding-2-na-ps-plus-skyrim-special-edition-baratinho-e-mais-veja-as-indicacoes-de-games/",
       "data": "2026-11-15T14:00:00+00:00"
-    },
-    {
-      "titulo": "Contador confessa uso de IA para fraudar e tirar maior nota em exame nacional na Coreia do Sul",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/contador-confessa-uso-de-ia-para-fraudar-e-tirar-maior-nota-em-exame-nacional-na-coreia-do-sul/",
-      "data": "2026-11-15T13:44:00+00:00"
-    },
-    {
-      "titulo": "Echo Pop com Alexa: até quanto vale a pena pagar na Black Friday 2026?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/echo-pop-com-alexa-ate-quanto-vale-a-pena-pagar-na-black-friday-2026/",
-      "data": "2026-11-15T12:00:00+00:00"
     },
     {
       "titulo": "Quase R$ 5 milhões: Claro vai fornecer iPhones e mais celulares para Senado",
