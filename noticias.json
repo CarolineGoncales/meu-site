@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-17T00:32:18.509378+00:00",
+  "atualizado_em": "2026-11-17T08:37:28.368786+00:00",
   "noticias": [
     {
       "titulo": "Videogame com bomba explode e polícia investiga tentativa de assassinato",
@@ -92,12 +92,6 @@
       "data": "2026-11-16T21:03:00+00:00"
     },
     {
-      "titulo": "Anatel determina suspensão temporária de ferramenta antispam da Tim",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/anatel-determina-suspensao-temporaria-de-ferramenta-antispam-da-tim/",
-      "data": "2026-11-16T21:00:00+00:00"
-    },
-    {
       "titulo": "Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/black-november-huawei-watch-fit-5-pro-tem-oferta-em-ate-10x-sem-juros/",
@@ -180,6 +174,12 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/lider-conservadora-defende-gta-6/",
       "data": "2026-11-16T17:32:39+00:00"
+    },
+    {
+      "titulo": "Nova regra dos EUA para exportação de chips de IA afeta o Brasil; entenda",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/nova-regra-dos-eua-para-exportacao-de-chips-de-ia-afeta-o-brasil-entenda/",
+      "data": "2026-11-16T17:15:00+00:00"
     }
   ]
 }
