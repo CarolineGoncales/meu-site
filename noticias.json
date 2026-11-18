@@ -1,6 +1,12 @@
 {
-  "atualizado_em": "2026-11-18T00:21:31.451029+00:00",
+  "atualizado_em": "2026-11-18T07:45:01.500419+00:00",
   "noticias": [
+    {
+      "titulo": "Meta anuncia novo app de mensagens; Direct é baseado nas DMs do Instagram",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/meta-anuncia-novo-app-de-mensagens-direct-e-baseado-nas-dms-do-instagram/",
+      "data": "2026-11-18T07:26:59+00:00"
+    },
     {
       "titulo": "Ataques automatizados por IA devem ganhar força nos próximos meses, diz Google",
       "fonte": "TecMundo",
@@ -54,12 +60,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/de-aluno-de-curso-gratuito-a-cacador-de-falhas-brasileiro-encontra-brecha-em-software-global/",
       "data": "2026-11-17T21:15:00+00:00"
-    },
-    {
-      "titulo": "Instagram lança ferramenta para evitar que vídeos sejam copiados sem autorização",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/instagram-lanca-ferramenta-para-evitar-que-videos-sejam-copiados-sem-autorizacao/",
-      "data": "2026-11-17T21:00:00+00:00"
     },
     {
       "titulo": "Huawei Watch Fit 5 com GPS tem 54% OFF em até 10x no mês da Black 2026",
@@ -122,12 +122,6 @@
       "data": "2026-11-17T19:17:11+00:00"
     },
     {
-      "titulo": "Nvidia apresenta supercomputador de mesa com 512 GB de RAM",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/nvidia-apresenta-supercomputador-de-mesa-com-512-gb-de-memoria-ram/",
-      "data": "2026-11-17T19:08:58+00:00"
-    },
-    {
       "titulo": "GTA 6 a 120 FPS? Ferramenta gratuita promete mais fluidez, mas tem uma limitação",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/gta-6-a-120-fps-smoovplay/",
@@ -174,6 +168,12 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/gta-6-brasileiro-recebe-caixa-sem-codigo-ativacao/",
       "data": "2026-11-17T17:47:44+00:00"
+    },
+    {
+      "titulo": "Jensen Huang assume erros e diz que aceitaria voltar para a Nvidia",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/jensen-huang-assume-erros-e-diz-que-aceitaria-voltar-para-a-nvidia/",
+      "data": "2026-11-17T17:40:00+00:00"
     },
     {
       "titulo": "The Game Awards 2026: GTA 6 lidera com 8 indicações e disputa Jogo do Ano com Zelda e Resident Evil",
