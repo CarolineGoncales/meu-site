@@ -1,59 +1,137 @@
 {
-  "atualizado_em": "2026-11-19T04:17:26.308376+00:00",
+  "atualizado_em": "2026-11-19T13:37:01.842621+00:00",
   "noticias": [
     {
-      "titulo": "10 jogos famosos que faturaram menos do que GTA 6 apenas na pré-venda",
+      "titulo": "O Stanley Quencher de 1,18L está com 49% de desconto: mantém o gelo por até 2 dias",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/o-stanley-quencher-de-118l-esta-com-49-de-desconto-mantem-o-gelo-por-ate-2-dias/",
+      "data": "2026-11-19T13:30:21+00:00"
+    },
+    {
+      "titulo": "Streamer perde 11 horas de progresso em GTA 6 após desligar PS5 e ainda recebe visita da polícia ao vivo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/streamer-perde-progresso-gta-6/",
+      "data": "2026-11-19T13:23:34+00:00"
+    },
+    {
+      "titulo": "Windows 11 ganha checagem de segurança que pode travar jogos e apps",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/jogos-famosos-arrecadaram-menos-do-que-gta-6-pre-venda/",
-      "data": "2026-11-19T00:09:00+00:00"
+      "link": "https://canaltech.com.br/software/windows-11-ganha-checagem-de-seguranca-que-pode-travar-jogos-e-apps/",
+      "data": "2026-11-19T13:19:11+00:00"
     },
     {
-      "titulo": "Kit da ‘maldade’ usa GTA 6 para hackear computadores",
+      "titulo": "GTA 6 é o jogo com a melhor avaliação de todos os tempos e o único do século XXI com nota 99",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/kit-da-maldade-usa-gta-6-para-infectar-computadores/",
-      "data": "2026-11-19T00:00:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-e-o-jogo-com-a-melhor-avaliacao-de-todos-os-tempos-e-o-unico-do-seculo-xxi-com-nota-99/",
+      "data": "2026-11-19T13:18:00+00:00"
     },
     {
-      "titulo": "Home office: 135 vagas para trabalho remoto [18/11]",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/home-office-135-vagas-para-trabalho-remoto-1811/",
-      "data": "2026-11-18T23:00:00+00:00"
-    },
-    {
-      "titulo": "Banco do Brasil nega invasão, mas alerta clientes sobre vazamento de dados",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/banco-do-brasil-nega-invasao-mas-alerta-clientes-sobre-vazamento-de-dados/",
-      "data": "2026-11-18T22:45:00+00:00"
-    },
-    {
-      "titulo": "COD: Black Ops 6 e mais jogos de Xbox com até 90% OFF; aproveite",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/cod-black-ops-6-e-mais-jogos-de-xbox-com-ate-90-off-aproveite/",
-      "data": "2026-11-18T22:30:00+00:00"
-    },
-    {
-      "titulo": "Hoje no TecMundo (18): GPT-6.2 chegou, WhatsApp ganha backup próprio e mais",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-18-gpt-62-chegou-whatsapp-ganha-backup-proprio-e-mais/",
-      "data": "2026-11-18T22:16:00+00:00"
-    },
-    {
-      "titulo": "GTA 6 tem paródia do WhatsApp chamada WhatsUp! Veja como funciona",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-tem-parodia-do-whatsapp-chamada-whatsup-veja-como-funciona/",
-      "data": "2026-11-18T22:15:00+00:00"
-    },
-    {
-      "titulo": "Um terço dos jovens já usa IA como \"amigo\"; estudo aponta 70% mais risco de solidão",
+      "titulo": "Relógio que detecta parada cardíaca terá versão global, mas pode vir limitado",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/um-terco-dos-jovens-ja-usa-ia-como-amigo-estudo-aponta-70-mais-risco-de-solidao/",
-      "data": "2026-11-18T22:03:00+00:00"
+      "link": "https://canaltech.com.br/smartwatch/relogio-que-detecta-parada-cardiaca-tera-versao-global-mas-pode-vir-limitado/",
+      "data": "2026-11-19T13:14:55+00:00"
     },
     {
-      "titulo": "GTA 6 já pagou seus custos antes do lançamento?",
+      "titulo": "GTA 6 não deixa repetir missões da história pelo menu; entenda o motivo",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/gta-6-ja-pagou-seus-custos-antes-do-lancamento/",
-      "data": "2026-11-18T22:00:00+00:00"
+      "link": "https://canaltech.com.br/games/gta-6-nao-deixa-repetir-missoes-da-historia-pelo-menu-entenda-o-motivo/",
+      "data": "2026-11-19T13:10:04+00:00"
+    },
+    {
+      "titulo": "Finalmente uma boa notícia: preço da memória usada em SSDs despenca 20%",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/preco-memoria-ssds-despenca-20/",
+      "data": "2026-11-19T13:02:53+00:00"
+    },
+    {
+      "titulo": "Ucrânia quer usar Starlink como arma de guerra, diz Elon Musk",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/ucrania-quer-usar-starlink-como-arma-de-guerra-diz-elon-musk/",
+      "data": "2026-11-19T13:00:46+00:00"
+    },
+    {
+      "titulo": "Fones Galaxy Studio da Samsung têm detalhes vazados; saiba tudo",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/fones-galaxy-studio-da-samsung-tem-detalhes-vazados-saiba-tudo/",
+      "data": "2026-11-19T13:00:00+00:00"
+    },
+    {
+      "titulo": "“PS5 Pro não é poderoso o bastante” para GTA 6 a 60 FPS, admite Rockstar",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/ps5-pro-nao-e-poderoso-gta-6-a-60-fps/",
+      "data": "2026-11-19T12:31:20+00:00"
+    },
+    {
+      "titulo": "Philco lança programa que reduz em 15% a conta de energia de qualquer brasileiro",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/philco-lanca-programa-que-da-15-na-conta-de-energia-de-qualquer-brasileiro/",
+      "data": "2026-11-19T12:24:16+00:00"
+    },
+    {
+      "titulo": "O que comprar na Black Friday 2026 na Amazon",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-na-amazon/",
+      "data": "2026-11-19T12:15:00+00:00"
+    },
+    {
+      "titulo": "Anthropic: diferenciais técnicos e de segurança que podem justificar IPO recorde",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/anthropic-diferenciais-tecnicos-e-de-seguranca-que-podem-justificar-ipo-recorde/",
+      "data": "2026-11-19T12:15:00+00:00"
+    },
+    {
+      "titulo": "Galaxy A57: quanto vale a pena pagar na Black Friday 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/galaxy-a57-quanto-vale-a-pena-pagar-na-black-friday-2026/",
+      "data": "2026-11-19T12:10:04+00:00"
+    },
+    {
+      "titulo": "Rival da BYD confirma fábrica no Brasil e produção nacional de SUVs",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/rival-da-byd-confirma-fabrica-no-brasil-e-producao-nacional-de-suvs/",
+      "data": "2026-11-19T12:09:41+00:00"
+    },
+    {
+      "titulo": "GTA 6 bate recorde histórico de audiência em lives na Twitch e YouTube",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/gta-6-bate-recorde-historico-de-audiencia-em-lives-na-twitch-e-youtube/",
+      "data": "2026-11-19T12:09:38+00:00"
+    },
+    {
+      "titulo": "O que esperar da Anthropic nos próximos anos em produtos e serviços pós-IPO?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/o-que-esperar-da-anthropic-nos-proximos-anos-em-produtos-e-servicos-pos-ipo/",
+      "data": "2026-11-19T12:00:00+00:00"
+    },
+    {
+      "titulo": "Instagram finalmente permite editar Stories já publicados, mas há uma limitação",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/instagram-editar-stories-publicados/",
+      "data": "2026-11-19T11:50:18+00:00"
+    },
+    {
+      "titulo": "Desativou o histórico do Gemini? O Google salva mesmo assim",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/desativou-o-historico-do-gemini-o-google-salva-mesmo-assim/",
+      "data": "2026-11-19T11:40:54+00:00"
+    },
+    {
+      "titulo": "O grande dia chegou: GTA 6 finalmente está disponível",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-finalmente-esta-disponivel/",
+      "data": "2026-11-19T11:31:54+00:00"
+    },
+    {
+      "titulo": "Imperdível! GTA 6 a partir de R$ 336 com o cupom da Shopee",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/imperdivel-gta-6-a-partir-de-r-360-com-o-cupom-da-shopee/",
+      "data": "2026-11-19T11:19:00+00:00"
+    },
+    {
+      "titulo": "Brasileiro compra PS5 para jogar GTA 6, mas raio atinge sua casa e queima console",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/brasileiro-gta-6-raio-queima-ps5/",
+      "data": "2026-11-19T11:18:40+00:00"
     },
     {
       "titulo": "Motorola Edge 70 Fusion reaparece por menos da metade do preço na Black November",
@@ -68,28 +146,10 @@
       "data": "2026-11-18T21:30:15+00:00"
     },
     {
-      "titulo": "Rockstar confirma que PS5 Pro 'não é potente o suficiente' para rodar GTA 6 a 60 FPS",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/rockstar-confirma-que-ps5-pro-nao-e-potente-o-suficiente-para-rodar-gta-6-a-60-fps/",
-      "data": "2026-11-18T21:06:00+00:00"
-    },
-    {
-      "titulo": "Gemini Notebook cria sites interativos de estudo a partir das suas anotações e livros",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/gemini-notebook-cria-sites-interativos-de-estudo-a-partir-das-suas-anotacoes-e-livros/",
-      "data": "2026-11-18T21:02:01+00:00"
-    },
-    {
       "titulo": "GTA 6 coloca provedores de internet no Brasil em alerta",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/gta-6-pressiona-provedores-brasileiros-de-internet/",
       "data": "2026-11-18T20:52:22+00:00"
-    },
-    {
-      "titulo": "TIM terá live de GTA 6 à meia-noite e encontro com Gaules; veja horários",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/tim-tera-live-de-gta-6-a-meia-noite-e-encontro-com-gaules-veja-horarios/",
-      "data": "2026-11-18T20:48:28+00:00"
     },
     {
       "titulo": "Melhor antena digital interna para TV: 7 modelos para comprar em 2026",
@@ -102,18 +162,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/responde/codigos-de-gta-6-todos-os-cheats-liberados-para-ps5-e-xbox/",
       "data": "2026-11-18T20:37:55+00:00"
-    },
-    {
-      "titulo": "Bug em driver da NVIDIA grava até 30 GB por hora no SSD mesmo com PC parado",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/bug-em-driver-da-nvidia-grava-ate-30-gb-por-hora-no-ssd-mesmo-com-pc-parado/",
-      "data": "2026-11-18T20:12:00+00:00"
-    },
-    {
-      "titulo": "Toyota joga preços no chão e vende Hilux mais barato que Compass",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/toyota-joga-precos-no-chao-e-vende-hilux-mais-barato-que-compass/",
-      "data": "2026-11-18T20:05:00+00:00"
     },
     {
       "titulo": "App do Gemini agora funciona até em celulares Android com pouca RAM",
@@ -132,54 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/playstation-5-baixa-de-preco-na-black-november-com-cupom-exclusivo-prime/",
       "data": "2026-11-18T19:08:13+00:00"
-    },
-    {
-      "titulo": "Voltou: Galaxy Watch 8 LTE (44 mm) com menor preço na Black November do Magalu",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/voltou-galaxy-watch-8-lte-44-mm-com-menor-preco-na-black-november-do-magalu/",
-      "data": "2026-11-18T18:30:30+00:00"
-    },
-    {
-      "titulo": "AMD recebe nota da comunidade ao dizer que ama os jogadores: “São uma empresa de data centers”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gamers-rebatem-amd-data-center-ryzen-radeon/",
-      "data": "2026-11-18T17:45:42+00:00"
-    },
-    {
-      "titulo": "GTA 6 não permite mais “contratar prostitutas”, e o motivo envolve Jason e Lucia",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-nao-contratar-prostitutas/",
-      "data": "2026-11-18T17:43:17+00:00"
-    },
-    {
-      "titulo": "GTA 6 abandona sites e navegador de internet para dar mais destaque às redes sociais",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-destaque-redes-sociais/",
-      "data": "2026-11-18T17:07:36+00:00"
-    },
-    {
-      "titulo": "Windows 7 está de volta? Projeto permite rodar placas RTX 50 e Radeon RX 9000",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/windows-7-esta-de-volta-rtx-50/",
-      "data": "2026-11-18T16:45:53+00:00"
-    },
-    {
-      "titulo": "Meta usa CEO da OpenAI como mascote em vídeo gerado por IA",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/sam-altman-deepfake-instagram/",
-      "data": "2026-11-18T16:21:34+00:00"
-    },
-    {
-      "titulo": "GoPro Max 360 com 29% OFF + Cupom de 15%: uma grande oportunidade para garantir sua câmera de ação!",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/gopro-max-360-com-29-off-cupom-de-15-uma-grande-oportunidade-para-garantir-sua-camera-de-acao/",
-      "data": "2026-11-18T16:00:07+00:00"
-    },
-    {
-      "titulo": "Garrafa Stanley Quick Flip 710ml com até 57% OFF saindo por R$117",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/garrafa-stanley-quick-flip-710ml-com-ate-57-off-saindo-por-r117/",
-      "data": "2026-11-18T15:30:40+00:00"
     }
   ]
 }
