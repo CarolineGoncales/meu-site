@@ -1,6 +1,42 @@
 {
-  "atualizado_em": "2026-11-19T21:53:39.461228+00:00",
+  "atualizado_em": "2026-11-20T02:42:35.773021+00:00",
   "noticias": [
+    {
+      "titulo": "Como resgatar os benefícios da Ultimate Edition de GTA 6? Veja o guia",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-resgatar-os-beneficios-da-ultimate-edition-de-gta-6-veja-o-guia/",
+      "data": "2026-11-20T00:15:00+00:00"
+    },
+    {
+      "titulo": "Xbox Game Pass de novembro recebe High on Life 2 e mais jogos! Veja a lista",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-de-novembro-recebe-high-on-life-2-e-mais-jogos-veja-a-lista/",
+      "data": "2026-11-19T23:15:00+00:00"
+    },
+    {
+      "titulo": "Saros e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/saros-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store-2/",
+      "data": "2026-11-19T22:30:00+00:00"
+    },
+    {
+      "titulo": "Hoje no TecMundo (19): GTA 6 estreia com nota 99, Google lança Gemini 4 Neon e mais",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-19-gta-6-estreia-com-nota-99-google-lanca-gemini-4-neon-e-mais/",
+      "data": "2026-11-19T22:06:00+00:00"
+    },
+    {
+      "titulo": "Google AI Ultra de graça? Empresa diz que oferta é falsa e indica possível ‘brecha’",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/google-ai-ultra-oferta-falsa/",
+      "data": "2026-11-19T22:00:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 passa de 40 bilhões de views no YouTube e ganha joias digitais grátis",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/gta-6-passa-de-40-bilhoes-de-views-no-youtube-e-ganha-joias-digitais-gratis/",
+      "data": "2026-11-19T21:54:00+00:00"
+    },
     {
       "titulo": "Atores de Jason e Lucia em GTA 6 aparecem juntos pela primeira vez em foto",
       "fonte": "Canaltech",
@@ -32,24 +68,6 @@
       "data": "2026-11-19T21:07:00+00:00"
     },
     {
-      "titulo": "Chrome vai usar capturas de tela e análise por IA para detectar sites fraudulentos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/chrome-vai-usar-capturas-de-tela-e-analise-por-ia-para-detectar-sites-fraudulentos/",
-      "data": "2026-11-19T21:00:00+00:00"
-    },
-    {
-      "titulo": "Data centers devem elevar emissões de carbono em 70% até 2030, alerta AIE",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/data-centers-devem-elevar-emissoes-de-carbono-em-70-ate-2030-alerta-aie/",
-      "data": "2026-11-19T20:30:00+00:00"
-    },
-    {
-      "titulo": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (19)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-18/",
-      "data": "2026-11-19T20:15:00+00:00"
-    },
-    {
       "titulo": "Satya Nadella alerta que parte da infraestrutura crítica dos EUA possui falhas impossíveis de corrigir",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/satya-nadella-alerta-que-parte-da-infraestrutura-critica-dos-eua-possui-falhas-impossiveis-de-corrigir/",
@@ -72,12 +90,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/gta-6-ja-vendeu-mais-de-19-milhoes-de-copias-diz-consultoria/",
       "data": "2026-11-19T20:01:50+00:00"
-    },
-    {
-      "titulo": "Gabinete monstruoso e micro-ondas de 30L: os lançamentos da semana",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gabinete-monstruoso-e-micro-ondas-de-30l-os-lancamentos-da-semana/",
-      "data": "2026-11-19T20:00:00+00:00"
     },
     {
       "titulo": "Galaxy S26 Ultra está prestes a perder um de seus maiores diferenciais",
@@ -108,12 +120,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/flipper-one-chega-como-um-canivete-suico-hacker-que-roda-linux/",
       "data": "2026-11-19T19:07:17+00:00"
-    },
-    {
-      "titulo": "GTA 6 | Como o relacionamento e o Perfil Criminal moldam a história de Jason e Lucia",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/gta-6-relacionamento-jason-lucia-perfil-criminal/",
-      "data": "2026-11-19T19:04:00+00:00"
     },
     {
       "titulo": "Lenovo Idea Tab com 8 GB de RAM reaparece mais barato na Black November",
@@ -174,12 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/xai-e-processada-apos-grok-ser-usado-para-remover-hijab-de-mulher-muculmana/",
       "data": "2026-11-19T17:11:09+00:00"
-    },
-    {
-      "titulo": "Google AI Ultra vira alvo de esquema para liberar assinatura grátis por um ano",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/google-ai-ultra-vira-alvo-de-esquema-para-liberar-assinatura-gratis-por-um-ano/",
-      "data": "2026-11-18T19:15:00+00:00"
     }
   ]
 }
