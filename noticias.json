@@ -1,23 +1,119 @@
 {
-  "atualizado_em": "2026-11-21T15:29:41.604052+00:00",
+  "atualizado_em": "2026-11-21T20:59:03.058833+00:00",
   "noticias": [
+    {
+      "titulo": "GTA 6 traz nova mecânica para empurrar carros e até desatolar veículos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-traz-nova-mecanica-para-empurrar-carros-e-ate-desatolar-veiculos/",
+      "data": "2026-11-21T20:15:00+00:00"
+    },
+    {
+      "titulo": "Loja vendeu apenas cinco cópias físicas de GTA 6: “Ninguém quer comprar um código dentro de uma caixa”",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/loja-vendeu-apenas-cinco-copias-fisicas-de-gta-6/",
+      "data": "2026-11-21T20:04:24+00:00"
+    },
+    {
+      "titulo": "Como a Rockstar criou a Vice City de GTA?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/como-a-rockstar-criou-a-vice-city-de-gta/",
+      "data": "2026-11-21T20:00:03+00:00"
+    },
+    {
+      "titulo": "Preços da memória DDR5 já ultrapassam até nove vezes o valor original na Alemanha",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/memoria-ram-alemanha-preco-subindo-ainda/",
+      "data": "2026-11-21T19:39:42+00:00"
+    },
+    {
+      "titulo": "De vampiro a James Bond: por que Robert Pattinson é a melhor escolha para o novo 007",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/por-que-robert-pattinson-melhor-escolha-para-ser-007/",
+      "data": "2026-11-21T19:30:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 possui rinhas de galo; entenda como funciona",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-possui-rinhas-de-galo-entenda-como-funciona/",
+      "data": "2026-11-21T19:10:00+00:00"
+    },
+    {
+      "titulo": "Luz da injeção acesa: quando você deve parar o carro?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/luz-da-injecao-acesa-quando-voce-deve-parar-o-carro/",
+      "data": "2026-11-21T19:01:00+00:00"
+    },
+    {
+      "titulo": "Criador de Star Wars: Andor pede que o público se mobilize contra expansão de data centers",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/entretenimento/criador-star-wars-andor-pede-publico-mobilize-contra-data-centers/",
+      "data": "2026-11-21T18:32:15+00:00"
+    },
+    {
+      "titulo": "Bateria do celular caindo do nada? Entenda por que isso acontece e como resolver",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/bateria-do-celular-caindo-do-nada-entenda-por-que-isso-acontece-e-como-resolver/",
+      "data": "2026-11-21T18:30:00+00:00"
+    },
+    {
+      "titulo": "Como ativar a direção automática em GTA 6? Veja o tutorial",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-ativar-a-direcao-automatica-em-gta-6-veja-o-tutorial/",
+      "data": "2026-11-21T18:15:00+00:00"
+    },
+    {
+      "titulo": "Como montar um PC completo para rodar modelos de IA localmente",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/como-montar-pc-para-rodar-ia-localmente/",
+      "data": "2026-11-21T18:00:04+00:00"
+    },
+    {
+      "titulo": "Como descobrir se um desconto da Black Friday é real? 8 sinais",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/como-descobrir-se-um-desconto-da-black-friday-e-real-8-sinais/",
+      "data": "2026-11-21T17:30:05+00:00"
+    },
+    {
+      "titulo": "8 melhores adaptações de games lançadas em 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/melhores-adaptacoes-games-lancadas-2026/",
+      "data": "2026-11-21T17:00:00+00:00"
+    },
+    {
+      "titulo": "“123456” volta a liderar ranking de senhas mais usadas no mundo",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/sub-combinacao-ocupa-o-primeiro-lugar-em-7-dos-ultimos-8-anos-enquanto-admin-e-12345678-completam-o-podio/",
+      "data": "2026-11-21T16:45:14+00:00"
+    },
+    {
+      "titulo": "TV 4K ou projetor: qual compensa mais na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/tv/tv-4k-ou-projetor-qual-compensa-mais-na-black-friday/",
+      "data": "2026-11-21T16:30:00+00:00"
+    },
+    {
+      "titulo": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (21)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-6-novos-jogos-esta-semana-veja-os-lancamentos-21/",
+      "data": "2026-11-21T16:15:00+00:00"
+    },
+    {
+      "titulo": "Dragon Quest deveria acabar após a morte de Akira Toriyama, sugere compositor",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/dragon-quest-acabar-akira-toriyama/",
+      "data": "2026-11-21T15:36:02+00:00"
+    },
+    {
+      "titulo": "Jogos do Homem-Aranha e God of War Ragnarok para PS5 estão com até 69% de desconto na Amazon",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/jogos-do-homem-aranha-e-god-of-war-ragnarok-para-ps5-estao-com-ate-69-de-desconto-na-amazon/",
+      "data": "2026-11-21T15:30:50+00:00"
+    },
     {
       "titulo": "Sindicatos europeus da indústria de games publicam manifesto contra o uso de IA generativa",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/sindicatos-europeus-da-industria-games-publicam-manifesto-contra-uso-ia-generativa/",
       "data": "2026-11-21T15:21:14+00:00"
-    },
-    {
-      "titulo": "TV de 55 ou 65 polegadas: qual tamanho escolher na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/tv-de-55-ou-65-polegadas-qual-tamanho-escolher-na-black-friday/",
-      "data": "2026-11-21T15:00:06+00:00"
-    },
-    {
-      "titulo": "Ar-condicionado 12.000 BTU: quanto vale pagar na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/ar-condicionado-12000-btu-quanto-vale-pagar-na-black-friday/",
-      "data": "2026-11-21T15:00:01+00:00"
     },
     {
       "titulo": "Já é Black na Centauro: tem tênis e itens esportivos com até 70% off",
@@ -32,24 +128,6 @@
       "data": "2026-11-21T14:30:06+00:00"
     },
     {
-      "titulo": "Como assistir ao Youtube sem anúncios? Veja truque na URL",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/truque-da-url-para-assistir-youtube-sem-anuncios/",
-      "data": "2026-11-21T14:30:00+00:00"
-    },
-    {
-      "titulo": "Jogo sem IA vira destaque em competição da Epic Games dedicada à inteligência artificial",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/jogo-sem-ia-destaque-epic-lsd/",
-      "data": "2026-11-21T14:16:17+00:00"
-    },
-    {
-      "titulo": "Galaxy S26: quanto vale a pena pagar na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/galaxy-s26-quanto-vale-a-pena-pagar-na-black-friday-2026/",
-      "data": "2026-11-21T14:00:04+00:00"
-    },
-    {
       "titulo": "Stellar Blade e mais jogos para PC na Steam com até 95% OFF",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/stellar-blade-e-mais-jogos-para-pc-na-steam-com-ate-95-off/",
@@ -62,70 +140,10 @@
       "data": "2026-11-21T13:33:00+00:00"
     },
     {
-      "titulo": "Dreame D15 Plus com 48% de desconto: robô aspirador com autoesvaziamento e 13.000 Pa de sucção por muito menos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/dreame-d15-plus-com-48-de-desconto-robo-aspirador-com-autoesvaziamento-e-13-000-pa-de-succao-por-muito-menos/",
-      "data": "2026-11-21T13:30:17+00:00"
-    },
-    {
-      "titulo": "Governança de IA: 5 que falhas podem comprometer adoção da tecnologia em empresas",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/governanca-de-ia-5-que-falhas-podem-comprometer-adocao-da-tecnologia-em-empresas/",
-      "data": "2026-11-21T13:30:03+00:00"
-    },
-    {
       "titulo": "Galaxy Z Fold 8 ganha versão de luxo inspirada em GTA 6 por até R$ 72 mil",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-galaxy-z-fold-8-versao-especial-gta-6/",
       "data": "2026-11-21T13:00:00+00:00"
-    },
-    {
-      "titulo": "Air fryer Philips Walita: qual preço é promoção de verdade na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/air-fryer-philips-walita-qual-preco-e-promocao-de-verdade/",
-      "data": "2026-11-21T13:00:00+00:00"
-    },
-    {
-      "titulo": "Nem Marvel’s Wolverine salvou: Sony fica fora do Jogo do Ano após 12 anos",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/sony-fica-fora-goty-2026/",
-      "data": "2026-11-21T12:53:51+00:00"
-    },
-    {
-      "titulo": "O que comprar na Black Friday: iPhones",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-iphones/",
-      "data": "2026-11-21T12:45:00+00:00"
-    },
-    {
-      "titulo": "Quanto vale à pena pagar no ROG Xbox Ally na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/black-friday-quanto-vale-a-pena-pagar-rog-xbox-ally/",
-      "data": "2026-11-21T12:30:04+00:00"
-    },
-    {
-      "titulo": "Review Hyundai i20 Ultimate: uma visão do futuro, mas com um “pé” no passado",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/review-hyundai-i20-ultimate-uma-visao-do-futuro-mas-com-um-pe-no-passado/",
-      "data": "2026-11-21T12:02:00+00:00"
-    },
-    {
-      "titulo": "Que fim levou o Peixe Urbano, site que era referência das compras coletivas no Brasil?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/que-fim-levou-o-peixe-urbano-site-referencia-na-era-das-compras-coletivas-no-brasil/",
-      "data": "2026-11-21T12:00:00+00:00"
-    },
-    {
-      "titulo": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile! (21)",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-e-consoles-21/",
-      "data": "2026-11-21T11:00:00+00:00"
-    },
-    {
-      "titulo": "Orbitals e mais jogos para Switch na eShop com até 90% OFF",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/orbitals-e-mais-jogos-para-switch-na-eshop-com-ate-90-off/",
-      "data": "2026-11-20T22:30:00+00:00"
     },
     {
       "titulo": "Black November: Lenovo Idea Tab Pro Gen 2 aparece com maior desconto registrado",
@@ -138,24 +156,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/black-november-galaxy-z-fold-8-512-gb-tem-melhor-oferta-desde-lancamento/",
       "data": "2026-11-20T20:54:48+00:00"
-    },
-    {
-      "titulo": "Desenvolvedor consegue rodar Windows em um iPod Classic da Apple",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/ipod-classic-rodando-windows-ce/",
-      "data": "2026-11-20T20:37:04+00:00"
-    },
-    {
-      "titulo": "A vida em GTA 6 não é barata: veja quanto custam carros, garagens e armas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/gta-6-precos-carros-garagens-armas/",
-      "data": "2026-11-20T20:18:48+00:00"
-    },
-    {
-      "titulo": "GTA 6 arrecada US$ 3,79 bilhões no primeiro dia e registra o maior lançamento da história do entretenimento",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/gta-6-arrecada-us-379-bilhoes/",
-      "data": "2026-11-20T19:59:12+00:00"
     },
     {
       "titulo": "Motorola confirma mais celulares que receberão o Android 17",
