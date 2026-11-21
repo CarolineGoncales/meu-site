@@ -1,11 +1,125 @@
 {
-  "atualizado_em": "2026-11-21T07:28:15.808699+00:00",
+  "atualizado_em": "2026-11-21T15:29:41.604052+00:00",
   "noticias": [
     {
-      "titulo": "Como criar relatórios interativos no Gemini Notebook?",
+      "titulo": "Sindicatos europeus da indústria de games publicam manifesto contra o uso de IA generativa",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/sindicatos-europeus-da-industria-games-publicam-manifesto-contra-uso-ia-generativa/",
+      "data": "2026-11-21T15:21:14+00:00"
+    },
+    {
+      "titulo": "TV de 55 ou 65 polegadas: qual tamanho escolher na Black Friday?",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-criar-relatorios-interativos-no-gemini-notebook/",
-      "data": "2026-11-20T23:00:06+00:00"
+      "link": "https://canaltech.com.br/tv/tv-de-55-ou-65-polegadas-qual-tamanho-escolher-na-black-friday/",
+      "data": "2026-11-21T15:00:06+00:00"
+    },
+    {
+      "titulo": "Ar-condicionado 12.000 BTU: quanto vale pagar na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/ar-condicionado-12000-btu-quanto-vale-pagar-na-black-friday/",
+      "data": "2026-11-21T15:00:01+00:00"
+    },
+    {
+      "titulo": "Já é Black na Centauro: tem tênis e itens esportivos com até 70% off",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/ja-e-black-na-centauro-tem-tenis-e-itens-esportivos-com-ate-70-off/",
+      "data": "2026-11-21T14:35:00+00:00"
+    },
+    {
+      "titulo": "DualSense com 26% de desconto: o que muda (e o que você ganha) com um segundo controle",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/dualsense-com-26-de-desconto-o-que-muda-e-o-que-voce-ganha-com-um-segundo-controle/",
+      "data": "2026-11-21T14:30:06+00:00"
+    },
+    {
+      "titulo": "Como assistir ao Youtube sem anúncios? Veja truque na URL",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/truque-da-url-para-assistir-youtube-sem-anuncios/",
+      "data": "2026-11-21T14:30:00+00:00"
+    },
+    {
+      "titulo": "Jogo sem IA vira destaque em competição da Epic Games dedicada à inteligência artificial",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/jogo-sem-ia-destaque-epic-lsd/",
+      "data": "2026-11-21T14:16:17+00:00"
+    },
+    {
+      "titulo": "Galaxy S26: quanto vale a pena pagar na Black Friday 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/galaxy-s26-quanto-vale-a-pena-pagar-na-black-friday-2026/",
+      "data": "2026-11-21T14:00:04+00:00"
+    },
+    {
+      "titulo": "Stellar Blade e mais jogos para PC na Steam com até 95% OFF",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/stellar-blade-e-mais-jogos-para-pc-na-steam-com-ate-95-off/",
+      "data": "2026-11-21T14:00:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 sofre ‘review bombing’ no Metacritic, mas recebe avaliações positivas de compradores",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-sofre-review-bombing-no-metacritic-mas-recebe-avaliacoes-positivas-de-compradores/",
+      "data": "2026-11-21T13:33:00+00:00"
+    },
+    {
+      "titulo": "Dreame D15 Plus com 48% de desconto: robô aspirador com autoesvaziamento e 13.000 Pa de sucção por muito menos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/hardware-indica/dreame-d15-plus-com-48-de-desconto-robo-aspirador-com-autoesvaziamento-e-13-000-pa-de-succao-por-muito-menos/",
+      "data": "2026-11-21T13:30:17+00:00"
+    },
+    {
+      "titulo": "Governança de IA: 5 que falhas podem comprometer adoção da tecnologia em empresas",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/governanca-de-ia-5-que-falhas-podem-comprometer-adocao-da-tecnologia-em-empresas/",
+      "data": "2026-11-21T13:30:03+00:00"
+    },
+    {
+      "titulo": "Galaxy Z Fold 8 ganha versão de luxo inspirada em GTA 6 por até R$ 72 mil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-galaxy-z-fold-8-versao-especial-gta-6/",
+      "data": "2026-11-21T13:00:00+00:00"
+    },
+    {
+      "titulo": "Air fryer Philips Walita: qual preço é promoção de verdade na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/air-fryer-philips-walita-qual-preco-e-promocao-de-verdade/",
+      "data": "2026-11-21T13:00:00+00:00"
+    },
+    {
+      "titulo": "Nem Marvel’s Wolverine salvou: Sony fica fora do Jogo do Ano após 12 anos",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/sony-fica-fora-goty-2026/",
+      "data": "2026-11-21T12:53:51+00:00"
+    },
+    {
+      "titulo": "O que comprar na Black Friday: iPhones",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-iphones/",
+      "data": "2026-11-21T12:45:00+00:00"
+    },
+    {
+      "titulo": "Quanto vale à pena pagar no ROG Xbox Ally na Black Friday 2026?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/black-friday-quanto-vale-a-pena-pagar-rog-xbox-ally/",
+      "data": "2026-11-21T12:30:04+00:00"
+    },
+    {
+      "titulo": "Review Hyundai i20 Ultimate: uma visão do futuro, mas com um “pé” no passado",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/review-hyundai-i20-ultimate-uma-visao-do-futuro-mas-com-um-pe-no-passado/",
+      "data": "2026-11-21T12:02:00+00:00"
+    },
+    {
+      "titulo": "Que fim levou o Peixe Urbano, site que era referência das compras coletivas no Brasil?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/que-fim-levou-o-peixe-urbano-site-referencia-na-era-das-compras-coletivas-no-brasil/",
+      "data": "2026-11-21T12:00:00+00:00"
+    },
+    {
+      "titulo": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile! (21)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-e-consoles-21/",
+      "data": "2026-11-21T11:00:00+00:00"
     },
     {
       "titulo": "Orbitals e mais jogos para Switch na eShop com até 90% OFF",
@@ -14,22 +128,10 @@
       "data": "2026-11-20T22:30:00+00:00"
     },
     {
-      "titulo": "Chevrolet dá \"um Dolphin Mini\" de desconto para desovar SUV elétrico",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/chevrolet-da-um-dolphin-mini-de-desconto-para-desovar-suv-eletrico/",
-      "data": "2026-11-20T22:05:00+00:00"
-    },
-    {
       "titulo": "Black November: Lenovo Idea Tab Pro Gen 2 aparece com maior desconto registrado",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/black-november-lenovo-idea-tab-pro-gen-2-para-jogos-tem-melhor-oferta-que-ja-vimos/",
       "data": "2026-11-20T21:50:55+00:00"
-    },
-    {
-      "titulo": "5G+ promete até 2 Gbps no Brasil; veja o que muda para você",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/5g-promete-ate-2-gbps-no-brasil-veja-o-que-muda-para-voce/",
-      "data": "2026-11-20T21:00:00+00:00"
     },
     {
       "titulo": "Black November: Galaxy Z Fold 8 (512 GB) tem melhor oferta desde lançamento",
@@ -50,112 +152,16 @@
       "data": "2026-11-20T20:18:48+00:00"
     },
     {
-      "titulo": "MSI apresenta RTX 5080 de COD MW4 e confirma lançamento para o Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/msi-apresenta-rtx-5080-de-cod-mw4-e-confirma-lancamento-para-o-brasil/",
-      "data": "2026-11-20T20:17:00+00:00"
-    },
-    {
-      "titulo": "Google Vids agora cria seu avatar com IA de graça; veja como fazer",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/google-vids-agora-cria-seu-avatar-com-ia-de-graca-veja-como-fazer/",
-      "data": "2026-11-20T20:00:09+00:00"
-    },
-    {
-      "titulo": "Perfis e anúncios falsos dominaram ameaças na Black Friday 2026; saiba como se proteger",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/perfis-e-anuncios-falsos-dominaram-ameacas-na-black-friday-2026-saiba-como-se-proteger/",
-      "data": "2026-11-20T20:00:00+00:00"
-    },
-    {
       "titulo": "GTA 6 arrecada US$ 3,79 bilhões no primeiro dia e registra o maior lançamento da história do entretenimento",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/games/gta-6-arrecada-us-379-bilhoes/",
       "data": "2026-11-20T19:59:12+00:00"
     },
     {
-      "titulo": "Kombi elétrica ganha versão para praia com cama e até ar-condicionado",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/kombi-eletrica-ganha-versao-para-praia-com-cama-e-ate-ar-condicionado/",
-      "data": "2026-11-20T19:52:28+00:00"
-    },
-    {
-      "titulo": "Homem reaproveita placa-mãe de Mac mini de 2009 e constrói PC retrô com Windows XP e GeForce 9400",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/pc-retro-windows-xp-mac-mini-2009-geforce-9400/",
-      "data": "2026-11-20T19:50:05+00:00"
-    },
-    {
-      "titulo": "GTA 6 vende 32,5 milhões de cópias e arrecada US$ 3,79 bilhões na estreia, diz Take-Two",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-vende-325-milhoes-de-copias-e-arrecada-us-379-bilhoes-em-um-dia/",
-      "data": "2026-11-20T19:45:00+00:00"
-    },
-    {
-      "titulo": "GTA 6 acumula recordes de audiência nas plataformas desde o lançamento; veja lista",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/gta-6-acumula-recordes-de-audiencia-nas-plataformas-desde-o-lancamento-veja-lista/",
-      "data": "2026-11-20T19:38:00+00:00"
-    },
-    {
-      "titulo": "Novo carro da BYD parece uma nave espacial; veja como é por dentro",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/novo-carro-da-byd-parece-uma-nave-espacial-veja-como-e-por-dentro/",
-      "data": "2026-11-20T19:27:35+00:00"
-    },
-    {
-      "titulo": "Como trocar a câmera em GTA 6 a pé e no carro? Confira o tutorial",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/como-trocar-a-camera-em-gta-6-a-pe-e-no-carro-confira-o-tutorial/",
-      "data": "2026-11-20T19:27:00+00:00"
-    },
-    {
-      "titulo": "Ar-condicionado Elgin Inverter de 9.000 BTUs cai para R$ 1.568 na Black Friday",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/ar-condicionado-elgin-inverter-de-9000-btus-cai-para-r-1568-na-black-friday/",
-      "data": "2026-11-20T19:26:46+00:00"
-    },
-    {
-      "titulo": "Confira guia de troféus de GTA 6 e como desbloquear todas as conquistas",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-guia-de-trofeus-e-conquistas/",
-      "data": "2026-11-20T19:15:00+00:00"
-    },
-    {
-      "titulo": "Canon cria sensor de 410 MP para câmeras profissionais; veja detalhes",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/canon-cria-sensor-de-410-mp-para-cameras-profissionais-veja-detalhes/",
-      "data": "2026-11-20T19:11:21+00:00"
-    },
-    {
-      "titulo": "Jensen Huang é acusado de humilhar e ameaçar funcionários em investigação do New York Times",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/jensen-huang-e-acusado-de-humilhar-e-ameacar-funcionariosinvestigacao-new-york-times/",
-      "data": "2026-11-20T18:56:04+00:00"
-    },
-    {
       "titulo": "Motorola confirma mais celulares que receberão o Android 17",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/motorola-confirma-mais-celulares-que-receberao-o-android-17/",
       "data": "2026-11-20T16:13:19+00:00"
-    },
-    {
-      "titulo": "Microsoft rejeitou GTA 3 para o Xbox em 2001 e perdeu uma das maiores oportunidades da história dos games",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/microsoft-rejeitou-gta-3-para-o-xbox-em-2001/",
-      "data": "2026-11-20T16:01:17+00:00"
-    },
-    {
-      "titulo": "Black Friday: Novo Echo Dot Max da Amazon ganha 40% de desconto nas cores grafite, branca e roxa",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/black-friday-novo-echo-dot-max-da-amazon-ganha-40-de-desconto-nas-cores-grafite-branca-e-roxa/",
-      "data": "2026-11-20T16:00:02+00:00"
-    },
-    {
-      "titulo": "Echo Spot com 54% de desconto! Sua chance de deixar a casa mais inteligente!",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/echo-spot-com-54-de-desconto-sua-chance-de-deixar-a-casa-mais-inteligente/",
-      "data": "2026-11-20T15:30:54+00:00"
     },
     {
       "titulo": "Samsung agora permite bloquear apps individualmente nos celulares",
@@ -174,12 +180,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/desenvolvedores-de-gta-6-temem-demissoes-apos-lancamento/",
       "data": "2026-11-20T14:50:30+00:00"
-    },
-    {
-      "titulo": "WhatsApp aumenta limite de grupos para até 1.500 pessoas",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/whatsapp-aumenta-limite-de-grupos-para-ate-1-500-pessoas/",
-      "data": "2026-11-20T14:15:38+00:00"
     }
   ]
 }
