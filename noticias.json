@@ -1,83 +1,137 @@
 {
-  "atualizado_em": "2026-11-20T18:53:46.704094+00:00",
+  "atualizado_em": "2026-11-21T00:23:59.608817+00:00",
   "noticias": [
     {
-      "titulo": "Xiaomi lança barbeador que se ajusta sozinho à sua barba; bateria dura 60 dias",
+      "titulo": "Como criar relatórios interativos no Gemini Notebook?",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/xiaomi-lanca-barbeador-que-se-ajusta-sozinho-a-sua-barba-bateria-dura-60-dias/",
-      "data": "2026-11-20T18:21:30+00:00"
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-criar-relatorios-interativos-no-gemini-notebook/",
+      "data": "2026-11-20T23:00:06+00:00"
     },
     {
-      "titulo": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (20)",
+      "titulo": "Orbitals e mais jogos para Switch na eShop com até 90% OFF",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-20/",
-      "data": "2026-11-20T18:15:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/orbitals-e-mais-jogos-para-switch-na-eshop-com-ate-90-off/",
+      "data": "2026-11-20T22:30:00+00:00"
     },
     {
-      "titulo": "Ainda tem jogo grátis em fim de semana de GTA 6? Descubra",
+      "titulo": "Chevrolet dá \"um Dolphin Mini\" de desconto para desovar SUV elétrico",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/ainda-tem-jogo-gratis-em-fim-de-semana-de-gta-6-descubra/",
-      "data": "2026-11-20T18:00:05+00:00"
+      "link": "https://canaltech.com.br/carros/chevrolet-da-um-dolphin-mini-de-desconto-para-desovar-suv-eletrico/",
+      "data": "2026-11-20T22:05:00+00:00"
     },
     {
-      "titulo": "GTA 6 traz participações especiais de outros personagens da franquia? Confira",
+      "titulo": "Black November: Lenovo Idea Tab Pro Gen 2 aparece com maior desconto registrado",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/black-november-lenovo-idea-tab-pro-gen-2-para-jogos-tem-melhor-oferta-que-ja-vimos/",
+      "data": "2026-11-20T21:50:55+00:00"
+    },
+    {
+      "titulo": "5G+ promete até 2 Gbps no Brasil; veja o que muda para você",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/5g-promete-ate-2-gbps-no-brasil-veja-o-que-muda-para-voce/",
+      "data": "2026-11-20T21:00:00+00:00"
+    },
+    {
+      "titulo": "Black November: Galaxy Z Fold 8 (512 GB) tem melhor oferta desde lançamento",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/black-november-galaxy-z-fold-8-512-gb-tem-melhor-oferta-desde-lancamento/",
+      "data": "2026-11-20T20:54:48+00:00"
+    },
+    {
+      "titulo": "Desenvolvedor consegue rodar Windows em um iPod Classic da Apple",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/ipod-classic-rodando-windows-ce/",
+      "data": "2026-11-20T20:37:04+00:00"
+    },
+    {
+      "titulo": "A vida em GTA 6 não é barata: veja quanto custam carros, garagens e armas",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/gta-6-precos-carros-garagens-armas/",
+      "data": "2026-11-20T20:18:48+00:00"
+    },
+    {
+      "titulo": "MSI apresenta RTX 5080 de COD MW4 e confirma lançamento para o Brasil",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-traz-participacoes-especiais-de-outros-personagens-da-franquia-confira/",
-      "data": "2026-11-20T17:57:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/msi-apresenta-rtx-5080-de-cod-mw4-e-confirma-lancamento-para-o-brasil/",
+      "data": "2026-11-20T20:17:00+00:00"
     },
     {
-      "titulo": "GTA 6 pirata para Xbox sai em poucos dias, diz Cyberleek",
+      "titulo": "Google Vids agora cria seu avatar com IA de graça; veja como fazer",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/gta-6-pirata-para-xbox-sai-em-poucos-dias-diz-cyberleek/",
-      "data": "2026-11-20T17:54:00+00:00"
+      "link": "https://canaltech.com.br/apps/google-vids-agora-cria-seu-avatar-com-ia-de-graca-veja-como-fazer/",
+      "data": "2026-11-20T20:00:09+00:00"
     },
     {
-      "titulo": "Romance de Natal e signos na Netflix: veja 12 estreias para assistir no fim de semana",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/netflix-romance-de-natal-e-signos-estreias-para-assistir-no-fim-de-semana/",
-      "data": "2026-11-20T17:30:04+00:00"
-    },
-    {
-      "titulo": "Falha crítica em Java permite invasão remota a aplicações corporativas",
+      "titulo": "Perfis e anúncios falsos dominaram ameaças na Black Friday 2026; saiba como se proteger",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-critica-em-java-permite-invasao-remota-a-aplicacoes-corporativas/",
-      "data": "2026-11-20T17:30:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/perfis-e-anuncios-falsos-dominaram-ameacas-na-black-friday-2026-saiba-como-se-proteger/",
+      "data": "2026-11-20T20:00:00+00:00"
     },
     {
-      "titulo": "‘Widgets’: brechas de segurança ameaçam o Telegram",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/widgets-brechas-de-seguranca-ameacam-o-telegram/",
-      "data": "2026-11-20T17:30:00+00:00"
+      "titulo": "GTA 6 arrecada US$ 3,79 bilhões no primeiro dia e registra o maior lançamento da história do entretenimento",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-arrecada-us-379-bilhoes/",
+      "data": "2026-11-20T19:59:12+00:00"
     },
     {
-      "titulo": "Onde encontrar as 5 garrafas vazias de Zelda: Ocarina of Time",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/onde-encontrar-as-5-garrafas-vazias-de-zelda-ocarina-of-time/",
-      "data": "2026-11-20T17:15:00+00:00"
-    },
-    {
-      "titulo": "iPhone 20 pode parecer uma \"barra de vidro\" quase sem bordas; veja imagens",
+      "titulo": "Kombi elétrica ganha versão para praia com cama e até ar-condicionado",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/iphone-20-pode-parecer-uma-barra-de-vidro-quase-sem-bordas-veja-imagens/",
-      "data": "2026-11-20T17:10:27+00:00"
+      "link": "https://canaltech.com.br/carros/kombi-eletrica-ganha-versao-para-praia-com-cama-e-ate-ar-condicionado/",
+      "data": "2026-11-20T19:52:28+00:00"
     },
     {
-      "titulo": "Acabou a “farra”? Híbridos têm data para voltar a pagar IPVA em São Paulo",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/acabou-a-farra-hibridos-tem-data-para-voltar-a-pagar-ipva-em-sao-paulo/",
-      "data": "2026-11-20T17:02:00+00:00"
+      "titulo": "Homem reaproveita placa-mãe de Mac mini de 2009 e constrói PC retrô com Windows XP e GeForce 9400",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/pc-retro-windows-xp-mac-mini-2009-geforce-9400/",
+      "data": "2026-11-20T19:50:05+00:00"
     },
     {
-      "titulo": "Como o novo smartphone iFruit 2026 de GTA 6 HUMILHA celulares da vida real",
+      "titulo": "GTA 6 vende 32,5 milhões de cópias e arrecada US$ 3,79 bilhões na estreia, diz Take-Two",
       "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/como-o-novo-smartphone-ifruit-2026-de-gta-6-humilha-celulares-da-vida-real/",
-      "data": "2026-11-20T16:56:00+00:00"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-vende-325-milhoes-de-copias-e-arrecada-us-379-bilhoes-em-um-dia/",
+      "data": "2026-11-20T19:45:00+00:00"
     },
     {
-      "titulo": "WhatsApp libera grupos com quase 50% mais pessoas; veja o novo limite",
+      "titulo": "GTA 6 acumula recordes de audiência nas plataformas desde o lançamento; veja lista",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/gta-6-acumula-recordes-de-audiencia-nas-plataformas-desde-o-lancamento-veja-lista/",
+      "data": "2026-11-20T19:38:00+00:00"
+    },
+    {
+      "titulo": "Novo carro da BYD parece uma nave espacial; veja como é por dentro",
       "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/whatsapp-libera-grupos-com-quase-50-mais-pessoas-veja-o-novo-limite/",
-      "data": "2026-11-20T16:35:06+00:00"
+      "link": "https://canaltech.com.br/carros/novo-carro-da-byd-parece-uma-nave-espacial-veja-como-e-por-dentro/",
+      "data": "2026-11-20T19:27:35+00:00"
+    },
+    {
+      "titulo": "Como trocar a câmera em GTA 6 a pé e no carro? Confira o tutorial",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-trocar-a-camera-em-gta-6-a-pe-e-no-carro-confira-o-tutorial/",
+      "data": "2026-11-20T19:27:00+00:00"
+    },
+    {
+      "titulo": "Ar-condicionado Elgin Inverter de 9.000 BTUs cai para R$ 1.568 na Black Friday",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/ar-condicionado-elgin-inverter-de-9000-btus-cai-para-r-1568-na-black-friday/",
+      "data": "2026-11-20T19:26:46+00:00"
+    },
+    {
+      "titulo": "Confira guia de troféus de GTA 6 e como desbloquear todas as conquistas",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-guia-de-trofeus-e-conquistas/",
+      "data": "2026-11-20T19:15:00+00:00"
+    },
+    {
+      "titulo": "Canon cria sensor de 410 MP para câmeras profissionais; veja detalhes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/canon-cria-sensor-de-410-mp-para-cameras-profissionais-veja-detalhes/",
+      "data": "2026-11-20T19:11:21+00:00"
+    },
+    {
+      "titulo": "Jensen Huang é acusado de humilhar e ameaçar funcionários em investigação do New York Times",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/jensen-huang-e-acusado-de-humilhar-e-ameacar-funcionariosinvestigacao-new-york-times/",
+      "data": "2026-11-20T18:56:04+00:00"
     },
     {
       "titulo": "Motorola confirma mais celulares que receberão o Android 17",
@@ -98,18 +152,6 @@
       "data": "2026-11-20T16:00:02+00:00"
     },
     {
-      "titulo": "5 notebooks bons até R$ 6.000 que valem a pena comprar na Black Friday 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/black-friday-notebooks-bons-ate-6000-reais-para-comprar/",
-      "data": "2026-11-20T16:00:01+00:00"
-    },
-    {
-      "titulo": "Google Play revela lista de melhores apps e jogos de 2026 para Android",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/google-play-revela-lista-de-melhores-apps-e-jogos-de-2026-para-android/",
-      "data": "2026-11-20T16:00:00+00:00"
-    },
-    {
       "titulo": "Echo Spot com 54% de desconto! Sua chance de deixar a casa mais inteligente!",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/hardware-indica/echo-spot-com-54-de-desconto-sua-chance-de-deixar-a-casa-mais-inteligente/",
@@ -122,22 +164,10 @@
       "data": "2026-11-20T15:26:49+00:00"
     },
     {
-      "titulo": "Como trocar de personagem em GTA 6? Saiba mudar entre Jason e Lucia no gameplay",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/como-trocar-de-personagem-em-gta-6-saiba-mudar-entre-jason-e-lucia-no-gameplay/",
-      "data": "2026-11-20T15:15:00+00:00"
-    },
-    {
       "titulo": "Lenovo Ideapad Slim 3 com 16 GB de RAM fica mais barato no esquenta Black 2026",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/lenovo-ideapad-slim-3-com-16-gb-de-ram-fica-mais-barato-no-esquenta-black-2026/",
       "data": "2026-11-20T15:09:51+00:00"
-    },
-    {
-      "titulo": "Kindle Colorsoft Signature com menor preço do ano: modelo colorido com mais armazenamento e carregamento sem fio.",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/kindle-colorsoft-signature-entra-em-oferta-com-tela-colorida-economia-de-r350/",
-      "data": "2026-11-20T15:00:41+00:00"
     },
     {
       "titulo": "Desenvolvedores de GTA 6 temem demissões após lançamento",
@@ -146,40 +176,10 @@
       "data": "2026-11-20T14:50:30+00:00"
     },
     {
-      "titulo": "Escola dos EUA desativa detector de armas com IA após sistema confundir objetos comuns com armas",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/escola-dos-eua-desativa-detector-de-armas-com-ia-apos-sistema-confundir-objetos-comuns-com-armas/",
-      "data": "2026-11-20T14:44:11+00:00"
-    },
-    {
-      "titulo": "Reino Unido realiza operação secreta para proteger milhares de refrigeradores contra hackers",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/reino-unido-proteger-refrigeradores/",
-      "data": "2026-11-20T14:32:00+00:00"
-    },
-    {
-      "titulo": "Controles DualSense Hyperpop Collection em promoção! Estilo neon para turbinar seu setup PS5",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/controles-dualsense-hyperpop-collection-em-promocao-estilo-neon-para-turbinar-seu-setup-ps5/",
-      "data": "2026-11-20T14:30:19+00:00"
-    },
-    {
       "titulo": "WhatsApp aumenta limite de grupos para até 1.500 pessoas",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/whatsapp-aumenta-limite-de-grupos-para-ate-1-500-pessoas/",
       "data": "2026-11-20T14:15:38+00:00"
-    },
-    {
-      "titulo": "Kindle Colorsoft tem R$ 500 OFF em até 10x às vésperas da Black Friday",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/kindle-colorsoft-tem-r-500-off-em-ate-10x-as-vesperas-da-black-friday/",
-      "data": "2026-11-20T14:07:50+00:00"
-    },
-    {
-      "titulo": "Fandom Box do Senhor dos Anéis: seis personagens colecionáveis da Terra-média a partir de R$ 75 para montar sua Sociedade do Anel",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/fandom-box-do-senhor-dos-aneis-seis-personagens-colecionaveis-da-terra-media-a-partir-de-r-75-para-montar-sua-sociedade-do-anel/",
-      "data": "2026-11-20T14:00:18+00:00"
     }
   ]
 }
