@@ -1,17 +1,113 @@
 {
-  "atualizado_em": "2026-11-22T15:44:33.645363+00:00",
+  "atualizado_em": "2026-11-22T21:21:54.318072+00:00",
   "noticias": [
     {
-      "titulo": "Robô aspirador com 45% OFF: WAP W90 automatiza a limpeza gastando pouco (até 6x sem juros)",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/robo-aspirador-com-45-off-wap-w90-automatiza-a-limpeza-gastando-pouco-ate-6x-sem-juros/",
-      "data": "2026-11-22T15:30:14+00:00"
+      "titulo": "6 atrizes que poderiam ser a próxima Bond Girl no novo 007 com Robert Pattinson",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/atrizes-que-poderiam-ser-nova-bond-girl-com-robert-pattinson/",
+      "data": "2026-11-22T21:00:00+00:00"
     },
     {
-      "titulo": "Roteirista de Clair Obscur: Expedition 33 faz duro alerta sobre o futuro da indústria de jogos",
+      "titulo": "GTA 6 provoca maior pico de tráfego de internet já registrado na história da Comcast",
       "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/clair-obscur-expedition-33-fundo-narrativas-demissoes/",
-      "data": "2026-11-22T15:05:00+00:00"
+      "link": "https://www.hardware.com.br/games/gta-6-maior-pico-trafego-internet-na-historia-comcast/",
+      "data": "2026-11-22T20:04:05+00:00"
+    },
+    {
+      "titulo": "Como concluir missões em GTA 6: planejamento vale mais que o caos",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/gta-6-planejar-missoes-recompensa-realismo/",
+      "data": "2026-11-22T20:00:05+00:00"
+    },
+    {
+      "titulo": "CEO da Anthropic teria sugerido videogames para acalmar as pessoas após IA causar desempregos em massa",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/ceo-anthropic-sugerido-games-acalmar-pessoas-apos-ia-causar-desempregos/",
+      "data": "2026-11-22T19:59:08+00:00"
+    },
+    {
+      "titulo": "8 maneiras de usar os dots do ChatGPT",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-dots-do-chatgpt/",
+      "data": "2026-11-22T19:30:00+00:00"
+    },
+    {
+      "titulo": "GTA 6: carro de Jason esconde BMW clássico com DNA de F1",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/gta-6-carro-de-jason-esconde-bmw-classico-com-dna-de-f1/",
+      "data": "2026-11-22T19:02:00+00:00"
+    },
+    {
+      "titulo": "Avaliação na Amazon viraliza após cliente não conseguir encaixar conectores de rede em switches",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/tecnologia/avaliacao-de-uma-estrela-na-amazon-viraliza-apos-cliente-nao-conseguir-encaixar-conectores-de-ethernet-nos-switches/",
+      "data": "2026-11-22T18:30:10+00:00"
+    },
+    {
+      "titulo": "iPhone 16e ou 17: qual vale mais a pena na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/iphone-16e-ou-17-qual-vale-mais-a-pena-na-black-friday/",
+      "data": "2026-11-22T18:30:00+00:00"
+    },
+    {
+      "titulo": "Mapa interativo de GTA 6 mostra localização de todos os itens! Veja como usar",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/mapa-interativo-de-gta-6-mostra-localizacao-de-todos-os-itens-veja-como-usar/",
+      "data": "2026-11-22T18:15:00+00:00"
+    },
+    {
+      "titulo": "Quando a One UI 9.5 será lançada?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/quando-one-ui-95-sera-lancada/",
+      "data": "2026-11-22T18:00:00+00:00"
+    },
+    {
+      "titulo": "Air fryer comum ou air fryer oven: qual comprar na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/eletro/air-fryer-comum-ou-air-fryer-oven-qual-comprar-na-black-friday/",
+      "data": "2026-11-22T17:30:03+00:00"
+    },
+    {
+      "titulo": "5 notebooks bons até R$ 8.000 que valem à pena comprar na Black Friday 2026",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/black-friday-notebooks-bons-ate-8000-reais-para-comprar/",
+      "data": "2026-11-22T17:00:00+00:00"
+    },
+    {
+      "titulo": "Facebook é realmente gratuito? União Europeia questiona uso de dados como forma de pagamento",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/uniao-europeia-questiona-facebook-slogan-gratuito/",
+      "data": "2026-11-22T16:56:21+00:00"
+    },
+    {
+      "titulo": "Cliente paga por montagem premium de PC, mas descobre película esquecida no cooler após processador atingir 91 °C",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/cliente-montagem-premium-pc-pelicula-cooler-superaquecimento/",
+      "data": "2026-11-22T16:43:54+00:00"
+    },
+    {
+      "titulo": "Homem reaproveita peças antigas e monta servidor de IA com 48 GB de VRAM usando duas NVIDIA Tesla P40",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/servidor-ia-local-48gb-vram-nvidia-tesla-p40/",
+      "data": "2026-11-22T16:29:49+00:00"
+    },
+    {
+      "titulo": "AMD acelera desenvolvimento de GPUs com IA da OpenAI e alcança melhorias de até 14%",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/noticias/amd-ia-openai-otimizacao-gpus-14-por-cento/",
+      "data": "2026-11-22T16:22:43+00:00"
+    },
+    {
+      "titulo": "Como funciona o Perfil Criminal de GTA 6? Entenda os níveis e consequências",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-funciona-o-perfil-criminal-de-gta-6-entenda-os-niveis-e-consequencias/",
+      "data": "2026-11-22T16:15:00+00:00"
+    },
+    {
+      "titulo": "Brasileiro relata que GTA 6 passou a travar a cada 5 minutos no PS5 Slim",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/brasileiro-gta-6-travar-cada-5-minutos-ps5-slim/",
+      "data": "2026-11-22T16:09:39+00:00"
     },
     {
       "titulo": "Garrafas Stanley a partir de R$ 122 na Black Friday antecipada",
@@ -20,94 +116,16 @@
       "data": "2026-11-22T14:35:00+00:00"
     },
     {
-      "titulo": "Ventilador de coluna Mondial com 29% de desconto: alívio imediato contra a onda de calor",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/ventilador-de-coluna-mondial-em-promocao-alivio-imediato-contra-a-onda-de-calor/",
-      "data": "2026-11-22T14:30:29+00:00"
-    },
-    {
-      "titulo": "TGP em notebooks gamer: por que duas RTX iguais podem ter desempenhos opostos?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/notebook/tgp-em-notebooks-gamer-diferencas-em-placas-de-video/",
-      "data": "2026-11-22T14:30:00+00:00"
-    },
-    {
-      "titulo": "Única foto da equipe original de GTA foi ignorada na época pelas revistas por falta de confiança no jogo",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/noticias/unica-foto-conhecida-da-equipe-original-de-gta/",
-      "data": "2026-11-22T14:24:28+00:00"
-    },
-    {
       "titulo": "Red Dead Redemption 2 baratinho, Like a Dragon na PS Plus e mais! Veja as indicações de games",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/red-dead-redemption-2-baratinho-like-a-dragon-na-ps-plus-e-mais-veja-as-indicacoes-de-games/",
       "data": "2026-11-22T14:00:00+00:00"
     },
     {
-      "titulo": "Diretor do filme de BioShock diz que jogo tem “um dos melhores mundos já criados”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/filme-bioshock-diretor-elogia/",
-      "data": "2026-11-22T13:35:25+00:00"
-    },
-    {
-      "titulo": "LEGOs de Star Wars em promoção: Yoda, Darth Vader, R2-D2 e a Millennium Falcon para completar sua coleção",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/legos-de-star-wars-em-promocao-yoda-darth-vader-r2-d2-e-a-millennium-falcon-para-completar-sua-colecao/",
-      "data": "2026-11-22T13:30:24+00:00"
-    },
-    {
-      "titulo": "Surge um novo canal comercial, operado de ponta a ponta por IA",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/surge-um-novo-canal-comercial-operado-de-ponta-a-ponta-por-ia/",
-      "data": "2026-11-22T13:30:00+00:00"
-    },
-    {
-      "titulo": "7 melhores filmes e séries com distopia para assistir no streaming",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/melhores-filmes-series-distopia-assistir-streaming/",
-      "data": "2026-11-22T13:00:03+00:00"
-    },
-    {
-      "titulo": "SportyNet passa a integrar a programação gratuita do Samsung TV Plus",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/sportynet-passa-a-integrar-a-programacao-gratuita-do-samsung-tv-plus/",
-      "data": "2026-11-22T12:54:52+00:00"
-    },
-    {
-      "titulo": "Ar-condicionado na Black Friday: 9 modelos para ficar de olho",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/eletro/ar-condicionado-na-black-friday-9-modelos-para-ficar-de-olho/",
-      "data": "2026-11-22T12:32:00+00:00"
-    },
-    {
-      "titulo": "10 recursos do Gemini Intelligence para celulares Android",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-intelligence-recursos-para-celulares-android/",
-      "data": "2026-11-22T12:30:03+00:00"
-    },
-    {
       "titulo": "O que comprar na Black Friday: máquinas de lavar",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-2026-maquinas-de-lavar/",
       "data": "2026-11-22T12:15:00+00:00"
-    },
-    {
-      "titulo": "Produtor de Final Fantasy afirma que Zelda: Ocarina of Time é uma verdadeira aula de como fazer remakes",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/zelda-ocarina-of-time-aula-remakes/",
-      "data": "2026-11-22T12:11:54+00:00"
-    },
-    {
-      "titulo": "Hyundai i20 Ultimate: o que é bom e o que é \"estranho\" no crossover",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/hyundai-i20-ultimate-o-que-e-bom-e-o-que-e-estranho-no-crossover/",
-      "data": "2026-11-22T12:03:00+00:00"
-    },
-    {
-      "titulo": "Quanto vale a pena pagar na RTX 5050 na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/hardware/geforce-rtx-5050-quanto-vale-a-pena-pagar-black-friday-2026/",
-      "data": "2026-11-22T11:30:00+00:00"
     },
     {
       "titulo": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (22)",
@@ -120,30 +138,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/big-techs/quer-trabalhar-em-big-techs-confira-vagas-de-emprego-disponiveis-no-brasil/",
       "data": "2026-11-21T22:00:00+00:00"
-    },
-    {
-      "titulo": "GTA 6 tem console próprio com jogos ‘desenvolvidos por equipe dentro da equipe’; entenda",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-tem-console-proprio-com-jogos-desenvolvidos-por-equipe-dentro-da-equipe-entenda/",
-      "data": "2026-11-21T21:15:00+00:00"
-    },
-    {
-      "titulo": "GTA 6 traz nova mecânica para empurrar carros e até desatolar veículos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-traz-nova-mecanica-para-empurrar-carros-e-ate-desatolar-veiculos/",
-      "data": "2026-11-21T20:15:00+00:00"
-    },
-    {
-      "titulo": "Loja vendeu apenas cinco cópias físicas de GTA 6: “Ninguém quer comprar um código dentro de uma caixa”",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/loja-vendeu-apenas-cinco-copias-fisicas-de-gta-6/",
-      "data": "2026-11-21T20:04:24+00:00"
-    },
-    {
-      "titulo": "GTA 6 possui rinhas de galo; entenda como funciona",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-possui-rinhas-de-galo-entenda-como-funciona/",
-      "data": "2026-11-21T19:10:00+00:00"
     },
     {
       "titulo": "Black November: Lenovo Idea Tab Pro Gen 2 aparece com maior desconto registrado",
@@ -180,6 +174,12 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/desenvolvedores-de-gta-6-temem-demissoes-apos-lancamento/",
       "data": "2026-11-20T14:50:30+00:00"
+    },
+    {
+      "titulo": "WhatsApp aumenta limite de grupos para até 1.500 pessoas",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/whatsapp-aumenta-limite-de-grupos-para-ate-1-500-pessoas/",
+      "data": "2026-11-20T14:15:38+00:00"
     }
   ]
 }
