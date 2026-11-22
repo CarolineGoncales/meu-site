@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-11-21T20:59:03.058833+00:00",
+  "atualizado_em": "2026-11-22T00:56:48.504604+00:00",
   "noticias": [
+    {
+      "titulo": "Review ASUS Zenbook S14 | Uma opção sólida no segmento de notebooks premium",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/notebook/review-asus-zenbook-s14/",
+      "data": "2026-11-21T23:00:00+00:00"
+    },
+    {
+      "titulo": "Quais são e quanto custam os carros da Caoa Changan no Brasil?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/quais-sao-e-quanto-custam-os-carros-da-caoa-changan-no-brasil/",
+      "data": "2026-11-21T22:03:00+00:00"
+    },
+    {
+      "titulo": "Quer trabalhar em big techs? Confira vagas de emprego disponíveis no Brasil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/quer-trabalhar-em-big-techs-confira-vagas-de-emprego-disponiveis-no-brasil/",
+      "data": "2026-11-21T22:00:00+00:00"
+    },
+    {
+      "titulo": "GTA 6 tem console próprio com jogos ‘desenvolvidos por equipe dentro da equipe’; entenda",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-tem-console-proprio-com-jogos-desenvolvidos-por-equipe-dentro-da-equipe-entenda/",
+      "data": "2026-11-21T21:15:00+00:00"
+    },
+    {
+      "titulo": "O que o Gemini sabe sobre você? Veja como acessar e apagar a memória da IA",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/inteligencia-artificial/veja-o-que-o-gemini-sabe-sobre-voce/",
+      "data": "2026-11-21T21:00:04+00:00"
+    },
     {
       "titulo": "GTA 6 traz nova mecânica para empurrar carros e até desatolar veículos",
       "fonte": "TecMundo",
@@ -68,28 +98,10 @@
       "data": "2026-11-21T18:00:04+00:00"
     },
     {
-      "titulo": "Como descobrir se um desconto da Black Friday é real? 8 sinais",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/produtos/como-descobrir-se-um-desconto-da-black-friday-e-real-8-sinais/",
-      "data": "2026-11-21T17:30:05+00:00"
-    },
-    {
-      "titulo": "8 melhores adaptações de games lançadas em 2026",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/melhores-adaptacoes-games-lancadas-2026/",
-      "data": "2026-11-21T17:00:00+00:00"
-    },
-    {
       "titulo": "“123456” volta a liderar ranking de senhas mais usadas no mundo",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/sub-combinacao-ocupa-o-primeiro-lugar-em-7-dos-ultimos-8-anos-enquanto-admin-e-12345678-completam-o-podio/",
       "data": "2026-11-21T16:45:14+00:00"
-    },
-    {
-      "titulo": "TV 4K ou projetor: qual compensa mais na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/tv/tv-4k-ou-projetor-qual-compensa-mais-na-black-friday/",
-      "data": "2026-11-21T16:30:00+00:00"
     },
     {
       "titulo": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (21)",
@@ -132,18 +144,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/stellar-blade-e-mais-jogos-para-pc-na-steam-com-ate-95-off/",
       "data": "2026-11-21T14:00:00+00:00"
-    },
-    {
-      "titulo": "GTA 6 sofre ‘review bombing’ no Metacritic, mas recebe avaliações positivas de compradores",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-sofre-review-bombing-no-metacritic-mas-recebe-avaliacoes-positivas-de-compradores/",
-      "data": "2026-11-21T13:33:00+00:00"
-    },
-    {
-      "titulo": "Galaxy Z Fold 8 ganha versão de luxo inspirada em GTA 6 por até R$ 72 mil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-galaxy-z-fold-8-versao-especial-gta-6/",
-      "data": "2026-11-21T13:00:00+00:00"
     },
     {
       "titulo": "Black November: Lenovo Idea Tab Pro Gen 2 aparece com maior desconto registrado",
