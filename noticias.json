@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "2026-11-23T01:51:28.859929+00:00",
+  "atualizado_em": "2026-11-23T09:54:38.038832+00:00",
   "noticias": [
+    {
+      "titulo": "Galaxy S27 Pro recebe nova certificação e se aproxima do lançamento",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/galaxy-s27-pro-recebe-nova-certificacao-e-se-aproxima-do-lancamento/",
+      "data": "2026-11-23T09:44:24+00:00"
+    },
+    {
+      "titulo": "Quanto vale a pena pagar em um Geely EX2 na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/quanto-vale-a-pena-pagar-em-um-geely-ex2-na-black-friday/",
+      "data": "2026-11-23T09:31:00+00:00"
+    },
+    {
+      "titulo": "‘Tamagotchi’ da Meta custará US$ 300 e terá 5G gratuito, afirma site",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/tamagotchi-da-meta-custara-us-300-e-tera-5g-gratuito-afirma-site/",
+      "data": "2026-11-23T09:00:00+00:00"
+    },
+    {
+      "titulo": "A ameaça quântica já entrou no radar da cibersegurança",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/a-ameaca-quantica-ja-entrou-no-radar-da-ciberseguranca/",
+      "data": "2026-11-23T09:00:00+00:00"
+    },
+    {
+      "titulo": "Análise – Gamesir X5 Lite Xbox Fortnite",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/analises/gamesir-x5-lite-xbox-fortnite/",
+      "data": "2026-11-22T23:30:55+00:00"
+    },
     {
       "titulo": "3 melhores notebooks para estudar e trabalhar em 2026",
       "fonte": "Canaltech",
@@ -56,34 +86,16 @@
       "data": "2026-11-22T19:30:00+00:00"
     },
     {
-      "titulo": "GTA 6: carro de Jason esconde BMW clássico com DNA de F1",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/gta-6-carro-de-jason-esconde-bmw-classico-com-dna-de-f1/",
-      "data": "2026-11-22T19:02:00+00:00"
-    },
-    {
       "titulo": "Avaliação na Amazon viraliza após cliente não conseguir encaixar conectores de rede em switches",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/avaliacao-de-uma-estrela-na-amazon-viraliza-apos-cliente-nao-conseguir-encaixar-conectores-de-ethernet-nos-switches/",
       "data": "2026-11-22T18:30:10+00:00"
     },
     {
-      "titulo": "iPhone 16e ou 17: qual vale mais a pena na Black Friday?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/iphone-16e-ou-17-qual-vale-mais-a-pena-na-black-friday/",
-      "data": "2026-11-22T18:30:00+00:00"
-    },
-    {
       "titulo": "Mapa interativo de GTA 6 mostra localização de todos os itens! Veja como usar",
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/mapa-interativo-de-gta-6-mostra-localizacao-de-todos-os-itens-veja-como-usar/",
       "data": "2026-11-22T18:15:00+00:00"
-    },
-    {
-      "titulo": "Quando a One UI 9.5 será lançada?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/quando-one-ui-95-sera-lancada/",
-      "data": "2026-11-22T18:00:00+00:00"
     },
     {
       "titulo": "Facebook é realmente gratuito? União Europeia questiona uso de dados como forma de pagamento",
@@ -114,18 +126,6 @@
       "fonte": "TecMundo",
       "link": "https://www.estadao.com.br/tecmundo/voxel/como-funciona-o-perfil-criminal-de-gta-6-entenda-os-niveis-e-consequencias/",
       "data": "2026-11-22T16:15:00+00:00"
-    },
-    {
-      "titulo": "Brasileiro relata que GTA 6 passou a travar a cada 5 minutos no PS5 Slim",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/games/brasileiro-gta-6-travar-cada-5-minutos-ps5-slim/",
-      "data": "2026-11-22T16:09:39+00:00"
-    },
-    {
-      "titulo": "Garrafas Stanley a partir de R$ 122 na Black Friday antecipada",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/garrafas-stanley-a-partir-de-r-122-na-black-friday-antecipada/",
-      "data": "2026-11-22T14:35:00+00:00"
     },
     {
       "titulo": "O que comprar na Black Friday 2026: máquinas de lavar",
