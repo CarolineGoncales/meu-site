@@ -1,6 +1,18 @@
 {
-  "atualizado_em": "2026-11-25T01:09:40.914549+00:00",
+  "atualizado_em": "2026-11-25T09:57:50.598937+00:00",
   "noticias": [
+    {
+      "titulo": "Black Friday Ao Vivo vai trazer promoções, cupons e especialistas para ajudar nas melhores escolhas",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/black-friday-ao-vivo-vai-trazer-promocoes-cupons-e-especialistas-para-ajudar-nas-melhores-escolhas/",
+      "data": "2026-11-25T08:30:00+00:00"
+    },
+    {
+      "titulo": "Chefe do Instagram reafirma que app não “escuta” o que você diz",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/chefe-do-instagram-reafirma-que-app-nao-escuta-o-que-voce-diz/",
+      "data": "2026-11-25T03:40:34+00:00"
+    },
     {
       "titulo": "Hoje no TecMundo (24): Jensen volta ao comando da Nvidia, GTA 6 recebe atualização e mais",
       "fonte": "TecMundo",
@@ -104,12 +116,6 @@
       "data": "2026-11-24T21:00:35+00:00"
     },
     {
-      "titulo": "Google Meet libera transmissão de vídeo em Full HD para todos",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/google-meet-libera-transmissao-de-video-em-full-hd-para-todos/",
-      "data": "2026-11-24T21:00:00+00:00"
-    },
-    {
       "titulo": "Trailer final de Vingadores: Doutor Destino esconde pista sobre retorno de Tobey Maguire",
       "fonte": "Canaltech",
       "link": "https://canaltech.com.br/entretenimento/trailer-final-de-vingadores-doutor-destino-esconde-pista-sobre-retorno-de-tobey-maguire/",
@@ -144,12 +150,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/whatsapp-comeca-a-liberar-figurinhas-com-audio/",
       "data": "2026-11-24T19:55:45+00:00"
-    },
-    {
-      "titulo": "Poco X8 vs Poco X8 Pro: qual smartphone Xiaomi comprar?",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/poco-x8-vs-poco-x8-pro-qual-smartphone-xiaomi-comprar/",
-      "data": "2026-11-24T19:49:53+00:00"
     },
     {
       "titulo": "Mais de 3,5 bilhões de dados pessoais e credenciais são expostos em dois grandes vazamentos",
