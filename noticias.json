@@ -1,6 +1,72 @@
 {
-  "atualizado_em": "2026-11-26T02:31:00.154575+00:00",
+  "atualizado_em": "2026-11-26T11:37:18.729841+00:00",
   "noticias": [
+    {
+      "titulo": "GTA 6 já estaria rodando a mais de 30 FPS no PC em versões não oficiais",
+      "fonte": "Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-30-fps-no-pc/",
+      "data": "2026-11-26T11:25:33+00:00"
+    },
+    {
+      "titulo": "Prime Gaming: Amazon Luna recebe últimos jogos grátis de novembro! Resgate agora (26)",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/prime-gaming-amazon-luna-recebe-ultimos-jogos-gratis-de-novembro-resgate-agora-26/",
+      "data": "2026-11-26T11:15:00+00:00"
+    },
+    {
+      "titulo": "Amazon avalia impacto do Muse na publicidade antes de liberar agente",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/amazon-avalia-impacto-do-muse-na-publicidade-antes-de-liberar-agente/",
+      "data": "2026-11-26T11:06:07+00:00"
+    },
+    {
+      "titulo": "Novo celular resistente da Samsung aparece em certificação com bateria removível",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/smartphone/novo-celular-resistente-da-samsung-aparece-em-certificacao-com-bateria-removivel/",
+      "data": "2026-11-26T11:01:47+00:00"
+    },
+    {
+      "titulo": "Anúncios falsos no Google usam empresas reais para infectar Macs",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/anuncios-falsos-no-google-usam-empresas-reais-para-infectar-macs/",
+      "data": "2026-11-26T11:00:00+00:00"
+    },
+    {
+      "titulo": "Lançamento de GTA 6 \"roubou\" jogadores de Call of Duty, Fortnite e EA Sports FC 27",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/lancamento-de-gta-6-roubou-jogadores-de-call-of-duty-fortnite-e-ea-sports-fc-27/",
+      "data": "2026-11-26T10:54:00+00:00"
+    },
+    {
+      "titulo": "Data center em órbita? SpaceX recebe autorização para 1 milhão de satélites",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/data-center-em-orbita-spacex-recebe-autorizacao-para-1-milhao-de-satelites/",
+      "data": "2026-11-26T10:49:02+00:00"
+    },
+    {
+      "titulo": "Galaxy Buds Core ou Buds 4: qual comprar na Black Friday?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/fone-de-ouvido/galaxy-buds-core-ou-buds-4-qual-comprar-na-black-friday/",
+      "data": "2026-11-26T10:28:00+00:00"
+    },
+    {
+      "titulo": "Cabo retrátil da Lenovo estica até 1,2m e transfere dados em alta velocidade",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/produtos/cabo-retratil-da-lenovo-estica-ate-12m-e-transfere-dados-em-alta-velocidade/",
+      "data": "2026-11-26T10:03:35+00:00"
+    },
+    {
+      "titulo": "Toyota amplia capacidade e vai fabricar 5 carros em SP; veja quais",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/toyota-amplia-capacidade-e-vai-fabricar-5-carros-em-sp-veja-quais/",
+      "data": "2026-11-26T10:01:00+00:00"
+    },
+    {
+      "titulo": "Lojas falsas lideram golpes antes da Black Friday",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/lojas-falsas-lideram-golpes-antes-da-black-friday/",
+      "data": "2026-11-26T08:00:00+00:00"
+    },
     {
       "titulo": "Vale a pena comprar uma placa de vídeo Intel ARC?",
       "fonte": "Canaltech",
@@ -50,12 +116,6 @@
       "data": "2026-11-25T22:02:14+00:00"
     },
     {
-      "titulo": "Celular Seguro tem média de mais de 10,8 mil consultas de IMEI por dia",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/celular-seguro-tem-media-de-mais-de-108-mil-consultas-de-imei-por-dia/",
-      "data": "2026-11-25T22:00:00+00:00"
-    },
-    {
       "titulo": "Esquenta Black: Galaxy Tab S11 para jogos sai por menos de R$ 5.000",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s11-para-jogos-sai-por-menos-de-r-5-000/",
@@ -68,34 +128,10 @@
       "data": "2026-11-25T21:18:00+00:00"
     },
     {
-      "titulo": "Exoprimal, o Dino Crisis futurista da Capcom, será oficialmente encerrado em 2027",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/exoprimal-o-dino-crisis-futurista-da-capcom-sera-oficialmente-encerrado-em-2027/",
-      "data": "2026-11-25T21:15:00+00:00"
-    },
-    {
-      "titulo": "Cupom Xiaomi |72% off - Novembro 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-xiaomi/",
-      "data": "2026-11-25T21:12:00+00:00"
-    },
-    {
       "titulo": "Black 2026: Huawei Watch Fit 5 Pro tem preço inédito em promoção relâmpago",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/black-2026-huawei-watch-fit-5-pro-tem-preco-inedito-em-promocao-relampago/",
       "data": "2026-11-25T21:05:07+00:00"
-    },
-    {
-      "titulo": "Motorola Signature (2025): até quanto vale a pena pagar na Black Friday?",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/motorola-signature-2025-ate-quanto-vale-a-pena-pagar-na-black-friday/",
-      "data": "2026-11-25T21:00:00+00:00"
-    },
-    {
-      "titulo": "Black Friday: Amazon e Apple estão entre as marcas mais usadas em golpes",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/seguranca/black-friday-amazon-e-apple-estao-entre-as-marcas-mais-usadas-em-golpes/",
-      "data": "2026-11-25T21:00:00+00:00"
     },
     {
       "titulo": "Galaxy Tab S10 Lite fica abaixo de R$ 2 mil antes da Black Friday na Amazon",
@@ -108,42 +144,6 @@
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/achados/aproveite-tv-lg-mini-led-50-cai-33-em-ate-12x-na-black-week/",
       "data": "2026-11-25T20:41:44+00:00"
-    },
-    {
-      "titulo": "Melhor Soundbar JBL: 6 modelos para comprar em 2026",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-soundbar-jbl/",
-      "data": "2026-11-25T20:39:40+00:00"
-    },
-    {
-      "titulo": "Brasil desenvolve recursos de saúde para Samsung Health e Galaxy Watch",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/brasil-desenvolve-recursos-de-saude-para-samsung-health-e-galaxy-watch/",
-      "data": "2026-11-25T20:34:27+00:00"
-    },
-    {
-      "titulo": "Starlink ganha aval para lançar 1 milhão de satélites; internet mais rápida?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/starlink-ganha-aval-para-lancar-1-milhao-de-satelites-internet-mais-rapida/",
-      "data": "2026-11-25T20:33:34+00:00"
-    },
-    {
-      "titulo": "Bancos dos EUA criam “botão de emergência” contra agentes de IA",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/bancos-dos-eua-implementam-botao-de-emergencia-contra-agentes-de-ia/",
-      "data": "2026-11-25T20:08:56+00:00"
-    },
-    {
-      "titulo": "Chevrolet derrete preços da S10 e picape fica mais em conta que Toyota Hilux",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/carros/chevrolet-derrete-precos-da-s10-e-picape-fica-mais-em-conta-que-toyota-hilux/",
-      "data": "2026-11-25T20:00:00+00:00"
-    },
-    {
-      "titulo": "Anatel encontra loja suspeita de interferir no GPS de aviões em Guarulhos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/telecom/anatel-encontra-loja-suspeita-de-interferir-no-gps-de-avioes-em-guarulhos/",
-      "data": "2026-11-25T19:30:17+00:00"
     },
     {
       "titulo": "Quase 20% das empresas japonesas planejam reduzir contratações de jovens devido ao avanço da IA",
