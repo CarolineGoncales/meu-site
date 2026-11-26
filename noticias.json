@@ -1,11 +1,143 @@
 {
-  "atualizado_em": "2026-11-25T19:42:40.094279+00:00",
+  "atualizado_em": "2026-11-26T02:31:00.154575+00:00",
   "noticias": [
     {
-      "titulo": "Windows 11 recebe atualização que muitos usuários não conseguem instalar",
+      "titulo": "Vale a pena comprar uma placa de vídeo Intel ARC?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/vale-a-pena-comprar-uma-placa-de-video-intel-arc/",
+      "data": "2026-11-25T23:25:03+00:00"
+    },
+    {
+      "titulo": "Como usar viagem rápida em GTA 6? Aprenda a transitar por Leonida",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-usar-viagem-rapida-em-gta-6-aprenda-a-transitar-por-leonida/",
+      "data": "2026-11-25T23:15:00+00:00"
+    },
+    {
+      "titulo": "Maioria usa IA no WhatsApp para solicitações envolvendo contatos e clientes, aponta estudo",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/maioria-usa-ia-no-whatsapp-para-solicitacoes-envolvendo-contatos-e-clientes-aponta-estudo/",
+      "data": "2026-11-25T23:00:00+00:00"
+    },
+    {
+      "titulo": "Falha em recurso do Claude permitia execução remota de códigos",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-em-recurso-do-claude-permitia-execucao-remota-de-codigos/",
+      "data": "2026-11-25T22:45:00+00:00"
+    },
+    {
+      "titulo": "Gears of War: E-Day e mais jogos com até 95% OFF na Black Friday do Xbox; confira",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gears-of-war-e-day-e-mais-jogos-com-ate-95-off-na-black-friday-do-xbox-confira/",
+      "data": "2026-11-25T22:30:00+00:00"
+    },
+    {
+      "titulo": "The Witcher 4 terá salto técnico no nível de GTA 6, promete CD Projekt Red",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/the-witcher-4-tera-salto-tecnico-no-nivel-de-gta-6-promete-cd-projekt-red/",
+      "data": "2026-11-25T22:13:00+00:00"
+    },
+    {
+      "titulo": "Justiça condena oito pessoas por pirataria da Sky",
       "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/windows-11-recebe-atualizacao-que-muitos-usuarios-nao-conseguem-instalar/",
-      "data": "2026-11-25T19:35:29+00:00"
+      "link": "https://tecnoblog.net/noticias/justica-condena-oito-pessoas-por-pirataria-da-sky/",
+      "data": "2026-11-25T22:02:28+00:00"
+    },
+    {
+      "titulo": "Bom e barato: Galaxy Book 4 tem redução de 37% antes da Black",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/bom-e-barato-galaxy-book-4-tem-reducao-de-37-antes-da-black/",
+      "data": "2026-11-25T22:02:14+00:00"
+    },
+    {
+      "titulo": "Celular Seguro tem média de mais de 10,8 mil consultas de IMEI por dia",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/celular-seguro-tem-media-de-mais-de-108-mil-consultas-de-imei-por-dia/",
+      "data": "2026-11-25T22:00:00+00:00"
+    },
+    {
+      "titulo": "Esquenta Black: Galaxy Tab S11 para jogos sai por menos de R$ 5.000",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s11-para-jogos-sai-por-menos-de-r-5-000/",
+      "data": "2026-11-25T21:22:07+00:00"
+    },
+    {
+      "titulo": "Atriz revela como é o acordo de sigilo extremo da Rockstar para GTA 6",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/atriz-revela-como-e-o-acordo-de-sigilo-extremo-da-rockstar-para-gta-6/",
+      "data": "2026-11-25T21:18:00+00:00"
+    },
+    {
+      "titulo": "Exoprimal, o Dino Crisis futurista da Capcom, será oficialmente encerrado em 2027",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/exoprimal-o-dino-crisis-futurista-da-capcom-sera-oficialmente-encerrado-em-2027/",
+      "data": "2026-11-25T21:15:00+00:00"
+    },
+    {
+      "titulo": "Cupom Xiaomi |72% off - Novembro 2026",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-xiaomi/",
+      "data": "2026-11-25T21:12:00+00:00"
+    },
+    {
+      "titulo": "Black 2026: Huawei Watch Fit 5 Pro tem preço inédito em promoção relâmpago",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/black-2026-huawei-watch-fit-5-pro-tem-preco-inedito-em-promocao-relampago/",
+      "data": "2026-11-25T21:05:07+00:00"
+    },
+    {
+      "titulo": "Motorola Signature (2025): até quanto vale a pena pagar na Black Friday?",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/motorola-signature-2025-ate-quanto-vale-a-pena-pagar-na-black-friday/",
+      "data": "2026-11-25T21:00:00+00:00"
+    },
+    {
+      "titulo": "Black Friday: Amazon e Apple estão entre as marcas mais usadas em golpes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/seguranca/black-friday-amazon-e-apple-estao-entre-as-marcas-mais-usadas-em-golpes/",
+      "data": "2026-11-25T21:00:00+00:00"
+    },
+    {
+      "titulo": "Galaxy Tab S10 Lite fica abaixo de R$ 2 mil antes da Black Friday na Amazon",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-fica-abaixo-de-r-2-mil-antes-da-black-friday-na-amazon/",
+      "data": "2026-11-25T20:58:40+00:00"
+    },
+    {
+      "titulo": "Aproveite: TV LG Mini LED 50″ cai 33% em até 12x na Black Week",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/aproveite-tv-lg-mini-led-50-cai-33-em-ate-12x-na-black-week/",
+      "data": "2026-11-25T20:41:44+00:00"
+    },
+    {
+      "titulo": "Melhor Soundbar JBL: 6 modelos para comprar em 2026",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-soundbar-jbl/",
+      "data": "2026-11-25T20:39:40+00:00"
+    },
+    {
+      "titulo": "Brasil desenvolve recursos de saúde para Samsung Health e Galaxy Watch",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/apps/brasil-desenvolve-recursos-de-saude-para-samsung-health-e-galaxy-watch/",
+      "data": "2026-11-25T20:34:27+00:00"
+    },
+    {
+      "titulo": "Starlink ganha aval para lançar 1 milhão de satélites; internet mais rápida?",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/telecom/starlink-ganha-aval-para-lancar-1-milhao-de-satelites-internet-mais-rapida/",
+      "data": "2026-11-25T20:33:34+00:00"
+    },
+    {
+      "titulo": "Bancos dos EUA criam “botão de emergência” contra agentes de IA",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/bancos-dos-eua-implementam-botao-de-emergencia-contra-agentes-de-ia/",
+      "data": "2026-11-25T20:08:56+00:00"
+    },
+    {
+      "titulo": "Chevrolet derrete preços da S10 e picape fica mais em conta que Toyota Hilux",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/chevrolet-derrete-precos-da-s10-e-picape-fica-mais-em-conta-que-toyota-hilux/",
+      "data": "2026-11-25T20:00:00+00:00"
     },
     {
       "titulo": "Anatel encontra loja suspeita de interferir no GPS de aviões em Guarulhos",
@@ -14,106 +146,16 @@
       "data": "2026-11-25T19:30:17+00:00"
     },
     {
-      "titulo": "Black Friday: golpe imita Mercado Livre para roubar dados e senhas do cartão",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/black-friday-golpe-imita-mercado-livre-para-roubar-dados-e-senhas-do-cartao/",
-      "data": "2026-11-25T19:30:00+00:00"
-    },
-    {
-      "titulo": "Magalu derruba preço do volante Logitech G29 com 35% OFF no PIX",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/magalu-derruba-preco-do-volante-logitech-g29-com-35-off-no-pix/",
-      "data": "2026-11-25T19:19:50+00:00"
-    },
-    {
-      "titulo": "Brasileiro faz história no XBOX e é o primeiro do mundo a chegar a 10 milhões de Gamerscore",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/brasileiro-faz-historia-no-xbox-e-e-o-primeiro-do-mundo-a-chegar-a-10-milhoes-de-gamerscore/",
-      "data": "2026-11-25T19:16:00+00:00"
-    },
-    {
       "titulo": "Quase 20% das empresas japonesas planejam reduzir contratações de jovens devido ao avanço da IA",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/empresas-japonesas-planejam-reduzir-contratacoes-de-jovens-devido-a-ia/",
       "data": "2026-11-25T19:15:30+00:00"
     },
     {
-      "titulo": "Drogas com embalagens de GTA 6 são apreendidas no Brasil",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/drogas-com-embalagens-de-gta-6-sao-apreendidas-no-distrito-federal/",
-      "data": "2026-11-25T19:15:00+00:00"
-    },
-    {
-      "titulo": "Black Friday: Galaxy A57 e Watch9 juntos por menos que um Galaxy S25 FE",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/smartphone/black-friday-galaxy-a57-e-watch9-juntos-por-menos-que-um-galaxy-s25-fe/",
-      "data": "2026-11-25T19:13:16+00:00"
-    },
-    {
-      "titulo": "Black Week: Nintendo Switch 2 tem uma das melhores ofertas até hoje na Amazon",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/black-week-nintendo-switch-2-tem-uma-das-melhores-ofertas-ate-hoje-na-amazon/",
-      "data": "2026-11-25T19:03:24+00:00"
-    },
-    {
-      "titulo": "Novo Gemini no Google Mensagens avisa sobre entregas e promoções que te interessam",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/apps/novo-gemini-no-google-mensagens-avisa-sobre-entregas-e-promocoes-que-te-interessam/",
-      "data": "2026-11-25T19:01:00+00:00"
-    },
-    {
-      "titulo": "iPhone Duo: o dobrável da Apple brilha no acabamento, mas frustra no uso diário",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-duo-o-dobravel-da-apple-brilha-no-acabamento-mas-frustra-no-uso-diario/",
-      "data": "2026-11-25T19:00:00+00:00"
-    },
-    {
-      "titulo": "Quanto vale à pena pagar no Xbox Series S na Black Friday 2026?",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/black-friday-2026-quanto-vale-a-pena-pagar-xbox-series-s/",
-      "data": "2026-11-25T18:45:00+00:00"
-    },
-    {
       "titulo": "Jensen Huang diz que Nvidia não precisa de plano de sucessão após retorno ao cargo",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/jensen-huang-diz-que-nvidia-nao-precisa-de-plano-de-sucessao/",
       "data": "2026-11-25T18:35:42+00:00"
-    },
-    {
-      "titulo": "One UI 9.5 vai ganhar recurso de IA que melhora fotos com zoom no celular",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/software/one-ui-95-vai-ganhar-recurso-de-ia-que-melhora-fotos-com-zoom-no-celular/",
-      "data": "2026-11-25T18:20:03+00:00"
-    },
-    {
-      "titulo": "The Witcher 4 terá salto geracional parecido com o de GTA 5 para GTA 6, confirma CD Projekt RED",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/the-witcher-4-tera-salto-geracional-parecido-com-o-de-gta-5-para-gta-6-confirma-cd-projekt-red/",
-      "data": "2026-11-25T18:15:00+00:00"
-    },
-    {
-      "titulo": "IA vai ajudar público a encontrar promoções na Tec Friday do Estadão",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/ia-vai-ajudar-publico-a-encontrar-melhores-precos-e-promocoes-na-tec-friday-do-estadao/",
-      "data": "2026-11-25T18:13:00+00:00"
-    },
-    {
-      "titulo": "Após sucesso de Tremembé, Amazon amplia aposta em true crime no Brasil",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/entretenimento/apos-sucesso-de-tremembe-amazon-amplia-aposta-em-true-crime-no-brasil/",
-      "data": "2026-11-25T18:01:00+00:00"
-    },
-    {
-      "titulo": "Empresas ligadas a Alice Huang ajudaram a financiar a indústria de IA chinesa, diz investigação",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/empresas-ligadas-a-alice-huang-ajudaram-a-financiar-a-industria-de-ia-chinesa-diz-investigacao/",
-      "data": "2026-11-25T18:00:00+00:00"
-    },
-    {
-      "titulo": "IA cria arquitetura de CPU quase 4,6 vezes mais eficiente",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/ia-cria-arquitetura-de-cpu-quase-46-vezes-mais-eficiente/",
-      "data": "2026-11-25T17:49:42+00:00"
     },
     {
       "titulo": "Nova York proíbe brinquedos com IA que conversam com crianças após testes preocupantes",
@@ -138,48 +180,6 @@
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/dell/notebook-compacto-na-black-friday-quando-a-mobilidade-deve-pesar-mais-que-a-ficha-tecnica/",
       "data": "2026-11-25T17:15:36+00:00"
-    },
-    {
-      "titulo": "Black Friday Samsung tem celulares, TVs e mais com até 60% off",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-samsung-tem-celulares-tvs-e-mais-com-ate-60-off/",
-      "data": "2026-11-25T17:05:00+00:00"
-    },
-    {
-      "titulo": "Austrália aprova lei que obriga big techs a remover ‘conteúdos prejudiciais’",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/australia-aprova-lei-que-obriga-big-techs-a-remover-conteudos-prejudiciais/",
-      "data": "2026-11-25T17:00:00+00:00"
-    },
-    {
-      "titulo": "Tim Sweeney chama Claude de “lixo” após IA bloquear seu trabalho",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/tim-sweeney-claude-lixo/",
-      "data": "2026-11-25T16:50:40+00:00"
-    },
-    {
-      "titulo": "GTA 6 é mais estável no Xbox que no PlayStation",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/gta-6-e-mais-estavel-no-xbox-series-x-que-no-ps5/",
-      "data": "2026-11-25T16:50:33+00:00"
-    },
-    {
-      "titulo": "Home office: o que procurar em um notebook para trabalhar com conforto?",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/dell/home-office-o-que-procurar-em-um-notebook-para-trabalhar-com-conforto/",
-      "data": "2026-11-25T16:50:27+00:00"
-    },
-    {
-      "titulo": "Melhor mouse gamer em 2026: 10 modelos ideais para jogos",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/guias/melhor-mouse-gamer/",
-      "data": "2026-11-25T16:38:57+00:00"
-    },
-    {
-      "titulo": "É oficial: WhatsApp agora permite agendar mensagens",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/e-oficial-whatsapp-agora-permite-agendar-mensagens/",
-      "data": "2026-11-25T15:58:55+00:00"
     }
   ]
 }
