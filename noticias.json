@@ -1,6 +1,78 @@
 {
-  "atualizado_em": "2026-11-27T21:42:18.154665+00:00",
+  "atualizado_em": "2026-11-28T03:36:55.387633+00:00",
   "noticias": [
+    {
+      "titulo": "Tem só 8 episódios: série sci-fi da Netflix é pedida certa para o fim de semana",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/tem-so-8-episodios-serie-sci-fi-da-netflix-e-pedida-certa-para-o-fim-de-semana/",
+      "data": "2026-11-28T00:01:00+00:00"
+    },
+    {
+      "titulo": "Intel Razor Lake-AX pode chegar em 2028 com até 52 núcleos e 192 GB de RAM",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/hardware/intel-razor-lake-ax-pode-chegar-em-2028-com-ate-52-nucleos-e-192-gb-de-ram/",
+      "data": "2026-11-27T23:04:00+00:00"
+    },
+    {
+      "titulo": "Smart TV TCL 65C7L aparece mais barata em até 12x sem juros na Black Friday",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/smart-tv-tcl-65c7l-aparece-mais-barata-em-ate-12x-sem-juros-na-black-friday/",
+      "data": "2026-11-27T22:38:55+00:00"
+    },
+    {
+      "titulo": "Metroid Dread e mais jogos para Switch com até 90% OFF na Black Friday da eShop",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/metroid-dread-e-mais-jogos-para-switch-com-ate-90-off-na-black-friday-da-eshop/",
+      "data": "2026-11-27T22:30:00+00:00"
+    },
+    {
+      "titulo": "DLC grátis de Silksong sai um dia após o The Game Awards; veja detalhes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/games/dlc-gratis-de-silksong-sai-um-dia-apos-o-the-game-awards-veja-detalhes/",
+      "data": "2026-11-27T22:30:00+00:00"
+    },
+    {
+      "titulo": "Nova série dos criadores de DARK transforma contos infantis macabros em crimes",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/entretenimento/nova-serie-dos-criadores-de-dark-transforma-contos-infantis-macabros-em-crimes/",
+      "data": "2026-11-27T22:19:00+00:00"
+    },
+    {
+      "titulo": "Melhor headset gamer em 2026: 6 modelos para comprar",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/guias/melhor-headset-gamer/",
+      "data": "2026-11-27T22:03:11+00:00"
+    },
+    {
+      "titulo": "Blindar carro elétrico é uma boa ideia? Entenda",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/blindar-carro-eletrico-e-uma-boa-ideia-entenda/",
+      "data": "2026-11-27T22:01:00+00:00"
+    },
+    {
+      "titulo": "X ganha controle parental pela primeira vez; saiba como funciona",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/x-ganha-controle-parental-pela-primeira-vez-saiba-como-funciona/",
+      "data": "2026-11-27T22:00:00+00:00"
+    },
+    {
+      "titulo": "Tem vontade de trabalhar em big techs? Veja vagas de emprego disponíveis no Brasil",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/tem-vontade-de-trabalhar-em-big-techs-veja-vagas-de-emprego-disponiveis-no-brasil/",
+      "data": "2026-11-27T22:00:00+00:00"
+    },
+    {
+      "titulo": "Como jogar GTA 6 no celular",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-jogar-gta-6-no-celular/",
+      "data": "2026-11-27T21:47:00+00:00"
+    },
+    {
+      "titulo": "Histórico: Huawei Watch Fit 5 Pro atinge 58% OFF na Black e é destaque da marca",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/achados/historico-huawei-watch-fit-5-pro-atinge-58-off-na-black-e-e-destaque-da-marca/",
+      "data": "2026-11-27T21:37:41+00:00"
+    },
     {
       "titulo": "Teaser de Vingadores: Doutor Destino revela nome do suposto filho do vilão",
       "fonte": "Canaltech",
@@ -32,12 +104,6 @@
       "data": "2026-11-27T21:05:57+00:00"
     },
     {
-      "titulo": "Google exigirá que desenvolvedores comerciais da Play Store exibam seus endereços",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/google-exigira-que-desenvolvedores-comerciais-da-play-store-exibam-seus-enderecos/",
-      "data": "2026-11-27T21:00:00+00:00"
-    },
-    {
       "titulo": "O que é MCP? Saiba para que serve o padrão de inteligência artificial",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/responde/o-que-e-mcp-saiba-para-que-serve-o-padrao-de-inteligencia-artificial/",
@@ -50,40 +116,16 @@
       "data": "2026-11-27T20:34:00+00:00"
     },
     {
-      "titulo": "Onda de Xbox Series X e S travados após jogar GTA 6 preocupa assistências",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/onda-de-xbox-series-x-e-s-travados-apos-jogar-gta-6-preocupa-assistencias/",
-      "data": "2026-11-27T20:17:00+00:00"
-    },
-    {
-      "titulo": "Preço histórico: Controle Nintendo Switch Pro cai 54% no Mercado Livre",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/preco-historico-controle-nintendo-switch-pro-cai-54-no-mercado-livre/",
-      "data": "2026-11-27T20:10:46+00:00"
-    },
-    {
-      "titulo": "Para jogar GTA 6: Controle DualSense Preto de PS5 por R$ 270 no PIX",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/games/para-jogar-gta-6-controle-dualsense-preto-de-ps5-por-r-270-no-pix/",
-      "data": "2026-11-27T20:05:51+00:00"
-    },
-    {
-      "titulo": "Google prepara novidades para o Modo IA ficar mais parecido com o Gemini",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/internet-e-redes-sociais/google-prepara-novidades-para-o-modo-ia-ficar-mais-parecido-com-o-gemini/",
-      "data": "2026-11-27T20:02:00+00:00"
-    },
-    {
       "titulo": "Linux Mint 27 está a caminho e estas são as novidades",
       "fonte": "Tecnoblog",
       "link": "https://tecnoblog.net/noticias/linux-mint-27-esta-a-caminho-e-estas-sao-as-novidades/",
       "data": "2026-11-27T20:01:15+00:00"
     },
     {
-      "titulo": "Telescópio flagra o “último suspiro” de estrela como o Sol e intriga astrônomos",
-      "fonte": "Canaltech",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/telescopio-flagra-o-ultimo-suspiro-de-estrela-como-o-sol-e-intriga-astronomos/",
-      "data": "2026-11-27T20:00:09+00:00"
+      "titulo": "iPhone 20 pode ganhar edição limitada de cerâmica",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/iphone-20-pode-ganhar-edicao-limitada-de-ceramica/",
+      "data": "2026-11-27T20:00:00+00:00"
     },
     {
       "titulo": "IA conseguia se comunicar secretamente com outros modelos usando apenas dados da GPU",
@@ -110,28 +152,10 @@
       "data": "2026-11-27T19:36:27+00:00"
     },
     {
-      "titulo": "Galaxy Buds 4 Pro tem derrubada de preço na Black 2026 em até 10x sem juros",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-4-pro-tem-derrubada-de-preco-na-black-2026-em-ate-10x-sem-juros/",
-      "data": "2026-11-27T19:30:16+00:00"
-    },
-    {
-      "titulo": "Black 2026: Garmin Forerunner 165 chega a 47% OFF histórico para maratonistas",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/black-2026-garmin-forerunner-165-chega-a-47-off-historico-para-maratonistas/",
-      "data": "2026-11-27T18:41:59+00:00"
-    },
-    {
       "titulo": "Aplicativo da Gigabyte estaria causando problemas de stuttering em GPUs da NVIDIA",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/aplicativo-da-gigabyte-estaria-causando-problemas-de-stuttering/",
       "data": "2026-11-27T18:31:06+00:00"
-    },
-    {
-      "titulo": "De Campinas para o mundo: Samsung abre as portas do laboratório de saúde",
-      "fonte": "Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/de-campinas-para-o-mundo-samsung-abre-as-portas-do-laboratorio-de-saude/",
-      "data": "2026-11-27T18:29:23+00:00"
     },
     {
       "titulo": "Black Friday: Pilhas Duracell AA com 24 unidades ficam 20% mais baratas na Amazon",
@@ -146,40 +170,16 @@
       "data": "2026-11-27T17:20:44+00:00"
     },
     {
+      "titulo": "Samsung está desenvolvendo nuvem privada para recursos do Galaxy AI",
+      "fonte": "TecMundo",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-esta-desenvolvendo-nuvem-privada-para-recursos-do-galaxy-ai/",
+      "data": "2026-11-27T17:00:00+00:00"
+    },
+    {
       "titulo": "Apple amplia domínio nos EUA enquanto crise das memórias castiga fabricantes Android",
       "fonte": "Hardware.com.br",
       "link": "https://www.hardware.com.br/tecnologia/apple-amplia-dominio-nos-eua/",
       "data": "2026-11-27T16:45:14+00:00"
-    },
-    {
-      "titulo": "DualSense de Gran Turismo: garanta a edição limitada com desconto na Amazon",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/artigos/dualsense-de-gran-turismo-amazon/",
-      "data": "2026-11-27T16:12:11+00:00"
-    },
-    {
-      "titulo": "Black Friday traz Acer Aspire 15 Go com 31% de desconto: Intel Core i7, 16GB de RAM e 512GB de armazenamento SSD",
-      "fonte": "Hardware.com.br",
-      "link": "https://www.hardware.com.br/hardware-indica/acer-aspire-15-go-com-r1-600-off-intel-core-i7-16gb-de-ram-e-512gb-de-armazenamento-ssd/",
-      "data": "2026-11-27T16:00:17+00:00"
-    },
-    {
-      "titulo": "Cupom Xiaomi Black Friday |72% off - Novembro 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-xiaomi/",
-      "data": "2026-11-25T21:12:00+00:00"
-    },
-    {
-      "titulo": "Cupom Philco | 50% de desconto - Novembro 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/cupom-philco/",
-      "data": "2026-11-19T21:07:00+00:00"
-    },
-    {
-      "titulo": "Código Promocional Lufthansa Black Friday | Até 50% de desconto - Novembro 2026",
-      "fonte": "TecMundo",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/cupons/codigo-promocional-lufthansa/",
-      "data": "2026-11-13T17:49:00+00:00"
     }
   ]
 }
